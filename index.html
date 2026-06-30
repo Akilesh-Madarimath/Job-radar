@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Akilesh's Job Radar</title>
+<style>
+  :root {
+    --bg: #0F1417;
+    --panel: #161D22;
+    --panel-2: #1C252B;
+    --border: #2A3439;
+    --text: #E8ECEE;
+    --text-dim: #8B98A0;
+    --text-faint: #5C6A71;
+    --signal-high: #4ADE80;
+    --signal-high-bg: rgba(74, 222, 128, 0.12);
+    --signal-med: #FBBF24;
+    --signal-med-bg: rgba(251, 191, 36, 0.12);
+    --signal-stretch: #F87171;
+    --signal-stretch-bg: rgba(248, 113, 113, 0.12);
+    --accent: #5EEAD4;
+    --accent-dim: rgba(94, 234, 212, 0.15);
+    --mono: 'IBM Plex Mono', 'SF Mono', Consolas, monospace;
+    --sans: 'Inter', -apple-system, 'Segoe UI', sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    margin: 0;
+    padding: 24px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  .wrap { max-width: 1100px; margin: 0 auto; }
+
+  /* ===== Header ===== */
+  .masthead {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border);
+  }
+  .masthead h1 {
+    font-size: 19px;
+    font-weight: 700;
+    margin: 0;
+    letter-spacing: -0.01em;
+  }
+  .masthead .sub {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text-faint);
+  }
+  .masthead-right {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text-dim);
+    text-align: right;
+  }
+
+  /* ===== Alert panel ===== */
+  .alert-panel {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px 20px;
+    margin-bottom: 20px;
+  }
+  .alert-row {
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .alert-stat {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .alert-stat .num {
+    font-family: var(--mono);
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--accent);
+    line-height: 1;
+  }
+  .alert-stat .num.streak { color: var(--signal-med); }
+  .alert-stat .label {
+    font-size: 11px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .divider { width: 1px; height: 32px; background: var(--border); }
+  .streak-flames { font-size: 13px; margin-top: 2px; }
+  .checkin-msg {
+    margin-left: auto;
+    font-size: 12px;
+    color: var(--text-dim);
+    font-style: italic;
+  }
+
+  /* ===== Filters ===== */
+  .filters {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 18px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .filter-group { display: flex; gap: 6px; flex-wrap: wrap; }
+  .filter-label {
+    font-size: 11px;
+    color: var(--text-faint);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-right: 4px;
+    align-self: center;
+  }
+  select, .pill-btn {
+    background: var(--panel-2);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 12px;
+    padding: 6px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  .pill-btn.active {
+    background: var(--accent-dim);
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  select { padding-right: 8px; }
+
+  /* ===== Category sections ===== */
+  .cat-section { margin-bottom: 28px; }
+  .cat-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+  }
+  .cat-dot {
+    width: 9px; height: 9px; border-radius: 50%;
+  }
+  .cat-dot.High { background: var(--signal-high); }
+  .cat-dot.Medium { background: var(--signal-med); }
+  .cat-dot.Stretch { background: var(--signal-stretch); }
+  .cat-title { font-size: 14px; font-weight: 600; }
+  .cat-count {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text-faint);
+    background: var(--panel-2);
+    padding: 2px 8px;
+    border-radius: 10px;
+  }
+
+  /* ===== Job cards ===== */
+  .job-card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 18px;
+    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: 56px 1fr auto;
+    gap: 16px;
+    align-items: start;
+    transition: border-color 0.15s;
+  }
+  .job-card:hover { border-color: #3A4750; }
+
+  .fit-score {
+    font-family: var(--mono);
+    font-weight: 700;
+    font-size: 20px;
+    width: 56px;
+    height: 56px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .fit-score.High { background: var(--signal-high-bg); color: var(--signal-high); }
+  .fit-score.Medium { background: var(--signal-med-bg); color: var(--signal-med); }
+  .fit-score.Stretch { background: var(--signal-stretch-bg); color: var(--signal-stretch); }
+  .fit-score .of100 { font-size: 9px; font-weight: 400; opacity: 0.7; }
+
+  .job-main h3 {
+    margin: 0 0 4px 0;
+    font-size: 15px;
+    font-weight: 600;
+  }
+  .job-meta {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    font-size: 12px;
+    color: var(--text-dim);
+    margin-bottom: 8px;
+  }
+  .job-meta span { display: flex; align-items: center; gap: 4px; }
+  .job-badges { display: flex; gap: 6px; margin-bottom: 8px; flex-wrap: wrap; }
+  .badge {
+    font-family: var(--mono);
+    font-size: 10px;
+    padding: 2px 7px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  .badge.new { background: var(--accent-dim); color: var(--accent); }
+  .badge.hot { background: rgba(248, 113, 113, 0.15); color: #FCA5A5; }
+  .badge.closing { background: rgba(251, 191, 36, 0.15); color: var(--signal-med); }
+  .badge.source { background: var(--panel-2); color: var(--text-faint); border: 1px solid var(--border); }
+  .job-reasoning {
+    font-size: 12.5px;
+    color: var(--text-dim);
+    line-height: 1.5;
+    margin: 0 0 8px 0;
+  }
+  .job-skills {
+    font-size: 11.5px;
+    color: var(--text-faint);
+    font-family: var(--mono);
+  }
+  .job-resume-tag {
+    font-size: 11px;
+    color: var(--accent);
+    margin-top: 6px;
+  }
+
+  .job-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: stretch;
+    min-width: 120px;
+  }
+  .apply-btn {
+    background: var(--accent);
+    color: #0F1417;
+    border: none;
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 12.5px;
+    padding: 8px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+  }
+  .apply-btn:hover { opacity: 0.88; }
+  .track-btn {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-dim);
+    font-family: var(--sans);
+    font-size: 11.5px;
+    padding: 7px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  .track-btn.tracked {
+    border-color: var(--signal-high);
+    color: var(--signal-high);
+  }
+
+  .hidden { display: none !important; }
+
+  .empty-state {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--text-faint);
+    font-size: 13px;
+  }
+
+  footer {
+    margin-top: 32px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+    font-size: 11px;
+    color: var(--text-faint);
+    line-height: 1.6;
+  }
+
+  @media (max-width: 640px) {
+    .job-card { grid-template-columns: 1fr; }
+    .fit-score { width: 48px; height: 48px; }
+    .job-actions { flex-direction: row; min-width: 0; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="masthead">
+    <div>
+      <h1>Job Radar — Akilesh Madarimath</h1>
+      <div class="sub">AI/ML Engineer · Data Scientist (Fresher, 2025) · Bengaluru</div>
+    </div>
+    <div class="masthead-right" id="lastUpdated">Loading...</div>
+  </div>
+
+  <div class="alert-panel">
+    <div class="alert-row">
+      <div class="alert-stat">
+        <div class="num" id="newCount">—</div>
+        <div class="label">New since last visit</div>
+      </div>
+      <div class="divider"></div>
+      <div class="alert-stat">
+        <div class="num streak" id="streakCount">—</div>
+        <div class="label">Day check-in streak</div>
+        <div class="streak-flames" id="streakFlames"></div>
+      </div>
+      <div class="divider"></div>
+      <div class="alert-stat">
+        <div class="num" id="totalCount">—</div>
+        <div class="label">Total tracked roles</div>
+      </div>
+      <div class="divider"></div>
+      <div class="alert-stat">
+        <div class="num" id="appliedCount">—</div>
+        <div class="label">Marked applied</div>
+      </div>
+      <div class="checkin-msg" id="checkinMsg"></div>
+    </div>
+  </div>
+
+  <div class="filters">
+    <span class="filter-label">Company type</span>
+    <div class="filter-group" id="companyTypeFilters"></div>
+  </div>
+  <div class="filters">
+    <span class="filter-label">Location</span>
+    <div class="filter-group" id="locationFilters"></div>
+    <span class="filter-label" style="margin-left:12px;">Source</span>
+    <div class="filter-group" id="sourceFilters"></div>
+  </div>
+
+  <div id="sections"></div>
+  <div class="empty-state hidden" id="emptyState">No roles match these filters. Try clearing one.</div>
+
+  <footer>
+    25 of these roles were scraped via Apify (LinkedIn Jobs Scraper + Naukri Job Scraper) on 29 Jun 2026.
+    5 newer roles (IDs 101-105, Wellfound) were added on 30 Jun 2026 via direct web search/fetch after the Apify connection
+    was unavailable in that session — same verification standard (real URLs, fetched live), different tool.
+    Fit scores are Claude's estimate based on resume-skills overlap, experience band, and location — not a guarantee of interview or offer.
+    Some listings carry old posting dates from source sites and may be evergreen/rolling postings — verify on the source page before applying.
+    This file is static: it does not auto-update. Re-open this same file to keep your streak counting; ask Claude to refresh it again for new listings.
+    "New since last visit" and streak data are stored locally to this artifact and reset if you clear browser data.
+  </footer>
+
+</div>
+
+<script>
+let JOBS = [];
+
+const JOBS_DATA_URL = "./jobs.json";
+
+async function loadJobsFromSource() {
+  try {
+    const resp = await fetch(JOBS_DATA_URL, { cache: "no-store" });
+    if (!resp.ok) throw new Error("HTTP " + resp.status);
+    const data = await resp.json();
+    JOBS = data.jobs || [];
+    document.getElementById('lastUpdated').textContent =
+      'Live data — refreshed: ' + new Date(data.lastUpdated).toLocaleString();
+  } catch (e) {
+    console.error("Failed to load live jobs.json:", e);
+    document.getElementById('lastUpdated').textContent =
+      '⚠ Could not load live data (' + e.message + '). Showing nothing — check JOBS_DATA_URL or your connection.';
+    JOBS = [];
+  }
+}
+
+const STORAGE_KEY_SEEN = 'job_radar_seen_ids';
+const STORAGE_KEY_STREAK = 'job_radar_streak';
+const STORAGE_KEY_APPLIED = 'job_radar_applied';
+const STORAGE_KEY_TRACKED = 'job_radar_tracked';
+
+let state = {
+  seenIds: [],
+  streak: { count: 0, lastVisit: null },
+  applied: [],
+  tracked: [],
+  activeFilters: { companyType: 'All', location: 'All', source: 'All' }
+};
+
+async function loadState() {
+  try {
+    const seen = await window.storage.get(STORAGE_KEY_SEEN);
+    state.seenIds = seen ? JSON.parse(seen.value) : [];
+  } catch(e) { state.seenIds = []; }
+
+  try {
+    const streak = await window.storage.get(STORAGE_KEY_STREAK);
+    state.streak = streak ? JSON.parse(streak.value) : { count: 0, lastVisit: null };
+  } catch(e) { state.streak = { count: 0, lastVisit: null }; }
+
+  try {
+    const applied = await window.storage.get(STORAGE_KEY_APPLIED);
+    state.applied = applied ? JSON.parse(applied.value) : [];
+  } catch(e) { state.applied = []; }
+
+  try {
+    const tracked = await window.storage.get(STORAGE_KEY_TRACKED);
+    state.tracked = tracked ? JSON.parse(tracked.value) : [];
+  } catch(e) { state.tracked = []; }
+}
+
+function todayStr() {
+  return new Date().toISOString().slice(0, 10);
+}
+
+function daysBetween(a, b) {
+  return Math.round((new Date(b) - new Date(a)) / 86400000);
+}
+
+async function updateStreak() {
+  const today = todayStr();
+  const last = state.streak.lastVisit;
+  let msg = '';
+
+  if (!last) {
+    state.streak.count = 1;
+    msg = "First check-in logged. Come back tomorrow to start a streak.";
+  } else if (last === today) {
+    msg = "Already checked in today.";
+  } else {
+    const gap = daysBetween(last, today);
+    if (gap === 1) {
+      state.streak.count += 1;
+      msg = `Streak extended to ${state.streak.count} day${state.streak.count > 1 ? 's' : ''}.`;
+    } else {
+      state.streak.count = 1;
+      msg = "Streak reset — back at day 1. Daily check-ins compound your search.";
+    }
+  }
+  state.streak.lastVisit = today;
+  try { await window.storage.set(STORAGE_KEY_STREAK, JSON.stringify(state.streak)); } catch(e) {}
+  document.getElementById('checkinMsg').textContent = msg;
+}
+
+async function computeNewSince() {
+  const allIds = JOBS.map(j => j.id);
+  const newIds = allIds.filter(id => !state.seenIds.includes(id));
+  document.getElementById('newCount').textContent = state.seenIds.length === 0 ? allIds.length : newIds.length;
+  // mark all as seen now
+  state.seenIds = Array.from(new Set([...state.seenIds, ...allIds]));
+  try { await window.storage.set(STORAGE_KEY_SEEN, JSON.stringify(state.seenIds)); } catch(e) {}
+  return new Set(newIds);
+}
+
+function isHot(job) {
+  // "Hot" = high fit score + posted very recently
+  if (job.fitScore < 80) return false;
+  const posted = job.posted;
+  if (!posted || posted === 'Recent') return job.fitScore >= 84;
+  const d = daysBetween(posted, '2026-06-29');
+  return d <= 5;
+}
+
+function isClosingSoon(job) {
+  // Heuristic: postings older than 60 days are flagged as possibly closing/stale
+  if (!job.posted || job.posted === 'Recent') return false;
+  const d = daysBetween(job.posted, '2026-06-29');
+  return d > 180;
+}
+
+function uniqueValues(key) {
+  return Array.from(new Set(JOBS.map(j => j[key]))).sort();
+}
+
+function renderFilters() {
+  const ctWrap = document.getElementById('companyTypeFilters');
+  const locWrap = document.getElementById('locationFilters');
+  const srcWrap = document.getElementById('sourceFilters');
+
+  const companyTypes = ['All', ...uniqueValues('companyType')];
+  const sources = ['All', ...uniqueValues('source')];
+  const locBuckets = ['All', 'Bengaluru-only', 'Multi-city'];
+
+  ctWrap.innerHTML = companyTypes.map(ct =>
+    `<button class="pill-btn ${ct==='All'?'active':''}" data-filter="companyType" data-value="${ct}">${ct}</button>`
+  ).join('');
+
+  locWrap.innerHTML = locBuckets.map(l =>
+    `<button class="pill-btn ${l==='All'?'active':''}" data-filter="location" data-value="${l}">${l}</button>`
+  ).join('');
+
+  srcWrap.innerHTML = sources.map(s =>
+    `<button class="pill-btn ${s==='All'?'active':''}" data-filter="source" data-value="${s}">${s}</button>`
+  ).join('');
+
+  document.querySelectorAll('.pill-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const group = btn.dataset.filter;
+      document.querySelectorAll(`.pill-btn[data-filter="${group}"]`).forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      state.activeFilters[group] = btn.dataset.value;
+      renderJobs();
+    });
+  });
+}
+
+function matchesFilters(job) {
+  const f = state.activeFilters;
+  if (f.companyType !== 'All' && job.companyType !== f.companyType) return false;
+  if (f.source !== 'All' && job.source !== f.source) return false;
+  if (f.location === 'Bengaluru-only' && job.location.includes('/')) return false;
+  if (f.location === 'Multi-city' && !job.location.includes('/')) return false;
+  return true;
+}
+
+async function toggleApplied(jobId, btn) {
+  const idx = state.applied.indexOf(jobId);
+  if (idx === -1) {
+    state.applied.push(jobId);
+    btn.textContent = '✓ Applied';
+    btn.classList.add('tracked');
+  } else {
+    state.applied.splice(idx, 1);
+    btn.textContent = 'Mark applied';
+    btn.classList.remove('tracked');
+  }
+  try { await window.storage.set(STORAGE_KEY_APPLIED, JSON.stringify(state.applied)); } catch(e) {}
+  document.getElementById('appliedCount').textContent = state.applied.length;
+}
+
+function jobCard(job, newIds) {
+  const isNew = newIds.has(job.id);
+  const hot = isHot(job);
+  const closing = isClosingSoon(job);
+  const applied = state.applied.includes(job.id);
+
+  return `
+    <div class="job-card" data-id="${job.id}">
+      <div class="fit-score ${job.category}">
+        ${job.fitScore}<span class="of100">/100</span>
+      </div>
+      <div class="job-main">
+        <h3>${job.title}</h3>
+        <div class="job-meta">
+          <span>🏢 ${job.company}</span>
+          <span>📍 ${job.location}</span>
+          <span>📅 ${job.experience}</span>
+          <span>💰 ${job.salary}</span>
+        </div>
+        <div class="job-badges">
+          ${isNew ? '<span class="badge new">New</span>' : ''}
+          ${hot ? '<span class="badge hot">🔥 Hot match</span>' : ''}
+          ${closing ? '<span class="badge closing">⏳ Verify still open</span>' : ''}
+          <span class="badge source">${job.source}</span>
+        </div>
+        <p class="job-reasoning">${job.reasoning}</p>
+        <div class="job-skills">${job.skills}</div>
+        <div class="job-resume-tag">→ Use resume: ${job.bestResume}</div>
+      </div>
+      <div class="job-actions">
+        <a class="apply-btn" href="${job.url}" target="_blank" rel="noopener">View &amp; Apply →</a>
+        <button class="track-btn ${applied ? 'tracked' : ''}" onclick="toggleApplied(${job.id}, this)">
+          ${applied ? '✓ Applied' : 'Mark applied'}
+        </button>
+      </div>
+    </div>
+  `;
+}
+
+function renderJobs() {
+  const newIds = window.__newIds || new Set();
+  const sections = document.getElementById('sections');
+  const order = [
+    { key: 'High', label: 'High Probability', sub: 'Fit score 80+' },
+    { key: 'Medium', label: 'Medium Probability', sub: 'Fit score 65–79' },
+    { key: 'Stretch', label: 'Stretch Roles', sub: 'Fit score 50–64' }
+  ];
+
+  let anyVisible = false;
+  sections.innerHTML = order.map(({key, label, sub}) => {
+    const jobsInCat = JOBS.filter(j => j.category === key && matchesFilters(j))
+                          .sort((a,b) => b.fitScore - a.fitScore);
+    if (jobsInCat.length === 0) return '';
+    anyVisible = true;
+    return `
+      <div class="cat-section">
+        <div class="cat-header">
+          <span class="cat-dot ${key}"></span>
+          <span class="cat-title">${label}</span>
+          <span class="cat-count">${sub} · ${jobsInCat.length} role${jobsInCat.length>1?'s':''}</span>
+        </div>
+        ${jobsInCat.map(j => jobCard(j, newIds)).join('')}
+      </div>
+    `;
+  }).join('');
+
+  document.getElementById('emptyState').classList.toggle('hidden', anyVisible);
+  document.getElementById('totalCount').textContent = JOBS.filter(matchesFilters).length;
+}
+
+async function init() {
+  await loadJobsFromSource();
+  await loadState();
+  await updateStreak();
+  const newIds = await computeNewSince();
+  window.__newIds = newIds;
+
+  document.getElementById('streakCount').textContent = state.streak.count;
+  document.getElementById('streakFlames').textContent = '🔥'.repeat(Math.min(state.streak.count, 7));
+  document.getElementById('appliedCount').textContent = state.applied.length;
+
+  renderFilters();
+  renderJobs();
+}
+
+init();
+</script>
+</body>
+</html>

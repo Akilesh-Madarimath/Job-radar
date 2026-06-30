@@ -1,0 +1,33 @@
+name: Daily Job Scrape
+
+on:
+  schedule:
+    # 6:00 AM IST = 00:30 UTC. Cron is always UTC.
+    - cron: '30 0 * * *'
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python job_radar_scraper_v2.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit updated jobs.json
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "bot@local"
+          git add jobs.json seen_jobs_state.json
+          git diff --quiet --cached || git commit -m "Daily job refresh $(date -u +%Y-%m-%d)"
+          git push
