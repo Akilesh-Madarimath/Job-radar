@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "IT Business Analyst (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/it-business-analyst-munich-49076",
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "fitScore": 80,
+      "category": "High",
+      "isNew": true,
+      "source": "Arbeitnow"
+    },
+    {
       "title": "Werkstudent:in Marketing – Events, Campaigns & Digital Content (m/w/d)",
       "company": "epilot GmbH",
       "location": "Köln",
@@ -83,79 +95,7 @@
       "category": "High",
       "isNew": true,
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Amazon Advertising Manager / Retail Media Manager (m/w/d)",
-      "company": "Klickkonzept by Cosmo5",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/klickkonzept-by-cosmo5/amazon-advertising-manager-retail-media-manager-frankfurt-am-main-321728",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "High",
-      "isNew": true,
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Social Media Advertising Manager / Paid Social Manager (m/w/d)",
-      "company": "Klickkonzept by Cosmo5",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/klickkonzept-by-cosmo5/social-media-advertising-manager-paid-social-manager-frankfurt-am-main-162508",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "High",
-      "isNew": true,
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Investment Analyst (m/w/d) im Bereich Kapitalmärkte",
-      "company": "DeltaValue GmbH",
-      "location": "Essen",
-      "url": "https://www.arbeitnow.com/jobs/companies/deltavalue-gmbh/investment-analyst-im-bereich-kapitalmarkte-essen-477457",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "High",
-      "isNew": true,
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "AI/LLM Engineer",
-      "company": "Worldwide Placement Limited",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/worldwide-placement-limited/ai-llm-engineer-munich-25428",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "High",
-      "isNew": true,
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Werkstudent:in im Bereich Data & Social Media",
-      "company": "Based",
-      "location": "Nuremberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/based/werkstudentin-im-bereich-data-social-media-nuremberg-168293",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "High",
-      "isNew": true,
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Werkstudent*in Produktmanagement mit Fokus auf Photovoltaik",
-      "company": "Memodo",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/memodo/werkstudentin-produktmanagement-mit-fokus-auf-photovoltaik-munich-20925",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "High",
-      "isNew": true,
-      "source": "Arbeitnow"
     }
   ],
-  "lastUpdated": "2026-07-03T18:06:06.370661+00:00"
+  "lastUpdated": "2026-07-03T18:49:21.753803+00:00"
 }
