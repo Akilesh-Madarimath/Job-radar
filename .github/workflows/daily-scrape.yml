@@ -20,9 +20,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run scraper
-        run: python job_radar_scraper_v2.py
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python job_radar_scraper.py
 
       - name: Commit updated jobs.json
         run: |
