@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "(Senior) Data & KI Architekt (m/w/d)",
+      "company": "TEQYARD",
+      "location": "Braunschweig",
+      "url": "https://www.arbeitnow.com/jobs/companies/teqyard/senior-data-ki-architekt-braunschweig-87569",
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "fitScore": 80,
+      "category": "High",
+      "isNew": true,
+      "source": "Arbeitnow"
+    },
+    {
       "title": "IT Business Analyst (m/w/d)",
       "company": "MY Humancapital GmbH",
       "location": "Munich",
@@ -59,43 +71,7 @@
       "category": "High",
       "isNew": true,
       "source": "Arbeitnow"
-    },
-    {
-      "title": "(Senior) AI Fullstack Developer (m/w/d)",
-      "company": "Distart Education GmbH",
-      "location": "Leipzig",
-      "url": "https://www.arbeitnow.com/jobs/companies/distart-education-gmbh/senior-ai-fullstack-developer-leipzig-114868",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "High",
-      "isNew": true,
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Senior Data Scientist (m/f/x)",
-      "company": "GRID eSports GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/grid-esports-gmbh/senior-data-scientist-berlin-287953",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "High",
-      "isNew": true,
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "(Senior) AI Fullstack Architect (m/w/d)",
-      "company": "Distart Education GmbH",
-      "location": "Leipzig",
-      "url": "https://www.arbeitnow.com/jobs/companies/distart-education-gmbh/senior-ai-fullstack-architect-leipzig-132361",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "High",
-      "isNew": true,
-      "source": "Arbeitnow"
     }
   ],
-  "lastUpdated": "2026-07-03T18:49:21.753803+00:00"
+  "lastUpdated": "2026-07-04T04:11:02.214431+00:00"
 }
