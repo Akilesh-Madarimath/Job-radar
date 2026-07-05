@@ -1,47 +1,25 @@
-import requests
 import json
 from datetime import datetime, timezone
 
-URL = "https://www.arbeitnow.com/api/job-board-api"
+from scrapers.merge_jobs import merge_jobs
+from scrapers.scorer import calculate_score
 
-response = requests.get(URL, timeout=30)
-response.raise_for_status()
+jobs = merge_jobs()
 
-data = response.json()
+for job in jobs:
+    job["matchScore"] = calculate_score(job)
 
-jobs = []
-
-keywords = [
-    "data",
-    "machine learning",
-    "ai",
-    "python",
-    "analytics",
-    "scientist",
-    "analyst"
-]
-
-for job in data["data"]:
-    title = job.get("title", "")
-
-    if any(keyword.lower() in title.lower() for keyword in keywords):
-        jobs.append({
-            "title": title,
-            "company": job.get("company_name", ""),
-            "location": job.get("location", ""),
-            "url": job.get("url", ""),
-            "salary": "Not specified",
-            "experience": "Not specified",
-            "fitScore": 80,
-            "category": "High",
-            "isNew": True,
-            "source": "Arbeitnow"
-        })
+jobs = sorted(
+    jobs,
+    key=lambda x: x["matchScore"],
+    reverse=True
+)
 
 with open("jobs.json", "w", encoding="utf-8") as f:
     json.dump(
         {
             "jobs": jobs,
+            "totalJobs": len(jobs),
             "lastUpdated": datetime.now(timezone.utc).isoformat()
         },
         f,
@@ -49,4 +27,4 @@ with open("jobs.json", "w", encoding="utf-8") as f:
         ensure_ascii=False
     )
 
-print(f"Saved {len(jobs)} jobs.")
+print(f"\nSaved {len(jobs)} jobs into jobs.json")
