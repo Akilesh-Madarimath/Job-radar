@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "Chief of Staff (m/w/d) – RETAIL NXT",
+      "company": "Fleet Events GmbH",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/fleet-events-gmbh/chief-of-staff-retail-nxt-hamburg-162298",
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "fitScore": 80,
+      "category": "High",
+      "isNew": true,
+      "source": "Arbeitnow"
+    },
+    {
       "title": "(Senior) Data & KI Architekt (m/w/d)",
       "company": "TEQYARD",
       "location": "Braunschweig",
@@ -35,43 +47,7 @@
       "category": "High",
       "isNew": true,
       "source": "Arbeitnow"
-    },
-    {
-      "title": "Finanzberater mit §34d (m/w/d) 100% Remote, warme Leads, sehr faire Provision",
-      "company": "Finanzklar GmbH",
-      "location": "Mannheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/finanzklar-gmbh/finanzberater-mit-34d-100-remote-warme-leads-sehr-faire-provision-mannheim-433205",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "High",
-      "isNew": true,
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "Forward Deployed AI Engineer (m/w/d)",
-      "company": "Rockstardevelopers GmbH",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/forward-deployed-ai-engineer-stuttgart-329959",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "High",
-      "isNew": true,
-      "source": "Arbeitnow"
-    },
-    {
-      "title": "(Senior) Fullstack AI Reviewer (m/w/d)",
-      "company": "Distart Education GmbH",
-      "location": "Leipzig",
-      "url": "https://www.arbeitnow.com/jobs/companies/distart-education-gmbh/senior-fullstack-ai-reviewer-leipzig-160984",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "High",
-      "isNew": true,
-      "source": "Arbeitnow"
     }
   ],
-  "lastUpdated": "2026-07-04T04:11:02.214431+00:00"
+  "lastUpdated": "2026-07-05T04:39:47.204635+00:00"
 }
