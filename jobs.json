@@ -450,59 +450,53 @@
       "title": "Chief of Staff (m/w/d) – RETAIL NXT",
       "company": "Fleet Events GmbH",
       "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/fleet-events-gmbh/chief-of-staff-retail-nxt-hamburg-162298",
-<<<<<<< HEAD
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "High",
-      "isNew": true,
-      "source": "Arbeitnow"
-=======
-      "source": "Arbeitnow",
-      "matchScore": 0
->>>>>>> 1002610 (Complete Job Radar portfolio with resume matching and analytics)
+
+ "url": "https://www.arbeitnow.com/jobs/companies/fleet-events-gmbh/chief-of-staff-retail-nxt-hamburg-162298",
+
+"salary": "Not specified",
+"experience": "Not specified",
+"fitScore": 80,
+"category": "High",
+"isNew": true,
+"source": "Arbeitnow",
+"matchScore": 0
     },
     {
       "title": "(Senior) Data & KI Architekt (m/w/d)",
       "company": "TEQYARD",
       "location": "Braunschweig",
       "url": "https://www.arbeitnow.com/jobs/companies/teqyard/senior-data-ki-architekt-braunschweig-87569",
-<<<<<<< HEAD
+
       "salary": "Not specified",
       "experience": "Not specified",
       "fitScore": 80,
       "category": "High",
       "isNew": true,
-      "source": "Arbeitnow"
-=======
       "source": "Arbeitnow",
       "matchScore": 0
->>>>>>> 1002610 (Complete Job Radar portfolio with resume matching and analytics)
+
     },
     {
       "title": "IT Business Analyst (m/w/d)",
       "company": "MY Humancapital GmbH",
       "location": "Munich",
       "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/it-business-analyst-munich-49076",
-<<<<<<< HEAD
+
       "salary": "Not specified",
       "experience": "Not specified",
       "fitScore": 80,
       "category": "High",
       "isNew": true,
-      "source": "Arbeitnow"
-=======
       "source": "Arbeitnow",
       "matchScore": 0
->>>>>>> 1002610 (Complete Job Radar portfolio with resume matching and analytics)
+
     },
     {
       "title": "Werkstudent:in Marketing – Events, Campaigns & Digital Content (m/w/d)",
       "company": "epilot GmbH",
       "location": "Köln",
       "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/werkstudentin-marketing-events-campaigns-digital-content-koln-305873",
-<<<<<<< HEAD
+
       "salary": "Not specified",
       "experience": "Not specified",
       "fitScore": 80,
@@ -511,13 +505,8 @@
       "source": "Arbeitnow"
     }
   ],
-  "lastUpdated": "2026-07-05T04:39:47.204635+00:00"
-=======
-      "source": "Arbeitnow",
-      "matchScore": 0
-    }
-  ],
+  
   "totalJobs": 34,
   "lastUpdated": "2026-07-05T07:01:08.828260+00:00"
->>>>>>> 1002610 (Complete Job Radar portfolio with resume matching and analytics)
+
 }
