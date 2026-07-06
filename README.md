@@ -33,19 +33,19 @@ An AI-powered Job Search Dashboard that aggregates jobs from multiple sources an
 
 ### Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Dashboard.png)
 
 ### Analytics
 
-![Analytics](assets/analytics.png)
+![Analytics](assets/Analytics.png)
 
 ### Resume Upload
 
-![Resume Upload](assets/resume-upload.png)
+![Resume Upload](assets/Resume%20upload.png)
 
 ### Cover Letter
 
-![Cover Letter](assets/cover-letter.png)
+![Cover Letter](assets/Cover%20Letter.png)
 
 ---
 
