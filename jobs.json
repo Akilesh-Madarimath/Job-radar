@@ -123,6 +123,20 @@
       "matchScore": 30
     },
     {
+      "title": "Staff Data Scientist, Security",
+      "company": "Stripe",
+      "location": "n/a",
+      "description": "&lt;p&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;You’ll be joining the data science team at Stripe responsible for our overall infrastructure, with a special focus on Stripe’s security. Projects include, but are not limited to:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Leverage internal telemetry and logs to understand and design secure and safe access controls to sensitive data;&lt;/li&gt;\n&lt;li&gt;Develop methods to model, quantify, and ultimately de-risk security-related incidents on Stripe data, assets, and networks;&lt;/li&gt;\n&lt;li&gt;Collaborate across the company with engineering, PMs, and others to better understand, measure, and ultimately detect various malicious attack vectors.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;You will act as a key strategic data partner to the Security organization at Stripe, and help craft, guide, and drive the strategy and tactics needed to help ensure Stripe keeps and maintains the highest level of safety and security for critical business assets and customer data.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Provide senior technical direction to data teams on horizontal technical areas, including detection, modeling, metrics, observability, etc. Assume hands-on leadership, especially when helping teams resolve complex problems through iterative execution.&lt;/li&gt;\n&lt;li&gt;Identify broad company problems and opportunities that can be tackled through data science&lt;/li&gt;\n&lt;li&gt;. Work with relevant teams to design and build the quantitative outputs and artifacts that deliver outsized value to our users and our business.&lt;/li&gt;\n&lt;li&gt;Provide data-driven guidance to cross-functional partners on strategy for tracking and protecting Stripe assets from external and internal threats.&lt;/li&gt;\n&lt;li&gt;Contribute to the overall strategy, roadmap, and vision of your data science team and organization.&lt;/li&gt;\n&lt;li&gt;Evangelize and inspire best practices across data science. Lead by example to build a culture of craftsmanship and innovation.&lt;/li&gt;\n&lt;li&gt;Provide mentorship to our data science talent to help them grow technically and professionally.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of data science experience or equivalent combined industry and research experience in a quantitative field.&lt;/li&gt;\n&lt;li&gt;Bachelor’s, Master’s, or Ph.D. in a quantitative field (e.g. Statistics, Mathematics, Economics, Operations Research, Quantitative Marketing, Physical Sciences, Engineering, etc.).&lt;/li&gt;\n&lt;li&gt;Demonstrated experience of leading organization-wide initiatives spanning multiple teams, or leveraging deep domain expertise to influence tech roadmap planning and execution.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to effectively collaborate across multiple teams and stakeholders to drive business outcomes.&lt;/li&gt;\n&lt;li&gt;Experience creating alignment with stakeholders in ambiguous and complex situations, and leading company-level initiatives.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to balance execution and velocity with research, statistical depth, and scalable design.&lt;/li&gt;\n&lt;li&gt;Proficiency with AI tools to accelerate model development, analysis, and coding.&lt;/li&gt;\n&lt;li&gt;Experience mentoring and investing in the development of peers.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong preference for experience working with security or security-adjacent teams, and familiarity with contemporary security tools and practices.&lt;/li&gt;\n&lt;li&gt;Experience in the end-to-end development and production implementation of machine learning, statistical, or forecasting frameworks (beyond building model prototypes).&lt;/li&gt;\n&lt;li&gt;Experience developing and deploying metrics and observability frameworks.&lt;/li&gt;\n&lt;/ul&gt;",
+      "skills": [
+        "machine learning"
+      ],
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "source": "Greenhouse",
+      "url": "https://stripe.com/jobs/search?gh_jid=8044839",
+      "matchScore": 30
+    },
+    {
       "title": "Analytics Engineer",
       "company": "Coinbase",
       "location": "Remote - USA",
@@ -284,16 +298,17 @@
     {
       "title": "Data Analyst",
       "company": "Stripe",
-      "location": "Canada",
-      "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Data Science at Stripe is a vibrant community where data analysts and data scientists learn and grow together. You&#39;ll work with some of the most fundamental data at Stripe, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;In this role, you&#39;ll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You&#39;ll work closely with partners to extract insights from the rich and complex data at Stripe. You&#39;ll also work with leaders to translate business needs into data problems. You&#39;ll build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You&#39;ll deliver actionable business recommendations through analyses and data storytelling.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;MS/MA + 2 years or BS/BA + 3 years of full-time experience exclusive of internships in Business Intelligence Engineering, Data Analyst, and Business Analyst roles&lt;/li&gt;\n&lt;li&gt;Proficiency in SQL&lt;/li&gt;\n&lt;li&gt;Proven ability to manage and deliver on multiple projects with great attention to detail&lt;/li&gt;\n&lt;li&gt;Ability to clearly communicate results and drive impact&lt;/li&gt;\n&lt;li&gt;Ability to design, implement, and maintain data pipelines and dashboards to generate actionable insights based on stakeholder requirements&lt;/li&gt;\n&lt;li&gt;Experience collaborating with cross-functional teams to deliver strategic insights, benchmarks, and analyses that provide recommendations&lt;/li&gt;\n&lt;li&gt;Ability to enable stakeholders and partners by building self-service tooling and providing training to empower stakeholder teams to be data literate and self-sufficient in autonomous reporting capabilities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Prior experience at a growth-stage internet or software company&lt;/li&gt;\n&lt;li&gt;Experience with distributed data frameworks like Spark to write and debug data pipelines&lt;/li&gt;\n&lt;li&gt;Good understanding of development processes and best practices like engineering standards, code reviews, and testing&lt;/li&gt;\n&lt;li&gt;Strong statistical knowledge&lt;/li&gt;\n&lt;li&gt;Working knowledge of Python&lt;/li&gt;\n&lt;li&gt;Experience creating leadership-level reporting, such as QBRs, MBRs&lt;/li&gt;\n&lt;li&gt;Proficiency with AI tools to accelerate model development, analysis, and coding&lt;/li&gt;\n&lt;/ul&gt;",
+      "location": "Mexico City",
+      "description": "&lt;h3&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As Stripe’s user base and global footprint grow dramatically, we have distinctly unique support problems resulting from both our type of scale and the type of businesses we partner with. The Stripe Delivery Center (SDC) strategy will provide operational leverage and expand Stripe’s portfolio of operational capabilities to support the scaled needs of external users and internal Stripe teams.&lt;/p&gt;\n&lt;p&gt;At Stripe, our Mexico City office is a vibrant hub at the forefront of our mission to reshape the financial landscape for businesses worldwide. Our team prioritizes collaboration, innovation, and excellence. As a member of the Mexico City team, you&#39;ll be part of a mission-driven community dedicated to enhancing the global economy and increasing the GDP of the internet. We strive for excellence by creating with craft and beauty, while having fun and celebrating our successes together.&lt;/p&gt;\n&lt;p&gt;We cultivate a culture of collaboration, inclusivity, and support where every team member’s voice matters. Our commitment shines through as we handle over a million support cases each year, empowering our users not just to solve problems but to achieve their goals.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;As an analyst on the Payments Health Operations team, you will be charged with monitoring and maintaining payments performance for Stripe’s largest users. This will include triaging, investigating, and responding to detected regressions in authentication and cost rates; providing in-depth analysis of performance degradations; answering queries from our product support and technical account management teams; and engaging with users and other teams at Stripe to help ensure our users are maximizing their acceptance rates while minimizing their costs and fraud.&lt;/p&gt;\n&lt;p&gt;You will work at the core of Stripe&#39;s platform, ensuring the reliability of our payments stack and the health of the broader ecosystem. Technical Operations roles in Payments are a dynamic and key component of Stripe&#39;s success. Focused on financial partner integrations and funds-flow expansion, we sit at the intersection of product/platform engineers and financial partners, connecting them to ensure that everyone thrives and nothing is lost in translation.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Monitor authorization rates and performance for large users, responding to alerts of degradation, triaging and investigating the cause, and communicating your findings to the account team, banking partners, and card networks.&lt;/li&gt;\n&lt;li&gt;Analyze cost checkers to ensure our cost models&#39; accuracy.&lt;/li&gt;\n&lt;li&gt;Respond to performance inquiries from technical account managers, product support teams, and other internal Stripe teams.&lt;/li&gt;\n&lt;li&gt;Interface with Stripe’s financial partners across the world to communicate operational breakages and help drive resolutions.&lt;/li&gt;\n&lt;li&gt;Provide fast, accurate responses to complex support inquiries from partners.&lt;/li&gt;\n&lt;li&gt;Partner with internal and external teams to validate the accuracy of Stripe’s financial data.&lt;/li&gt;\n&lt;li&gt;Introduce data and process efficiencies to meet the scale and speed of Stripe.&lt;/li&gt;\n&lt;li&gt;Identify and automate inefficient operational processes to reduce manual workloads.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Have at least 1 year of experience in a technical role, with experience writing SQL queries to query relational databases.&lt;/li&gt;\n&lt;li&gt;Have experience navigating the nuanced complexity of financial systems and solving large-scale, technical challenges.&lt;/li&gt;\n&lt;li&gt;Have strong analytical skills to investigate, prioritize, and identify the root cause of issues.&lt;/li&gt;\n&lt;li&gt;Have experience managing communications and workflows with technical and non-technical teams across internal and external stakeholders.&lt;/li&gt;\n&lt;li&gt;Are comfortable operating independently and thrive in a fast-paced environment to deliver results, with an ability to establish priorities and reliably execute against time-sensitive deadlines.&lt;/li&gt;\n&lt;li&gt;Have experience identifying and triaging technical issues.&lt;/li&gt;\n&lt;li&gt;Possess a demonstrated track record of process improvement and proactive problem-solving.&lt;/li&gt;\n&lt;li&gt;Have excellent written and verbal communication skills in both English and Spanish.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Payments expertise (working with financial partners, optimizing processing errors, managing payment costs).&lt;/li&gt;\n&lt;li&gt;Experience operating in a high-growth technology company.&lt;/li&gt;\n&lt;li&gt;Python or Scala knowledge.&lt;/li&gt;\n&lt;/ul&gt;",
       "skills": [
         "python",
-        "sql"
+        "sql",
+        "excel"
       ],
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=5416444",
+      "url": "https://stripe.com/jobs/search?gh_jid=7978488",
       "matchScore": 20
     },
     {
@@ -330,14 +345,15 @@
       "title": "Staff Data Analyst",
       "company": "Stripe",
       "location": "US",
-      "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt;\n&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Data Science at Stripe is a vibrant community where data analysts, data scientists, and engineers learn and grow together. In this role, you&#39;ll join the team focused on strengthening Stripe&#39;s analytics foundation across the company—setting the technical direction for how analytical data is modeled, stored, governed, and served at scale. This is an infrastructure and platform role, not a business analytics role. You&#39;ll operate as a technical leader who shapes the systems, standards, and practices that every analyst and data consumer at Stripe depends on.&lt;/p&gt;\n&lt;h2&gt;What you’ll do&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Lead architecture reviews and set analytical standards.&lt;/strong&gt; Own the strategy, technical architecture, and governance model for platforms that make key business metrics consistent, trustworthy, and easy to query at scale. Define and enforce how analytical data is modeled, stored, and served across the company.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Own the hardest cross-cutting analytical problems.&lt;/strong&gt; Tackle the most complex, multi-team data challenges—problems that require going arbitrarily deep into unfamiliar domains and coordinating solutions across organizational boundaries.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Drive org-wide data quality and consistency.&lt;/strong&gt; Lead critical data quality initiatives that support executive- and board-level decision-making. Ensure that the metrics and data products used to run the business are reliable, well-defined, and widely adopted.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Shape long-term technical vision.&lt;/strong&gt; Define a multi-year roadmap for analytics infrastructure, including warehouse design, schema standards, metric integration, real-time analytics systems, and performance optimization—not just executing within these systems, but determining their direction.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Raise the technical bar across teams.&lt;/strong&gt; Uplevel the quality of analytical work through mentorship, architecture reviews, standards setting, and building shared tooling and frameworks that other analysts adopt and depend on.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Translate business needs into technical solutions.&lt;/strong&gt; Partner deeply with leaders across Stripe to identify the highest-priority data problems, then deliver scalable, well-governed solutions with clear adoption plans and measurable impact.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;10+ years&lt;/strong&gt; of experience in Data Analysis, Analytics Engineering, Business Intelligence Engineering, or Data Science roles—building data infrastructure, defining metrics, and solving complex analytical problems at scale&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Deep expertise in SQL&lt;/strong&gt;, including demonstrated ability to optimize complex queries, debug data pipelines, and work across large, distributed datasets&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Familiarity with AI-assisted development tools&lt;/strong&gt; (e.g., Claude Code or equivalent) to accelerate data work, automate repetitive tasks, and improve analytical productivity&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Proven track record of setting long-term technical vision&lt;/strong&gt; for analytics platforms—not just executing within them, but shaping their architecture, governance, and adoption strategy&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Expertise in warehouse design and metrics infrastructure—&lt;/strong&gt;schema design, metric layer integration, performance optimization, and building data products that are consistent and trustworthy at scale&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Experience leading cross-team or org-wide data initiatives&lt;/strong&gt; that materially improved data quality, consistency, or accessibility for a broad set of stakeholders&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Demonstrated ability to raise the technical bar&lt;/strong&gt; for teams around you—through mentorship, architecture reviews, standards setting, or building shared tooling that others adopt&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strong communication and influence skills—&lt;/strong&gt;ability to align senior leaders and cross-functional partners on technical direction, and to communicate complex data problems and recommendations clearly&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Comfortable operating across organizational boundaries—&lt;/strong&gt;proven ability to identify data analytics problems that span multiple teams and drive solutions with technical rigor&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AI Usage—&lt;/strong&gt;proficiency with AI tools to accelerate model development, analysis, and coding&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Master&#39;s degree in Mathematics, Statistics, Economics, Engineering, Computer Science, or a related technical field (or equivalent experience, 10+ years of demonstrated impact is weighted equally)&lt;/li&gt;\n&lt;li&gt;Experience building or governing a semantic layer or metrics layer (e.g., dbt metrics, Looker LookML, or a custom metrics platform)&lt;/li&gt;\n&lt;li&gt;Experience with distributed data frameworks (Hadoop, Spark) for large-scale data pipeline development and optimization&lt;/li&gt;\n&lt;li&gt;Prior experience at a high-growth internet or software company navigating rapid scale&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;",
+      "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt;\n&lt;h3&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Risk Data Science team builds the data foundations, models, and measurement frameworks that power Stripe&#39;s risk and product decisions — from underwriting and reserves to merchant interventions and enablements. We&#39;re at an inflection point: as Stripe increasingly offers risk capabilities as a product to platforms and users, we need a data leader to shape how we build, measure, and evolve our risk data strategy across the&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for an experienced data analyst to drive the data strategy for our risk as a product offering. Define the metrics, data products, and analytical frameworks needed as Stripe brings risk capabilities to platforms and connected accounts at scale. Partner with Product, Engineering, and Risk leadership to ensure data investments align with the product roadmap. You will design metrics, pipelines, and data products that serve as the analytical backbone for risk decisioning.&lt;/p&gt;\n&lt;p&gt;You will own the definition, reliability, and visibility of our most important risk metrics. Establish a canonical set of north star and operational metrics and ensure they are trustworthy, well-documented, and consistently surfaced to the right audiences. Build and maintain the infrastructure that keeps these metrics accurate as our data and product landscape evolves, including clear ownership, alerting on regressions, and scalable pipelines that reduce the cost of keeping insights current.&lt;/p&gt;\n&lt;p&gt;You will also own and evolve Stripe&#39;s risk experimentation strategy by defining what we test, how we measure, and how we learn. Ensure we can rigorously evaluate the impact of changes to risk policies, merchant journeys, and risk models across diverse merchant populations.&lt;/p&gt;\n&lt;p&gt;Finally, you will mentor and raise the bar for the Data Analysts on the team. Set technical and strategic standards. Guide junior and senior analysts on how to frame ambiguous problems, structure analyses for maximum impact, and communicate findings to senior stakeholders.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years in Data Analytics, Data Science, or related roles&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Track record of defining and driving data strategy across multiple teams — not just executing on a roadmap, but shaping it&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experience designing experimentation frameworks or measurement strategies for complex, multi-variant systems (e.g., risk policies, pricing, marketplace dynamics)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Deep expertise in SQL; proficiency in Python&lt;/li&gt;\n&lt;li&gt;Strong ability to translate ambiguous business problems into structured analytical approaches and communicate findings to executive stakeholders&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experience building and scaling data products (metrics frameworks, pipelines, dashboards) that become operational infrastructure, not one-off analyses&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to influence without authority across engineering, product, and business teams&lt;/li&gt;\n&lt;li&gt;Proficiency with AI tools to accelerate model development, analysis and coding&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Master’s degree in Mathematics, Statistics, Economics, Engineering, or a related technical field&lt;/li&gt;\n&lt;li&gt;Experience in risk, trust &amp;amp; safety, or related domains and understanding of risk in the Fintech space&lt;/li&gt;\n&lt;li&gt;Experience building data for platform/product offerings where data is part of the product surface, not just internal analytics&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Familiarity with causal inference and A/B testing in non-standard environments (e.g., where randomization is constrained by risk considerations)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;",
       "skills": [
+        "python",
         "sql"
       ],
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=7801457",
+      "url": "https://stripe.com/jobs/search?gh_jid=7921649",
       "matchScore": 20
     },
     {
@@ -371,10 +387,10 @@
       "matchScore": 20
     },
     {
-      "title": "Praktikum Frontend & 3D-Softwareentwicklung (m/w/d) - three.js, React.js & optional Python",
-      "company": "Think3DDD GbR",
+      "title": "Backend Developer (Python)",
+      "company": "Persohap GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/think3ddd-gbr/praktikum-frontend-3d-softwareentwicklung-threejs-reactjs-optional-python-berlin-289280",
+      "url": "https://www.arbeitnow.com/jobs/companies/persohap-gmbh/backend-developer-python-berlin-104687",
       "source": "Arbeitnow",
       "matchScore": 15
     },
@@ -423,6 +439,22 @@
       "matchScore": 10
     },
     {
+      "title": "Senior AI Engineer",
+      "company": "Pentadoc Gruppe",
+      "location": "Würzburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/pentadoc-gruppe/senior-ai-engineer-wurzburg-415522",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
+      "title": "Senior Machine Learning Engineer I",
+      "company": "SumUp",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-machine-learning-engineer-i-berlin-493840",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
       "title": "Senior AI Engineer Architect",
       "company": "Lemon.io",
       "location": "",
@@ -463,46 +495,94 @@
       "matchScore": 5
     },
     {
-      "title": "AI & E-Commerce Automation Specialist (m/w/d) -100 % Remote | Vollzeit | Nature Heart",
-      "company": "Nature Heart GmbH & Co KG",
-      "location": "Nidderau",
-      "url": "https://www.arbeitnow.com/jobs/companies/nature-heart-gmbh-co-kg/ai-e-commerce-automation-specialist-100-remote-vollzeit-nature-heart-nidderau-149400",
+      "title": "Senior CRM Manager Data & Automation (m/w/d)",
+      "company": "Lyto Brands Group",
+      "location": "Düsseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/lyto-brands-group/senior-crm-manager-data-automation-dusseldorf-205885",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "(Senior) Website Analyst – E-Commerce Management (w/m/d)",
-      "company": "IONOS SE",
-      "location": "Karlsruhe",
-      "url": "https://www.arbeitnow.com/jobs/companies/ionos-se/senior-website-analyst-e-commerce-management-karlsruhe-53256",
+      "title": "Leitender Projektleiter Photovoltaik Gewerbe und Großanlagen (m/w/d)",
+      "company": "Apricus Solar AG",
+      "location": "Dortmund",
+      "url": "https://www.arbeitnow.com/jobs/companies/apricus-solar-ag/leitender-projektleiter-photovoltaik-gewerbe-und-grossanlagen-dortmund-435345",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Chief of Staff (m/w/d) – RETAIL NXT",
-      "company": "Fleet Events GmbH",
+      "title": "Paid Social Lead - Consumer Health (m/w/d)",
+      "company": "Apricot Health GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/apricot-health-gmbh/paid-social-lead-consumer-health-berlin-307701",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Data Engineer (f/m/d)",
+      "company": "VOIDS Technology GmbH",
       "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/fleet-events-gmbh/chief-of-staff-retail-nxt-hamburg-162298",
+      "url": "https://www.arbeitnow.com/jobs/companies/voids-technology-gmbh/senior-data-engineer-hamburg-116855",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "(Senior) Data & KI Architekt (m/w/d)",
-      "company": "TEQYARD",
-      "location": "Braunschweig",
-      "url": "https://www.arbeitnow.com/jobs/companies/teqyard/senior-data-ki-architekt-braunschweig-87569",
+      "title": "Junior Account Manager (E-Commerce & Retail Media) (m/w/d)",
+      "company": "eBazaaris",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/ebazaaris/junior-account-manager-e-commerce-retail-media-berlin-349855",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "IT Business Analyst (m/w/d)",
-      "company": "MY Humancapital GmbH",
+      "title": "Junior Paid Ads Specialist",
+      "company": "Cyrus Digital GmbH",
       "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/it-business-analyst-munich-49076",
+      "url": "https://www.arbeitnow.com/jobs/companies/cyrus-digital-gmbh/junior-paid-ads-specialist-munich-2493",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Digital Marketing Trainee",
+      "company": "Cyrus Digital GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/cyrus-digital-gmbh/digital-marketing-trainee-munich-159557",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Trainee Sales (m/w/d)",
+      "company": "Firstlead GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/firstlead-gmbh/trainee-sales-berlin-185669",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Social media content creator - app start-up (unpaid) - remote USA",
+      "company": "LoveLane",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/lovelane/social-media-content-creator-app-start-up-unpaid-remote-usa-berlin-267368",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Engineering Manager, Core Domain (all genders)",
+      "company": "Distribusion Technologies",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/engineering-manager-core-domain-all-genders-berlin-259282",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "(Senior) Consultant Business Process Management / Supply Chain Management (m/w/d)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "location": "Heidelberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/senior-consultant-business-process-management-supply-chain-management-heidelberg-136370",
       "source": "Arbeitnow",
       "matchScore": 0
     }
   ],
-  "totalJobs": 37,
-  "lastUpdated": "2026-07-06T04:51:20.092564+00:00"
+  "totalJobs": 46,
+  "lastUpdated": "2026-07-07T04:32:40.949192+00:00"
 }
