@@ -1,11 +1,13 @@
 name: Daily Job Scrape
 
 on:
+
   schedule:
     # 6:00 AM IST = 00:30 UTC. Cron is always UTC.
     - cron: '30 0 * * *'
   workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
-
+permissions:
+  contents: write
 jobs:
   scrape:
     runs-on: ubuntu-latest
