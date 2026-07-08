@@ -536,6 +536,14 @@
       "matchScore": 5
     },
     {
+      "title": "Senior AI Architect & Consultant (all genders)",
+      "company": "MAI Group",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/mai-group/senior-ai-architect-consultant-all-genders-hamburg-77071",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
       "title": "Werkstudent Business Automation & AI (m/w/d)",
       "company": "Advertical",
       "location": "Cologne",
@@ -604,22 +612,6 @@
       "company": "MGRP",
       "location": "Frankfurt am Main",
       "url": "https://www.arbeitnow.com/jobs/companies/mgrp/senior-specialist-ai-ki-innovation-frankfurt-am-main-273715",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "(Junior) Business Analyst – KI/AI Champion (m/w/d)",
-      "company": "Prokuras Beteiligungs GmbH",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/prokuras-beteiligungs-gmbh/junior-business-analyst-ki-ai-champion-hamburg-411937",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Working Student: AI Product Engineering - Data (m/f/d)",
-      "company": "Retorio GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/retorio-gmbh/working-student-ai-product-engineering-data-munich-252542",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -934,21 +926,8 @@
       "isNew": true,
       "source": "Remotive",
       "matchScore": 0
-    },
-    {
-      "title": "Application Engineering Technical Lead - II",
-      "company": "The Vanguard Group",
-      "location": "Hyderabad, Telangana",
-      "url": "https://www.adzuna.in/details/5781436717?utm_medium=api&utm_source=8789106d",
-      "salary": "0",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "High",
-      "isNew": true,
-      "source": "Adzuna",
-      "matchScore": 0
     }
   ],
-  "totalJobs": 73,
-  "lastUpdated": "2026-07-08T08:17:07.014260+00:00"
+  "totalJobs": 71,
+  "lastUpdated": "2026-07-08T08:54:14.473196+00:00"
 }
