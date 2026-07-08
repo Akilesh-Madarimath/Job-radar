@@ -174,6 +174,14 @@
       "matchScore": 30
     },
     {
+      "title": "Werkstudent (m/w/d) Machine Learning / Neuronale Netze / Automatisierungstechnik",
+      "company": "INP Deutschland GmbH",
+      "location": "Römerberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/inp-deutschland-gmbh/werkstudent-machine-learning-neuronale-netze-automatisierungstechnik-romerberg-90107",
+      "source": "Arbeitnow",
+      "matchScore": 25
+    },
+    {
       "title": "AI Engineer",
       "company": "Stripe",
       "location": "Chicago",
@@ -305,6 +313,16 @@
       "matchScore": 25
     },
     {
+      "title": "Junior Data Analyst",
+      "company": "Numa",
+      "location": "Lisboa, Lisboa, Lisboa, Portugal",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-numa-1134429",
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "source": "RemoteOK",
+      "matchScore": 20
+    },
+    {
       "title": "Data Analyst",
       "company": "Stripe",
       "location": "Canada",
@@ -412,6 +430,16 @@
       "matchScore": 15
     },
     {
+      "title": "Lead Data Scientist",
+      "company": "Brigit",
+      "location": "San Francisco",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-data-scientist-brigit-1134476",
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "source": "RemoteOK",
+      "matchScore": 10
+    },
+    {
       "title": "Senior Analytics Engineer (Platform - Financial Analytics)",
       "company": "Coinbase",
       "location": "Remote - USA",
@@ -440,6 +468,16 @@
       "isNew": true,
       "source": "Remotive",
       "matchScore": 10
+    },
+    {
+      "title": "Senior AI Engineer Architect",
+      "company": "Lemon.io",
+      "location": "",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396",
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "source": "RemoteOK",
+      "matchScore": 5
     },
     {
       "title": "Senior AI Engineer",
@@ -496,6 +534,14 @@
       "isNew": true,
       "source": "Remotive",
       "matchScore": 5
+    },
+    {
+      "title": "Werkstudent Business Automation & AI (m/w/d)",
+      "company": "Advertical",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/advertical/werkstudent-business-automation-ai-cologne-311541",
+      "source": "Arbeitnow",
+      "matchScore": 0
     },
     {
       "title": "Chief of Staff (all genders) for AI Audit Tech Startup",
@@ -574,22 +620,6 @@
       "company": "Retorio GmbH",
       "location": "Munich",
       "url": "https://www.arbeitnow.com/jobs/companies/retorio-gmbh/working-student-ai-product-engineering-data-munich-252542",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Founders Associate: AI-First Transformation Werkstudent:in",
-      "company": "beatvest",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/beatvest/founders-associate-ai-first-transformation-werkstudentin-munich-451695",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Werkstudent (m/w/d) AI & Automatisierung",
-      "company": "STI GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sti-gmbh/werkstudent-ai-automatisierung-berlin-260065",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -904,8 +934,21 @@
       "isNew": true,
       "source": "Remotive",
       "matchScore": 0
+    },
+    {
+      "title": "Application Engineering Technical Lead - II",
+      "company": "The Vanguard Group",
+      "location": "Hyderabad, Telangana",
+      "url": "https://www.adzuna.in/details/5781436717?utm_medium=api&utm_source=8789106d",
+      "salary": "0",
+      "experience": "Not specified",
+      "fitScore": 80,
+      "category": "High",
+      "isNew": true,
+      "source": "Adzuna",
+      "matchScore": 0
     }
   ],
-  "totalJobs": 69,
-  "lastUpdated": "2026-07-08T05:07:07.324345+00:00"
+  "totalJobs": 73,
+  "lastUpdated": "2026-07-08T08:17:07.014260+00:00"
 }
