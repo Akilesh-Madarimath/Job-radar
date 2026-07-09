@@ -98,6 +98,22 @@
       "matchScore": 30
     },
     {
+      "title": "Data Scientist, Global Growth",
+      "company": "Stripe",
+      "location": "Singapore",
+      "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt;\n&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Our Data Science team partners deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. We&#39;re looking for data scientists with a passion for analyzing data, building machine learning and statistical models, and running experiments to drive impact. Our work is broad and varied, influencing how our products work (e.g., understanding user needs, preventing fraud, or optimizing charge flows), how our business works (forecasting key outcomes, managing liquidity, and quantifying risk exposure), how our go-to-market motions operate (designing growth experiments, optimizing marketing investments, refining sales processes, and estimating causal effects), and everything in between. We have a variety of Data Science roles and teams across Stripe and will seek to align you to the most relevant team based on your background.&lt;/p&gt;\n&lt;h2&gt;What you’ll do&lt;/h2&gt;\n&lt;p&gt;We’re looking for a Data Scientist to partner with our Global Growth teams. You’ll play a key role in designing and shipping experiments, as well as identifying improvement opportunities across stripe.com and the dashboard to help businesses worldwide get started on Stripe. You’ll help us understand, grow, and optimize the self-serve user funnel to ensure a consistently high-quality onboarding experience for users globally. As Data Scientists at Stripe, our mission is to ensure that company strategy, products, and user interactions make smart use of our rich data using techniques like machine learning, statistical modeling, causal inference, optimization, experimentation, and all forms of analytics.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelors + 8 years or Masters + 6 years or Phd + 3 years of data science or quantitative modeling experience&lt;/li&gt;\n&lt;li&gt;Proficiency in SQL and a computing language such as Python or R&lt;/li&gt;\n&lt;li&gt;Experience in working with cross-functional teams to deliver results&lt;/li&gt;\n&lt;li&gt;Ability to communicate results clearly and a focus on driving impact&lt;/li&gt;\n&lt;li&gt;A demonstrated ability to manage and deliver on multiple projects with a high attention to detail&lt;/li&gt;\n&lt;li&gt;Strong business acumen and experience in synthesizing complex analyses into actionable recommendations&lt;/li&gt;\n&lt;li&gt;Proficiency with AI tools to accelerate model development, analysis, and coding&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong knowledge and hands-on experience in several of the following areas: machine learning, statistics, optimization, product analytics, causal inference, and experimentation&lt;/li&gt;\n&lt;li&gt;Experience deploying models in production and adjusting model thresholds to improve performance&lt;/li&gt;\n&lt;li&gt;Experience designing, running, and analyzing complex experiments or leveraging causal inference designs&lt;/li&gt;\n&lt;li&gt;A builder&#39;s mindset with a willingness to question assumptions and conventional wisdom&lt;/li&gt;\n&lt;li&gt;Experience with distributed tools such as Spark, Hadoop, etc.&lt;/li&gt;\n&lt;li&gt;A PhD or MSc in a quantitative field (e.g., Statistics, Engineering, Mathematics, Economics, Quantitative Finance, Sciences, Operations Research)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;",
+      "skills": [
+        "python",
+        "sql",
+        "machine learning"
+      ],
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "source": "Greenhouse",
+      "url": "https://stripe.com/jobs/search?gh_jid=8043052",
+      "matchScore": 30
+    },
+    {
       "title": "Data Scientist, Payments",
       "company": "Stripe",
       "location": "Dublin",
@@ -174,10 +190,10 @@
       "matchScore": 30
     },
     {
-      "title": "Werkstudent (m/w/d) Machine Learning / Neuronale Netze / Automatisierungstechnik",
-      "company": "INP Deutschland GmbH",
-      "location": "Römerberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/inp-deutschland-gmbh/werkstudent-machine-learning-neuronale-netze-automatisierungstechnik-romerberg-90107",
+      "title": "Founding AI Engineer",
+      "company": "explaino",
+      "location": "Garching",
+      "url": "https://www.arbeitnow.com/jobs/companies/explaino/founding-ai-engineer-garching-329838",
       "source": "Arbeitnow",
       "matchScore": 25
     },
@@ -311,6 +327,14 @@
       "source": "Greenhouse",
       "url": "https://careers.datadoghq.com/detail/7629288/?gh_jid=7629288",
       "matchScore": 25
+    },
+    {
+      "title": "AWS Cloud Data Engineer (m/w/d)",
+      "company": "Unigy GmbH",
+      "location": "Essen",
+      "url": "https://www.arbeitnow.com/jobs/companies/unigy-gmbh/aws-cloud-data-engineer-essen-139122",
+      "source": "Arbeitnow",
+      "matchScore": 20
     },
     {
       "title": "Associate Data Analyst",
@@ -481,16 +505,6 @@
       "matchScore": 10
     },
     {
-      "title": "Senior AI Engineer Architect",
-      "company": "Lemon.io",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "source": "RemoteOK",
-      "matchScore": 5
-    },
-    {
       "title": "Senior AI Engineer",
       "company": "Datadog",
       "location": "Paris, France",
@@ -547,74 +561,82 @@
       "matchScore": 5
     },
     {
-      "title": "Senior AI Architect & Consultant (all genders)",
-      "company": "MAI Group",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/mai-group/senior-ai-architect-consultant-all-genders-hamburg-77071",
+      "title": "Agentic AI for Science - Developer (m/f/d)",
+      "company": "datin GmbH",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/datin-gmbh/agentic-ai-for-science-developer-karlsruhe-81355",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Werkstudent Business Automation & AI (m/w/d)",
-      "company": "Advertical",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/advertical/werkstudent-business-automation-ai-cologne-311541",
+      "title": "Geschäftsführer / CEO / CFO (m/w/d) Corporate Development | Fundraising | Unternehmensentwicklung | Telemedizin",
+      "company": "Shehzad Akhtar Research & Headhunting",
+      "location": "Neu-Isenburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/shehzad-akhtar-research-headhunting/geschaftsfuhrer-ceo-cfo-corporate-development-fundraising-unternehmensentwicklung-telemedizin-neu-isenburg-237810",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Chief of Staff (all genders) for AI Audit Tech Startup",
-      "company": "dnl",
+      "title": "Mediengestalter Digital (w/m/d) in Vollzeit - Schwerpunkt Paid Ads & Digital Creative",
+      "company": "StraightAds Marketing GmbH",
+      "location": "Mainz",
+      "url": "https://www.arbeitnow.com/jobs/companies/straightads-marketing-gmbh/mediengestalter-digital-in-vollzeit-schwerpunkt-paid-ads-digital-creative-mainz-90812",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Qualitätsmanager/in und Regulatory Affairs (m/w/x)",
+      "company": "Hänsler Medical GmbH",
+      "location": "Iffezheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/hansler-medical-gmbh/qualitatsmanager-in-und-regulatory-affairs-iffezheim-302841",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Operations Lead (w/m/d)",
+      "company": "everphone GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/dnl/chief-of-staff-all-genders-for-ai-audit-tech-startup-berlin-358951",
+      "url": "https://www.arbeitnow.com/jobs/companies/everphone-gmbh/ai-operations-lead-berlin-242237",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior AI Product Manager (f/m/d)",
-      "company": "Predium Technology GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/predium-technology-gmbh/senior-ai-product-manager-munich-486949",
+      "title": "Werkstudent - AI Manager Support (m/w/d)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "location": "Heidelberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/werkstudent-ai-manager-support-heidelberg-95301",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Sales Trainee - B2B Software (m/w/d)",
-      "company": "Hallo Welt! GmbH",
-      "location": "Regensburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/hallo-welt-gmbh/sales-trainee-b2b-software-regensburg-181283",
+      "title": "Head of Software Engineering (m/w/d) for ELMI AI Plattform",
+      "company": "ELMI Power GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/elmi-power-gmbh/head-of-software-engineering-for-elmi-ai-plattform-berlin-147397",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Business Analyst - Bankbilanzierung & Jahresabschluss (m/w/d)",
-      "company": "CPU Consulting & Software GmbH",
-      "location": "Münster",
-      "url": "https://www.arbeitnow.com/jobs/companies/cpu-consulting-software-gmbh/business-analyst-bankbilanzierung-jahresabschluss-munster-442346",
+      "title": "Senior Supply-Chain-Recruiter  (m/w/d)",
+      "company": "visionm GmbH",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/visionm-gmbh/senior-supply-chain-recruiter-frankfurt-am-main-361486",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "E-Mail Marketing Specialist / CRM (Klaviyo, Shopify) (m/w/d)",
-      "company": "Valkental GmbH",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/valkental-gmbh/e-mail-marketing-specialist-crm-klaviyo-shopify-dusseldorf-430880",
+      "title": "Senior Project Manager - AI & Automation (m/w/d)",
+      "company": "relyon AG",
+      "location": "Tübingen",
+      "url": "https://www.arbeitnow.com/jobs/companies/relyon-ag/senior-project-manager-ai-automation-tubingen-4282",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "AI Full Stack Software Engineer im E-Commerce Startup (E-Commerce & Data)",
-      "company": "Sayano Deutschland GmbH",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/sayano-deutschland-gmbh/ai-full-stack-software-engineer-im-e-commerce-startup-e-commerce-data-stuttgart-111639",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Data Management Coordinator (M/W/D)",
-      "company": "sera Gruppe",
-      "location": "Immenhausen",
-      "url": "https://www.arbeitnow.com/jobs/companies/sera-gruppe/data-management-coordinator-immenhausen-283212",
+      "title": "Consultant Sustainability Services @ Climate Tech Start-up (m/w/d) - 100% Remote möglich",
+      "company": "Global Changer",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/global-changer/consultant-sustainability-services-at-climate-tech-start-up-100-remote-moglich-berlin-321391",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -931,6 +953,6 @@
       "matchScore": 0
     }
   ],
-  "totalJobs": 71,
-  "lastUpdated": "2026-07-08T11:04:47.811092+00:00"
+  "totalJobs": 73,
+  "lastUpdated": "2026-07-09T04:30:19.569549+00:00"
 }
