@@ -190,10 +190,18 @@
       "matchScore": 30
     },
     {
-      "title": "Founding AI Engineer",
-      "company": "explaino",
-      "location": "Garching",
-      "url": "https://www.arbeitnow.com/jobs/companies/explaino/founding-ai-engineer-garching-329838",
+      "title": "Voice AI Engineer (all genders)",
+      "company": "NFON",
+      "location": "Bremen",
+      "url": "https://www.arbeitnow.com/jobs/companies/nfon/voice-ai-engineer-all-genders-bremen-437202",
+      "source": "Arbeitnow",
+      "matchScore": 25
+    },
+    {
+      "title": "Machine Learning Engineer (all genders)",
+      "company": "NFON",
+      "location": "Bremen",
+      "url": "https://www.arbeitnow.com/jobs/companies/nfon/machine-learning-engineer-all-genders-bremen-414400",
       "source": "Arbeitnow",
       "matchScore": 25
     },
@@ -329,28 +337,10 @@
       "matchScore": 25
     },
     {
-      "title": "AWS Cloud Data Engineer (m/w/d)",
-      "company": "Unigy GmbH",
-      "location": "Essen",
-      "url": "https://www.arbeitnow.com/jobs/companies/unigy-gmbh/aws-cloud-data-engineer-essen-139122",
-      "source": "Arbeitnow",
-      "matchScore": 20
-    },
-    {
       "title": "Associate Data Analyst",
       "company": "Arabian Private Holdings",
       "location": "Manchester, Manchester, England, United Kingdom",
       "url": "https://remoteOK.com/remote-jobs/remote-associate-data-analyst-arabian-private-holdings-1134566",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "source": "RemoteOK",
-      "matchScore": 20
-    },
-    {
-      "title": "Junior Data Analyst",
-      "company": "Numa",
-      "location": "Lisboa, Lisboa, Lisboa, Portugal",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-numa-1134429",
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "RemoteOK",
@@ -448,6 +438,14 @@
       "matchScore": 20
     },
     {
+      "title": "Python-Entwickler (m/w/d) Datenextraktion (Ref.Nr.: 47164)",
+      "company": "Wavestone Germany AG",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/wavestone-germany-ag/python-entwickler-datenextraktion-refnr-47164-frankfurt-am-main-278147",
+      "source": "Arbeitnow",
+      "matchScore": 15
+    },
+    {
       "title": "Senior Machine Learning Engineer, CX Intelligence ",
       "company": "Coinbase",
       "location": "Remote - Brazil",
@@ -463,16 +461,6 @@
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8008569?gh_jid=8008569",
       "matchScore": 15
-    },
-    {
-      "title": "Lead Data Scientist",
-      "company": "Brigit",
-      "location": "San Francisco",
-      "url": "https://remoteOK.com/remote-jobs/remote-lead-data-scientist-brigit-1134476",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "source": "RemoteOK",
-      "matchScore": 10
     },
     {
       "title": "Senior Analytics Engineer (Platform - Financial Analytics)",
@@ -561,83 +549,64 @@
       "matchScore": 5
     },
     {
-      "title": "Agentic AI for Science - Developer (m/f/d)",
-      "company": "datin GmbH",
-      "location": "Karlsruhe",
-      "url": "https://www.arbeitnow.com/jobs/companies/datin-gmbh/agentic-ai-for-science-developer-karlsruhe-81355",
+      "title": "Researcher Applied AI (all genders)",
+      "company": "NFON",
+      "location": "Bremen",
+      "url": "https://www.arbeitnow.com/jobs/companies/nfon/researcher-applied-ai-all-genders-bremen-253020",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Geschäftsführer / CEO / CFO (m/w/d) Corporate Development | Fundraising | Unternehmensentwicklung | Telemedizin",
-      "company": "Shehzad Akhtar Research & Headhunting",
-      "location": "Neu-Isenburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/shehzad-akhtar-research-headhunting/geschaftsfuhrer-ceo-cfo-corporate-development-fundraising-unternehmensentwicklung-telemedizin-neu-isenburg-237810",
+      "title": "Software Engineer (Fullstack) - AI Medical Software in Cloud (w/m/d)",
+      "company": "deepeye Medical GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/deepeye-medical-gmbh/software-engineer-fullstack-ai-medical-software-in-cloud-munich-202402",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Mediengestalter Digital (w/m/d) in Vollzeit - Schwerpunkt Paid Ads & Digital Creative",
-      "company": "StraightAds Marketing GmbH",
-      "location": "Mainz",
-      "url": "https://www.arbeitnow.com/jobs/companies/straightads-marketing-gmbh/mediengestalter-digital-in-vollzeit-schwerpunkt-paid-ads-digital-creative-mainz-90812",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Qualitätsmanager/in und Regulatory Affairs (m/w/x)",
-      "company": "Hänsler Medical GmbH",
-      "location": "Iffezheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/hansler-medical-gmbh/qualitatsmanager-in-und-regulatory-affairs-iffezheim-302841",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Operations Lead (w/m/d)",
-      "company": "everphone GmbH",
+      "title": "Working Student Finance Data & Analytics (m/w/d)",
+      "company": "Recare Deutschland GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/everphone-gmbh/ai-operations-lead-berlin-242237",
+      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/working-student-finance-data-analytics-berlin-165739",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Werkstudent - AI Manager Support (m/w/d)",
-      "company": "cbs Corporate Business Solutions GmbH",
-      "location": "Heidelberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/werkstudent-ai-manager-support-heidelberg-95301",
+      "title": "Trainee IT-Projektmanagement - Schwerpunkt Requirements Engineering/ Business Analyse*",
+      "company": "Haeger Consulting GmbH",
+      "location": "Bonn",
+      "url": "https://www.arbeitnow.com/jobs/companies/haeger-consulting-gmbh/trainee-it-projektmanagement-schwerpunkt-requirements-engineering-business-analyse-bonn-345174",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Head of Software Engineering (m/w/d) for ELMI AI Plattform",
-      "company": "ELMI Power GmbH",
+      "title": "Senior Python Entwickler*",
+      "company": "Haeger Consulting GmbH",
+      "location": "Bonn",
+      "url": "https://www.arbeitnow.com/jobs/companies/haeger-consulting-gmbh/senior-python-entwickler-bonn-13364",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Digital Twin & Synthetic Reality Expert(AI Community)",
+      "company": "TELUS Digital",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/elmi-power-gmbh/head-of-software-engineering-for-elmi-ai-plattform-berlin-147397",
+      "url": "https://www.arbeitnow.com/jobs/companies/telus-digital/digital-twin-synthetic-reality-expertai-community-berlin-323167",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Supply-Chain-Recruiter  (m/w/d)",
-      "company": "visionm GmbH",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/visionm-gmbh/senior-supply-chain-recruiter-frankfurt-am-main-361486",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Project Manager - AI & Automation (m/w/d)",
-      "company": "relyon AG",
-      "location": "Tübingen",
-      "url": "https://www.arbeitnow.com/jobs/companies/relyon-ag/senior-project-manager-ai-automation-tubingen-4282",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Consultant Sustainability Services @ Climate Tech Start-up (m/w/d) - 100% Remote möglich",
-      "company": "Global Changer",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/global-changer/consultant-sustainability-services-at-climate-tech-start-up-100-remote-moglich-berlin-321391",
-      "source": "Arbeitnow",
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "salary": "",
+      "experience": "Not specified",
+      "fitScore": 80,
+      "category": "Remote",
+      "isNew": true,
+      "source": "Remotive",
       "matchScore": 0
     },
     {
@@ -654,10 +623,10 @@
       "matchScore": 0
     },
     {
-      "title": "Copywriter",
+      "title": "Freelance Copywriter",
       "company": "Coalition Technologies ",
       "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/writing/copywriter-1749306",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
       "salary": "$20k -$35k",
       "experience": "Not specified",
       "fitScore": 80,
@@ -888,10 +857,10 @@
       "matchScore": 0
     },
     {
-      "title": "Office Assistant",
+      "title": "Remote Office Assistant",
       "company": "Coalition Technologies ",
       "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/marketing/office-assistant-1680495",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
       "salary": "$31,2k- $52k",
       "experience": "Not specified",
       "fitScore": 80,
@@ -925,34 +894,8 @@
       "isNew": true,
       "source": "Remotive",
       "matchScore": 0
-    },
-    {
-      "title": "High-Ticket Financial Sales Specialist & Team Lead Track",
-      "company": "FSE LLC",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/sales/high-ticket-financial-sales-specialist-team-lead-track-2090949",
-      "salary": "$3k - $10k",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
-    },
-    {
-      "title": "Inside Sales Contractor",
-      "company": "Credit Wellness, LLC",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "salary": "OTE $25k - $35k",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
     }
   ],
-  "totalJobs": 73,
-  "lastUpdated": "2026-07-09T04:30:19.569549+00:00"
+  "totalJobs": 67,
+  "lastUpdated": "2026-07-10T04:33:10.388364+00:00"
 }
