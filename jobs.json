@@ -17,6 +17,21 @@
       "matchScore": 45
     },
     {
+      "title": "Data Analyst",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Data Science at Stripe is a vibrant community where data analysts and data scientists learn and grow together. You&#39;ll work with some of the most fundamental and exciting data at Stripe, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background.&lt;/p&gt;\n&lt;h2&gt;What you&#39;ll do&lt;/h2&gt;\n&lt;p&gt;In this role, you&#39;ll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You&#39;ll work closely with partners to extract insights from rich and complex data at Stripe. You&#39;ll also work with leaders to translate business needs into data problems. You&#39;ll build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You&#39;ll deliver actionable business recommendations through analyses and data storytelling.&lt;/p&gt;\n&lt;h2&gt;Who you are&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;p&gt;• MS or MA + 2 years or BS or BA + 3 years of full-time experience exclusive of internships in Business Intelligence Engineering, Data Analyst, and Business Analyst roles&lt;/p&gt;\n&lt;p&gt;• Proficiency in SQL •&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;Proven ability to manage and deliver on multiple projects with great attention to detail&lt;/p&gt;\n&lt;p&gt;• Ability to clearly communicate results and drive impact&lt;/p&gt;\n&lt;p&gt;• Ability to design, implement, and maintain data pipelines and dashboards to generate actionable insights based on stakeholder requirements&lt;/p&gt;\n&lt;p&gt;• Experience collaborating with cross-functional teams to deliver strategic insights, benchmarks, and analyses that provide recommendations&lt;/p&gt;\n&lt;p&gt;• Ability to enable stakeholders and partners by building self-service tooling and providing training to empower stakeholder teams to be data literate and self-sufficient in autonomous reporting capabilities&lt;/p&gt;\n&lt;h3&gt;Preferred qualifications&lt;/h3&gt;\n&lt;p&gt;• Prior experience at a growth-stage internet or software company&lt;/p&gt;\n&lt;p&gt;• Experience with distributed data frameworks like Spark to write and debug data pipelines&lt;/p&gt;\n&lt;p&gt;• Good understanding of development processes and best practices like engineering standards, code reviews, and testing&lt;/p&gt;\n&lt;p&gt;• Strong statistical knowledge&lt;/p&gt;\n&lt;p&gt;• Working knowledge of Python&lt;/p&gt;\n&lt;p&gt;• Experience creating leadership-level reporting, such as QBRs and MBRs&lt;/p&gt;",
+      "skills": [
+        "python",
+        "sql"
+      ],
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "source": "Greenhouse",
+      "url": "https://stripe.com/jobs/search?gh_jid=7794729",
+      "matchScore": 40
+    },
+    {
       "title": "Staff Engineer, Data Engineering Solutions",
       "company": "Stripe",
       "location": "Bengaluru",
@@ -140,20 +155,6 @@
       "matchScore": 30
     },
     {
-      "title": "Staff Data Scientist, Growth",
-      "company": "Stripe",
-      "location": "N/A",
-      "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt;\n&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;You&#39;ll be joining the part of Stripe&#39;s data science organization that focuses on Growth and Go-to-Market efforts. Sample projects include, but are not limited to:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Leveraging a wide variety of tools such as experimentation, forecasting, personalization, and algorithmic recommendations to enable businesses to accelerate their journey to accept payments on Stripe, and find additional Stripe financial products that they need to grow their business&lt;/li&gt;\n&lt;li&gt;Delivering comprehensive ROI analysis for Stripe&#39;s growth marketing spend through rigorous measurement methodologies (marketing mix models, multi-touch attribution, lifetime value, long-term holdouts, etc.)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;You&#39;ll be a key strategic partner to the Growth (Product and Engineering), Marketing, Sales, and Finance and Strategy teams, developing both intelligent data products and insights, and creating end-to-end systems and measurement plans for accelerating Stripe&#39;s overall growth engine.&lt;/p&gt;\n&lt;h2&gt;What you&#39;ll do&lt;/h2&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Provide direction to cross-functional partners on business strategy for enabling Stripe&#39;s growth, leveraging your expertise in causal inference and experimentation, modeling, analytical insights, and data foundations.&lt;/li&gt;\n&lt;li&gt;Provide senior technical direction to data teams on horizontal technical areas, including experimentation, attribution, forecasting, observability, etc. Assume hands-on leadership, especially when helping teams resolve complex problems through iterative execution.&lt;/li&gt;\n&lt;li&gt;Identify broad company problems and opportunities that can be tackled through data science. Work with relevant teams to design and build the data science outputs that deliver outsized value to our users and our business.&lt;/li&gt;\n&lt;li&gt;Contribute to the overall strategy, roadmap, and vision of your data science team and organization.&lt;/li&gt;\n&lt;li&gt;Evangelize and inspire best practices across data science. Lead by example to build a culture of craftsmanship and innovation.&lt;/li&gt;\n&lt;li&gt;Provide mentorship to our data science talent to help them grow technically and professionally.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Who you are&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of data science experience or equivalent combined industry and research experience in a quantitative field&lt;/li&gt;\n&lt;li&gt;B.S., M.S., or Ph.D. in a quantitative field (e.g. Statistics, Mathematics, Economics, Operations Research, Quantitative Marketing, Physical Sciences, Engineering, etc.)&lt;/li&gt;\n&lt;li&gt;Experience with modern causal inference techniques&lt;/li&gt;\n&lt;li&gt;Demonstrated experience of leading organization-wide initiatives spanning multiple teams, or leveraging deep domain expertise to influence tech roadmap planning and execution&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to effectively collaborate across multiple teams and stakeholders to drive business outcomes&lt;/li&gt;\n&lt;li&gt;Experience creating alignment with stakeholders in ambiguous and complex situations&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to balance execution and velocity with research, statistical depth, and scalable design&lt;/li&gt;\n&lt;li&gt;Experience mentoring and investing in the development of peers&lt;/li&gt;\n&lt;li&gt;Proficiency with AI tools to accelerate model development, analysis, and coding&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong preference for experience working with Growth, Marketing Measurement, or Sales Automation teams&lt;/li&gt;\n&lt;li&gt;Experience in the end-to-end development and production implementation of machine learning, statistical, or forecasting frameworks (beyond building model prototypes)&lt;/li&gt;\n&lt;li&gt;Experience developing and deploying metrics and observability frameworks&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;",
-      "skills": [
-        "machine learning"
-      ],
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=7568328",
-      "matchScore": 30
-    },
-    {
       "title": "Staff Data Scientist, Security",
       "company": "Stripe",
       "location": "n/a",
@@ -198,18 +199,10 @@
       "matchScore": 30
     },
     {
-      "title": "AI Engineer (m/f/d) - Full Stack, TypeScript / Nuxt / Next / Vue / React",
-      "company": "Laioutr GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/laioutr-gmbh/ai-engineer-full-stack-typescript-nuxt-next-vue-react-berlin-265753",
-      "source": "Arbeitnow",
-      "matchScore": 25
-    },
-    {
       "title": "AI Engineer",
       "company": "Stripe",
       "location": "Chicago",
-      "description": "&lt;h1&gt;&lt;strong&gt;AI Engineer&lt;/strong&gt;&lt;/h1&gt;\n&lt;h2&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About The Team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Solutions Architecture (SA) organization helps Stripe&#39;s most strategic customers design and validate technical solutions that drive their business forward. Within SA, our team builds the tools, workflows, and custom technical assets that make the broader SA org more effective—turning individual ingenuity into org-wide capability.&lt;/p&gt;\n&lt;p&gt;We are looking for AI Engineers who are energized by working close to the business and the users we serve. You&#39;ll operate as an embedded, high-context engineer focused on the highest-leverage opportunities across the SA org—building production-quality tooling, supporting our most strategic engagements, and shipping automation that meaningfully improves how Solutions Architects work every day.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As an AI Engineer, you&#39;ll be embedded directly with the Solutions Architecture team—building alongside them, deeply understanding their workflows, and shipping tools and automation that permanently change how they operate. Your measure of success is SA productivity: the engagements you&#39;ve accelerated, the workflows you&#39;ve transformed, and the tools you&#39;ve built that the org adopts as default.&lt;/p&gt;\n&lt;p&gt;You&#39;ll ship code daily. You&#39;ll discover where SAs lose time and build high-impact solutions. You&#39;ll take what works for one person and scale it to work for the org. And when our most strategic customer engagements need custom technical assets, you&#39;ll build those too.&lt;/p&gt;\n&lt;p&gt;This is a role for someone who wants to work at the intersection of engineering and business impact—close to customers, close to revenue, and building for people you can see using your work every day.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Collaborate with Solutions Architects, SA leadership, Product, and Engineering to scope technical work and translate ambiguous business needs into well-defined deliverables&lt;/li&gt;\n&lt;li&gt;Evaluate and integrate AI capabilities (LLMs, agents, workflow automation) where they provide genuine leverage—not for novelty, but for measurable productivity improvement&lt;/li&gt;\n&lt;li&gt;Architect and build internal tools, agents, and automated workflows that accelerate SA and manager productivity across technical discovery, solution design, demoing, user engagements, territory/pipeline management, and product interlock&lt;/li&gt;\n&lt;li&gt;Take high-potential tools and workflows built by SAs and managers and harden them into scalable, maintainable, production-grade solutions&lt;/li&gt;\n&lt;li&gt;Identify patterns across SA workflows and proactively build solutions that address recurring friction&lt;/li&gt;\n&lt;li&gt;Build custom demo environments, PoC applications, and technical assets for Stripe&#39;s most strategic customer engagements&lt;/li&gt;\n&lt;li&gt;Document tools, architectures, and usage patterns so others can adopt and extend what you&#39;ve built&lt;/li&gt;\n&lt;li&gt;Debug, extend, and maintain backend systems across a variety of codebases and infrastructure&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum Requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;4+ years of experience as an engineer shipping production systems&lt;/li&gt;\n&lt;li&gt;Strong backend engineering fundamentals: you can debug a failing system, trace issues across services, and reason about data flows&lt;/li&gt;\n&lt;li&gt;Experience building and deploying AI agents, LLM-powered tools, or workflow automation beyond basic prompt engineering&lt;/li&gt;\n&lt;li&gt;Experience scoping and delivering work with minimal oversight in a fast-moving, cross-functional environment&lt;/li&gt;\n&lt;li&gt;Proficiency in at least two of: Ruby, Node.js, Python, or Next.js&lt;/li&gt;\n&lt;li&gt;Familiarity with cloud infrastructure (AWS, GCP) including deployment, monitoring, and basic DevOps&lt;/li&gt;\n&lt;li&gt;Experience building internal tools, developer platforms, or workflow automation&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to work across multiple codebases and technology stacks simultaneously&lt;/li&gt;\n&lt;li&gt;Hands-on experience using AI/LLM tools in your engineering workflow—you&#39;re fluent with AI-assisted development but not dependent on it; you can reason through problems and debug without AI as a crutch&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication skills; you can translate technical decisions for non-technical stakeholders and navigate cross-functional collaboration naturally&lt;/li&gt;\n&lt;li&gt;Comfort with ambiguity—you can take a loosely-defined business problem, scope the engineering work, and ship iteratively without waiting for a perfect spec&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience designing systems that non-engineers can build on top of or extend themselves (e.g., platforms, low-code frameworks, template systems)&lt;/li&gt;\n&lt;li&gt;Experience in a Solutions Engineering, Sales Engineering, or GTM Engineering role—or a product engineering role where you worked closely with customers or go-to-market teams&lt;/li&gt;\n&lt;li&gt;Familiarity with Stripe&#39;s products, APIs, or the payments/fintech domain&lt;/li&gt;\n&lt;li&gt;Experience integrating with third-party platforms (Salesforce, Gong, etc.)&lt;/li&gt;\n&lt;li&gt;Track record of building tools or systems that were adopted beyond your immediate team&lt;/li&gt;\n&lt;li&gt;Background in consulting, professional services, or other roles that blend technical depth with business context&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who You Are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Beyond the technical requirements, we&#39;re looking for a specific kind of engineer:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;You want to be close to the business.&lt;/strong&gt; You&#39;re energized by seeing your work directly impact how a sales team wins a deal or how a customer succeeds.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You&#39;re a pragmatic builder.&lt;/strong&gt; You ship working solutions quickly, iterate based on real usage, and know when &quot;good enough now&quot; beats &quot;perfect later.&quot; You&#39;d rather show a working prototype today than present a roadmap deck next quarter.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You&#39;re a software engineer by practice.&lt;/strong&gt; You can architect systems, debug production issues, write clean code, and reason about tradeoffs. AI is a tool in your belt, not a substitute for engineering judgment.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You&#39;re a pattern recognizer.&lt;/strong&gt; When you build something that works for one person, you immediately see how it generalizes. You think in reusable systems, not one-off scripts.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You thrive without a traditional product team structure.&lt;/strong&gt; No PRDs landing in your lap, no dedicated PM, no sprint ceremonies. You identify the highest-leverage problem, scope the work, and ship it. You&#39;re comfortable trading on-call rotations and rigid processes for autonomy and impact.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You&#39;re a strong communicator.&lt;/strong&gt; You can partner with SAs who are domain experts, understand their workflows deeply enough to build great tools, and explain your technical choices to leadership.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About The Team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Solutions Architecture (SA) organization helps Stripe&#39;s most strategic customers design and validate technical solutions that drive their business forward. Within SA, our team builds the tools, workflows, and custom technical assets that make the broader SA org more effective—turning individual ingenuity into org-wide capability.&lt;/p&gt;\n&lt;p&gt;We are looking for AI Engineers who are energized by working close to the business and the users we serve. You&#39;ll operate as an embedded, high-context engineer focused on the highest-leverage opportunities across the SA org—building production-quality tooling, supporting our most strategic engagements, and shipping automation that meaningfully improves how Solutions Architects work every day.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As an AI Engineer, you&#39;ll be embedded directly with the Solutions Architecture team—building alongside them, deeply understanding their workflows, and shipping tools and automation that permanently change how they operate. Your measure of success is SA productivity: the engagements you&#39;ve accelerated, the workflows you&#39;ve transformed, and the tools you&#39;ve built that the org adopts as default.&lt;/p&gt;\n&lt;p&gt;You&#39;ll ship code daily. You&#39;ll discover where SAs lose time and build high-impact solutions. You&#39;ll take what works for one person and scale it to work for the org. And when our most strategic customer engagements need custom technical assets, you&#39;ll build those too.&lt;/p&gt;\n&lt;p&gt;This is a role for someone who wants to work at the intersection of engineering and business impact—close to customers, close to revenue, and building for people you can see using your work every day.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Collaborate with Solutions Architects, SA leadership, Product, and Engineering to scope technical work and translate ambiguous business needs into well-defined deliverables&lt;/li&gt;\n&lt;li&gt;Evaluate and integrate AI capabilities (LLMs, agents, workflow automation) where they provide genuine leverage—not for novelty, but for measurable productivity improvement&lt;/li&gt;\n&lt;li&gt;Architect and build internal tools, agents, and automated workflows that accelerate SA and manager productivity across technical discovery, solution design, demoing, user engagements, territory/pipeline management, and product interlock&lt;/li&gt;\n&lt;li&gt;Take high-potential tools and workflows built by SAs and managers and harden them into scalable, maintainable, production-grade solutions&lt;/li&gt;\n&lt;li&gt;Identify patterns across SA workflows and proactively build solutions that address recurring friction&lt;/li&gt;\n&lt;li&gt;Build custom demo environments, PoC applications, and technical assets for Stripe&#39;s most strategic customer engagements&lt;/li&gt;\n&lt;li&gt;Document tools, architectures, and usage patterns so others can adopt and extend what you&#39;ve built&lt;/li&gt;\n&lt;li&gt;Debug, extend, and maintain backend systems across a variety of codebases and infrastructure&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum Requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;4+ years of experience as an engineer shipping production systems&lt;/li&gt;\n&lt;li&gt;Strong backend engineering fundamentals: you can debug a failing system, trace issues across services, and reason about data flows&lt;/li&gt;\n&lt;li&gt;Experience building and deploying AI agents, LLM-powered tools, or workflow automation beyond basic prompt engineering&lt;/li&gt;\n&lt;li&gt;Experience scoping and delivering work with minimal oversight in a fast-moving, cross-functional environment&lt;/li&gt;\n&lt;li&gt;Proficiency in at least two of: Ruby, Node.js, Python, or Next.js&lt;/li&gt;\n&lt;li&gt;Familiarity with cloud infrastructure (AWS, GCP) including deployment, monitoring, and basic DevOps&lt;/li&gt;\n&lt;li&gt;Experience building internal tools, developer platforms, or workflow automation&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to work across multiple codebases and technology stacks simultaneously&lt;/li&gt;\n&lt;li&gt;Hands-on experience using AI/LLM tools in your engineering workflow—you&#39;re fluent with AI-assisted development but not dependent on it; you can reason through problems and debug without AI as a crutch&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication skills; you can translate technical decisions for non-technical stakeholders and navigate cross-functional collaboration naturally&lt;/li&gt;\n&lt;li&gt;Comfort with ambiguity—you can take a loosely-defined business problem, scope the engineering work, and ship iteratively without waiting for a perfect spec&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience designing systems that non-engineers can build on top of or extend themselves (e.g., platforms, low-code frameworks, template systems)&lt;/li&gt;\n&lt;li&gt;Experience in a Solutions Engineering, Sales Engineering, or GTM Engineering role—or a product engineering role where you worked closely with customers or go-to-market teams&lt;/li&gt;\n&lt;li&gt;Familiarity with Stripe&#39;s products, APIs, or the payments/fintech domain&lt;/li&gt;\n&lt;li&gt;Experience integrating with third-party platforms (Salesforce, Gong, etc.)&lt;/li&gt;\n&lt;li&gt;Track record of building tools or systems that were adopted beyond your immediate team&lt;/li&gt;\n&lt;li&gt;Background in consulting, professional services, or other roles that blend technical depth with business context&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who You Are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Beyond the technical requirements, we&#39;re looking for a specific kind of engineer:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;You want to be close to the business.&lt;/strong&gt; You&#39;re energized by seeing your work directly impact how a sales team wins a deal or how a customer succeeds.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You&#39;re a pragmatic builder.&lt;/strong&gt; You ship working solutions quickly, iterate based on real usage, and know when &quot;good enough now&quot; beats &quot;perfect later.&quot; You&#39;d rather show a working prototype today than present a roadmap deck next quarter.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You&#39;re a software engineer by practice.&lt;/strong&gt; You can architect systems, debug production issues, write clean code, and reason about tradeoffs. AI is a tool in your belt, not a substitute for engineering judgment.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You&#39;re a pattern recognizer.&lt;/strong&gt; When you build something that works for one person, you immediately see how it generalizes. You think in reusable systems, not one-off scripts.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You thrive without a traditional product team structure.&lt;/strong&gt; No PRDs landing in your lap, no dedicated PM, no sprint ceremonies. You identify the highest-leverage problem, scope the work, and ship it. You&#39;re comfortable trading on-call rotations and rigid processes for autonomy and impact.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You&#39;re a strong communicator.&lt;/strong&gt; You can partner with SAs who are domain experts, understand their workflows deeply enough to build great tools, and explain your technical choices to leadership.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
       "skills": [
         "python"
       ],
@@ -266,7 +259,7 @@
     {
       "title": "Staff Software Engineer, Machine Learning Platform",
       "company": "Stripe",
-      "location": "Toronto",
+      "location": "San Francisco, Seattle",
       "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Stripe processes over $1.9T in payments volume per year, which is roughly 1.6% of the world&#39;s GDP, for millions of customers from startups to enterprises. The tremendous amount of data makes Stripe one of the best places to do machine learning. While being an integral part of almost every product line at Stripe (e.g., Payments, Radar, Capital, Billing, etc.), we have lots of exciting opportunities to innovate in ML Platform at Stripe.&lt;/p&gt;\n&lt;p&gt;The ML Platform team builds the platforms and services that enable ML engineers and data scientists across Stripe to take data and build features and models from prototype to production—reliably, at low latency, and at scale. Our scope spans ML training infrastructure, model serving and deployment, feature computation and online serving, observability and monitoring, and agentic AI capabilities. We work closely with product teams, data scientists, and platform infrastructure teams to build powerful, flexible, and user-friendly systems that substantially increase ML velocity across the company.&lt;/p&gt;\n&lt;h2&gt;What you&#39;ll do&lt;/h2&gt;\n&lt;p&gt;You&#39;ll serve as a technical lead across the ML Platform space and a key contributor to the evolution of the platforms that power Stripe&#39;s ML-driven products. As a Staff Engineer, you&#39;ll make decisions with a large impact on Stripe. You&#39;ll influence our investments and strategy while making our systems more reliable, secure, and a delight to use. You&#39;ll work cross-functionally with other technical staff, data science, product, and senior leadership to increase the impact of ML at Stripe.&lt;/p&gt;\n&lt;p&gt;You&#39;ll help define the long-term strategy and lead the technical direction for the next generation of ML infrastructure that powers Stripe&#39;s ML-driven products.&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Take ownership of end-to-end architecture and system design for large, complex projects across ML Platform.&lt;/li&gt;\n&lt;li&gt;Define technical direction for highly ambiguous projects, transforming complex user needs into long-lasting platform strategy.&lt;/li&gt;\n&lt;li&gt;Design system architectures for the most challenging ML Platform problems in one or more areas, including AI and ML workflow orchestration, scalable CPU and GPU compute infrastructure, model training, LLM fine-tuning, low-latency model inference, large-scale feature stores, real-time monitoring, and LLM and agent orchestration.&lt;/li&gt;\n&lt;li&gt;Turn high-leverage ideas into tangible, robust solutions that shape platform and product roadmap, combining technical excellence with creative problem-solving.&lt;/li&gt;\n&lt;li&gt;Scope and lead large projects with significant business impact, driving them from requirements through design, implementation, and production operation.&lt;/li&gt;\n&lt;li&gt;Work with ML engineers, data scientists, and product teams directly to translate their needs into functional requirements and scalable technical solutions.&lt;/li&gt;\n&lt;li&gt;Arbitrate critical decisions that balance competing priorities while meeting latency, reliability, cost, and security constraints.&lt;/li&gt;\n&lt;li&gt;Serve as a key engineering representative, engaging senior leaders across Stripe and advising the leadership team on key technical considerations related to the end-to-end ML lifecycle.&lt;/li&gt;\n&lt;li&gt;Drive cross-team technical initiatives that improve ML development velocity and MLOps maturity across the company.&lt;/li&gt;\n&lt;li&gt;Mentor and grow other engineers. Serve as a role model for designing, implementing, and operating great software systems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Who you are&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of professional software development experience, or equivalent domain expertise, with a solid background in service-oriented architecture and large-scale distributed systems.&lt;/li&gt;\n&lt;li&gt;Track record of serving as a technical lead, with the ability to provide technical direction, lead multi-team initiatives, and mentor team members.&lt;/li&gt;\n&lt;li&gt;Experience building and operating production ML platform in one or more areas such as model training, model serving, orchestration, or ML data systems, with requirements for performance, reliability, scalability, and cost efficiency.&lt;/li&gt;\n&lt;li&gt;Strong product instincts and a deep understanding of the business context in which you operate.&lt;/li&gt;\n&lt;li&gt;Strong communication skills with the ability to explain complex technical concepts to both technical and non-technical stakeholders.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to work cross-functionally, collaborating effectively with ML engineers, data scientists, software engineers, product managers, and business stakeholders.&lt;/li&gt;\n&lt;li&gt;The ability to thrive on a high level of autonomy and responsibility, and comfort operating in ambiguous environments.&lt;/li&gt;\n&lt;li&gt;Hands-on experience using AI tools to accelerate how you work.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building large-scale ML training, serving, or data infrastructure for machine learning use cases, such as distributed training, model inference, feature stores, real-time feature computation, and model registries.&lt;/li&gt;\n&lt;li&gt;Experience with distributed ML training systems, accelerator-backed compute, training data pipelines, experiment tracking, and model evaluation.&lt;/li&gt;\n&lt;li&gt;Experience rapidly developing prototypes and iterating based on user feedback.&lt;/li&gt;\n&lt;li&gt;Experience training and shipping machine learning models to production to solve critical business problems.&lt;/li&gt;\n&lt;li&gt;Familiarity with LLMs, LLM application frameworks, and agentic AI patterns (e.g., tool use, multi-agent orchestration, retrieval-augmented generation).&lt;/li&gt;\n&lt;li&gt;Familiarity with cloud services (e.g., AWS) and cloud-based AI and ML services (e.g., SageMaker, Bedrock, Databricks, OpenAI).&lt;/li&gt;\n&lt;li&gt;Ability to synthesize ideas across the organization while setting a compelling technical vision.&lt;/li&gt;\n&lt;li&gt;Comfortable working with geographically distributed teams.&lt;/li&gt;\n&lt;li&gt;Passion for side projects, open source, or self-driven technical initiatives.&lt;/li&gt;\n&lt;/ul&gt;",
       "skills": [
         "machine learning",
@@ -275,7 +268,7 @@
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=7712852",
+      "url": "https://stripe.com/jobs/search?gh_jid=7939868",
       "matchScore": 25
     },
     {
@@ -308,36 +301,23 @@
       "matchScore": 25
     },
     {
-      "title": "Praktikum im Bereich Prototyping & Data für Automotive Computer Vision",
-      "company": "Simi Reality Motion Systems GmbH",
-      "location": "Unterschleißheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/simi-reality-motion-systems-gmbh/praktikum-im-bereich-prototyping-data-fur-automotive-computer-vision-unterschleissheim-199311",
-      "source": "Arbeitnow",
-      "matchScore": 20
-    },
-    {
-      "title": "Data Analyst",
-      "company": "Grow the Roses",
-      "location": "Only, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-grow-the-roses-1134778",
+      "title": "Data Analyst Excel",
+      "company": "JobsInMass.com",
+      "location": "Boston, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-excel-jobsinmass-com-1134777",
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "RemoteOK",
       "matchScore": 20
     },
     {
-      "title": "Data Analyst",
-      "company": "Stripe",
-      "location": "Canada",
-      "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Data Science at Stripe is a vibrant community where data analysts and data scientists learn and grow together. You&#39;ll work with some of the most fundamental data at Stripe, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;In this role, you&#39;ll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You&#39;ll work closely with partners to extract insights from the rich and complex data at Stripe. You&#39;ll also work with leaders to translate business needs into data problems. You&#39;ll build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You&#39;ll deliver actionable business recommendations through analyses and data storytelling.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;MS/MA + 2 years or BS/BA + 3 years of full-time experience exclusive of internships in Business Intelligence Engineering, Data Analyst, and Business Analyst roles&lt;/li&gt;\n&lt;li&gt;Proficiency in SQL&lt;/li&gt;\n&lt;li&gt;Proven ability to manage and deliver on multiple projects with great attention to detail&lt;/li&gt;\n&lt;li&gt;Ability to clearly communicate results and drive impact&lt;/li&gt;\n&lt;li&gt;Ability to design, implement, and maintain data pipelines and dashboards to generate actionable insights based on stakeholder requirements&lt;/li&gt;\n&lt;li&gt;Experience collaborating with cross-functional teams to deliver strategic insights, benchmarks, and analyses that provide recommendations&lt;/li&gt;\n&lt;li&gt;Ability to enable stakeholders and partners by building self-service tooling and providing training to empower stakeholder teams to be data literate and self-sufficient in autonomous reporting capabilities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Prior experience at a growth-stage internet or software company&lt;/li&gt;\n&lt;li&gt;Experience with distributed data frameworks like Spark to write and debug data pipelines&lt;/li&gt;\n&lt;li&gt;Good understanding of development processes and best practices like engineering standards, code reviews, and testing&lt;/li&gt;\n&lt;li&gt;Strong statistical knowledge&lt;/li&gt;\n&lt;li&gt;Working knowledge of Python&lt;/li&gt;\n&lt;li&gt;Experience creating leadership-level reporting, such as QBRs, MBRs&lt;/li&gt;\n&lt;li&gt;Proficiency with AI tools to accelerate model development, analysis, and coding&lt;/li&gt;\n&lt;/ul&gt;",
-      "skills": [
-        "python",
-        "sql"
-      ],
+      "title": "Data Analyst Healthcare",
+      "company": "City of Hope",
+      "location": "United States, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-healthcare-city-of-hope-1134759",
       "salary": "Not specified",
       "experience": "Not specified",
-      "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=5416444",
+      "source": "RemoteOK",
       "matchScore": 20
     },
     {
@@ -460,22 +440,6 @@
       "matchScore": 10
     },
     {
-      "title": "Senior Machine Learning Engineer (m/f/*)",
-      "company": "Peregrine Technologies GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/peregrine-technologies-gmbh/senior-machine-learning-engineer-m-f-berlin-422797",
-      "source": "Arbeitnow",
-      "matchScore": 5
-    },
-    {
-      "title": "Senior AI Engineering Consultant (w/m/d)",
-      "company": "BAG - Lünen",
-      "location": "Lünen",
-      "url": "https://www.arbeitnow.com/jobs/companies/bag-lunen/senior-ai-engineering-consultant-lunen-118081",
-      "source": "Arbeitnow",
-      "matchScore": 5
-    },
-    {
       "title": "Senior AI Engineer",
       "company": "Datadog",
       "location": "Paris, France",
@@ -532,51 +496,104 @@
       "matchScore": 5
     },
     {
-      "title": "Founder's Associate - AI & Process Optimisation (Intern & Fulltime)",
-      "company": "Heidi Systems",
+      "title": "Google-Ads Account Manager | Fokus E-Commerce (m/w/d) | Frankfurt am Main",
+      "company": "Hitaj Digital GmbH",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/hitaj-digital-gmbh/google-ads-account-manager-fokus-e-commerce-frankfurt-am-main-234979",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Communication, Brand & Campaign Manager*in (m/w/d)",
+      "company": "Initiative für wirtschaftliche Jugendbildung (IWJB)",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/initiative-fur-wirtschaftliche-jugendbildung-iwjb/communication-brand-campaign-managerin-frankfurt-am-main-152763",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Junior SEA/Google Ads-Account Manager | E-Commerce Fokus (m/w/d) | Frankfurt am Main",
+      "company": "Hitaj Digital GmbH",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/hitaj-digital-gmbh/junior-sea-google-ads-account-manager-e-commerce-fokus-frankfurt-am-main-376263",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Lead Social Media Campaigning, in Vollzeit",
+      "company": "tgf media e.V.",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/heidi-systems/founders-associate-ai-process-optimisation-intern-fulltime-berlin-329704",
+      "url": "https://www.arbeitnow.com/jobs/companies/tgf-media-ev/lead-social-media-campaigning-in-vollzeit-berlin-446351",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Werkstudent Retail Media / Marketplace (m/w/d)",
-      "company": "Nakoa Digital GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/nakoa-digital-gmbh/werkstudent-retail-media-marketplace-munich-232963",
+      "title": "Performance Marketer (m/w/d) - Meta Ads × AI × Creative Strategy | High-AOV E-Commerce",
+      "company": "Divinely",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/divinely/performance-marketer-meta-ads-ai-creative-strategy-high-aov-e-commerce-cologne-164952",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Product Marketing Manager Sea Domain (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Rostock",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-product-marketing-manager-sea-domain-rostock-444987",
+      "title": "Growth Marketer (m/w/d) Meta Ads für E-Commerce | AI-native Boutique-Agentur, Online Marketing",
+      "company": "Divinely",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/divinely/growth-marketer-meta-ads-fur-e-commerce-ai-native-boutique-agentur-online-marketing-cologne-241602",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Engineering Manager, Supply Domain (all genders)",
-      "company": "Distribusion Technologies",
+      "title": "Senior Full Stack Engineer- Python (m/f/d)",
+      "company": "Flix",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-full-stack-engineer-python-berlin-464084",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Solution Architect (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Nürnberg, Mittelfranken",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/ai-solution-architect-nurnberg-mittelfranken-42347",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Digital Campaign Manager",
+      "company": "advanced store GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/senior-engineering-manager-supply-domain-all-genders-berlin-309048",
+      "url": "https://www.arbeitnow.com/jobs/companies/advanced-store-gmbh/digital-campaign-manager-berlin-255849",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Technical Project Manager Heartbeat AI (m/f/d)",
-      "company": "1KOMMA5˚",
+      "title": "Staff Software Engineer - AI Data Platform & Snowflake (d/f/m, Berlin)",
+      "company": "Monda Labs",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/technical-project-manager-heartbeat-ai-berlin-478987",
+      "url": "https://www.arbeitnow.com/jobs/companies/monda-labs/staff-software-engineer-ai-data-platform-snowflake-berlin-75874",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Platform Engineer / DevOps (m/f/d) | AI GovTech Startup | Munich",
-      "company": "Ayunis",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/ayunis/platform-engineer-devops-ai-govtech-startup-munich-225129",
+      "title": "Software Engineer, Data Infrastructure & Acquisition - Munich, Germany",
+      "company": "Speechify",
+      "location": "Munich, Bavaria, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-munich-germany-382903",
       "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Product Engineer (Fullstack)",
+      "company": "Clipster",
+      "location": "Europe, UK, Germany, France, European timezones",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
+      "salary": "",
+      "experience": "Not specified",
+      "fitScore": 80,
+      "category": "Remote",
+      "isNew": true,
+      "source": "Remotive",
       "matchScore": 0
     },
     {
@@ -1022,6 +1039,6 @@
       "matchScore": 0
     }
   ],
-  "totalJobs": 78,
-  "lastUpdated": "2026-07-14T03:44:09.637477+00:00"
+  "totalJobs": 80,
+  "lastUpdated": "2026-07-15T03:44:30.634094+00:00"
 }
