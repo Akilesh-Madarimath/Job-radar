@@ -97,16 +97,6 @@
       "matchScore": 35
     },
     {
-      "title": "Graduate Data Scientist",
-      "company": "Work Force Nexus",
-      "location": "Australia, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-data-scientist-work-force-nexus-1134707",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "source": "RemoteOK",
-      "matchScore": 30
-    },
-    {
       "title": "Data Scientist",
       "company": "Stripe",
       "location": "Toronto",
@@ -197,6 +187,14 @@
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
       "matchScore": 30
+    },
+    {
+      "title": "Engineer Applied AI Engineering & Full-Stack (m/w/d)",
+      "company": "Foxio Consulting GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/foxio-consulting-gmbh/engineer-applied-ai-engineering-full-stack-berlin-339455",
+      "source": "Arbeitnow",
+      "matchScore": 25
     },
     {
       "title": "AI Engineer",
@@ -299,6 +297,14 @@
       "source": "Greenhouse",
       "url": "https://careers.datadoghq.com/detail/8015588/?gh_jid=8015588",
       "matchScore": 25
+    },
+    {
+      "title": "GenAI / Agentic AI Solutions Architect (all genders)",
+      "company": "Accenture",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/accenture/genai-agentic-ai-solutions-architect-all-genders-frankfurt-am-main-154233",
+      "source": "Arbeitnow",
+      "matchScore": 20
     },
     {
       "title": "Data Analyst Excel",
@@ -407,6 +413,14 @@
       "matchScore": 20
     },
     {
+      "title": "Pflichtpraktikum Backend Softwareentwicklung & KI (m/w/d) - Python, APIs & MedTech",
+      "company": "Think3DDD GbR",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/think3ddd-gbr/pflichtpraktikum-backend-softwareentwicklung-ki-python-apis-medtech-berlin-247930",
+      "source": "Arbeitnow",
+      "matchScore": 15
+    },
+    {
       "title": "Senior Machine Learning Engineer, CX Intelligence ",
       "company": "Coinbase",
       "location": "Remote - Brazil",
@@ -496,90 +510,74 @@
       "matchScore": 5
     },
     {
-      "title": "Google-Ads Account Manager | Fokus E-Commerce (m/w/d) | Frankfurt am Main",
-      "company": "Hitaj Digital GmbH",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/hitaj-digital-gmbh/google-ads-account-manager-fokus-e-commerce-frankfurt-am-main-234979",
+      "title": "Trainee Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "location": "Mülheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-388002",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Communication, Brand & Campaign Manager*in (m/w/d)",
-      "company": "Initiative für wirtschaftliche Jugendbildung (IWJB)",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/initiative-fur-wirtschaftliche-jugendbildung-iwjb/communication-brand-campaign-managerin-frankfurt-am-main-152763",
+      "title": "Lead AI Product Manager (f/m/d)",
+      "company": "Predium Technology GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/predium-technology-gmbh/lead-ai-product-manager-munich-404573",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Junior SEA/Google Ads-Account Manager | E-Commerce Fokus (m/w/d) | Frankfurt am Main",
-      "company": "Hitaj Digital GmbH",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/hitaj-digital-gmbh/junior-sea-google-ads-account-manager-e-commerce-fokus-frankfurt-am-main-376263",
+      "title": "Email Marketing / CRM Account Manager (Klaviyo / E-Commerce) (w/m/d) + AI Automatisierung - Düsseldorf",
+      "company": "Lyto Brands Group",
+      "location": "Düsseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/lyto-brands-group/email-marketing-crm-account-manager-klaviyo-e-commerce-ai-automatisierung-dusseldorf-486524",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Lead Social Media Campaigning, in Vollzeit",
-      "company": "tgf media e.V.",
+      "title": "Senior Account Executive / Business Development Manager (m/w/d) Moderner GTM & AI Stack |100 % Remote",
+      "company": "RX-WATERTEC GmbH",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/rx-watertec-gmbh/business-development-manager-senior-account-executive-moderner-gtm-ai-stack-100-remote-karlsruhe-481719",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Working Student - Retail Sales Operations",
+      "company": "Wolt - English",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/working-student-retail-sales-operations-berlin-3956",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Junior Paid Search Specialist",
+      "company": "Cyrus Digital GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/cyrus-digital-gmbh/junior-paid-search-specialist-munich-399539",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Trainee SEA Manager",
+      "company": "Cyrus Digital GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/cyrus-digital-gmbh/trainee-sea-manager-munich-457471",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Creative Designer Paid Social - Vollzeit (m/w/d)",
+      "company": "Stronger GmbH",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/stronger-gmbh/senior-creative-designer-paid-social-vollzeit-hamburg-107095",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Workings Student Tax & Finance (f/m/d) - AI Tax Startup",
+      "company": "Taxforce Services",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/tgf-media-ev/lead-social-media-campaigning-in-vollzeit-berlin-446351",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Performance Marketer (m/w/d) - Meta Ads × AI × Creative Strategy | High-AOV E-Commerce",
-      "company": "Divinely",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/divinely/performance-marketer-meta-ads-ai-creative-strategy-high-aov-e-commerce-cologne-164952",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Growth Marketer (m/w/d) Meta Ads für E-Commerce | AI-native Boutique-Agentur, Online Marketing",
-      "company": "Divinely",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/divinely/growth-marketer-meta-ads-fur-e-commerce-ai-native-boutique-agentur-online-marketing-cologne-241602",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Full Stack Engineer- Python (m/f/d)",
-      "company": "Flix",
-      "location": "Berlin, Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-full-stack-engineer-python-berlin-464084",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Solution Architect (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Nürnberg, Mittelfranken",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/ai-solution-architect-nurnberg-mittelfranken-42347",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Digital Campaign Manager",
-      "company": "advanced store GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/advanced-store-gmbh/digital-campaign-manager-berlin-255849",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Staff Software Engineer - AI Data Platform & Snowflake (d/f/m, Berlin)",
-      "company": "Monda Labs",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/monda-labs/staff-software-engineer-ai-data-platform-snowflake-berlin-75874",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Munich, Germany",
-      "company": "Speechify",
-      "location": "Munich, Bavaria, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-munich-germany-382903",
+      "url": "https://www.arbeitnow.com/jobs/companies/taxforce-services/workings-student-tax-finance-ai-tax-startup-berlin-72198",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -1024,21 +1022,8 @@
       "isNew": true,
       "source": "Remotive",
       "matchScore": 0
-    },
-    {
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "salary": "$170k - $200k",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
     }
   ],
-  "totalJobs": 80,
-  "lastUpdated": "2026-07-15T03:44:30.634094+00:00"
+  "totalJobs": 79,
+  "lastUpdated": "2026-07-16T03:46:45.969908+00:00"
 }
