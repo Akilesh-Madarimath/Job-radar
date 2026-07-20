@@ -514,6 +514,30 @@
       "matchScore": 5
     },
     {
+      "title": "Senior Data Engineer",
+      "company": "GLS/NXT",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/glsnxt/senior-data-engineer-berlin-391080",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Nail Artist/ Nail Tech",
+      "company": "Unfrämed Berlin",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/unframed-berlin/nail-artist-nail-tech-berlin-496125",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Steuerberater (m/w/d) in Mühlheim am Main, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "company": "Taxtalente.de",
+      "location": "Mühlheim am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-muhlheim-am-main-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-388615",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
       "title": "Senior SEO Consultant (m/w/d) | Focus on Organic Search & AI | 100% Remote",
       "company": "hurra.com",
       "location": "Stuttgart",
@@ -550,14 +574,6 @@
       "company": "HOPn UG",
       "location": "Puchheim",
       "url": "https://www.arbeitnow.com/jobs/companies/hopn-ug/frontend-developer-intern-unpaid-puchheim-124552",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Bachelorarbeit (m/w/d) – KI-gestützte Automatisierung des Datenimports im Data Warehouse",
-      "company": "accantec group",
-      "location": "Heidelberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/accantec-group/bachelorarbeit-ki-gestutzte-automatisierung-des-datenimports-im-data-warehouse-heidelberg-199638",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -1056,6 +1072,6 @@
       "matchScore": 0
     }
   ],
-  "totalJobs": 79,
-  "lastUpdated": "2026-07-19T04:03:17.979442+00:00"
+  "totalJobs": 81,
+  "lastUpdated": "2026-07-20T04:13:22.184899+00:00"
 }
