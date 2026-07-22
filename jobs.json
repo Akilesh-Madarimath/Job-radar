@@ -17,22 +17,6 @@
       "matchScore": 45
     },
     {
-      "title": "Staff Engineer, Data Engineering Solutions",
-      "company": "Stripe",
-      "location": "Bengaluru",
-      "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;We&#39;re experts in data, working to make it cost-effective, understandable, and trustworthy. We build pipelines processing billions of events a day and are stewards of canonical data warehouses and datasets delivering products for Stripe Users while embedding with teams to build their data products. We&#39;re experts in using the Stripe Data Platform and to scale we lead the data culture and data education to enable product teams to own their data. We invest in AI Data Ops to scale incident handling and serve as an escalation path for data incidents to minimize their impact. The Data Engineering Solutions team works closely with product teams delivering trustworthy data, backend code, and innovative AI tools, platforms, and services for data.&lt;/p&gt;\n&lt;h2&gt;What you&#39;ll do&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for a person who drives the Data Engineering Solutions Team in solving high-impact, cutting-edge data problems. The ideal candidate is someone who has built data pipelines for large-scale volume, is deeply knowledgeable of Data Engineering tools including Airflow, Spark, Kafka, and Flink, is empathetic, excels at building strong relationships, and collaborates effectively with other Stripe teams to understand their use cases and unlock new capabilities.&lt;/p&gt;\n&lt;p&gt;• Lead the technical outcomes for a team of ambitious, talented engineers, providing mentorship, guidance, and support to ensure their success&lt;/p&gt;\n&lt;p&gt;• Partner with our recruiting team to attract and hire top talent. • Deliver cutting-edge data pipelines that scale to users&#39; needs, focusing on reliability and efficiency&lt;/p&gt;\n&lt;p&gt;• Develop strong subject matter expertise and manage the SLAs of data pipelines and full-stack web applications that support critical stakeholders&lt;/p&gt;\n&lt;p&gt;• Collaborate with product managers and peers across the company to create and improve canonical datasets and data warehouses, use golden paths, and ensure Stripe employees and customers are using trustworthy data&lt;/p&gt;\n&lt;p&gt;• Leverage AI, LLM, and Agents at scale to produce and analyze high-quality data on ambiguous problems&lt;/p&gt;\n&lt;p&gt;• Have an opportunity to work with Spark, Flink, Kafka, Trino, Pinot, Airflow, Scala, Java, SQL, and Python, and many other big data technologies&lt;/p&gt;\n&lt;p&gt;• Have the opportunity to drive the execution of key data initiatives for Stripe, overseeing the entire development lifecycle from planning to delivery while maintaining high standards of quality and timely completion&lt;/p&gt;\n&lt;p&gt;• Foster a collaborative and inclusive work environment, promoting innovation, knowledge sharing, and continuous improvement within the team&lt;/p&gt;\n&lt;h2&gt;Who you are&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;p&gt;• 10+ years of engineering experience with 5+ years of hands-on experience building and operating data systems and pipelines, datasets and data warehouses, infrastructure, and leading small teams to deliver excellent solutions&lt;/p&gt;\n&lt;p&gt;• A strong engineering background and passion for data&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;• Prior experience with writing and debugging data pipelines using a distributed data framework (Spark, Hadoop, Trino, etc.)&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;• An inquisitive nature in diving into data inconsistencies to pinpoint issues, and resolve deep-rooted data quality issues&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;• Knowledge of a backend development language (such as Scala, Java, or Go) and strong SQL experience&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;• Strong customer focus, with a commitment to partnering with Product Managers, leaders, and other Stripe engineers to understand their use cases&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;• Effective cross-functional collaboration, with the ability to think rigorously, communicate clearly, and make or coordinate difficult decisions and trade-offs&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;• Thrive with high autonomy and responsibility in an ambiguous environment&lt;/p&gt;\n&lt;p&gt;• Ability to foster and work in a healthy, inclusive, challenging, and supportive work environment&lt;/p&gt;\n&lt;h3&gt;Preferred qualifications&lt;/h3&gt;\n&lt;p&gt;• Expertise in Iceberg, Kafka, Change Data Capture, Flink, Spark, Airflow, Hive Metastore, Pinot, Trino, and AWS Cloud, and experience influencing open-source contributions&lt;/p&gt;\n&lt;p&gt;• Experience creating and maintaining Data Marts and Data Warehouses to power business reporting needs&lt;/p&gt;\n&lt;p&gt;• Experience working with Product or Go-to-Market (GTM—Sales and Marketing) teams&lt;/p&gt;\n&lt;p&gt;• Genuine enjoyment of innovation and a deep interest in understanding how things work, with the ability to question and direct architectural decisions&lt;/p&gt;\n&lt;p&gt;• Strong written and verbal communication skills for various audiences, including leadership, users, and company-wide stakeholders&lt;/p&gt;",
-      "skills": [
-        "python",
-        "sql",
-        "excel"
-      ],
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=7548037",
-      "matchScore": 40
-    },
-    {
       "title": "Machine Learning Engineer, CX Intelligence",
       "company": "Coinbase",
       "location": "Remote - Brazil",
@@ -292,18 +276,12 @@
       "matchScore": 25
     },
     {
-      "title": "Staff AI Engineer - Graphing",
-      "company": "Datadog",
-      "location": "Bordeaux, France; Grenoble, France; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Nice, France; Paris, France; Sophia Antipolis, France",
-      "description": "&lt;p&gt;This role will join Datadog’s Data Visualization organization, a team responsible for the visualization experiences that power dashboards, notebooks, investigations, and product workflows used across the platform. The team is a highly product-oriented organization, building AI-native experiences that help customers understand, investigate, and interact with complex operational data. As a Staff Software Engineer, you will provide technical leadership in applying AI technologies to customer-facing product experiences, helping shape how users interact with Datadog through agents, conversational interfaces, and intelligent investigation workflows. You will partner across engineering and product teams to develop reliable, scalable, and trustworthy AI-powered experiences while helping establish AI engineering expertise within the broader organization.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You’ll Do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead the design and delivery of AI-powered product experiences across Datadog’s visualization and investigation surfaces.&lt;/li&gt;\n&lt;li&gt;Develop systems that combine deterministic product capabilities with LLM-powered experiences to deliver trustworthy and explainable customer outcomes.&lt;/li&gt;\n&lt;li&gt;Drive innovation in context engineering, prompt engineering, evaluation frameworks, and AI application reliability.&lt;/li&gt;\n&lt;li&gt;Partner with product and engineering teams to improve investigation workflows and help customers discover insights more efficiently.&lt;/li&gt;\n&lt;li&gt;Build experiences that enable Datadog capabilities to operate within third-party AI platforms, agents, and conversational environments.&lt;/li&gt;\n&lt;li&gt;Provide technical leadership and mentorship while helping establish AI engineering best practices across the Data Visualization organization and broader Graphing group.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Who You Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You have extensive software engineering experience and currently operate at or near Staff Engineer scope.&lt;/li&gt;\n&lt;li&gt;You have hands-on experience delivering production AI-powered products and customer-facing experiences using LLM technologies.&lt;/li&gt;\n&lt;li&gt;You have experience building reliable systems that manage model non-determinism through evaluation frameworks, testing strategies, and operational excellence.&lt;/li&gt;\n&lt;li&gt;You approach engineering through a product mindset and can connect technical decisions to customer outcomes and business impact.&lt;/li&gt;\n&lt;li&gt;You have experience collaborating across multiple teams and influencing technical direction without direct authority.&lt;/li&gt;\n&lt;li&gt;Experience with agentic systems, conversational interfaces, AI-assisted investigations, observability, data visualization, or developer tools is a plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Datadog values people from all walks of life. We know not everyone will meet all the above qualifications on day one. That’s okay. If you’re passionate about technology and want to grow your experience, we encourage you to apply.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Benefits and Growth:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Product training to develop an in-depth understanding of our product and space&lt;/li&gt;\n&lt;li&gt;Continuous career development and pathing opportunities for internal mobility&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Intra-departmental mentor and buddy program for in-house networking&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;An inclusive company culture, ability to join our Community Guilds&lt;/li&gt;\n&lt;li&gt;New hire stock equity (RSUs) and employee stock purchase plan&lt;/li&gt;\n&lt;li&gt;Free global mental health benefit through Spring Health&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Generous global benefits&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/em&gt;&lt;/p&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
-      "skills": [
-        "excel"
-      ],
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "source": "Greenhouse",
-      "url": "https://careers.datadoghq.com/detail/8015588/?gh_jid=8015588",
-      "matchScore": 25
+      "title": "Data Analyst FlixTrain Operations (m/w/d)",
+      "company": "Flix",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/data-analyst-flixtrain-operations-berlin-393690",
+      "source": "Arbeitnow",
+      "matchScore": 20
     },
     {
       "title": "Data Analyst",
@@ -325,7 +303,7 @@
       "title": "Financial Data Analyst",
       "company": "Stripe",
       "location": "Singapore",
-      "description": "&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Payments organization owns some of Stripe’s most critical payment flows and a platform that processes hundreds of billions of dollars in payments a year. Our team is responsible for translating complex partner specifications related to network costs (interchange and scheme fees) into simplified logic for internal and external consumption. This also drives decisions and product recommendations to manage the underlying network costs paid by Stripe and our users. The team partners closely with the engineering, product, finance, and partnership groups to manage and understand Stripe’s network costs.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our work is core to Stripe’s business,&amp;nbsp; as Technical Operations roles in Payments are a dynamic and key component of Stripe&#39;s success. We sit at the intersection of product/platform engineers and financial partners, connecting them to ensure that everyone thrives and nothing is lost in translation.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking to add payment enthusiasts who enjoy interpreting complex cost structures and ever changing payment network systems in order to optimize on behalf of Stripe and our users. You will be instrumental in building Stripe’s approach to managing our global network cost base.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Collaborate across the company, including engineering, accounting, financial partnerships and product teams, to analyze billions of dollars moving through the Stripe platform.&lt;/li&gt;\n&lt;li&gt;Translate network specifications into implementation instructions to create billing models for new and revised fees (both scheme and interchange)&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Influence product strategy to minimize network costs&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Work with Product and Engineering to implement cost saving opportunities&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Partner with Finance to prioritize areas for investment and explain trends in costs and margin impact&lt;/li&gt;\n&lt;li&gt;Monitor and maintain the accuracy of the fees through validation and alerting&lt;/li&gt;\n&lt;li&gt;Creating fee explainability to internal and external stakeholders&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Hosting education sessions for internal teams to scale knowledge&lt;/li&gt;\n&lt;li&gt;Introduce data and process efficiencies to meet the scale and speed of Stripe. Identify and automate inefficient operational processes to reduce manual workloads&lt;/li&gt;\n&lt;li&gt;Scale our network cost operation by driving the design, documentation, and training of operational processes to leverage partner relationships.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Have 4+ years of in Payments at a leading technology or payments company&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Have experience writing SQL to query relational databases&lt;/li&gt;\n&lt;li&gt;Have experience managing communications and workflows with technical and non-technical teams across internal and external stakeholders&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experience mentoring junior team members in technical skill development, operational strategy and problem solving&lt;/li&gt;\n&lt;li&gt;Have experience navigating the nuanced complexity of financial systems and solving large scale, technical challenges&lt;/li&gt;\n&lt;li&gt;Have strong financial modeling and analytical skills to investigate, prioritize, and identify the root cause of issues&lt;/li&gt;\n&lt;li&gt;Have experience managing multiple, concurrent work streams, identifying and triaging technical issues and driving solutions with clear metrics to show impact&lt;/li&gt;\n&lt;/ul&gt;",
+      "description": "&lt;h2&gt;Who &lt;strong&gt;we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;About &lt;strong&gt;Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About &lt;strong&gt;the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Payments organization owns some of Stripe&#39;s most critical payment flows and a platform that processes hundreds of billions of dollars in payments a year. Our team is responsible for translating complex partner specifications related to network costs (interchange and scheme fees) into simplified logic for internal and external consumption. This also drives decisions and product recommendations to manage the underlying network costs paid by Stripe and our users. The team partners closely with the engineering, product, finance, and partnership groups to manage and understand Stripe&#39;s network costs.&lt;/p&gt;\n&lt;p&gt;Our work is core to Stripe&#39;s business, as Technical Operations roles in Payments are a dynamic and key component of Stripe&#39;s success. We sit at the intersection of product and platform engineers and financial partners, connecting them to ensure that everyone thrives and nothing is lost in translation.&lt;/p&gt;\n&lt;h3&gt;What &lt;strong&gt;you&#39;ll do&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We&#39;re looking to add payment enthusiasts who enjoy interpreting complex cost structures and ever-changing payment network systems to optimize on behalf of Stripe and our users. You&#39;ll be instrumental in building Stripe&#39;s approach to managing our global network cost base.&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;p&gt;• Collaborate across the company, including engineering, accounting, financial partnerships, and product teams, to analyze billions of dollars moving through the Stripe platform&lt;/p&gt;\n&lt;p&gt;• Translate network specifications into implementation instructions to create billing models for new and revised fees (both scheme and interchange)&lt;/p&gt;\n&lt;p&gt;• Influence product strategy to minimize network costs&lt;/p&gt;\n&lt;p&gt;• Collaborate with Product, Engineering, and Finance to implement cost-saving opportunities, prioritize investment, and explain cost and margin trends&lt;/p&gt;\n&lt;p&gt;• Monitor and maintain the accuracy of the fees through validation and alerting&lt;/p&gt;\n&lt;p&gt;• Create fee explainability to internal and external stakeholders and host education sessions for internal teams to scale knowledge&lt;/p&gt;\n&lt;p&gt;• Introduce data and process efficiencies to meet the scale and speed of Stripe. Identify and automate inefficient operational processes to reduce manual workloads, and scale our network cost operation by driving the design, documentation, and training of operational processes to leverage partner relationships&lt;/p&gt;\n&lt;h3&gt;Who &lt;strong&gt;you are&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;Minimum &lt;strong&gt;requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;• Have 4+ years of experience in Payments at a leading technology or payments company, with the ability to write SQL to query relational databases&lt;/p&gt;\n&lt;p&gt;• Have experience managing communications and workflows with technical and non-technical teams across internal and external stakeholders&lt;/p&gt;\n&lt;p&gt;• Have experience navigating the nuanced complexity of financial systems and solving large-scale, technical challenges&lt;/p&gt;\n&lt;p&gt;• Have strong financial modeling and diagnostic skills to investigate, prioritize, and identify the root cause of issues&lt;/p&gt;\n&lt;p&gt;• Have experience managing multiple, concurrent work streams, identifying and triaging technical issues, and driving solutions with clear metrics to show impact&lt;/p&gt;\n&lt;h3&gt;Preferred &lt;strong&gt;qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;• Experience working in fast-paced environments (e.g., high-growth fintech or tech company, management consulting)&lt;/p&gt;\n&lt;p&gt;• Experience mentoring junior team members in technical skill development, operational strategy, and problem solving&lt;/p&gt;\n&lt;p&gt;• Experience working with PM, Engineers, finance team, or accounting team&lt;/p&gt;\n&lt;p&gt;• Experience handling tickets and adhering to operational targets and metrics • Experience with visualization tools&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
       "skills": [
         "sql"
       ],
@@ -393,16 +371,6 @@
       "matchScore": 20
     },
     {
-      "title": "Python Developer",
-      "company": "YO IT Consulting",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-python-developer-yo-it-consulting-1134923",
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "source": "RemoteOK",
-      "matchScore": 15
-    },
-    {
       "title": "Senior Machine Learning Engineer, CX Intelligence ",
       "company": "Coinbase",
       "location": "Remote - Brazil",
@@ -434,14 +402,6 @@
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521",
       "matchScore": 10
-    },
-    {
-      "title": "Senior AI Engineer",
-      "company": "Pentadoc Gruppe",
-      "location": "Würzburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/pentadoc-gruppe/senior-ai-engineer-wurzburg-194505",
-      "source": "Arbeitnow",
-      "matchScore": 5
     },
     {
       "title": "Senior AI Engineer",
@@ -485,106 +445,50 @@
       "matchScore": 5
     },
     {
-      "title": "Project Manager Intern (Unpaid Internship)",
-      "company": "HOPn UG",
-      "location": "Puchheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/hopn-ug/project-manager-intern-unpaid-internship-puchheim-386852",
+      "title": "Tech & AI Specialist (Marketing Agency)",
+      "company": "agencro",
+      "location": "Landau",
+      "url": "https://www.arbeitnow.com/jobs/companies/agencro/tech-ai-specialist-marketing-agency-landau-136662",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Berlin, Germany",
-      "company": "Speechify",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-berlin-germany-255908",
+      "title": "(Senior) AI Engineer & Technical Project Lead (Köln) (w/d/m)",
+      "company": "WEBUILDAI GmbH",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/webuildai-gmbh/senior-ai-engineer-technical-project-lead-koln-cologne-69952",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Hamburg, Germany",
-      "company": "Speechify",
-      "location": "Hamburg, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-hamburg-germany-95082",
+      "title": "Senior Microsoft AI & Copilot Engineer (m/w/d)",
+      "company": "think about IT GmbH",
+      "location": "Nuremberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-microsoft-ai-copilot-engineer-nuremberg-145005",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Data Analyst (m/f/d)",
-      "company": "Flix",
-      "location": "Berlin, Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-data-analyst-berlin-22732",
+      "title": "SAP Lead Consultant (m/w/d) SAP Transformation & Digital Supply Chain",
+      "company": "Slenderiser GmbH",
+      "location": "Düsseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/slenderiser-gmbh/sap-lead-consultant-sap-transformation-digital-supply-chain-dusseldorf-93242",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Product Analyst",
-      "company": "SumUp",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-product-analyst-berlin-418374",
+      "title": "Influencer Marketing Manager - Paid & Affiliate (Werkstudent)",
+      "company": "zuerstGesund GmbH",
+      "location": "Bernhardswald",
+      "url": "https://www.arbeitnow.com/jobs/companies/zuerstgesund-gmbh/influencer-marketing-manager-paid-affiliate-werkstudent-bernhardswald-405456",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Staff Mobile Engineer - Retail",
-      "company": "Wolt - English",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/staff-mobile-engineer-retail-berlin-342388",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter / Trainee Steuerberatung (m/w/d)",
-      "company": "SBC Steuerberater Rechtsanwälte GbR",
-      "location": "Bad Homburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/sbc-steuerberater-rechtsanwalte-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-bad-homburg-410844",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Automation Engineer",
-      "company": "Metzler GmbH",
-      "location": "Reutlingen",
-      "url": "https://www.arbeitnow.com/jobs/companies/metzler-gmbh/ai-automation-engineer-reutlingen-365220",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "(Junior) Marketing Manager / AI Transformation (all genders)",
-      "company": "TradeLink",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/tradelink/junior-marketing-manager-ai-transformation-all-genders-munich-493025",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "(Senior) Enterprise Account Executive | AI Transformation Consultant (all genders)",
-      "company": "TradeLink",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/tradelink/senior-enterprise-account-executive-ai-transformation-consultant-all-genders-munich-21972",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Praktikum Online-Marketing / Marketing / KI / AI",
-      "company": "SEOMATIK GmbH",
-      "location": "Bielefeld",
-      "url": "https://www.arbeitnow.com/jobs/companies/seomatik-gmbh/praktikum-online-marketing-marketing-ki-ai-bielefeld-13514",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Implementation Lead (m/w/d)",
-      "company": "PALTRON GmbH",
-      "location": "Rheda-Wiedenbrück",
-      "url": "https://www.arbeitnow.com/jobs/companies/paltron-gmbh/ai-implementation-lead-rheda-wiedenbruck-333205",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Trainee Artist Manager / Influencer Manager (m/w/d)",
-      "company": "Lionflence",
+      "title": "Werkstudent Founders Associate / AI & Business Development (m/w/d)",
+      "company": "Lucid Labs",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-berlin-209953",
+      "url": "https://www.arbeitnow.com/jobs/companies/lucid-labs/werkstudent-founders-associate-ai-business-development-berlin-96672",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -1083,6 +987,6 @@
       "matchScore": 0
     }
   ],
-  "totalJobs": 84,
-  "lastUpdated": "2026-07-21T03:55:34.249788+00:00"
+  "totalJobs": 74,
+  "lastUpdated": "2026-07-22T03:56:50.883861+00:00"
 }
