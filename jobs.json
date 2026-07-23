@@ -1,6 +1,14 @@
 {
   "jobs": [
     {
+      "title": "AI Engineer (m/w/d) für Chat-to-CAD / LLM, Agents und multimodale Eingaben",
+      "company": "Cadaico GmbH",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/cadaico-gmbh/ai-engineer-fur-chat-to-cad-llm-agents-und-multimodale-eingaben-stuttgart-482054",
+      "source": "Arbeitnow",
+      "matchScore": 45
+    },
+    {
       "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
       "company": "Datadog",
       "location": "New York, New York, USA",
@@ -15,6 +23,21 @@
       "source": "Greenhouse",
       "url": "https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511",
       "matchScore": 45
+    },
+    {
+      "title": "Data Analyst, Financial Data Engineering",
+      "company": "Stripe",
+      "location": "New York",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Data Science at Stripe is a vibrant community where data analysts and data scientists learn and grow together. You&#39;ll work with some of the most fundamental data at Stripe, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and Data Analysts are hired in line with the business needs and domain of the organization they will support.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;In this role, you&#39;ll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You&#39;ll design, build, and own the scalable data infrastructure that powers analytics and reporting across the company.&lt;/p&gt;\n&lt;p&gt;Day to day, you&#39;ll translate complex business requirements into reliable data models, own end-to-end pipeline development from raw data ingestion to clean, consumption-ready datasets, and work with leaders to prioritize the highest-impact data investments. You&#39;ll go beyond building dashboards—you&#39;ll architect the data layer that makes self-service analytics possible and deliver actionable business recommendations through rigorous analysis and data storytelling.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and maintain scalable data pipelines and ETL/ELT workflows that power production-grade financial reporting, risk measurement, and operational decisioning for Treasury Finance&lt;/li&gt;\n&lt;li&gt;Leverage AI tools (code assistants, LLM-based agents) to accelerate pipeline development, data quality automation, reconciliation, and documentation - expanding technical scope while maintaining quality.&lt;/li&gt;\n&lt;li&gt;Model and transform raw data into clean, well-documented datasets that serve as the core foundations for decision making for Treasury Finance (e.g. float positions, cash explainability, risk exposures, liquidity management)&lt;/li&gt;\n&lt;li&gt;Establish and enforce data quality standards through testing, monitoring, and alerting on pipeline health&lt;/li&gt;\n&lt;li&gt;Establish and own data freshness SLAs, operational alerting, and incident response for your data domains - ensuring production reliability for risk and finance critical workflows&lt;/li&gt;\n&lt;li&gt;Partner deeply with Treasury Finance, data scientists/analysts, and engineers to define data requirements and deliver trusted, reusable financial data products&lt;/li&gt;\n&lt;li&gt;Partner deeply with Treasury Finance stakeholders to translate business requirements into data architecture decisions, anticipating needs and helping to drive data strategy rather than reacting to requests&lt;/li&gt;\n&lt;li&gt;Build self-service tooling and analytics layer that empower stakeholders to access and explore trusted data autonomously&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;6+ years of full-time experience in Data Engineering, Analytics Engineering, Business Intelligence Engineering, or a related analytical role&lt;/li&gt;\n&lt;li&gt;Proficiency in SQL, including complex query optimization and data modeling&lt;/li&gt;\n&lt;li&gt;Proficiency in Python for data pipeline development, not just scripting&lt;/li&gt;\n&lt;li&gt;Experience with distributed data frameworks like Spark to write and debug data pipelines&lt;/li&gt;\n&lt;li&gt;Experience with workflow orchestration tools (e.g. Airflow, Flyte, or equivalent)&lt;/li&gt;\n&lt;li&gt;Proven ability to design, implement, and maintain production-grade data pipelines and dashboards&lt;/li&gt;\n&lt;li&gt;Good understanding of development processes and best practices like engineering standards, code reviews, and testing&lt;/li&gt;\n&lt;li&gt;Ability to clearly communicate results and drive impact with cross-functional partners&lt;/li&gt;\n&lt;li&gt;Experience owning production data products with defined quality standards, testing, and documentation&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Prior experience at a growth-stage internet or software company&lt;/li&gt;\n&lt;li&gt;Prior experience working with Finance or Treasury teams&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Understanding of treasury and finance concepts (e.g., float positions, FX exposure, cash reconciliation, balance sheet usage, liquidity management)&lt;/li&gt;\n&lt;li&gt;Experience with data quality frameworks, data contracts, tiering/classification, or SLA management&lt;/li&gt;\n&lt;li&gt;Experience creating leadership-level reporting, such as QBRs and MBRs&lt;/li&gt;\n&lt;li&gt;Experience building financial reporting infrastructure - e.g. automated treasury processes, regulatory reporting, or finance close&lt;/li&gt;\n&lt;li&gt;Proficiency with AI tools (code assistants, LLM agents) to accelerate pipeline development and data quality automation&lt;/li&gt;\n&lt;li&gt;Interest in how data products enable automated/agentic workflows — understanding that data quality determines the reliability of every downstream decision&lt;/li&gt;\n&lt;/ul&gt;",
+      "skills": [
+        "python",
+        "sql"
+      ],
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "source": "Greenhouse",
+      "url": "https://stripe.com/jobs/search?gh_jid=8070572",
+      "matchScore": 40
     },
     {
       "title": "Machine Learning Engineer, CX Intelligence",
@@ -82,6 +105,21 @@
       "matchScore": 30
     },
     {
+      "title": "Data Scientist, Core Infrastructure",
+      "company": "Stripe",
+      "location": "San Francisco",
+      "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt;\n&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;You’ll be joining the data science team at Stripe responsible for our overall infrastructure, with a focus on core systems and cloud platforms. Projects include, but are not limited to:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Developing models to predict resource needs as Stripe demand increases;&lt;/li&gt;\n&lt;li&gt;Working closely with engineers to improve the cost and performance of platforms and services;&lt;/li&gt;\n&lt;li&gt;Employing quantitative methods to drive and automate fleet decisions.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;You will act as a key strategic data partner to the Core Infrastructure organization at Stripe, and help craft, guide, and drive the strategy and tactics needed to help ensure Stripe can continue to scale with efficiency and dependability as our business rapidly grows.&lt;/p&gt;\n&lt;h2&gt;What you&#39;ll do&lt;/h2&gt;\n&lt;p&gt;As a Data Scientist, your role will involve:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Analyzing infrastructure usage, efficiency, and workloads to predict demand and inform capacity planning.&lt;/li&gt;\n&lt;li&gt;Developing models and strategies for efficient compute resource consumption and provisioning.&lt;/li&gt;\n&lt;li&gt;Collaborating with engineers, engineering leadership, and finance teams to ensure Stripe makes the right, data-driven, infrastructure decisions.&lt;/li&gt;\n&lt;li&gt;Providing actionable insights and recommendations to improve infrastructure operations to reduce costs and improve reliability.&lt;/li&gt;\n&lt;li&gt;Utilizing your analytical expertise to influence both technical and financial strategies within Stripe.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Who you are&lt;/h2&gt;\n&lt;p&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;PhD with 3+ years, MS or MA with 6+ years, or BS or BA with 8+ years of data science or quantitative modeling experience.\n&lt;ul&gt;\n&lt;li&gt;3-8+ years of experience with a focus on infrastructure, cloud environments, and resource utilization/allocation.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;Proficiency in SQL and a computing language such as Python or R.&lt;/li&gt;\n&lt;li&gt;Experience in analyzing logs/telemetry, scheduling optimization, or cloud infrastructure engineering.&lt;/li&gt;\n&lt;li&gt;Ability to effectively work both independently and with cross-disciplinary teams, including engineering and finance, to deliver impactful results.&lt;/li&gt;\n&lt;li&gt;A demonstrated ability to manage and deliver on multiple projects with a high attention to detail.&lt;/li&gt;\n&lt;li&gt;Solid business acumen and experience in synthesizing complex analyses into actionable recommendations.&lt;/li&gt;\n&lt;li&gt;A track record of building relationships with and influencing the decisions of senior technical leadership.&lt;/li&gt;\n&lt;li&gt;A builder&#39;s mindset with a willingness to question assumptions and conventional wisdom.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Background in deploying data models in production environments and optimizing their performance.&lt;/li&gt;\n&lt;li&gt;Experience in using, deploying on, and analyzing usage data from public cloud providers.&lt;/li&gt;\n&lt;li&gt;Familiarity with distributed computing tools such as Spark and Hadoop.&lt;/li&gt;\n&lt;li&gt;A PhD or MS in a quantitative field like Computer Science &amp;amp; Engineering, Statistics, Mathematics, Operations Research, Industrial Engineering, Management Science, or related disciplines.&lt;/li&gt;\n&lt;li&gt;Strong business acumen with a track record of translating complex data analyses into actionable business recommendations.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Location Preference&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;San Francisco, CA or Seattle, WA.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;",
+      "skills": [
+        "python",
+        "sql"
+      ],
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "source": "Greenhouse",
+      "url": "https://stripe.com/jobs/search?gh_jid=8080614",
+      "matchScore": 30
+    },
+    {
       "title": "Data Scientist, Global Growth",
       "company": "Stripe",
       "location": "Singapore",
@@ -125,21 +163,6 @@
       "experience": "Not specified",
       "source": "Greenhouse",
       "url": "https://stripe.com/jobs/search?gh_jid=8044839",
-      "matchScore": 30
-    },
-    {
-      "title": "Analytics Engineer",
-      "company": "Coinbase",
-      "location": "Remote - USA",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;amp;utm_source=coinbase&quot;&gt;Coinbase&lt;/a&gt;, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it’s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for &quot;good enough,&quot; you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/careers&quot;&gt;learn more about working at Coinbase&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Analytics Engineer - Compliance Data&lt;/strong&gt;&lt;/h2&gt;\n&lt;div&gt;As an Analytics Engineer on the Compliance Data team within&amp;nbsp;&lt;strong&gt;&lt;span&gt;&lt;a href=&quot;https://www.coinbase.com/careers/product-groups&quot; target=&quot;_blank&quot;&gt;Platform&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;, you&#39;ll build and maintain the production-grade data foundations that every regulatory obligation at Coinbase depends on. This team owns the Compliance Data Mart (CDM), Coinbase&#39;s canonical source of truth for user, transaction, and compliance data. You&#39;ll own the full lifecycle of data models and pipelines that downstream reporting, analytics, and AI workflows all build on, while also delivering accurate, timely data when regulators come calling.&lt;br&gt;&lt;br&gt;&lt;strong&gt;What you&#39;ll do:&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;Own end-to-end development of production-grade data models and pipelines at the core of the CDM, covering user, transaction, and compliance data across retail and institutional product lines, from architecture through deployment and maintenance.&lt;/li&gt;\n&lt;li&gt;Build data quality checks, data contracts, validation logic, and monitoring that protect data integrity before issues propagate to downstream reports or workflows.&lt;/li&gt;\n&lt;li&gt;Partner with upstream engineering teams to fix data gaps and absorb product changes at the source, taking accountability for data issues anywhere in the stack rather than passing them downstream.&lt;/li&gt;\n&lt;li&gt;Support live regulatory exams, audits, and ad hoc regulator requests with accurate, timely data, balancing time-sensitive reactive work with long-term foundational projects.&lt;/li&gt;\n&lt;li&gt;Automate recurring manual workflows into scalable pipelines and self-serve tooling, enabling downstream teams and AI agents to answer their own questions.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;Required Skills and Experience:&lt;/strong&gt;&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;2+ years of experience building and maintaining production data pipelines and data models, with strong proficiency in SQL, Python, dbt, and a modern warehouse platform (Snowflake, Databricks, or similar).&lt;/li&gt;\n&lt;li&gt;Track record implementing data quality frameworks including data contracts, validation logic, reconciliation, and monitoring to catch issues before they reach downstream reports.&lt;/li&gt;\n&lt;li&gt;Experience supporting time-sensitive, high-stakes data needs (regulatory exams, audits, or financial reporting) where accuracy and timeliness are non-negotiable.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to turn tribal knowledge and recurring manual workflows into durable, documented infrastructure.&lt;/li&gt;\n&lt;li&gt;Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div&gt;&lt;strong&gt;Job ID: &lt;/strong&gt;P77413&lt;/div&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency Notice:&lt;/strong&gt;&lt;strong&gt;&lt;em&gt; &lt;/em&gt;&lt;/strong&gt;Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)).&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual base salary range (excluding equity and bonus):&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$152,405&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$179,300 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;ul&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;strong&gt;&lt;em&gt;Application Limit: &lt;/em&gt;&lt;/strong&gt;Candidates may submit a maximum of 3 applications within a 6-month period.&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Equal Opportunity Employer: &lt;/strong&gt;Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;US Applicants: &lt;/strong&gt;View&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf&quot;&gt; Employee Rights&lt;/a&gt;,&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf&quot;&gt; Know Your Rights&lt;/a&gt;, and&lt;a href=&quot;https://static-assets.coinbase.com/e-verify.pdf&quot;&gt; E-Verify&lt;/a&gt; Notice of Participation.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Accommodations: &lt;/strong&gt;If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&amp;nbsp;Need screen reading technology?&lt;a href=&quot;https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn&quot;&gt; Click here&lt;/a&gt; to download a free compatible screen reader and view the&lt;a href=&quot;http://www.chromevox.com/tutorial/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;tutorial&lt;/a&gt;.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Data Privacy &amp;amp; Arbitration: &lt;/strong&gt;By submitting your application, you agree to our&lt;a href=&quot;https://www.coinbase.com/legal/applicant_privacy_notice&quot;&gt; Candidate Privacy Notice&lt;/a&gt;. US applicants: By submitting your application, you agree to&lt;a href=&quot;https://www.coinbase.com/legal/application-arbitration-agreement&quot;&gt; Arbitration of Disputes&lt;/a&gt;.&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div id=&quot;fortidlp-input-element-parent&quot;&gt;&lt;/div&gt;&lt;/div&gt;",
-      "skills": [
-        "python",
-        "sql"
-      ],
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "source": "Greenhouse",
-      "url": "https://www.coinbase.com/careers/positions/8020892?gh_jid=8020892",
       "matchScore": 30
     },
     {
@@ -276,14 +299,6 @@
       "matchScore": 25
     },
     {
-      "title": "Data Analyst FlixTrain Operations (m/w/d)",
-      "company": "Flix",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/data-analyst-flixtrain-operations-berlin-393690",
-      "source": "Arbeitnow",
-      "matchScore": 20
-    },
-    {
       "title": "Data Analyst",
       "company": "Stripe",
       "location": "Mexico City",
@@ -371,6 +386,14 @@
       "matchScore": 20
     },
     {
+      "title": "Softwareexpert:in Python, C, C++ ROCKET SCIENCE - Satellitenkommunikation / Dresden / 60.000 - 80.000",
+      "company": "wabcon",
+      "location": "Dresden",
+      "url": "https://www.arbeitnow.com/jobs/companies/wabcon/softwareexpertin-python-c-c-rocket-science-satellitenkommunikation-dresden-60000-80000-426561",
+      "source": "Arbeitnow",
+      "matchScore": 15
+    },
+    {
       "title": "Senior Machine Learning Engineer, CX Intelligence ",
       "company": "Coinbase",
       "location": "Remote - Brazil",
@@ -386,6 +409,14 @@
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8008569?gh_jid=8008569",
       "matchScore": 15
+    },
+    {
+      "title": "Senior Data Scientist (m/f/d)",
+      "company": "Flix",
+      "location": "München, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-data-scientist-munchen-69004",
+      "source": "Arbeitnow",
+      "matchScore": 10
     },
     {
       "title": "Senior Analytics Engineer (Platform - Financial Analytics)",
@@ -445,51 +476,77 @@
       "matchScore": 5
     },
     {
-      "title": "Tech & AI Specialist (Marketing Agency)",
-      "company": "agencro",
-      "location": "Landau",
-      "url": "https://www.arbeitnow.com/jobs/companies/agencro/tech-ai-specialist-marketing-agency-landau-136662",
+      "title": "Senior Data Platform Engineer (m/f/d)",
+      "company": "Flix",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-data-platform-engineer-berlin-142531",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "(Senior) AI Engineer & Technical Project Lead (Köln) (w/d/m)",
-      "company": "WEBUILDAI GmbH",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/webuildai-gmbh/senior-ai-engineer-technical-project-lead-koln-cologne-69952",
+      "title": "Senior Python Engineer (m/f/d) - Network Planning",
+      "company": "Flix",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-python-engineer-network-planning-berlin-142549",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Microsoft AI & Copilot Engineer (m/w/d)",
-      "company": "think about IT GmbH",
-      "location": "Nuremberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-microsoft-ai-copilot-engineer-nuremberg-145005",
+      "title": "Senior Scientist (m/w/d) Messtechnik Sensorsysteme Pharma in Mannheim (1708)",
+      "company": "BRÜGGEN ENGINEERING GmbH",
+      "location": "Mannheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/senior-scientist-messtechnik-sensorsysteme-pharma-in-mannheim-1708-245842",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "SAP Lead Consultant (m/w/d) SAP Transformation & Digital Supply Chain",
-      "company": "Slenderiser GmbH",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/slenderiser-gmbh/sap-lead-consultant-sap-transformation-digital-supply-chain-dusseldorf-93242",
+      "title": "CRM & E-Mail Marketing Manager/-in (m/w/d)",
+      "company": "E-Whisper Agency UG (haftungsbeschränkt)",
+      "location": "Passau",
+      "url": "https://www.arbeitnow.com/jobs/companies/e-whisper-agency-ug-haftungsbeschrankt/crm-e-mail-marketing-manager-in-passau-174864",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Influencer Marketing Manager - Paid & Affiliate (Werkstudent)",
-      "company": "zuerstGesund GmbH",
-      "location": "Bernhardswald",
-      "url": "https://www.arbeitnow.com/jobs/companies/zuerstgesund-gmbh/influencer-marketing-manager-paid-affiliate-werkstudent-bernhardswald-405456",
+      "title": "Lead in Fashion Trainee (m/w/d)",
+      "company": "Zara",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/zara/lead-in-fashion-trainee-stuttgart-188971",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Werkstudent Founders Associate / AI & Business Development (m/w/d)",
-      "company": "Lucid Labs",
+      "title": "Lead in Fashion Trainee (m/w/d)",
+      "company": "Bershka Deutschland B.V & Co. KG",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/bershka-deutschland-bv-co-kg/bershka-traineeprogramm-lead-in-fashion-frankfurt-am-main-416996",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Product Manager Agentic AI Education (m/w/d)",
+      "company": "AI Transformation Institute",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/lucid-labs/werkstudent-founders-associate-ai-business-development-berlin-96672",
+      "url": "https://www.arbeitnow.com/jobs/companies/ai-transformation-institute/product-manager-agentic-ai-education-berlin-215263",
       "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Trainee Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "location": "Mülheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/trainee-artist-manager-influencer-manager-mulheim-153922",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Data Analyst",
+      "company": "AB InBev",
+      "location": "Brazil",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-data-analyst-ab-inbev-1135150",
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "source": "RemoteOK",
       "matchScore": 0
     },
     {
@@ -907,86 +964,8 @@
       "isNew": true,
       "source": "Remotive",
       "matchScore": 0
-    },
-    {
-      "title": "Staff Product Engineer (São Paulo)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-sao-paulo-2091000",
-      "salary": "$80k - $100k",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Quality Engineer (Florianópolis)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-florianopolis-2090994",
-      "salary": "$45k - $65k",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Quality Engineer (São Paulo)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-sao-paulo-2090995",
-      "salary": "$45k - $65k",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Quality Engineer (Belo Horizonte)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-belo-horizonte-2090996",
-      "salary": "$45k - $65k",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Quality Engineer (Campinas)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-campinas-2090998",
-      "salary": "$45k - $65k",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Quality Engineer (Porto Alegre)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-porto-alegre-2090997",
-      "salary": "$45k- $65k",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
     }
   ],
   "totalJobs": 74,
-  "lastUpdated": "2026-07-22T03:56:50.883861+00:00"
+  "lastUpdated": "2026-07-23T03:54:05.119909+00:00"
 }
