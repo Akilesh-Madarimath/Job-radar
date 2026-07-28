@@ -47,22 +47,6 @@
       "matchScore": 40
     },
     {
-      "title": "AI Engineer (m/f/d)",
-      "company": "Natuvion GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-ai-engineer-berlin-172448",
-      "source": "Arbeitnow",
-      "matchScore": 35
-    },
-    {
-      "title": "Werkstudent*in Machine Learning - Fokus Sustainability",
-      "company": "Pacemaker",
-      "location": "Remote (Deutschland)",
-      "url": "https://www.arbeitnow.com/jobs/companies/pacemaker/remote-werkstudentin-machine-learning-fokus-sustainability-185590",
-      "source": "Arbeitnow",
-      "matchScore": 35
-    },
-    {
       "title": "Machine Learning Engineer, CX Intelligence",
       "company": "Coinbase",
       "location": "Remote - Brazil",
@@ -110,14 +94,6 @@
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/7891045?gh_jid=7891045",
       "matchScore": 35
-    },
-    {
-      "title": "Azure Data Engineer II - Agentic AI Platform",
-      "company": "paiqo GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/paiqo-gmbh/remote-azure-data-engineer-ii-agentic-ai-platform-paderborn-270575",
-      "source": "Arbeitnow",
-      "matchScore": 30
     },
     {
       "title": "Data Scientist",
@@ -212,10 +188,10 @@
       "matchScore": 30
     },
     {
-      "title": "Werkstudent (m/w/d) – AI Engineering (von Ort)",
-      "company": "Assetmetrix Gmbh",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/assetmetrix-gmbh/werkstudent-ai-engineering-von-ort-munchen-38743",
+      "title": "Data & AI Engineer (m/w/d)",
+      "company": "MediPulse",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/medipulse/data-ai-engineer-munich-125354",
       "source": "Arbeitnow",
       "matchScore": 25
     },
@@ -324,7 +300,7 @@
     {
       "title": "Staff Software Engineer, Machine Learning Platform",
       "company": "Stripe",
-      "location": "Toronto",
+      "location": "San Francisco, Seattle",
       "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Stripe processes over $1.9T in payments volume per year, which is roughly 1.6% of the world&#39;s GDP, for millions of customers from startups to enterprises. The tremendous amount of data makes Stripe one of the best places to do machine learning. While being an integral part of almost every product line at Stripe (e.g., Payments, Radar, Capital, Billing, etc.), we have lots of exciting opportunities to innovate in ML Platform at Stripe.&lt;/p&gt;\n&lt;p&gt;The ML Platform team builds the platforms and services that enable ML engineers and data scientists across Stripe to take data and build features and models from prototype to production—reliably, at low latency, and at scale. Our scope spans ML training infrastructure, model serving and deployment, feature computation and online serving, observability and monitoring, and agentic AI capabilities. We work closely with product teams, data scientists, and platform infrastructure teams to build powerful, flexible, and user-friendly systems that substantially increase ML velocity across the company.&lt;/p&gt;\n&lt;h2&gt;What you&#39;ll do&lt;/h2&gt;\n&lt;p&gt;You&#39;ll serve as a technical lead across the ML Platform space and a key contributor to the evolution of the platforms that power Stripe&#39;s ML-driven products. As a Staff Engineer, you&#39;ll make decisions with a large impact on Stripe. You&#39;ll influence our investments and strategy while making our systems more reliable, secure, and a delight to use. You&#39;ll work cross-functionally with other technical staff, data science, product, and senior leadership to increase the impact of ML at Stripe.&lt;/p&gt;\n&lt;p&gt;You&#39;ll help define the long-term strategy and lead the technical direction for the next generation of ML infrastructure that powers Stripe&#39;s ML-driven products.&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Take ownership of end-to-end architecture and system design for large, complex projects across ML Platform.&lt;/li&gt;\n&lt;li&gt;Define technical direction for highly ambiguous projects, transforming complex user needs into long-lasting platform strategy.&lt;/li&gt;\n&lt;li&gt;Design system architectures for the most challenging ML Platform problems in one or more areas, including AI and ML workflow orchestration, scalable CPU and GPU compute infrastructure, model training, LLM fine-tuning, low-latency model inference, large-scale feature stores, real-time monitoring, and LLM and agent orchestration.&lt;/li&gt;\n&lt;li&gt;Turn high-leverage ideas into tangible, robust solutions that shape platform and product roadmap, combining technical excellence with creative problem-solving.&lt;/li&gt;\n&lt;li&gt;Scope and lead large projects with significant business impact, driving them from requirements through design, implementation, and production operation.&lt;/li&gt;\n&lt;li&gt;Work with ML engineers, data scientists, and product teams directly to translate their needs into functional requirements and scalable technical solutions.&lt;/li&gt;\n&lt;li&gt;Arbitrate critical decisions that balance competing priorities while meeting latency, reliability, cost, and security constraints.&lt;/li&gt;\n&lt;li&gt;Serve as a key engineering representative, engaging senior leaders across Stripe and advising the leadership team on key technical considerations related to the end-to-end ML lifecycle.&lt;/li&gt;\n&lt;li&gt;Drive cross-team technical initiatives that improve ML development velocity and MLOps maturity across the company.&lt;/li&gt;\n&lt;li&gt;Mentor and grow other engineers. Serve as a role model for designing, implementing, and operating great software systems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Who you are&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of professional software development experience, or equivalent domain expertise, with a solid background in service-oriented architecture and large-scale distributed systems.&lt;/li&gt;\n&lt;li&gt;Track record of serving as a technical lead, with the ability to provide technical direction, lead multi-team initiatives, and mentor team members.&lt;/li&gt;\n&lt;li&gt;Experience building and operating production ML platform in one or more areas such as model training, model serving, orchestration, or ML data systems, with requirements for performance, reliability, scalability, and cost efficiency.&lt;/li&gt;\n&lt;li&gt;Strong product instincts and a deep understanding of the business context in which you operate.&lt;/li&gt;\n&lt;li&gt;Strong communication skills with the ability to explain complex technical concepts to both technical and non-technical stakeholders.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to work cross-functionally, collaborating effectively with ML engineers, data scientists, software engineers, product managers, and business stakeholders.&lt;/li&gt;\n&lt;li&gt;The ability to thrive on a high level of autonomy and responsibility, and comfort operating in ambiguous environments.&lt;/li&gt;\n&lt;li&gt;Hands-on experience using AI tools to accelerate how you work.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building large-scale ML training, serving, or data infrastructure for machine learning use cases, such as distributed training, model inference, feature stores, real-time feature computation, and model registries.&lt;/li&gt;\n&lt;li&gt;Experience with distributed ML training systems, accelerator-backed compute, training data pipelines, experiment tracking, and model evaluation.&lt;/li&gt;\n&lt;li&gt;Experience rapidly developing prototypes and iterating based on user feedback.&lt;/li&gt;\n&lt;li&gt;Experience training and shipping machine learning models to production to solve critical business problems.&lt;/li&gt;\n&lt;li&gt;Familiarity with LLMs, LLM application frameworks, and agentic AI patterns (e.g., tool use, multi-agent orchestration, retrieval-augmented generation).&lt;/li&gt;\n&lt;li&gt;Familiarity with cloud services (e.g., AWS) and cloud-based AI and ML services (e.g., SageMaker, Bedrock, Databricks, OpenAI).&lt;/li&gt;\n&lt;li&gt;Ability to synthesize ideas across the organization while setting a compelling technical vision.&lt;/li&gt;\n&lt;li&gt;Comfortable working with geographically distributed teams.&lt;/li&gt;\n&lt;li&gt;Passion for side projects, open source, or self-driven technical initiatives.&lt;/li&gt;\n&lt;/ul&gt;",
       "skills": [
         "machine learning",
@@ -333,7 +309,7 @@
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=7712852",
+      "url": "https://stripe.com/jobs/search?gh_jid=7939868",
       "matchScore": 25
     },
     {
@@ -350,6 +326,22 @@
       "source": "Greenhouse",
       "url": "https://careers.datadoghq.com/detail/6960503/?gh_jid=6960503",
       "matchScore": 25
+    },
+    {
+      "title": "Data Engineer - AFRICOM",
+      "company": "Agile Defense",
+      "location": "Stuttgart, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/agile-defense/data-engineer-africom-stuttgart-germany-50591",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Senior Data Scientist (m/f/x)",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-366454",
+      "source": "Arbeitnow",
+      "matchScore": 20
     },
     {
       "title": "Safety Data Analyst",
@@ -378,7 +370,7 @@
       "matchScore": 20
     },
     {
-      "title": "Financial Data Analyst",
+      "title": "Data Analyst, Payments",
       "company": "Stripe",
       "location": "Singapore",
       "description": "&lt;h2&gt;Who &lt;strong&gt;we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;About &lt;strong&gt;Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About &lt;strong&gt;the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Payments organization owns some of Stripe&#39;s most critical payment flows and a platform that processes hundreds of billions of dollars in payments a year. Our team is responsible for translating complex partner specifications related to network costs (interchange and scheme fees) into simplified logic for internal and external consumption. This also drives decisions and product recommendations to manage the underlying network costs paid by Stripe and our users. The team partners closely with the engineering, product, finance, and partnership groups to manage and understand Stripe&#39;s network costs.&lt;/p&gt;\n&lt;p&gt;Our work is core to Stripe&#39;s business, as Technical Operations roles in Payments are a dynamic and key component of Stripe&#39;s success. We sit at the intersection of product and platform engineers and financial partners, connecting them to ensure that everyone thrives and nothing is lost in translation.&lt;/p&gt;\n&lt;h3&gt;What &lt;strong&gt;you&#39;ll do&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We&#39;re looking to add payment enthusiasts who enjoy interpreting complex cost structures and ever-changing payment network systems to optimize on behalf of Stripe and our users. You&#39;ll be instrumental in building Stripe&#39;s approach to managing our global network cost base.&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;p&gt;• Collaborate across the company, including engineering, accounting, financial partnerships, and product teams, to analyze billions of dollars moving through the Stripe platform&lt;/p&gt;\n&lt;p&gt;• Translate network specifications into implementation instructions to create billing models for new and revised fees (both scheme and interchange)&lt;/p&gt;\n&lt;p&gt;• Influence product strategy to minimize network costs&lt;/p&gt;\n&lt;p&gt;• Collaborate with Product, Engineering, and Finance to implement cost-saving opportunities, prioritize investment, and explain cost and margin trends&lt;/p&gt;\n&lt;p&gt;• Monitor and maintain the accuracy of the fees through validation and alerting&lt;/p&gt;\n&lt;p&gt;• Create fee explainability to internal and external stakeholders and host education sessions for internal teams to scale knowledge&lt;/p&gt;\n&lt;p&gt;• Introduce data and process efficiencies to meet the scale and speed of Stripe. Identify and automate inefficient operational processes to reduce manual workloads, and scale our network cost operation by driving the design, documentation, and training of operational processes to leverage partner relationships&lt;/p&gt;\n&lt;h3&gt;Who &lt;strong&gt;you are&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;Minimum &lt;strong&gt;requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;• Have 4+ years of experience in Payments at a leading technology or payments company, with the ability to write SQL to query relational databases&lt;/p&gt;\n&lt;p&gt;• Have experience managing communications and workflows with technical and non-technical teams across internal and external stakeholders&lt;/p&gt;\n&lt;p&gt;• Have experience navigating the nuanced complexity of financial systems and solving large-scale, technical challenges&lt;/p&gt;\n&lt;p&gt;• Have strong financial modeling and diagnostic skills to investigate, prioritize, and identify the root cause of issues&lt;/p&gt;\n&lt;p&gt;• Have experience managing multiple, concurrent work streams, identifying and triaging technical issues, and driving solutions with clear metrics to show impact&lt;/p&gt;\n&lt;h3&gt;Preferred &lt;strong&gt;qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;• Experience working in fast-paced environments (e.g., high-growth fintech or tech company, management consulting)&lt;/p&gt;\n&lt;p&gt;• Experience mentoring junior team members in technical skill development, operational strategy, and problem solving&lt;/p&gt;\n&lt;p&gt;• Experience working with PM, Engineers, finance team, or accounting team&lt;/p&gt;\n&lt;p&gt;• Experience handling tickets and adhering to operational targets and metrics • Experience with visualization tools&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
@@ -449,6 +441,14 @@
       "matchScore": 20
     },
     {
+      "title": "Python Software Engineer (m/w/d)",
+      "company": "Smart Systems Hub GmbH",
+      "location": "Dresden",
+      "url": "https://www.arbeitnow.com/jobs/companies/smart-systems-hub-gmbh/python-software-engineer-dresden-402329",
+      "source": "Arbeitnow",
+      "matchScore": 15
+    },
+    {
       "title": "Senior Machine Learning Engineer, CX Intelligence ",
       "company": "Coinbase",
       "location": "Remote - Brazil",
@@ -466,26 +466,50 @@
       "matchScore": 15
     },
     {
-      "title": "Senior Azure Data Engineer - Agentic AI Platform",
-      "company": "paiqo GmbH",
+      "title": "Working Student AI Enablement (d/f/m)",
+      "company": "limehome",
       "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/paiqo-gmbh/remote-senior-azure-data-engineer-agentic-ai-platform-paderborn-486076",
+      "url": "https://www.arbeitnow.com/jobs/companies/limehome/remote-working-student-ai-enablement-munchen-74429",
       "source": "Arbeitnow",
       "matchScore": 10
     },
     {
-      "title": "Lead Azure Data Engineer - Agentic AI Platform",
-      "company": "paiqo GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/paiqo-gmbh/remote-lead-azure-data-engineer-agentic-ai-platform-paderborn-239773",
+      "title": "Staff Software Engineer - Databases, Tempo | Sweden | Remote",
+      "company": "Grafanalabs",
+      "location": "Sweden (Remote)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-software-engineer-databases-tempo-sweden-remote-411415",
       "source": "Arbeitnow",
       "matchScore": 10
     },
     {
-      "title": "Working Student AI & Innovation (m/f/d)",
-      "company": "Rehau New Ventures",
-      "location": "Remote Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/rehau-new-ventures/remote-working-student-ai-innovation-196029",
+      "title": "Staff Software Engineer - Databases, Tempo | Spain | Remote",
+      "company": "Grafanalabs",
+      "location": "Spain (Remote)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-software-engineer-databases-tempo-spain-remote-443102",
+      "source": "Arbeitnow",
+      "matchScore": 10
+    },
+    {
+      "title": "Staff Software Engineer - Databases, Tempo | Ireland | Remote",
+      "company": "Grafanalabs",
+      "location": "Republic of Ireland (Remote)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-software-engineer-databases-tempo-ireland-remote-43712",
+      "source": "Arbeitnow",
+      "matchScore": 10
+    },
+    {
+      "title": "Staff Software Engineer - Databases, Tempo | Germany | Remote",
+      "company": "Grafanalabs",
+      "location": "Germany (Remote)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-software-engineer-databases-tempo-germany-remote-294622",
+      "source": "Arbeitnow",
+      "matchScore": 10
+    },
+    {
+      "title": "Staff Backend Engineer - Grafana Second Horizon | Spain | Remote",
+      "company": "Grafanalabs",
+      "location": "Spain (Remote)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-backend-engineer-grafana-second-horizon-spain-remote-470110",
       "source": "Arbeitnow",
       "matchScore": 10
     },
@@ -506,24 +530,18 @@
       "matchScore": 10
     },
     {
-      "title": "Senior Software Engineer, Data Engineering Platform",
-      "company": "Coinbase",
-      "location": "Remote - USA",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;amp;utm_source=coinbase&quot;&gt;Coinbase&lt;/a&gt;, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it’s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for &quot;good enough,&quot; you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/careers&quot;&gt;learn more about working at Coinbase&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;content-intro&quot;&gt;\n&lt;p&gt;The Data Platform team builds and operates the systems that centralize all of Coinbase&#39;s internal and third-party data, making it easy for teams across the company to access, process, and transform that data for analytics, machine learning, and powering end-user experiences. As an engineer on the team you&#39;ll contribute across the full spectrum of our systems, from foundational processing and storage to scalable pipelines to the frameworks, tools, and internal applications that make data easily and efficiently available.&lt;/p&gt;\n&lt;p&gt;We have a number of open roles within the Data Platform team, each with a different focus area; read on to see if you&#39;ll be a good fit as a Data Engineering Platform Engineer.&lt;/p&gt;\n&lt;p&gt;This role sits between our platform and the analysts, data scientists, and data engineers who use it every day. You&#39;ll build the SDKs, self-service apps, and abstractions that let thousands of pipelines and analyses run without those users needing to understand the plumbing underneath.&lt;/p&gt;\n&lt;/div&gt;\n&lt;p&gt;What you&#39;ll do:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the design and delivery of blockchain network infrastructure that abstracts blockchain complexity into reliable, platform APIs&lt;/li&gt;\n&lt;li&gt;Lead multi-quarter initiatives including new chain integrations, re-architecture efforts, and data migrations that improve system latency, reliability, and cost&lt;/li&gt;\n&lt;li&gt;Define and maintain APIs, SLOs, and observability for the systems you build, including on-call ownership&lt;/li&gt;\n&lt;li&gt;Partner with product and platform teams to establish data contracts and ship SDKs and platform primitives that drive adoption across Coinbase&lt;/li&gt;\n&lt;li&gt;Build deep technical context across multiple top blockchain protocols (e.g., Bitcoin, Ethereum) and apply that knowledge to simplify cross-chain operations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Required Skills and Experience:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of software engineering experience, with demonstrated ownership of production services in a service-oriented architecture&lt;/li&gt;\n&lt;li&gt;Proven track record designing, scaling, and maintaining distributed systems handling high-throughput, low-latency workloads&lt;/li&gt;\n&lt;li&gt;Hands-on experience with at least two of the following: Golang, Kafka, Redis, MongoDB, or similar infrastructure technologies&lt;/li&gt;\n&lt;li&gt;Direct experience with blockchain protocols or crypto infrastructure (e.g., integrating with Ethereum, Bitcoin, or similar L1/L2 networks)&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to decompose complex systems (monoliths, legacy architectures) into well-bounded microservices with clear API contracts&lt;/li&gt;\n&lt;li&gt;Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Job ID#: P77676&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency Notice:&lt;/strong&gt;&lt;strong&gt;&lt;em&gt; &lt;/em&gt;&lt;/strong&gt;Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)).&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual base salary range (excluding equity and bonus):&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$186,065&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$218,900 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;ul&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;strong&gt;&lt;em&gt;Application Limit: &lt;/em&gt;&lt;/strong&gt;Candidates may submit a maximum of 3 applications within a 6-month period.&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Equal Opportunity Employer: &lt;/strong&gt;Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;US Applicants: &lt;/strong&gt;View&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf&quot;&gt; Employee Rights&lt;/a&gt;,&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf&quot;&gt; Know Your Rights&lt;/a&gt;, and&lt;a href=&quot;https://static-assets.coinbase.com/e-verify.pdf&quot;&gt; E-Verify&lt;/a&gt; Notice of Participation.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Accommodations: &lt;/strong&gt;If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&amp;nbsp;Need screen reading technology?&lt;a href=&quot;https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn&quot;&gt; Click here&lt;/a&gt; to download a free compatible screen reader and view the&lt;a href=&quot;http://www.chromevox.com/tutorial/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;tutorial&lt;/a&gt;.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Data Privacy &amp;amp; Arbitration: &lt;/strong&gt;By submitting your application, you agree to our&lt;a href=&quot;https://www.coinbase.com/legal/applicant_privacy_notice&quot;&gt; Candidate Privacy Notice&lt;/a&gt;. US applicants: By submitting your application, you agree to&lt;a href=&quot;https://www.coinbase.com/legal/application-arbitration-agreement&quot;&gt; Arbitration of Disputes&lt;/a&gt;.&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div id=&quot;fortidlp-input-element-parent&quot;&gt;&lt;/div&gt;&lt;/div&gt;",
-      "skills": [
-        "machine learning"
-      ],
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "source": "Greenhouse",
-      "url": "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
-      "matchScore": 10
+      "title": "(Senior) AI Engineer - Conversational AI Systems (m/w/d)",
+      "company": "idealo internet GmbH",
+      "location": "Berlin, Berlin, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-ai-engineer-conversational-ai-systems-berlin-392503",
+      "source": "Arbeitnow",
+      "matchScore": 5
     },
     {
-      "title": "Senior Machine Learning Engineer",
-      "company": "tripledotstudios",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripledotstudios/senior-machine-learning-engineer-london-300489",
+      "title": "AI Director - Machine Learning",
+      "company": "Jobgether",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-director-machine-learning-germany-42237",
       "source": "Arbeitnow",
       "matchScore": 5
     },
@@ -569,82 +587,162 @@
       "matchScore": 5
     },
     {
-      "title": "Working Student/ Intern - Medical Image Analysis with AI",
-      "company": "Snke",
-      "location": "Heidelberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/working-student-intern-medical-image-analysis-with-ai-heidelberg-115685",
+      "title": "Full-Stack Developer | React/Nextjs, Tailwind, PostgreSQL/Supabase! (all genders)",
+      "company": "ECENT GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecent-gmbh/full-stack-developer-react-nextjs-tailwind-postgresql-supabase-all-genders-munich-459347",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Working Student - Data Pipeline Development",
-      "company": "Snke",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/working-student-data-pipeline-development-munchen-492971",
+      "title": "1157 Senior Business Analyst - ServiceNow SecOps",
+      "company": "Intetics 2",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1157-senior-business-analyst-servicenow-secops-germany-395135",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "(Senior) Consultant Data Management (m/w/d)",
-      "company": "Natuvion GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-consultant-data-management-berlin-484200",
+      "title": "1156 Senior Business Analyst - ServiceNow GRC / IRM",
+      "company": "Intetics 2",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1156-senior-business-analyst-servicenow-grc-irm-germany-458341",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Data & Platform Analyst (f/m/d)",
-      "company": "Nextwind",
+      "title": "1155 Senior Business Analyst - ServiceNow Interface Analysis",
+      "company": "Intetics 2",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1155-senior-business-analyst-servicenow-interface-analysis-germany-72074",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "1154 Senior Business Analyst - ServiceNow Solution / Platform Architecture",
+      "company": "Intetics 2",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1154-senior-business-analyst-servicenow-solution-platform-architecture-germany-433789",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "1153 Senior Business Analyst - ServiceNow SAM (Software Asset Management)",
+      "company": "Intetics 2",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1153-senior-business-analyst-servicenow-sam-software-asset-management-germany-393842",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "1152 Senior Business Analyst - ServiceNow ITOM / ITAM",
+      "company": "Intetics 2",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1152-senior-business-analyst-servicenow-itom-itam-germany-322837",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "1151 Senior Business Analyst - ServiceNow SPM (Strategic Portfolio Management)",
+      "company": "Intetics 2",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1151-senior-business-analyst-servicenow-spm-strategic-portfolio-management-germany-436018",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior SEA & Google Ads Manager (m/w/d) - Performance Max, Automation & AI  - 100 % remote",
+      "company": "hurra.com",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/nextwind/data-platform-analyst-berlin-10021",
+      "url": "https://www.arbeitnow.com/jobs/companies/hurracom/senior-sea-google-ads-manager-performance-max-automation-ai-100-remote-berlin-195131",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Manager Data Analytics (w/m/d)",
-      "company": "Eraneos",
-      "location": "Hamburg, München, Düsseldorf, remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-data-analytics-466945",
+      "title": "AI Researcher – Multilingual Data",
+      "company": "Jobgether",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-researcher-multilingual-data-germany-13863",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "AI Solution Architect (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-171944",
+      "title": "(Senior) Analyst Grid Connection & Market Intelligence",
+      "company": "Q Energy",
+      "location": "Berlin, Hamburg, Wiesbaden, Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/q-energy/senior-analyst-grid-connection-market-intelligence-berlin-hamburg-wiesbaden-stuttgart-449183",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Steuerberater (m/w/d) in Waiblingen, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-      "company": "Taxtalente.de",
-      "location": "Waiblingen",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-waiblingen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-482252",
+      "title": "Implementation Manager - Healthcare AI & Workforece Transformation",
+      "company": "SEDIWORK",
+      "location": "Leipzig",
+      "url": "https://www.arbeitnow.com/jobs/companies/sediwork/implementation-manager-healthcare-ai-workforece-transformation-leipzig-439712",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Principal Data Strategist (m/f/d)",
-      "company": "thoughtworks",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/thoughtworks/principal-data-strategist-hamburg-15817",
+      "title": "Working Student (f/m/d) AI Growth Marketing (B2B)",
+      "company": "Ionos2",
+      "location": "Revaler Straße 28-31, 10245 Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/ionos2/working-student-ai-growth-marketing-b2b-revaler-strasse-28-31-10245-berlin-97557",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Praktikant im Bereich Data Science R&D (m/w/d)",
-      "company": "Vulcan Energie Ressourcen GmbH",
-      "location": "Karlsruhe",
-      "url": "https://www.arbeitnow.com/jobs/companies/vulcan-energie-ressourcen-gmbh/praktikant-im-bereich-data-science-rd-karlsruhe-111716",
+      "title": "Trainee (m/w/d) Consulting",
+      "company": "MLP Wirtschaftsberatung",
+      "location": "Düsseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/mlp-wirtschaftsberatung/trainee-consulting-dusseldorf-59696",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "(Senior) Analyst Investment Finance (m/w/d) | Python",
-      "company": "Qplix",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/qplix/senior-analyst-investment-finance-python-munchen-60754",
+      "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
+      "company": "1KOMMA5˚",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-qa-engineer-ai-driven-testing-berlin-449691",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Research Engineer - Medical Imaging",
+      "company": "Nano4Imaging",
+      "location": "Düsseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/nano4imaging/ai-research-engineer-medical-imaging-dusseldorf-94004",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Podcast Campaign Manager (m/w/d)",
+      "company": "Julep Media GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/julep-media-gmbh/podcast-campaign-manager-berlin-423201",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Microsoft AI & Copilot Engineer (m/w/d)",
+      "company": "think about IT GmbH",
+      "location": "Nuremberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-microsoft-ai-copilot-engineer-nuremberg-497223",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "KFZ-Mechatroniker für Nutzfahrzeuge, LKW & Trailer (m/w/d) | 40.000 - 48.000 €",
+      "company": "Riverstate Premium Recruiting",
+      "location": "Langenau",
+      "url": "https://www.arbeitnow.com/jobs/companies/riverstate-premium-recruiting/kfz-mechatroniker-fur-nutzfahrzeuge-lkw-trailer-40000-48000-eur-langenau-483667",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Paid Media Manager (m/w/d)",
+      "company": "Semtrix GmbH",
+      "location": "Düsseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/semtrix-gmbh/senior-paid-media-manager-dusseldorf-378747",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -1039,19 +1137,6 @@
       "matchScore": 0
     },
     {
-      "title": "Data Labeling Specialists",
-      "company": "Workada",
-      "location": "USA",
-      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
-      "salary": "$18 - $22/hr",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
-    },
-    {
       "title": "Communications Manager",
       "company": "Lemon.io",
       "location": "LATAM, Europe",
@@ -1091,6 +1176,6 @@
       "matchScore": 0
     }
   ],
-  "totalJobs": 86,
-  "lastUpdated": "2026-07-27T04:12:49.989197+00:00"
+  "totalJobs": 98,
+  "lastUpdated": "2026-07-28T03:46:24.241707+00:00"
 }
