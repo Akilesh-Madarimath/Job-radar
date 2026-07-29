@@ -96,6 +96,22 @@
       "matchScore": 35
     },
     {
+      "title": "Data Analyst (m/w/d)",
+      "company": "OXG Glasfaser GmbH",
+      "location": "Düsseldorf und Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-data-analyst-213636",
+      "source": "Arbeitnow",
+      "matchScore": 30
+    },
+    {
+      "title": "Data Scientist - Measurement, Experimentation & Causal Inference",
+      "company": "sonyinteractiveentertainmentglobal",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/data-scientist-measurement-experimentation-causal-inference-london-320720",
+      "source": "Arbeitnow",
+      "matchScore": 30
+    },
+    {
       "title": "Data Scientist",
       "company": "Stripe",
       "location": "Toronto",
@@ -186,14 +202,6 @@
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
       "matchScore": 30
-    },
-    {
-      "title": "Data & AI Engineer (m/w/d)",
-      "company": "MediPulse",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/medipulse/data-ai-engineer-munich-125354",
-      "source": "Arbeitnow",
-      "matchScore": 25
     },
     {
       "title": "AI Engineer",
@@ -300,7 +308,7 @@
     {
       "title": "Staff Software Engineer, Machine Learning Platform",
       "company": "Stripe",
-      "location": "San Francisco, Seattle",
+      "location": "Toronto",
       "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Stripe processes over $1.9T in payments volume per year, which is roughly 1.6% of the world&#39;s GDP, for millions of customers from startups to enterprises. The tremendous amount of data makes Stripe one of the best places to do machine learning. While being an integral part of almost every product line at Stripe (e.g., Payments, Radar, Capital, Billing, etc.), we have lots of exciting opportunities to innovate in ML Platform at Stripe.&lt;/p&gt;\n&lt;p&gt;The ML Platform team builds the platforms and services that enable ML engineers and data scientists across Stripe to take data and build features and models from prototype to production—reliably, at low latency, and at scale. Our scope spans ML training infrastructure, model serving and deployment, feature computation and online serving, observability and monitoring, and agentic AI capabilities. We work closely with product teams, data scientists, and platform infrastructure teams to build powerful, flexible, and user-friendly systems that substantially increase ML velocity across the company.&lt;/p&gt;\n&lt;h2&gt;What you&#39;ll do&lt;/h2&gt;\n&lt;p&gt;You&#39;ll serve as a technical lead across the ML Platform space and a key contributor to the evolution of the platforms that power Stripe&#39;s ML-driven products. As a Staff Engineer, you&#39;ll make decisions with a large impact on Stripe. You&#39;ll influence our investments and strategy while making our systems more reliable, secure, and a delight to use. You&#39;ll work cross-functionally with other technical staff, data science, product, and senior leadership to increase the impact of ML at Stripe.&lt;/p&gt;\n&lt;p&gt;You&#39;ll help define the long-term strategy and lead the technical direction for the next generation of ML infrastructure that powers Stripe&#39;s ML-driven products.&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Take ownership of end-to-end architecture and system design for large, complex projects across ML Platform.&lt;/li&gt;\n&lt;li&gt;Define technical direction for highly ambiguous projects, transforming complex user needs into long-lasting platform strategy.&lt;/li&gt;\n&lt;li&gt;Design system architectures for the most challenging ML Platform problems in one or more areas, including AI and ML workflow orchestration, scalable CPU and GPU compute infrastructure, model training, LLM fine-tuning, low-latency model inference, large-scale feature stores, real-time monitoring, and LLM and agent orchestration.&lt;/li&gt;\n&lt;li&gt;Turn high-leverage ideas into tangible, robust solutions that shape platform and product roadmap, combining technical excellence with creative problem-solving.&lt;/li&gt;\n&lt;li&gt;Scope and lead large projects with significant business impact, driving them from requirements through design, implementation, and production operation.&lt;/li&gt;\n&lt;li&gt;Work with ML engineers, data scientists, and product teams directly to translate their needs into functional requirements and scalable technical solutions.&lt;/li&gt;\n&lt;li&gt;Arbitrate critical decisions that balance competing priorities while meeting latency, reliability, cost, and security constraints.&lt;/li&gt;\n&lt;li&gt;Serve as a key engineering representative, engaging senior leaders across Stripe and advising the leadership team on key technical considerations related to the end-to-end ML lifecycle.&lt;/li&gt;\n&lt;li&gt;Drive cross-team technical initiatives that improve ML development velocity and MLOps maturity across the company.&lt;/li&gt;\n&lt;li&gt;Mentor and grow other engineers. Serve as a role model for designing, implementing, and operating great software systems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Who you are&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of professional software development experience, or equivalent domain expertise, with a solid background in service-oriented architecture and large-scale distributed systems.&lt;/li&gt;\n&lt;li&gt;Track record of serving as a technical lead, with the ability to provide technical direction, lead multi-team initiatives, and mentor team members.&lt;/li&gt;\n&lt;li&gt;Experience building and operating production ML platform in one or more areas such as model training, model serving, orchestration, or ML data systems, with requirements for performance, reliability, scalability, and cost efficiency.&lt;/li&gt;\n&lt;li&gt;Strong product instincts and a deep understanding of the business context in which you operate.&lt;/li&gt;\n&lt;li&gt;Strong communication skills with the ability to explain complex technical concepts to both technical and non-technical stakeholders.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to work cross-functionally, collaborating effectively with ML engineers, data scientists, software engineers, product managers, and business stakeholders.&lt;/li&gt;\n&lt;li&gt;The ability to thrive on a high level of autonomy and responsibility, and comfort operating in ambiguous environments.&lt;/li&gt;\n&lt;li&gt;Hands-on experience using AI tools to accelerate how you work.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building large-scale ML training, serving, or data infrastructure for machine learning use cases, such as distributed training, model inference, feature stores, real-time feature computation, and model registries.&lt;/li&gt;\n&lt;li&gt;Experience with distributed ML training systems, accelerator-backed compute, training data pipelines, experiment tracking, and model evaluation.&lt;/li&gt;\n&lt;li&gt;Experience rapidly developing prototypes and iterating based on user feedback.&lt;/li&gt;\n&lt;li&gt;Experience training and shipping machine learning models to production to solve critical business problems.&lt;/li&gt;\n&lt;li&gt;Familiarity with LLMs, LLM application frameworks, and agentic AI patterns (e.g., tool use, multi-agent orchestration, retrieval-augmented generation).&lt;/li&gt;\n&lt;li&gt;Familiarity with cloud services (e.g., AWS) and cloud-based AI and ML services (e.g., SageMaker, Bedrock, Databricks, OpenAI).&lt;/li&gt;\n&lt;li&gt;Ability to synthesize ideas across the organization while setting a compelling technical vision.&lt;/li&gt;\n&lt;li&gt;Comfortable working with geographically distributed teams.&lt;/li&gt;\n&lt;li&gt;Passion for side projects, open source, or self-driven technical initiatives.&lt;/li&gt;\n&lt;/ul&gt;",
       "skills": [
         "machine learning",
@@ -309,7 +317,7 @@
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=7939868",
+      "url": "https://stripe.com/jobs/search?gh_jid=7712852",
       "matchScore": 25
     },
     {
@@ -328,26 +336,18 @@
       "matchScore": 25
     },
     {
-      "title": "Data Engineer - AFRICOM",
-      "company": "Agile Defense",
-      "location": "Stuttgart, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/agile-defense/data-engineer-africom-stuttgart-germany-50591",
+      "title": "Data Engineer (m/w/d)",
+      "company": "ANGEHEUERT GmbH Personalberatung",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh-personalberatung/data-engineer-berlin-32772",
       "source": "Arbeitnow",
       "matchScore": 20
     },
     {
-      "title": "Senior Data Scientist (m/f/x)",
-      "company": "Makersite GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-366454",
-      "source": "Arbeitnow",
-      "matchScore": 20
-    },
-    {
-      "title": "Safety Data Analyst",
-      "company": "SkyWest Airlines",
-      "location": "Salt Lake City Metropolitan Area, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-safety-data-analyst-skywest-airlines-1135445",
+      "title": "Data Analyst",
+      "company": "YO AI Labs",
+      "location": "San Francisco, San Francisco, California, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-yo-ai-labs-1135558",
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "RemoteOK",
@@ -441,14 +441,6 @@
       "matchScore": 20
     },
     {
-      "title": "Python Software Engineer (m/w/d)",
-      "company": "Smart Systems Hub GmbH",
-      "location": "Dresden",
-      "url": "https://www.arbeitnow.com/jobs/companies/smart-systems-hub-gmbh/python-software-engineer-dresden-402329",
-      "source": "Arbeitnow",
-      "matchScore": 15
-    },
-    {
       "title": "Senior Machine Learning Engineer, CX Intelligence ",
       "company": "Coinbase",
       "location": "Remote - Brazil",
@@ -466,50 +458,18 @@
       "matchScore": 15
     },
     {
-      "title": "Working Student AI Enablement (d/f/m)",
-      "company": "limehome",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/limehome/remote-working-student-ai-enablement-munchen-74429",
+      "title": "Senior Data Scientist",
+      "company": "heliosx",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/heliosx/senior-data-scientist-london-179120",
       "source": "Arbeitnow",
       "matchScore": 10
     },
     {
-      "title": "Staff Software Engineer - Databases, Tempo | Sweden | Remote",
-      "company": "Grafanalabs",
-      "location": "Sweden (Remote)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-software-engineer-databases-tempo-sweden-remote-411415",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Staff Software Engineer - Databases, Tempo | Spain | Remote",
-      "company": "Grafanalabs",
-      "location": "Spain (Remote)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-software-engineer-databases-tempo-spain-remote-443102",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Staff Software Engineer - Databases, Tempo | Ireland | Remote",
-      "company": "Grafanalabs",
-      "location": "Republic of Ireland (Remote)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-software-engineer-databases-tempo-ireland-remote-43712",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Staff Software Engineer - Databases, Tempo | Germany | Remote",
-      "company": "Grafanalabs",
-      "location": "Germany (Remote)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-software-engineer-databases-tempo-germany-remote-294622",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Staff Backend Engineer - Grafana Second Horizon | Spain | Remote",
-      "company": "Grafanalabs",
-      "location": "Spain (Remote)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/staff-backend-engineer-grafana-second-horizon-spain-remote-470110",
+      "title": "Senior/Staff Data Scientist - Measurement, Experimentation & Causal Inference",
+      "company": "sonyinteractiveentertainmentglobal",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-staff-data-scientist-measurement-experimentation-causal-inference-london-451865",
       "source": "Arbeitnow",
       "matchScore": 10
     },
@@ -528,22 +488,6 @@
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/7736521?gh_jid=7736521",
       "matchScore": 10
-    },
-    {
-      "title": "(Senior) AI Engineer - Conversational AI Systems (m/w/d)",
-      "company": "idealo internet GmbH",
-      "location": "Berlin, Berlin, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-ai-engineer-conversational-ai-systems-berlin-392503",
-      "source": "Arbeitnow",
-      "matchScore": 5
-    },
-    {
-      "title": "AI Director - Machine Learning",
-      "company": "Jobgether",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-director-machine-learning-germany-42237",
-      "source": "Arbeitnow",
-      "matchScore": 5
     },
     {
       "title": "Senior AI Engineer",
@@ -587,163 +531,120 @@
       "matchScore": 5
     },
     {
-      "title": "Full-Stack Developer | React/Nextjs, Tailwind, PostgreSQL/Supabase! (all genders)",
-      "company": "ECENT GmbH",
+      "title": "Senior Data Analyst (f/m/x)",
+      "company": "sparetech",
+      "location": "",
+      "url": "https://www.arbeitnow.com/jobs/companies/sparetech/senior-data-analyst-45138",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Payments Operations Analyst",
+      "company": "Congrify Payments Intelligence (an Ixopay Company)",
       "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecent-gmbh/full-stack-developer-react-nextjs-tailwind-postgresql-supabase-all-genders-munich-459347",
+      "url": "https://www.arbeitnow.com/jobs/companies/congrify-payments-intelligence-an-ixopay-company/payments-operations-analyst-munich-367198",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "1157 Senior Business Analyst - ServiceNow SecOps",
-      "company": "Intetics 2",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1157-senior-business-analyst-servicenow-secops-germany-395135",
+      "title": "Senior Key Account & Retail Development Manager DE & AT (m/w/d)",
+      "company": "Blackroll AG",
+      "location": "Deutschland, Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/blackroll-ag/remote-senior-key-account-retail-development-manager-de-at-184919",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "1156 Senior Business Analyst - ServiceNow GRC / IRM",
-      "company": "Intetics 2",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1156-senior-business-analyst-servicenow-grc-irm-germany-458341",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "1155 Senior Business Analyst - ServiceNow Interface Analysis",
-      "company": "Intetics 2",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1155-senior-business-analyst-servicenow-interface-analysis-germany-72074",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "1154 Senior Business Analyst - ServiceNow Solution / Platform Architecture",
-      "company": "Intetics 2",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1154-senior-business-analyst-servicenow-solution-platform-architecture-germany-433789",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "1153 Senior Business Analyst - ServiceNow SAM (Software Asset Management)",
-      "company": "Intetics 2",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1153-senior-business-analyst-servicenow-sam-software-asset-management-germany-393842",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "1152 Senior Business Analyst - ServiceNow ITOM / ITAM",
-      "company": "Intetics 2",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1152-senior-business-analyst-servicenow-itom-itam-germany-322837",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "1151 Senior Business Analyst - ServiceNow SPM (Strategic Portfolio Management)",
-      "company": "Intetics 2",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1151-senior-business-analyst-servicenow-spm-strategic-portfolio-management-germany-436018",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior SEA & Google Ads Manager (m/w/d) - Performance Max, Automation & AI  - 100 % remote",
-      "company": "hurra.com",
+      "title": "Senior Data Engineer (m/w/d)",
+      "company": "ANGEHEUERT GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/hurracom/senior-sea-google-ads-manager-performance-max-automation-ai-100-remote-berlin-195131",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/senior-data-engineer-berlin-296119",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "AI Researcher – Multilingual Data",
-      "company": "Jobgether",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-researcher-multilingual-data-germany-13863",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "(Senior) Analyst Grid Connection & Market Intelligence",
-      "company": "Q Energy",
-      "location": "Berlin, Hamburg, Wiesbaden, Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/q-energy/senior-analyst-grid-connection-market-intelligence-berlin-hamburg-wiesbaden-stuttgart-449183",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Implementation Manager - Healthcare AI & Workforece Transformation",
-      "company": "SEDIWORK",
-      "location": "Leipzig",
-      "url": "https://www.arbeitnow.com/jobs/companies/sediwork/implementation-manager-healthcare-ai-workforece-transformation-leipzig-439712",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Working Student (f/m/d) AI Growth Marketing (B2B)",
-      "company": "Ionos2",
-      "location": "Revaler Straße 28-31, 10245 Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/ionos2/working-student-ai-growth-marketing-b2b-revaler-strasse-28-31-10245-berlin-97557",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Trainee (m/w/d) Consulting",
-      "company": "MLP Wirtschaftsberatung",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/mlp-wirtschaftsberatung/trainee-consulting-dusseldorf-59696",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
-      "company": "1KOMMA5˚",
+      "title": "Data Platform Engineer (m/w/d)",
+      "company": "ANGEHEUERT GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-qa-engineer-ai-driven-testing-berlin-449691",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/data-platform-engineer-berlin-273541",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "AI Research Engineer - Medical Imaging",
-      "company": "Nano4Imaging",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/nano4imaging/ai-research-engineer-medical-imaging-dusseldorf-94004",
+      "title": "Senior Solutions Architect (Large Retail Account)",
+      "company": "databricks",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-architect-large-retail-account-21103",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Podcast Campaign Manager (m/w/d)",
-      "company": "Julep Media GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/julep-media-gmbh/podcast-campaign-manager-berlin-423201",
+      "title": "Senior Campaign Executive",
+      "company": "wppmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/senior-campaign-executive-london-217801",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Microsoft AI & Copilot Engineer (m/w/d)",
-      "company": "think about IT GmbH",
-      "location": "Nuremberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-microsoft-ai-copilot-engineer-nuremberg-497223",
+      "title": "Senior Director of Machine Learning (Experiences)",
+      "company": "tripadvisor",
+      "location": "London, Oxford, Poland, Krakow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/senior-director-of-machine-learning-experiences-london-oxford-poland-krakow-481393",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "KFZ-Mechatroniker für Nutzfahrzeuge, LKW & Trailer (m/w/d) | 40.000 - 48.000 €",
-      "company": "Riverstate Premium Recruiting",
-      "location": "Langenau",
-      "url": "https://www.arbeitnow.com/jobs/companies/riverstate-premium-recruiting/kfz-mechatroniker-fur-nutzfahrzeuge-lkw-trailer-40000-48000-eur-langenau-483667",
+      "title": "Director of Data",
+      "company": "alpaca",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/alpaca/director-of-data-370921",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Paid Media Manager (m/w/d)",
-      "company": "Semtrix GmbH",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/semtrix-gmbh/senior-paid-media-manager-dusseldorf-378747",
+      "title": "Senior Data Analyst",
+      "company": "oliver",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/senior-data-analyst-london-197206",
       "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Mid-Market Account Executive, Media & Entertainment Agencies",
+      "company": "boxinc",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/boxinc/mid-market-account-executive-media-entertainment-agencies-london-147996",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Associate Account Director (Medical Affairs)",
+      "company": "Realchemistry",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/realchemistry/associate-account-director-medical-affairs-271586",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Trust Security Analyst",
+      "company": "nice",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nice/senior-trust-security-analyst-137278",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Data Labeling Specialists",
+      "company": "Workada",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
+      "salary": "$18 - $22/hr",
+      "experience": "Not specified",
+      "fitScore": 80,
+      "category": "Remote",
+      "isNew": true,
+      "source": "Remotive",
       "matchScore": 0
     },
     {
@@ -1161,21 +1062,8 @@
       "isNew": true,
       "source": "Remotive",
       "matchScore": 0
-    },
-    {
-      "title": "Sales Assistant ",
-      "company": "Endureed by Global Innovation ",
-      "location": "USA",
-      "url": "https://remotive.com/remote-jobs/sales/sales-assistant-2091038",
-      "salary": "$20k-$25k",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
     }
   ],
-  "totalJobs": 98,
-  "lastUpdated": "2026-07-28T03:46:24.241707+00:00"
+  "totalJobs": 84,
+  "lastUpdated": "2026-07-29T03:49:10.514545+00:00"
 }
