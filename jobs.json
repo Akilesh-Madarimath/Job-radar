@@ -123,10 +123,10 @@
       "matchScore": 35
     },
     {
-      "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
-      "company": "1Komma5Grad",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-127223",
+      "title": "Data Scientist",
+      "company": "Faculty",
+      "location": "UK - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/data-scientist-london-352335",
       "source": "Arbeitnow",
       "matchScore": 30
     },
@@ -221,6 +221,30 @@
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
       "matchScore": 30
+    },
+    {
+      "title": "Member of Technical Staff, Machine Learning",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/member-of-technical-staff-machine-learning-germany-68771",
+      "source": "Arbeitnow",
+      "matchScore": 25
+    },
+    {
+      "title": "Applied AI Engineer",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/applied-ai-engineer-germany-309323",
+      "source": "Arbeitnow",
+      "matchScore": 25
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Faculty",
+      "location": "UK - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/machine-learning-engineer-london-99953",
+      "source": "Arbeitnow",
+      "matchScore": 25
     },
     {
       "title": "AI Engineer",
@@ -355,18 +379,18 @@
       "matchScore": 25
     },
     {
-      "title": "Senior Data Scientist (m/f/x)",
-      "company": "Makersite GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-113549",
+      "title": "AI Research Engineer -  3D Computer Vision",
+      "company": "helsing",
+      "location": "Berlin; London; Munich; Paris",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/helsing/ai-research-engineer-3d-computer-vision-berlin-london-munich-paris-304073",
       "source": "Arbeitnow",
       "matchScore": 20
     },
     {
-      "title": "Data Analyst - Supply",
-      "company": "prolific",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/data-analyst-supply-139841",
+      "title": "Sr Staff ML Forward Deployed Engineer, Enterprise GenAI",
+      "company": "Scaleai",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/sr-staff-ml-forward-deployed-engineer-enterprise-genai-london-204715",
       "source": "Arbeitnow",
       "matchScore": 20
     },
@@ -486,17 +510,17 @@
     },
     {
       "title": "Senior Data Scientist",
-      "company": "workato",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/workato/senior-data-scientist-berlin-425579",
+      "company": "Faculty",
+      "location": "UK - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/senior-data-scientist-london-297640",
       "source": "Arbeitnow",
       "matchScore": 10
     },
     {
-      "title": "Software Engineer - Synthetic Monitoring | Spain | Remote",
-      "company": "grafanalabs",
-      "location": "Spain (Remote)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/software-engineer-synthetic-monitoring-spain-remote-26581",
+      "title": "Lead Data Scientist",
+      "company": "Faculty",
+      "location": "UK - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/lead-data-scientist-london-84036",
       "source": "Arbeitnow",
       "matchScore": 10
     },
@@ -547,18 +571,34 @@
       "matchScore": 10
     },
     {
-      "title": "Senior Machine Learning Engineer, AI Platform",
-      "company": "smartlyio",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/smartlyio/senior-machine-learning-engineer-ai-platform-berlin-319677",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/senior-machine-learning-engineer-germany-488005",
       "source": "Arbeitnow",
       "matchScore": 5
     },
     {
-      "title": "Senior Machine Learning Scientist (Experiences)",
-      "company": "tripadvisor",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/senior-machine-learning-scientist-experiences-london-61648",
+      "title": "Principal Machine Learning Engineer",
+      "company": "Faculty",
+      "location": "UK - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/principal-machine-learning-engineer-london-442042",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "company": "Faculty",
+      "location": "UK - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/senior-machine-learning-engineer-london-126279",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
+      "title": "Lead Machine Learning Engineer",
+      "company": "Faculty",
+      "location": "UK - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/lead-machine-learning-engineer-london-458173",
       "source": "Arbeitnow",
       "matchScore": 5
     },
@@ -589,122 +629,210 @@
       "matchScore": 5
     },
     {
-      "title": "Working Student - Data Migration (all genders) - Fixed-term 2 months",
-      "company": "Fashion Cloud",
-      "location": "Hamburg, Hamburg, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/fashion-cloud/working-student-data-migration-all-genders-fixed-term-2-months-hamburg-107554",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Teacher Assistant - Introduction to Algorithms and Data Structures (f/m/x)",
-      "company": "Code",
+      "title": "Research Scientist, Foundational Data Science",
+      "company": "Prior Labs",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/code/teacher-assistant-introduction-to-algorithms-and-data-structures-berlin-295716",
+      "url": "https://www.arbeitnow.com/jobs/companies/prior-labs/research-scientist-foundational-data-science-berlin-348675",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Product Manager / Director – GPU & AI Services",
-      "company": "Impossible Cloud",
+      "title": "Research Scientist Intern (PhD)",
+      "company": "Prior Labs",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/prior-labs/research-scientist-intern-phd-berlin-114460",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Account Director, Large Enterprise | Retail",
+      "company": "OpenAI",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/openai/account-director-large-enterprise-retail-munich-284831",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Product Manager (m/f/x)",
+      "company": "Cortea AI",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/cortea-ai/ai-product-manager-berlin-446127",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Audit Engineer (Wirtschaftsprüfung) (m/f/d)",
+      "company": "Cortea AI",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/cortea-ai/ai-audit-engineer-wirtschaftsprufung-berlin-235224",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Software Engineer, Data & AI Platform (m/f/x)",
+      "company": "Cortea AI",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/cortea-ai/software-engineer-data-ai-platform-berlin-368195",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Data Engineer (f/m/d)",
+      "company": "Zeal Network",
       "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/impossible-cloud/product-manager-director-gpu-ai-services-hamburg-410467",
+      "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-data-engineer-hamburg-360638",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Supply Chain Manager (m/f/d)",
-      "company": "Westwing",
-      "location": "Munich Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/westwing/senior-supply-chain-manager-munich-office-98146",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Midlevel Full Stack Developer - Ruby on Rails & React (m/w/d)",
-      "company": "Strix Group B.V.",
-      "location": "Bochum, Nadrenia Północna-Westfalia, Niemcy",
-      "url": "https://www.arbeitnow.com/jobs/companies/strix-group-bv/midlevel-full-stack-developer-ruby-on-rails-react-bochum-294935",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Founding Engineer / Senior Full Stack (AI-native Freight Forwarder)",
-      "company": "Stetig",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/stetig/founding-engineer-senior-full-stack-ai-native-freight-forwarder-frankfurt-am-main-208525",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "(Senior) Manager Network Planning Train - Bau- & Jahresplanung (m/w/d)",
-      "company": "Flix",
-      "location": "Berlin, Berlin, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-manager-network-planning-train-bau-jahresplanung-berlin-423141",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Platform Engineer (m/f/d)",
-      "company": "Fioneer",
+      "title": "Product Manager - AI Neobank App",
+      "company": "Bjak",
       "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/fioneer/remote-ai-platform-engineer-germany-51162",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-neobank-app-germany-444794",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Data Governance Analyst",
-      "company": "wppmedia",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/senior-data-governance-analyst-london-2503",
+      "title": "Product Lead - AI Neobank App",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/product-lead-ai-neobank-app-germany-13461",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Full Stack Engineer, Blockchain",
-      "company": "Fireblocks",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fireblocks/full-stack-engineer-blockchain-london-242596",
+      "title": "Mobile Engineer - AI Finance Agent",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/mobile-engineer-ai-finance-agent-germany-50390",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior AI Deployment Consultant",
-      "company": "intercom",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intercom/senior-ai-deployment-consultant-london-137495",
+      "title": "Full Stack Engineer, AI systems",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-engineer-ai-systems-germany-290837",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
-      "company": "1Komma5Grad",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-senior-qa-engineer-ai-driven-testing-158120",
+      "title": "Backend Engineer, AI (Agent Systems)",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/backend-engineer-ai-agent-systems-germany-348184",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Data Engineer - Real time analytics",
-      "company": "Aircall",
-      "location": "London Office",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-303664",
+      "title": "Android Developer - AI Finance Agent",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-developer-ai-finance-agent-germany-416436",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Specialist - Campaign Production - DTC",
-      "company": "onrunning",
-      "location": "London; Zurich",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/onrunning/senior-specialist-campaign-production-dtc-london-zurich-44063",
+      "title": "Mobile Application Developer - AI Neobank App",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/mobile-application-developer-ai-neobank-app-germany-359708",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Specialist- B2B Retail Developer, EMEA",
-      "company": "onrunning",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/onrunning/senior-specialist-b2b-retail-developer-emea-london-401738",
+      "title": "Mobile Application Developer - AI Finance Agent",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/mobile-application-developer-ai-finance-agent-germany-319823",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Android Software Engineer - AI Finance Agent",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/android-software-engineer-ai-finance-agent-germany-350475",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "iOS Developer - AI Finance Agent",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/ios-developer-ai-finance-agent-germany-207839",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Business Analyst",
+      "company": "Everway",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/everway/senior-business-analyst-302099",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI - Enabled Software Engineer",
+      "company": "Mark43",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mark43/ai-enabled-software-engineer-123105",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Research Scientist - AI Safety Evaluations",
+      "company": "Faculty",
+      "location": "UK - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/senior-research-scientist-ai-safety-evaluations-london-338846",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Lead Learning Scientist",
+      "company": "Faculty",
+      "location": "UK - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/lead-learning-scientist-london-266219",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Head of AI Assurance",
+      "company": "Faculty",
+      "location": "UK - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/head-of-ai-assurance-london-387667",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Research Scientist - AI Safety",
+      "company": "Faculty",
+      "location": "UK - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/senior-research-scientist-ai-safety-london-13656",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Lead Analyst, Customer Service Analytics",
+      "company": "Angi",
+      "location": "Hybrid - United Kingdom - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/angi/lead-analyst-customer-service-analytics-london-436942",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Analyst, Commercial & Analytics",
+      "company": "Angi",
+      "location": "Hybrid - United Kingdom - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/angi/senior-analyst-commercial-analytics-london-106249",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior AI Scientist/Lead AI Scientist",
+      "company": "Owkin",
+      "location": "UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/owkin/senior-ai-scientist-lead-ai-scientist-uk-119079",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -1097,21 +1225,8 @@
       "isNew": true,
       "source": "Remotive",
       "matchScore": 0
-    },
-    {
-      "title": "Customer Operations & Writing Specialist",
-      "company": "Clerky, Inc.",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/customer-service/customer-operations-writing-specialist-2090942",
-      "salary": "$12K",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
     }
   ],
-  "totalJobs": 89,
-  "lastUpdated": "2026-08-02T04:03:23.503029+00:00"
+  "totalJobs": 104,
+  "lastUpdated": "2026-08-03T04:05:42.289489+00:00"
 }
