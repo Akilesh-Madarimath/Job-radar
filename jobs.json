@@ -80,14 +80,6 @@
       "matchScore": 40
     },
     {
-      "title": "AI / ML Engineer (m/w/d)",
-      "company": "Recare Deutschland GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-ai-ml-engineer-berlin-374215",
-      "source": "Arbeitnow",
-      "matchScore": 35
-    },
-    {
       "title": "Machine Learning Engineer, CX Intelligence",
       "company": "Coinbase",
       "location": "Remote - Brazil",
@@ -135,6 +127,14 @@
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/7891045?gh_jid=7891045",
       "matchScore": 35
+    },
+    {
+      "title": "Staff Data Scientist",
+      "company": "Marshmallow",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/marshmallow/staff-data-scientist-london-319476",
+      "source": "Arbeitnow",
+      "matchScore": 30
     },
     {
       "title": "Data Scientist, Core Infrastructure",
@@ -243,6 +243,24 @@
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8104148?gh_jid=8104148",
       "matchScore": 30
+    },
+    {
+      "title": "Manager, Machine Learning Engineering (Repayment & Recovery)",
+      "company": "Affirm",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/manager-machine-learning-engineering-repayment-recovery-428387",
+      "source": "Arbeitnow",
+      "matchScore": 25
+    },
+    {
+      "title": "Artificial Intelligence Specialist",
+      "company": "Modi's Boutique",
+      "location": "Ranchi, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-artificial-intelligence-specialist-modis-boutique-1136555",
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "source": "RemoteOK",
+      "matchScore": 25
     },
     {
       "title": "AI Engineer",
@@ -377,6 +395,22 @@
       "matchScore": 25
     },
     {
+      "title": "Senior Data Scientist (m/f/x)",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-323426",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Data Engineer (f/m/x)",
+      "company": "Liveeo Gmbh",
+      "location": "LiveEO GmbH Berlin Office (Hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/data-engineer-liveeo-gmbh-berlin-office-hybrid-64519",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
       "title": "Data Analyst",
       "company": "Stripe",
       "location": "Mexico City",
@@ -436,10 +470,18 @@
       "matchScore": 20
     },
     {
-      "title": "Senior AI Engineer (m/w/d)",
-      "company": "Auxmoney Gmbh",
-      "location": "Remote / Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-ai-engineer-346263",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Berlitz",
+      "location": "Germany Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-machine-learning-engineer-284220",
+      "source": "Arbeitnow",
+      "matchScore": 15
+    },
+    {
+      "title": ".NET Core & Python Web Developer",
+      "company": "Jobgether",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/net-core-python-web-developer-germany-162401",
       "source": "Arbeitnow",
       "matchScore": 15
     },
@@ -476,34 +518,18 @@
       "matchScore": 15
     },
     {
-      "title": "Senior Data Scientist, Member Lifecycle",
-      "company": "Vinteden",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/vinteden/senior-data-scientist-member-lifecycle-berlin-227633",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "AI Solution Architect (w/m/d)",
-      "company": "Virtual Solution Ag",
-      "location": "Remote in Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual-solution-ag/remote-ai-solution-architect-300168",
+      "title": "Founding G2M & Sales Manager - DACH & Nordics (gn) @ AI Digital Defense Venture, Germany",
+      "company": "atlantic.vc",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/remote-founding-g2m-sales-manager-dach-nordics-gn-at-ai-digital-defense-venture-germany-berlin-71448",
       "source": "Arbeitnow",
       "matchScore": 10
     },
     {
       "title": "Principal Data Scientist",
-      "company": "Comind",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/principal-data-scientist-london-499587",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Clinical Pharmacist (Independent Prescriber) at AIOS Medical- Remote, £30 - £35/hr inc equity",
-      "company": "Aios",
-      "location": "Remote (UK hours)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aios/clinical-pharmacist-independent-prescriber-at-aios-medical-remote-ps30-ps35-hr-inc-equity-blackburn-98536",
+      "company": "Marshmallow",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/marshmallow/principal-data-scientist-london-81973",
       "source": "Arbeitnow",
       "matchScore": 10
     },
@@ -571,6 +597,30 @@
       "matchScore": 10
     },
     {
+      "title": "Senior Software Engineer (Rust/Go/Python)",
+      "company": "Berlitz",
+      "location": "Germany Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-senior-software-engineer-rust-go-python-41151",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
+      "title": "Senior ML Engineer (AI Research/ Portability)",
+      "company": "Nebius",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-ml-engineer-ai-research-portability-365560",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
+      "title": "Senior ML Engineer (AI Research, Physical AI)",
+      "company": "Nebius",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-ml-engineer-ai-research-physical-ai-131896",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -584,106 +634,210 @@
       "matchScore": 5
     },
     {
-      "title": "Legal Counsel, Data Privacy & AI",
-      "company": "Nelly Solutions",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/nelly-solutions/legal-counsel-data-privacy-ai-hamburg-316356",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Software Engineer (AI Platform) (m/f/d)",
-      "company": "Auxmoney Gmbh",
-      "location": "Remote / Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-ai-platform-233825",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Python Engineer, Document App (Content Engineering Team)",
-      "company": "Pandadoc",
-      "location": "",
-      "url": "https://www.arbeitnow.com/jobs/companies/pandadoc/senior-python-engineer-document-app-content-engineering-team-346392",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI & Data Science Manager (m/w/d)",
-      "company": "encontec GmbH",
-      "location": "Oberkochen , Baden-Württemberg, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/encontec-gmbh/ai-data-science-manager-oberkochen-412033",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Restaurant Onboarding Specialist - Data Validation",
-      "company": "wolt",
+      "title": "Revenue Operations Analyst - Working Student",
+      "company": "Planetlabs",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt/restaurant-onboarding-specialist-data-validation-berlin-287543",
+      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/revenue-operations-analyst-working-student-berlin-250212",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Account Director, Large Enterprise | Retail",
-      "company": "Openai",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/openai/account-director-large-enterprise-retail-munich-303441",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Visiting Analyst (F/M/D) - Summer 2027",
-      "company": "xdeck GmbH",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/xdeck-gmbh/visiting-analyst-summer-2027-cologne-369124",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Conversational AI Specialist (m/w/d) - Knowledge & Customer Experience",
-      "company": "1KOMMA5˚",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/conversational-ai-specialist-knowledge-customer-experience-hamburg-456807",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Restaurant Onboarding Specialist - Data Validation",
-      "company": "Wolt - English",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/restaurant-onboarding-specialist-data-validation-berlin-247449",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Brighton, United Kingdom",
-      "company": "Speechify",
-      "location": "Brighton, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-brighton-united-kingdom-70557",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Software Engineer, Data Infrastructure & Acquisition - London, United Kingdom",
-      "company": "Speechify",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-london-united-kingdom-327938",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Optical Research Scientist",
-      "company": "Comind",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/comind/senior-optical-research-scientist-london-280357",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Practice Lead, Data Operating Model & Enablement",
+      "title": "Client Data & Analytics Lead (f/m/d)",
       "company": "Kraken",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/practice-lead-data-operating-model-enablement-london-295824",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/kraken/client-data-analytics-lead-berlin-313655",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Business Transformation Analyst - Commercials",
+      "company": "Intersnack Group GmbH & Co. KG",
+      "location": "Düsseldorf, Nordrhein-Westfalen, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/intersnack-group-gmbh-co-kg/senior-business-transformation-analyst-commercials-dusseldorf-226",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Director of Machine Learning Engineering",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-director-of-machine-learning-engineering-berlin-berlin-421334",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior AI Solutions Engineer, GenAI Enablement (all genders)",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-ai-solutions-engineer-genai-enablement-all-genders-berlin-berlin-241093",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Director of Engineering, GenAI Enablement Tribe",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/director-of-engineering-genai-enablement-tribe-berlin-berlin-343573",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Solution Architect (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-336398",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "(Senior) Earth Observation Data Supplier Manager (f/m/x)",
+      "company": "Liveeo Gmbh",
+      "location": "LiveEO GmbH Berlin Office (Hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/senior-earth-observation-data-supplier-manager-liveeo-gmbh-berlin-office-hybrid-198852",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Forward Deployed Engineer – AI (w/m/d) in Voll- oder Teilzeit",
+      "company": "Crozdach",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/crozdach/forward-deployed-engineer-ai-in-voll-oder-teilzeit-munchen-207847",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Director of Engineering, GenAI Enablement Tribe",
+      "company": "4lu44n1n37w012k",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/4lu44n1n37w012k/director-of-engineering-genai-enablement-tribe-berlin-berlin-51645",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Operations Management Intern – Germany (AI x Greentech) (m/f/d)",
+      "company": "Reonic",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/reonic/operations-management-intern-germany-ai-x-greentech-berlin-436030",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Werkstudentin Retail Operations Manager (m/w/d)",
+      "company": "Gusti Leder GmbH",
+      "location": "Rostock",
+      "url": "https://www.arbeitnow.com/jobs/companies/gusti-leder-gmbh/werkstudentin-retail-operations-manager-rostock-332312",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "UAV Operations Engineer / Pilot – Data Operations (all genders)",
+      "company": "Stark",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/uav-operations-engineer-pilot-data-operations-all-genders-munich-176855",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Field Robotics Engineer – Data Operations (all genders)",
+      "company": "Stark",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/field-robotics-engineer-data-operations-all-genders-munich-19785",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Datalink Integration & Test Engineer – Communications / MANET (all genders)",
+      "company": "Stark",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/datalink-integration-test-engineer-communications-manet-all-genders-berlin-43191",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Data Platform Engineer – Data Operations (all genders)",
+      "company": "Stark",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/data-platform-engineer-data-operations-all-genders-munich-196411",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Technology Advisory Analyst",
+      "company": "thoughtworks",
+      "location": "Newcastle",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thoughtworks/senior-technology-advisory-analyst-newcastle-23526",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Head of Data Science (12m fixed-term contract)",
+      "company": "Marshmallow",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/marshmallow/head-of-data-science-12m-fixed-term-contract-london-7439",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Fraud Intelligence Analyst",
+      "company": "Marshmallow",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/marshmallow/senior-fraud-intelligence-analyst-london-250083",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Data Science Manager, Pricing",
+      "company": "Marshmallow",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/marshmallow/data-science-manager-pricing-london-133607",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Claims Fraud Team Lead",
+      "company": "Marshmallow",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/marshmallow/claims-fraud-team-lead-london-120499",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Research Scientist (Architectures Research)",
+      "company": "Nebius",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-research-scientist-architectures-research-80538",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI/ML Specialist Solutions Architect",
+      "company": "Nebius",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/ai-ml-specialist-solutions-architect-316673",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Full-Stack Developer",
+      "company": "Nebius",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/ai-full-stack-developer-78348",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Data Strategy Associate Director",
+      "company": "wppmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/data-strategy-associate-director-london-197821",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Associate Director, Sports & Entertainment Partnerships",
+      "company": "wppmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-director-sports-entertainment-partnerships-london-28062",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -818,19 +972,6 @@
       "matchScore": 0
     },
     {
-      "title": "Product Sales Specialist - Pet Health (CST timezone)",
-      "company": "Tribe Wellness",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/sales/product-sales-specialist-pet-health-cst-timezone-2091072",
-      "salary": "",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
-    },
-    {
       "title": "Patient Care Specialist",
       "company": "STATLINX",
       "location": "USA",
@@ -907,34 +1048,8 @@
       "isNew": true,
       "source": "Remotive",
       "matchScore": 0
-    },
-    {
-      "title": "Assistant Account Payable",
-      "company": "The Obesity Society",
-      "location": "USA",
-      "url": "https://remotive.com/remote-jobs/medical/assistant-account-payable-2090989",
-      "salary": "",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
-    },
-    {
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "salary": "$31,2k- $52k",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
     }
   ],
-  "totalJobs": 73,
-  "lastUpdated": "2026-08-12T03:04:18.750702+00:00"
+  "totalJobs": 89,
+  "lastUpdated": "2026-08-13T03:07:56.002785+00:00"
 }
