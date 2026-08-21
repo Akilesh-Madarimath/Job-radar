@@ -18,6 +18,14 @@
       "matchScore": 55
     },
     {
+      "title": "AI Engineer (LLM/RAG) (m/w/d)",
+      "company": "Nejo",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/nejo/ai-engineer-llm-rag-cologne-470459",
+      "source": "Arbeitnow",
+      "matchScore": 45
+    },
+    {
       "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
       "company": "Datadog",
       "location": "New York, New York, USA",
@@ -32,6 +40,14 @@
       "source": "Greenhouse",
       "url": "https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511",
       "matchScore": 45
+    },
+    {
+      "title": "Staff Data Scientist",
+      "company": "Duck Duck Go",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/duck-duck-go/remote-staff-data-scientist-152804",
+      "source": "Arbeitnow",
+      "matchScore": 40
     },
     {
       "title": "Data Analyst, Financial Data Engineering",
@@ -78,6 +94,14 @@
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8083051?gh_jid=8083051",
       "matchScore": 40
+    },
+    {
+      "title": "Senior Data Scientist/ML Engineer - Financial Crime",
+      "company": "sumup",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-data-scientist-ml-engineer-financial-crime-berlin-185839",
+      "source": "Arbeitnow",
+      "matchScore": 35
     },
     {
       "title": "Machine Learning Engineer, CX Intelligence",
@@ -237,33 +261,23 @@
       "matchScore": 30
     },
     {
-      "title": "Applied AI Engineer, Enterprise",
-      "company": "anthropic",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/anthropic/applied-ai-engineer-enterprise-munich-284302",
-      "source": "Arbeitnow",
-      "matchScore": 25
-    },
-    {
-      "title": "Forward Deployed AI Engineer",
-      "company": "Techtorch",
-      "location": "EU + UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/techtorch/forward-deployed-ai-engineer-eu-uk-260204",
-      "source": "Arbeitnow",
-      "matchScore": 25
-    },
-    {
-      "title": "AI Engineer",
-      "company": "Stripe",
-      "location": "Chicago",
-      "description": "&lt;h2&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About The Team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Solutions Architecture (SA) organization helps Stripe&#39;s most strategic customers design and validate technical solutions that drive their business forward. Within SA, our team builds the tools, workflows, and custom technical assets that make the broader SA org more effective—turning individual ingenuity into org-wide capability.&lt;/p&gt;\n&lt;p&gt;We are looking for AI Engineers who are energized by working close to the business and the users we serve. You&#39;ll operate as an embedded, high-context engineer focused on the highest-leverage opportunities across the SA org—building production-quality tooling, supporting our most strategic engagements, and shipping automation that meaningfully improves how Solutions Architects work every day.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As an AI Engineer, you&#39;ll be embedded directly with the Solutions Architecture team—building alongside them, deeply understanding their workflows, and shipping tools and automation that permanently change how they operate. Your measure of success is SA productivity: the engagements you&#39;ve accelerated, the workflows you&#39;ve transformed, and the tools you&#39;ve built that the org adopts as default.&lt;/p&gt;\n&lt;p&gt;You&#39;ll ship code daily. You&#39;ll discover where SAs lose time and build high-impact solutions. You&#39;ll take what works for one person and scale it to work for the org. And when our most strategic customer engagements need custom technical assets, you&#39;ll build those too.&lt;/p&gt;\n&lt;p&gt;This is a role for someone who wants to work at the intersection of engineering and business impact—close to customers, close to revenue, and building for people you can see using your work every day.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Collaborate with Solutions Architects, SA leadership, Product, and Engineering to scope technical work and translate ambiguous business needs into well-defined deliverables&lt;/li&gt;\n&lt;li&gt;Evaluate and integrate AI capabilities (LLMs, agents, workflow automation) where they provide genuine leverage—not for novelty, but for measurable productivity improvement&lt;/li&gt;\n&lt;li&gt;Architect and build internal tools, agents, and automated workflows that accelerate SA and manager productivity across technical discovery, solution design, demoing, user engagements, territory/pipeline management, and product interlock&lt;/li&gt;\n&lt;li&gt;Take high-potential tools and workflows built by SAs and managers and harden them into scalable, maintainable, production-grade solutions&lt;/li&gt;\n&lt;li&gt;Identify patterns across SA workflows and proactively build solutions that address recurring friction&lt;/li&gt;\n&lt;li&gt;Build custom demo environments, PoC applications, and technical assets for Stripe&#39;s most strategic customer engagements&lt;/li&gt;\n&lt;li&gt;Document tools, architectures, and usage patterns so others can adopt and extend what you&#39;ve built&lt;/li&gt;\n&lt;li&gt;Debug, extend, and maintain backend systems across a variety of codebases and infrastructure&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum Requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;4+ years of experience as an engineer shipping production systems&lt;/li&gt;\n&lt;li&gt;Strong backend engineering fundamentals: you can debug a failing system, trace issues across services, and reason about data flows&lt;/li&gt;\n&lt;li&gt;Experience building and deploying AI agents, LLM-powered tools, or workflow automation beyond basic prompt engineering&lt;/li&gt;\n&lt;li&gt;Experience scoping and delivering work with minimal oversight in a fast-moving, cross-functional environment&lt;/li&gt;\n&lt;li&gt;Proficiency in at least two of: Ruby, Node.js, Python, or Next.js&lt;/li&gt;\n&lt;li&gt;Familiarity with cloud infrastructure (AWS, GCP) including deployment, monitoring, and basic DevOps&lt;/li&gt;\n&lt;li&gt;Experience building internal tools, developer platforms, or workflow automation&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to work across multiple codebases and technology stacks simultaneously&lt;/li&gt;\n&lt;li&gt;Hands-on experience using AI/LLM tools in your engineering workflow—you&#39;re fluent with AI-assisted development but not dependent on it; you can reason through problems and debug without AI as a crutch&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication skills; you can translate technical decisions for non-technical stakeholders and navigate cross-functional collaboration naturally&lt;/li&gt;\n&lt;li&gt;Comfort with ambiguity—you can take a loosely-defined business problem, scope the engineering work, and ship iteratively without waiting for a perfect spec&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience designing systems that non-engineers can build on top of or extend themselves (e.g., platforms, low-code frameworks, template systems)&lt;/li&gt;\n&lt;li&gt;Experience in a Solutions Engineering, Sales Engineering, or GTM Engineering role—or a product engineering role where you worked closely with customers or go-to-market teams&lt;/li&gt;\n&lt;li&gt;Familiarity with Stripe&#39;s products, APIs, or the payments/fintech domain&lt;/li&gt;\n&lt;li&gt;Experience integrating with third-party platforms (Salesforce, Gong, etc.)&lt;/li&gt;\n&lt;li&gt;Track record of building tools or systems that were adopted beyond your immediate team&lt;/li&gt;\n&lt;li&gt;Background in consulting, professional services, or other roles that blend technical depth with business context&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who You Are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Beyond the technical requirements, we&#39;re looking for a specific kind of engineer:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;You want to be close to the business.&lt;/strong&gt; You&#39;re energized by seeing your work directly impact how a sales team wins a deal or how a customer succeeds.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You&#39;re a pragmatic builder.&lt;/strong&gt; You ship working solutions quickly, iterate based on real usage, and know when &quot;good enough now&quot; beats &quot;perfect later.&quot; You&#39;d rather show a working prototype today than present a roadmap deck next quarter.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You&#39;re a software engineer by practice.&lt;/strong&gt; You can architect systems, debug production issues, write clean code, and reason about tradeoffs. AI is a tool in your belt, not a substitute for engineering judgment.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You&#39;re a pattern recognizer.&lt;/strong&gt; When you build something that works for one person, you immediately see how it generalizes. You think in reusable systems, not one-off scripts.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You thrive without a traditional product team structure.&lt;/strong&gt; No PRDs landing in your lap, no dedicated PM, no sprint ceremonies. You identify the highest-leverage problem, scope the work, and ship it. You&#39;re comfortable trading on-call rotations and rigid processes for autonomy and impact.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;You&#39;re a strong communicator.&lt;/strong&gt; You can partner with SAs who are domain experts, understand their workflows deeply enough to build great tools, and explain your technical choices to leadership.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
-      "skills": [
-        "python"
-      ],
+      "title": "Staff Data Engineer, Market Data",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;amp;utm_source=coinbase&quot;&gt;Coinbase&lt;/a&gt;, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it’s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for &quot;good enough,&quot; you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/careers&quot;&gt;learn more about working at Coinbase&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Team/ Role Paragraph:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Coinbase is building the future of institutional trading as part of the Everything Exchange, powering the systems that let the world&#39;s largest financial institutions trade across markets with speed, depth, and trust. As a Market Data Engineer on the Markets team, you&#39;ll architect, build and own the systems that generate, capture, normalize, and distribute real-time market data across Coinbase at low latency - the ticker plant and distribution backbone of a unified trading platform - while leading a lean, high-impact team. It&#39;s a rare chance to architect market data infrastructure from the ground up, with the ownership of a startup and the reach of Coinbase.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and operate market data components: feed handlers, normalization, distribution, and venue connectivity.&lt;/li&gt;\n&lt;li&gt;Design low-latency, high-throughput systems for real-time market data used by trading systems.&lt;/li&gt;\n&lt;li&gt;Contribute to reliability and performance, participating in observability, on-call, and incident response.&lt;/li&gt;\n&lt;li&gt;Write high-quality, well-tested code and help raise the quality bar on a lean team.&lt;/li&gt;\n&lt;li&gt;Partner with engineers, product, and cross-functional stakeholders to deliver market data capabilities.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Required skills and experience:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of backend engineering, with experience building and maintaining production low-latency systems.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with market data systems (feed handlers, normalization, or distribution).&lt;/li&gt;\n&lt;li&gt;Proficiency in low-latency Java (or C++) and high-throughput messaging (Aeron, SBE, or similar).&lt;/li&gt;\n&lt;li&gt;Familiarity with venue/exchange connectivity and market data protocols (FIX, ITCH/OUCH, multicast).&lt;/li&gt;\n&lt;li&gt;Track record delivering features end-to-end and operating what you build.&lt;/li&gt;\n&lt;li&gt;Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Position ID:&amp;nbsp; P77881&lt;/em&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency Notice:&lt;/strong&gt;&lt;strong&gt;&lt;em&gt; &lt;/em&gt;&lt;/strong&gt;Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)).&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual base salary range (excluding equity and bonus):&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$207,485&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$244,100 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;ul&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;strong&gt;&lt;em&gt;Application Limit: &lt;/em&gt;&lt;/strong&gt;Candidates may submit a maximum of 3 applications within a 6-month period.&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Equal Opportunity Employer: &lt;/strong&gt;Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;US Applicants: &lt;/strong&gt;View&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf&quot;&gt; Employee Rights&lt;/a&gt;,&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf&quot;&gt; Know Your Rights&lt;/a&gt;, and&lt;a href=&quot;https://static-assets.coinbase.com/e-verify.pdf&quot;&gt; E-Verify&lt;/a&gt; Notice of Participation.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Accommodations: &lt;/strong&gt;If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&amp;nbsp;Need screen reading technology?&lt;a href=&quot;https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn&quot;&gt; Click here&lt;/a&gt; to download a free compatible screen reader and view the&lt;a href=&quot;http://www.chromevox.com/tutorial/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;tutorial&lt;/a&gt;.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Data Privacy &amp;amp; Arbitration: &lt;/strong&gt;By submitting your application, you agree to our&lt;a href=&quot;https://www.coinbase.com/legal/applicant_privacy_notice&quot;&gt; Candidate Privacy Notice&lt;/a&gt;. US applicants: By submitting your application, you agree to&lt;a href=&quot;https://www.coinbase.com/legal/application-arbitration-agreement&quot;&gt; Arbitration of Disputes&lt;/a&gt;.&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div id=&quot;fortidlp-input-element-parent&quot;&gt;&lt;/div&gt;&lt;/div&gt;",
+      "skills": [],
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=8044460",
+      "url": "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
+      "matchScore": 30
+    },
+    {
+      "title": "Data & Machine Learning Engineer (All genders)",
+      "company": "Stark",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/data-machine-learning-engineer-all-genders-munich-160503",
+      "source": "Arbeitnow",
       "matchScore": 25
     },
     {
@@ -387,26 +401,58 @@
       "matchScore": 25
     },
     {
-      "title": "(Junior) Data Analyst (m/w/d)",
-      "company": "ZDF Digital Medienproduktion GmbH",
-      "location": "Mainz oder Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/zdf-digital-medienproduktion-gmbh/junior-data-analyst-mainz-oder-berlin-409872",
+      "title": "Working Student Data Engineer (m/f/d)",
+      "company": "raisin",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/raisin/working-student-data-engineer-berlin-berlin-303757",
       "source": "Arbeitnow",
       "matchScore": 20
     },
     {
-      "title": "Sales Data Analyst",
-      "company": "Zilch",
-      "location": "Zilch UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zilch/sales-data-analyst-london-43807",
+      "title": "Data Analyst:in Fundraising (m/w/d)",
+      "company": "Albert Schweitzer Stiftung",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/albert-schweitzer-stiftung/data-analystin-fundraising-berlin-69945",
       "source": "Arbeitnow",
       "matchScore": 20
     },
     {
-      "title": "BI Data Analyst",
-      "company": "Motorway",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/bi-data-analyst-london-485108",
+      "title": "Data Analyst (all genders)",
+      "company": "MUVN",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/muvn/data-analyst-all-genders-hamburg-222708",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Data Engineer (m/w/d) – Fokus Messdatenmanagement & Ownership",
+      "company": "Octopus Energy Group",
+      "location": "Berlin (DE)",
+      "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/data-engineer-fokus-messdatenmanagement-ownership-berlin-de-197367",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Data Engineer (Professional) (Databricks) (m/w/d)",
+      "company": "Collaboration Betters The World GmbH",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/data-engineer-professional-databricks-stuttgart-296815",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Junior Data Engineer (Databricks) (m/w/d)",
+      "company": "Collaboration Betters The World GmbH",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/junior-data-engineer-databricks-stuttgart-267806",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Ivcevidensia",
+      "location": "Keynsham, Bristol, England",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/data-engineer-keynsham-bristol-england-420378",
       "source": "Arbeitnow",
       "matchScore": 20
     },
@@ -550,6 +596,14 @@
       "matchScore": 10
     },
     {
+      "title": "Tech Lead AI Engineering (m/w/d)",
+      "company": "Nejo",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/nejo/tech-lead-ai-engineering-cologne-148039",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -563,170 +617,162 @@
       "matchScore": 5
     },
     {
-      "title": "Field Application Engineer - AI Software & Hardware",
-      "company": "tenstorrent",
+      "title": "Product Manager (m/w/d) - Data Center / Network",
+      "company": "JACOB Elektronik GmbH",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/jacob-elektronik-gmbh/product-manager-data-center-network-karlsruhe-331705",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Studentische Hilfskraft, Team German Microdata Lab (SHK_DRS_2026_015)",
+      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
+      "location": "Mannheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/studentische-hilfskraft-team-german-microdata-lab-shk-drs-2026-015-mannheim-341580",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Data Operations & Labeling Specialist (all genders)",
+      "company": "Stark",
       "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/tenstorrent/field-application-engineer-ai-software-hardware-munich-204385",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/data-operations-labeling-specialist-all-genders-munich-468689",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Python Engineer, Platform Libraries (m/f/d)",
-      "company": "UniteLabs Personio",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/unitelabs-personio/senior-python-engineer-platform-libraries-munchen-239108",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AIT Senior Project Manager – Nyx Earth",
-      "company": "The Exploration Company",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-senior-project-manager-nyx-earth-munich-140048",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Consultant Data & AI / Digitale Transformation Public Sector (all genders)",
-      "company": "Init Ag",
-      "location": "Mainz",
-      "url": "https://www.arbeitnow.com/jobs/companies/init-ag/consultant-data-ai-digitale-transformation-public-sector-all-genders-mainz-215643",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Werkstudent (m/w/d) Category Management & Product Data",
-      "company": "Vitafy",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/vitafy/werkstudent-category-management-product-data-munchen-370322",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Internship – Regulatory Affairs (all genders)",
-      "company": "Sunday Natural",
+      "title": "Senior Product Manager Claims (w/m/d/x)",
+      "company": "EMIL Group GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sunday-natural/internship-regulatory-affairs-all-genders-berlin-268814",
+      "url": "https://www.arbeitnow.com/jobs/companies/emil-group-gmbh/senior-product-manager-claims-x-berlin-499709",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Creative & Paid Social Strategist (d/f/m) - German-speaking",
-      "company": "Leapsome",
+      "title": "Director Paid Search (Mensch)",
+      "company": "wppmedia",
+      "location": "Dusseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/director-paid-search-mensch-dusseldorf-140444",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Director Data Strategy Consulting (Mensch)",
+      "company": "wppmedia",
+      "location": "Dusseldorf; Frankfurt; Hamburg; Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/director-data-strategy-consulting-mensch-dusseldorf-frankfurt-hamburg-munich-302990",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Consultant Client Data (Mensch)",
+      "company": "wppmedia",
+      "location": "Dusseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/consultant-client-data-mensch-dusseldorf-467425",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Associate Director Client Data (Mensch)",
+      "company": "wppmedia",
+      "location": "Dusseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/associate-director-client-data-mensch-dusseldorf-240056",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Account Executive (m/w/d) – AI Legal Tech | Berlin",
+      "company": "Jupus",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/leapsome/creative-paid-social-strategist-german-speaking-berlin-230786",
+      "url": "https://www.arbeitnow.com/jobs/companies/jupus/account-executive-ai-legal-tech-berlin-295256",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Praktikant (all genders) Social Selling, Data & CRM – Gestalte die Digitalisierung unseres Vertriebsmarketings mit",
-      "company": "Valuenet Group",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/valuenet-group/praktikant-all-genders-social-selling-data-crm-gestalte-die-digitalisierung-unseres-vertriebsmarketings-mit-munchen-26532",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Praktikant (all genders) Datamanagement – Fokus Social Selling ab August 2026",
-      "company": "Valuenet Group",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/valuenet-group/praktikant-all-genders-datamanagement-fokus-social-selling-ab-august-2026-munchen-143945",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Field Engineer",
-      "company": "CHAPTERS Group AG",
+      "title": "Account Executive (m/w/d) – AI Legal Tech | Köln",
+      "company": "Jupus",
       "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-field-engineer-cologne-232238",
+      "url": "https://www.arbeitnow.com/jobs/companies/jupus/account-executive-ai-legal-tech-koln-cologne-154092",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "WerkstudentIn AI Agent Developer",
-      "company": "logen.ai",
+      "title": "Senior AI/ML Consultant",
+      "company": "Netlight",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/logenai/werkstudentin-ai-agent-developer-berlin-314047",
+      "url": "https://www.arbeitnow.com/jobs/companies/netlight/senior-ai-ml-consultant-berlin-123436",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "AI Product Owner / AI Consultant mit technischen Skills (w/m/d)",
-      "company": "Right Search",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/right-search/ai-product-owner-ai-consultant-mit-technischen-skills-munich-347317",
+      "title": "Data Platform & Data Architecture Consultant",
+      "company": "Netlight",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/netlight/data-platform-data-architecture-consultant-berlin-248331",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Junior KI-Projektbegleiter & Trainer (w/m/d)",
-      "company": "Right Search",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/right-search/junior-ki-projektbegleiter-trainer-munich-113050",
+      "title": "Senior Data Engineer (Databricks) (m/w/d)",
+      "company": "Collaboration Betters The World GmbH",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/senior-data-engineer-databricks-stuttgart-187617",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Staff Software Engineer - Databases SRE | Germany | Remote",
-      "company": "Grafanalabs",
-      "location": "",
-      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/staff-software-engineer-databases-sre-germany-remote-102044",
+      "title": "SAP Lead Consultant (m/w/d) SAP Transformation & Digital Supply Chain",
+      "company": "Slenderiser GmbH",
+      "location": "Düsseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/slenderiser-gmbh/sap-lead-consultant-sap-transformation-digital-supply-chain-dusseldorf-302290",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Life Sciences Consulting Senior Analyst",
-      "company": "Clearviewhealthcarepartners",
+      "title": "Data Protection Officer (m/w/d)",
+      "company": "actago GmbH",
+      "location": "Landau an der Isar",
+      "url": "https://www.arbeitnow.com/jobs/companies/actago-gmbh/data-protection-officer-landau-an-der-isar-94343",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Lead Data Engineer",
+      "company": "TodayTix Group",
+      "location": "London, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/todaytix-group/lead-data-engineer-london-uk-15503",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Software Engineer, Web Development – AI",
+      "company": "Roku",
+      "location": "Manchester",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-web-development-ai-manchester-82235",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Enablement Engineer",
+      "company": "Skin Analytics",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clearviewhealthcarepartners/life-sciences-consulting-senior-analyst-london-301655",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/ai-enablement-engineer-london-250867",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior AI Software Engineer",
-      "company": "Aveni",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aveni/senior-ai-software-engineer-united-kingdom-277853",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Solution Engineer, Air",
-      "company": "Applied",
+      "title": "Senior Product Data Analyst- Consumer Growth",
+      "company": "Sumup",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/applied/solution-engineer-air-london-441826",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-product-data-analyst-consumer-growth-london-411940",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Applied AI Architect, Industries",
-      "company": "anthropic",
+      "title": "AI Program Manager",
+      "company": "Monday.com",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/applied-ai-architect-industries-london-369437",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Data Engineering Senior Manager",
-      "company": "Fanduel",
-      "location": "Edinburgh",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/data-engineering-senior-manager-edinburgh-354097",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Data Science",
-      "company": "Axle Careers",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/data-science-london-354286",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Data Architect",
-      "company": "Techtorch",
-      "location": "EU + UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/techtorch/data-architect-eu-uk-339554",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mondaycom/ai-program-manager-london-246940",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -741,13 +787,18 @@
       "matchScore": 0
     },
     {
-      "title": "Senior Data Engineer",
-      "company": "Lemon.io",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-lemon-io-1136594",
+      "title": "Senior Data Engineer - Revenue Data Platform",
+      "company": "Datadog",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "description": "&lt;p&gt;&lt;strong&gt;About Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale—trillions of data points per day—allowing for seamless collaboration and problem-solving among Dev, Ops and Security teams globally for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Team:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Revenue Data Engineering Teams designs, builds and runs the data pipelines and helper systems to accurately and in a timely manner quantify our customers’ usage across all Datadog products. This team is at the leading edge of any new product we release.&lt;/p&gt;\n&lt;p&gt;The Revenue Data Processing team builds and operates the data pipelines that does billing, and cost attribution for all Datadog products. We process terabytes of data daily to power revenue-critical systems and are at the center of every new product launch at Datadog.&lt;/p&gt;\n&lt;p&gt;As a Senior Software Engineer, you will own meaningful parts of a large-scale, mission-critical processing platform — driving architectural improvements, building new billing capabilities, and maintaining the high reliability bar our downstream consumers depend on.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;You Will:&lt;/strong&gt;&lt;/p&gt;\n&lt;ol&gt;\n&lt;li&gt;Design and build high-throughput data pipelines for billing and cost attribution&lt;/li&gt;\n&lt;li&gt;Drive platform improvements — latency reduction, Spark optimization, sharding, and cross-datacenter reliability&lt;/li&gt;\n&lt;li&gt;Own root-cause investigations on billing accuracy issues in collaboration with Finance and Product teams&lt;/li&gt;\n&lt;li&gt;Contribute to new billing features&lt;/li&gt;\n&lt;li&gt;Work across Python and Scala, with technologies including Spark, Airflow, Trino, and Apache Iceberg&lt;/li&gt;\n&lt;li&gt;Participate in on-call rotation and maintain a high reliability bar for production systems&lt;/li&gt;\n&lt;li&gt;Contribute to engineering standards and help grow the technical culture of the team&lt;/li&gt;\n&lt;/ol&gt;\n&lt;p&gt;&lt;strong&gt;You Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You have significant experience building and operating production data pipelines at scale using Spark and Airflow&lt;/li&gt;\n&lt;li&gt;You are comfortable owning complex, cross-functional investigations and driving them to resolution&lt;/li&gt;\n&lt;li&gt;You understand how to balance feature delivery with platform health and technical debt&lt;/li&gt;\n&lt;li&gt;You have strong analytical instincts and are rigorous about correctness in data systems&lt;/li&gt;\n&lt;li&gt;You work well in ambiguous environments and can drive alignment across stakeholder teams&lt;/li&gt;\n&lt;li&gt;You care about code quality, maintainability, and operational excellence&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Bonus Points:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Have experience with Apache Iceberg or Lakehouse architectures&lt;/li&gt;\n&lt;li&gt;Have worked on billing, metering, or financial data systems&lt;/li&gt;\n&lt;li&gt;Have experience with low-latency data serving or real-time aggregation pipelines&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;To conform to US export control regulations, candidates should be eligible for any required authorizations from the US government. This job is available in various departments within our company; to conform to US export control regulations, some of these roles may require candidates to be eligible for any required authorizations from the US government.&lt;/p&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate&#39;s skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$192,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$240,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+      "skills": [
+        "python",
+        "excel"
+      ],
       "salary": "Not specified",
       "experience": "Not specified",
-      "source": "RemoteOK",
+      "source": "Greenhouse",
+      "url": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
       "matchScore": 0
     },
     {
@@ -959,6 +1010,6 @@
       "matchScore": 0
     }
   ],
-  "totalJobs": 78,
-  "lastUpdated": "2026-08-20T01:58:11.221541+00:00"
+  "totalJobs": 84,
+  "lastUpdated": "2026-08-21T02:07:09.992785+00:00"
 }
