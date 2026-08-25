@@ -129,10 +129,18 @@
       "matchScore": 35
     },
     {
-      "title": "Graduate Data Scientist",
-      "company": "Shifttechnology",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/shifttechnology/graduate-data-scientist-342540",
+      "title": "Staff Data Scientist",
+      "company": "Ripple",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/staff-data-scientist-london-283841",
+      "source": "Arbeitnow",
+      "matchScore": 30
+    },
+    {
+      "title": "Staff Data Scientist",
+      "company": "LemFi",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lemfi/staff-data-scientist-london-270161",
       "source": "Arbeitnow",
       "matchScore": 30
     },
@@ -257,18 +265,10 @@
       "matchScore": 30
     },
     {
-      "title": "AI Founding Engineer: RF Machine Learning (SIGINT) (f/m/d)",
-      "company": "Datacept",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/datacept/ai-founding-engineer-rf-machine-learning-sigint-hamburg-8016",
-      "source": "Arbeitnow",
-      "matchScore": 25
-    },
-    {
-      "title": "(Senior) GenAI Engineer (f/m/d)",
-      "company": "Trusted Shops SE (DE)",
-      "location": "Berlin, Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/senior-genai-engineer-berlin-144358",
+      "title": "Staff Machine Learning Engineer",
+      "company": "MoonPay",
+      "location": "London - Hybrid",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/staff-machine-learning-engineer-london-hybrid-361552",
       "source": "Arbeitnow",
       "matchScore": 25
     },
@@ -361,6 +361,23 @@
       "matchScore": 25
     },
     {
+      "title": "Staff Machine Learning Engineer, Financial Connections",
+      "company": "Stripe",
+      "location": "New York",
+      "description": "&lt;h2 id=&quot;who-we-are&quot;&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3 id=&quot;about-the-team&quot;&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Financial Connections is Stripe&#39;s open banking platform, enabling businesses to securely access consumer-permissioned financial data. Our platform connects to thousands of financial institutions, powering use cases from account verification to risk assessment to personal financial management. Across the Financial Connections Engineering org, we focus on delivering high-quality, enriched bank data at scale — building the ML systems that transform raw financial data into actionable signals for both internal Stripe teams and external merchants.&lt;/p&gt;\n&lt;p&gt;Our ML work spans transaction categorization, risk scoring, data enrichment, and the development of intelligent systems that improve data quality across our network. We operate at the intersection of fintech infrastructure and applied machine learning, solving problems that directly impact Stripe&#39;s ability to serve millions of businesses and consumers.&lt;/p&gt;\n&lt;h2 id=&quot;what-youll-do&quot;&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for machine learning engineers who want to build intelligent systems that provide financial data at scale. You&#39;ll play a key role in designing, training, and deploying ML models that improve the quality, accuracy, and usefulness of financial data across Stripe&#39;s ecosystem.&lt;/p&gt;\n&lt;h3 id=&quot;responsibilities&quot;&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, train, evaluate, deploy, and own ML models in production that improve transaction categorization, risk scoring, and data enrichment across Financial Connections&lt;/li&gt;\n&lt;li&gt;Design and build large-scale ML systems that operate on diverse financial data from thousands of institutions&lt;/li&gt;\n&lt;li&gt;Experiment and iterate on ML models (using tools such as PyTorch, TensorFlow, XGBoost) to achieve key business goals around data quality and accuracy&lt;/li&gt;\n&lt;li&gt;Develop pipelines and automated processes to train and evaluate models in offline and online environments&lt;/li&gt;\n&lt;li&gt;Integrate ML models into production systems and ensure their scalability and reliability&lt;/li&gt;\n&lt;li&gt;Collaborate with product, data science, and engineering partners across Stripe to identify opportunities where ML can improve outcomes for merchants and consumers&lt;/li&gt;\n&lt;li&gt;Engage with the latest ML/AI developments and take calculated risks in transforming innovative ideas into productionized solutions&lt;/li&gt;\n&lt;li&gt;Mentor engineers and contribute to a strong ML engineering culture within the team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2 id=&quot;who-you-are&quot;&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3 id=&quot;minimum-requirements&quot;&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of industry experience building and shipping ML systems in production&lt;/li&gt;\n&lt;li&gt;Proficient with ML libraries and frameworks such as PyTorch, TensorFlow, XGBoost, as well as Spark&lt;/li&gt;\n&lt;li&gt;Hands-on experience in designing, training, and evaluating machine learning models&lt;/li&gt;\n&lt;li&gt;Hands-on experience in productionizing and deploying models at scale&lt;/li&gt;\n&lt;li&gt;Hands-on experience in orchestrating data pipelines and efficiently leveraging large-scale datasets&lt;/li&gt;\n&lt;li&gt;Strong collaboration skills and the ability to work across teams and contribute to peers&#39; success&lt;/li&gt;\n&lt;li&gt;Ability to thrive with a high level of autonomy and responsibility and an entrepreneurial mindset&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3 id=&quot;preferred-qualifications&quot;&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;MS or PhD degree in ML/AI or a related field (e.g., math, physics, statistics, computer science)&lt;/li&gt;\n&lt;li&gt;Experience in fintech, open banking, or financial data domains&lt;/li&gt;\n&lt;li&gt;Experience with NLP, LLMs, or text classification at scale&lt;/li&gt;\n&lt;li&gt;Experience in adversarial or noisy-data domains such as fraud detection, risk modeling, or data quality&lt;/li&gt;\n&lt;li&gt;Proven track record of building and deploying ML systems that have effectively solved ambiguous business problems&lt;/li&gt;\n&lt;li&gt;Experience with deep learning architectures, including transformers&lt;/li&gt;\n&lt;/ul&gt;",
+      "skills": [
+        "machine learning",
+        "deep learning",
+        "tensorflow",
+        "nlp"
+      ],
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "source": "Greenhouse",
+      "url": "https://stripe.com/jobs/search?gh_jid=8148653",
+      "matchScore": 25
+    },
+    {
       "title": "Staff Software Engineer, Machine Learning Platform",
       "company": "Stripe",
       "location": "San Francisco, Seattle",
@@ -389,6 +406,38 @@
       "source": "Greenhouse",
       "url": "https://careers.datadoghq.com/detail/6960503/?gh_jid=6960503",
       "matchScore": 25
+    },
+    {
+      "title": "Professor (m/f/d) of Data Engineering",
+      "company": "Global University Systems GmbH",
+      "location": "Potsdam",
+      "url": "https://www.arbeitnow.com/jobs/companies/global-university-systems-gmbh/professor-of-data-engineering-potsdam-354082",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
+      "company": "LiveEO GmbH",
+      "location": "LiveEO GmbH Berlin Office (Hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-135984",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Junior Market Data Analyst – Chartering",
+      "company": "Kpler",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/junior-market-data-analyst-chartering-united-kingdom-164308",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Data Engineer",
+      "company": "PHMG Careers",
+      "location": "Manchester, England, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/data-engineer-manchester-268122",
+      "source": "Arbeitnow",
+      "matchScore": 20
     },
     {
       "title": "Data Analyst",
@@ -481,30 +530,6 @@
       "matchScore": 15
     },
     {
-      "title": "AI-Native Software Entwickler (m/w/d)",
-      "company": "JUNE GmbH",
-      "location": "München + Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/june-gmbh/remote-ai-native-software-entwickler-108394",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Working Student (m/w/d) CRM & Data",
-      "company": "Recare Deutschland GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-working-student-crm-data-berlin-178515",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Senior Data Scientist (m/w/d) - Chemical Engineering & Verfahrenstechnik",
-      "company": "Alexander Thamm GmbH",
-      "location": "Hybrid (München)",
-      "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-scientist-chemical-engineering-verfahrenstechnik-hybrid-munchen-53405",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
       "title": "Senior Data Scientist",
       "company": "Stripe",
       "location": "Seattle, WA",
@@ -568,22 +593,6 @@
       "matchScore": 10
     },
     {
-      "title": "Senior Robotics & Machine Learning Engineer (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "München, Bayern, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-robotics-machine-learning-engineer-munchen-401688",
-      "source": "Arbeitnow",
-      "matchScore": 5
-    },
-    {
-      "title": "Senior Python Developer (w/m/d) - Remote",
-      "company": "node.energy",
-      "location": "Frankfurt a. M., Freiburg oder remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-110978",
-      "source": "Arbeitnow",
-      "matchScore": 5
-    },
-    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -597,170 +606,178 @@
       "matchScore": 5
     },
     {
-      "title": "OSINT Analyst/ Data Effects Cell (DEC)/Tactical Mission Networks (TMN)",
-      "company": "Smxtech",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/smxtech/osint-analyst-data-effects-cell-dec-tactical-mission-networks-tmn-stuttgart-342492",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Data Strategist & Analytics Specialist",
-      "company": "Smxtech",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/smxtech/data-strategist-analytics-specialist-stuttgart-398292",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Data Effects Cell Coordinator - Tactical Mission Networks (TMN) - Eastern Europe",
-      "company": "Smxtech",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/smxtech/data-effects-cell-coordinator-tactical-mission-networks-tmn-eastern-europe-stuttgart-364837",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "(Junior) AI Go-to-Market Engineer (w/m/d)",
-      "company": "FTAPI GmbH",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/ftapi-gmbh/junior-ai-go-to-market-engineer-munchen-89563",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Data Protection Officer (Deputy) (F/M/D)",
-      "company": "360T",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/360t/data-protection-officer-deputy-frankfurt-am-main-265379",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Director Supply Chain Planning (f/m/d)",
-      "company": "KoRo Handels GmbH",
+      "title": "Product Owner – SDV Data Products (f/m/d)",
+      "company": "Adsquare",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/koro-handels-gmbh/director-supply-chain-planning-berlin-386455",
+      "url": "https://www.arbeitnow.com/jobs/companies/adsquare/product-owner-sdv-data-products-berlin-39938",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Principal Product Manager (AI Product) (f/m/d)",
-      "company": "Think Cell",
+      "title": "Praktikant (all genders) Social Selling, Data & CRM – Gestalte die Digitalisierung unseres Vertriebsmarketings mit",
+      "company": "Valuenet Group",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/valuenet-group/praktikant-all-genders-social-selling-data-crm-gestalte-die-digitalisierung-unseres-vertriebsmarketings-mit-munchen-494001",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Praktikant (all genders) Datamanagement – Fokus Social Selling ab August 2026",
+      "company": "Valuenet Group",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/valuenet-group/praktikant-all-genders-datamanagement-fokus-social-selling-ab-august-2026-munchen-54447",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Associate Partner - AI & Data - Life Sciences",
+      "company": "Visium",
+      "location": "Stuttgart, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/visium/associate-partner-ai-data-life-sciences-stuttgart-259010",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Online Marketing Manager / Paid Ads Manager (m/w/d)",
+      "company": "bd operations GmbH",
+      "location": "Augsburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/bd-operations-gmbh/online-marketing-manager-paid-ads-manager-augsburg-259428",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Professor (m/f/d) of Data Science",
+      "company": "Global University Systems GmbH",
+      "location": "Potsdam",
+      "url": "https://www.arbeitnow.com/jobs/companies/global-university-systems-gmbh/professor-of-data-science-potsdam-309460",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "(Senior) Earth Observation Data Supplier Manager (f/m/x)",
+      "company": "LiveEO GmbH",
+      "location": "LiveEO GmbH Berlin Office (Hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/senior-earth-observation-data-supplier-manager-liveeo-gmbh-berlin-office-hybrid-49577",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Consultant Search, Content & AI Visibility (SEO/GEO) (m/w/d), München",
+      "company": "Towa",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/towa/senior-consultant-search-content-ai-visibility-seo-geo-munchen-385562",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Consultant Search, Content & AI Visibility (SEO/GEO) (m/w/d), Düsseldorf",
+      "company": "Towa",
+      "location": "Düsseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/towa/senior-consultant-search-content-ai-visibility-seo-geo-dusseldorf-53358",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "(Senior) IT Product Owner Data Platform (m/w/d)",
+      "company": "OXG Glasfaser GmbH",
+      "location": "Düsseldorf und Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-senior-it-product-owner-data-platform-146430",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Online Marketing Trainee (m/w/d) - München",
+      "company": "Cyrus Digital GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/cyrus-digital-gmbh/online-marketing-trainee-munchen-munich-186023",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "SAP SD Consultant/Developer – AI Integration (f/m/d)",
+      "company": "Workist GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/workist-gmbh/sap-sd-consultant-developer-ai-integration-berlin-182883",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Digital Marketing Specialist - Paid Social - FTC",
+      "company": "Deliveroo",
+      "location": "London - The River Building HQ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-digital-marketing-specialist-paid-social-ftc-london-301789",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Product Owner - Communications Channels & AI",
+      "company": "PHMG Careers",
+      "location": "Manchester, England, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/product-owner-communications-channels-ai-manchester-281385",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Staff Security Engineer, AI Security",
+      "company": "Ripple",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-staff-security-engineer-ai-security-london-353793",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Energy Market Analyst - Trading",
+      "company": "Energyexemplarllc",
       "location": "",
-      "url": "https://www.arbeitnow.com/jobs/companies/think-cell/principal-product-manager-ai-product-393112",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/energyexemplarllc/senior-energy-market-analyst-trading-63992",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior AI-Native Fullstack Engineer (m/w/d)",
-      "company": "Zvoove",
-      "location": "DE | München",
-      "url": "https://www.arbeitnow.com/jobs/companies/zvoove/senior-ai-native-fullstack-engineer-de-munchen-283285",
+      "title": "Senior Technical Product Manager - AI Agents, Evals & Reliability",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/senior-technical-product-manager-ai-agents-evals-reliability-london-454920",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Head of Data & Business Intelligence (m/w/d)",
-      "company": "Pammys™ (dieseo GmbH)",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/head-of-data-business-intelligence-hamburg-91733",
+      "title": "Senior Technical Product Manager, AI Agents & Systems",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/senior-technical-product-manager-ai-agents-systems-london-149394",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Data Visualization Engineer - Microsoft Fabric (m/w/d)",
-      "company": "Alexander Thamm GmbH",
-      "location": "Hybrid (München)",
-      "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-visualization-engineer-microsoft-fabric-hybrid-munchen-273332",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior AI Transformation Consultant (m/w/d)",
-      "company": "Alexander Thamm GmbH",
-      "location": "Hybrid (München)",
-      "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-ai-transformation-consultant-hybrid-munchen-189035",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Deployment Strategist, Critical and Sovereign Institutions - UK",
-      "company": "Mistral.ai",
+      "title": "GCP and AI Instructor",
+      "company": "Jellyfish",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mistralai/ai-deployment-strategist-critical-and-sovereign-institutions-uk-london-118751",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jellyfish/gcp-and-ai-instructor-london-409608",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Consultant (Senior Account Manager) | Public Affairs | London",
-      "company": "Hanover",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hanover/senior-consultant-senior-account-manager-public-affairs-london-313266",
+      "title": "Business System Analyst ( APRISO and CMES experience)",
+      "company": "Kryptos Technologies limited",
+      "location": "Darlington",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kryptos-technologies-limited/business-system-analyst-apriso-and-cmes-experience-darlington-115701",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Account Director | Public Affairs | London",
-      "company": "Hanover",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hanover/senior-account-director-public-affairs-london-213385",
+      "title": "Director, Medical Strategy (Medical Affairs)",
+      "company": "Realchemistry",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/realchemistry/director-medical-strategy-medical-affairs-93950",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Research Scientist - 3D Reconstruction (SfM & SLAM)",
-      "company": "Spaitial",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/spaitial/research-scientist-3d-reconstruction-sfm-slam-london-210402",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Research Scientist - Robot Learning (VLA / WAM)",
-      "company": "Spaitial",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/spaitial/research-scientist-robot-learning-vla-wam-london-287210",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI & Data Expert (United Kingdom)",
-      "company": "Authority.inc",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/ai-data-expert-united-kingdom-london-410090",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Director of Data (m/f/d)",
-      "company": "Moonfare",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/moonfare/director-of-data-london-3168",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Data Engineer | Betty CA",
-      "company": "Bettyjobboard",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-169535",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Fixed-Term Field Sales & Training Executive — Sephora UK",
-      "company": "Yepoda",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/yepoda/fixed-term-field-sales-training-executive-sephora-uk-london-138981",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Manager, Marketing AI Transformation",
-      "company": "Checkout.com",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/manager-marketing-ai-transformation-london-292808",
+      "title": "Junior/Mid AI Legal Specialist (Full Remote - UK)",
+      "company": "EverAI",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/everai/junior-mid-ai-legal-specialist-full-remote-uk-united-kingdom-99233",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -772,21 +789,6 @@
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "RemoteOK",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Data Engineer - Revenue Data Platform",
-      "company": "Datadog",
-      "location": "Boston, Massachusetts, USA; New York, New York, USA",
-      "description": "&lt;p&gt;&lt;strong&gt;About Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale—trillions of data points per day—allowing for seamless collaboration and problem-solving among Dev, Ops and Security teams globally for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Team:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Revenue Data Engineering Teams designs, builds and runs the data pipelines and helper systems to accurately and in a timely manner quantify our customers’ usage across all Datadog products. This team is at the leading edge of any new product we release.&lt;/p&gt;\n&lt;p&gt;The Revenue Data Processing team builds and operates the data pipelines that does billing, and cost attribution for all Datadog products. We process terabytes of data daily to power revenue-critical systems and are at the center of every new product launch at Datadog.&lt;/p&gt;\n&lt;p&gt;As a Senior Software Engineer, you will own meaningful parts of a large-scale, mission-critical processing platform — driving architectural improvements, building new billing capabilities, and maintaining the high reliability bar our downstream consumers depend on.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;You Will:&lt;/strong&gt;&lt;/p&gt;\n&lt;ol&gt;\n&lt;li&gt;Design and build high-throughput data pipelines for billing and cost attribution&lt;/li&gt;\n&lt;li&gt;Drive platform improvements — latency reduction, Spark optimization, sharding, and cross-datacenter reliability&lt;/li&gt;\n&lt;li&gt;Own root-cause investigations on billing accuracy issues in collaboration with Finance and Product teams&lt;/li&gt;\n&lt;li&gt;Contribute to new billing features&lt;/li&gt;\n&lt;li&gt;Work across Python and Scala, with technologies including Spark, Airflow, Trino, and Apache Iceberg&lt;/li&gt;\n&lt;li&gt;Participate in on-call rotation and maintain a high reliability bar for production systems&lt;/li&gt;\n&lt;li&gt;Contribute to engineering standards and help grow the technical culture of the team&lt;/li&gt;\n&lt;/ol&gt;\n&lt;p&gt;&lt;strong&gt;You Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You have significant experience building and operating production data pipelines at scale using Spark and Airflow&lt;/li&gt;\n&lt;li&gt;You are comfortable owning complex, cross-functional investigations and driving them to resolution&lt;/li&gt;\n&lt;li&gt;You understand how to balance feature delivery with platform health and technical debt&lt;/li&gt;\n&lt;li&gt;You have strong analytical instincts and are rigorous about correctness in data systems&lt;/li&gt;\n&lt;li&gt;You work well in ambiguous environments and can drive alignment across stakeholder teams&lt;/li&gt;\n&lt;li&gt;You care about code quality, maintainability, and operational excellence&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Bonus Points:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Have experience with Apache Iceberg or Lakehouse architectures&lt;/li&gt;\n&lt;li&gt;Have worked on billing, metering, or financial data systems&lt;/li&gt;\n&lt;li&gt;Have experience with low-latency data serving or real-time aggregation pipelines&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;To conform to US export control regulations, candidates should be eligible for any required authorizations from the US government. This job is available in various departments within our company; to conform to US export control regulations, some of these roles may require candidates to be eligible for any required authorizations from the US government.&lt;/p&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate&#39;s skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$192,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$240,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
-      "skills": [
-        "python",
-        "excel"
-      ],
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "source": "Greenhouse",
-      "url": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
       "matchScore": 0
     },
     {
@@ -1009,34 +1011,8 @@
       "isNew": true,
       "source": "Remotive",
       "matchScore": 0
-    },
-    {
-      "title": "Business Development Representative",
-      "company": "Outsite",
-      "location": "Northern America, Europe, UK, France, European timezones",
-      "url": "https://remotive.com/remote-jobs/sales/business-development-representative-2091075",
-      "salary": "$45,000 - $50,000",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
-    },
-    {
-      "title": "Content Reviewer - United States",
-      "company": "TELUS Digital",
-      "location": "USA",
-      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091074",
-      "salary": "$14/hr",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
     }
   ],
-  "totalJobs": 85,
-  "lastUpdated": "2026-08-24T02:06:59.569204+00:00"
+  "totalJobs": 83,
+  "lastUpdated": "2026-08-25T02:00:11.080820+00:00"
 }
