@@ -249,14 +249,6 @@
       "matchScore": 30
     },
     {
-      "title": "AI Engineering & Automation Specialist (on-site)",
-      "company": "Cloover",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/cloover/ai-engineering-automation-specialist-on-site-berlin-193315",
-      "source": "Arbeitnow",
-      "matchScore": 25
-    },
-    {
       "title": "AI Engineer",
       "company": "Stripe",
       "location": "Chicago",
@@ -374,27 +366,34 @@
       "matchScore": 25
     },
     {
-      "title": "Praktikum - Political Data Engineering (w/d/m)",
-      "company": "Christundcompany",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/christundcompany/praktikum-political-data-engineering-berlin-401525",
+      "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
+      "company": "LiveEO GmbH",
+      "location": "LiveEO GmbH Berlin Office (Hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-270225",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Data Engineer (m/f/d)",
+      "company": "Ecoplanet Green Operations Gmbh",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecoplanet-green-operations-gmbh/data-engineer-munchen-16160",
       "source": "Arbeitnow",
       "matchScore": 20
     },
     {
       "title": "Data Analyst",
       "company": "Stripe",
-      "location": "Mexico City",
-      "description": "&lt;h3&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As Stripe’s user base and global footprint grow dramatically, we have distinctly unique support problems resulting from both our type of scale and the type of businesses we partner with. The Stripe Delivery Center (SDC) strategy will provide operational leverage and expand Stripe’s portfolio of operational capabilities to support the scaled needs of external users and internal Stripe teams.&lt;/p&gt;\n&lt;p&gt;At Stripe, our Mexico City office is a vibrant hub at the forefront of our mission to reshape the financial landscape for businesses worldwide. Our team prioritizes collaboration, innovation, and excellence. As a member of the Mexico City team, you&#39;ll be part of a mission-driven community dedicated to enhancing the global economy and increasing the GDP of the internet. We strive for excellence by creating with craft and beauty, while having fun and celebrating our successes together.&lt;/p&gt;\n&lt;p&gt;We cultivate a culture of collaboration, inclusivity, and support where every team member’s voice matters. Our commitment shines through as we handle over a million support cases each year, empowering our users not just to solve problems but to achieve their goals.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;As an analyst on the Payments Health Operations team, you will be charged with monitoring and maintaining payments performance for Stripe’s largest users. This will include triaging, investigating, and responding to detected regressions in authentication and cost rates; providing in-depth analysis of performance degradations; answering queries from our product support and technical account management teams; and engaging with users and other teams at Stripe to help ensure our users are maximizing their acceptance rates while minimizing their costs and fraud.&lt;/p&gt;\n&lt;p&gt;You will work at the core of Stripe&#39;s platform, ensuring the reliability of our payments stack and the health of the broader ecosystem. Technical Operations roles in Payments are a dynamic and key component of Stripe&#39;s success. Focused on financial partner integrations and funds-flow expansion, we sit at the intersection of product/platform engineers and financial partners, connecting them to ensure that everyone thrives and nothing is lost in translation.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Monitor authorization rates and performance for large users, responding to alerts of degradation, triaging and investigating the cause, and communicating your findings to the account team, banking partners, and card networks.&lt;/li&gt;\n&lt;li&gt;Analyze cost checkers to ensure our cost models&#39; accuracy.&lt;/li&gt;\n&lt;li&gt;Respond to performance inquiries from technical account managers, product support teams, and other internal Stripe teams.&lt;/li&gt;\n&lt;li&gt;Interface with Stripe’s financial partners across the world to communicate operational breakages and help drive resolutions.&lt;/li&gt;\n&lt;li&gt;Provide fast, accurate responses to complex support inquiries from partners.&lt;/li&gt;\n&lt;li&gt;Partner with internal and external teams to validate the accuracy of Stripe’s financial data.&lt;/li&gt;\n&lt;li&gt;Introduce data and process efficiencies to meet the scale and speed of Stripe.&lt;/li&gt;\n&lt;li&gt;Identify and automate inefficient operational processes to reduce manual workloads.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Have at least 1 year of experience in a technical role, with experience writing SQL queries to query relational databases.&lt;/li&gt;\n&lt;li&gt;Have experience navigating the nuanced complexity of financial systems and solving large-scale, technical challenges.&lt;/li&gt;\n&lt;li&gt;Have strong analytical skills to investigate, prioritize, and identify the root cause of issues.&lt;/li&gt;\n&lt;li&gt;Have experience managing communications and workflows with technical and non-technical teams across internal and external stakeholders.&lt;/li&gt;\n&lt;li&gt;Are comfortable operating independently and thrive in a fast-paced environment to deliver results, with an ability to establish priorities and reliably execute against time-sensitive deadlines.&lt;/li&gt;\n&lt;li&gt;Have experience identifying and triaging technical issues.&lt;/li&gt;\n&lt;li&gt;Possess a demonstrated track record of process improvement and proactive problem-solving.&lt;/li&gt;\n&lt;li&gt;Have excellent written and verbal communication skills in both English and Spanish.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Payments expertise (working with financial partners, optimizing processing errors, managing payment costs).&lt;/li&gt;\n&lt;li&gt;Experience operating in a high-growth technology company.&lt;/li&gt;\n&lt;li&gt;Python or Scala knowledge.&lt;/li&gt;\n&lt;/ul&gt;",
+      "location": "Canada",
+      "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Data Science at Stripe is a vibrant community where data analysts and data scientists learn and grow together. You&#39;ll work with some of the most fundamental data at Stripe, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;In this role, you&#39;ll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You&#39;ll work closely with partners to extract insights from the rich and complex data at Stripe. You&#39;ll also work with leaders to translate business needs into data problems. You&#39;ll build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You&#39;ll deliver actionable business recommendations through analyses and data storytelling.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;MS/MA + 2 years or BS/BA + 3 years of full-time experience exclusive of internships in Business Intelligence Engineering, Data Analyst, and Business Analyst roles&lt;/li&gt;\n&lt;li&gt;Proficiency in SQL&lt;/li&gt;\n&lt;li&gt;Proven ability to manage and deliver on multiple projects with great attention to detail&lt;/li&gt;\n&lt;li&gt;Ability to clearly communicate results and drive impact&lt;/li&gt;\n&lt;li&gt;Ability to design, implement, and maintain data pipelines and dashboards to generate actionable insights based on stakeholder requirements&lt;/li&gt;\n&lt;li&gt;Experience collaborating with cross-functional teams to deliver strategic insights, benchmarks, and analyses that provide recommendations&lt;/li&gt;\n&lt;li&gt;Ability to enable stakeholders and partners by building self-service tooling and providing training to empower stakeholder teams to be data literate and self-sufficient in autonomous reporting capabilities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Prior experience at a growth-stage internet or software company&lt;/li&gt;\n&lt;li&gt;Experience with distributed data frameworks like Spark to write and debug data pipelines&lt;/li&gt;\n&lt;li&gt;Good understanding of development processes and best practices like engineering standards, code reviews, and testing&lt;/li&gt;\n&lt;li&gt;Strong statistical knowledge&lt;/li&gt;\n&lt;li&gt;Working knowledge of Python&lt;/li&gt;\n&lt;li&gt;Experience creating leadership-level reporting, such as QBRs, MBRs&lt;/li&gt;\n&lt;li&gt;Proficiency with AI tools to accelerate model development, analysis, and coding&lt;/li&gt;\n&lt;/ul&gt;",
       "skills": [
         "python",
-        "sql",
-        "excel"
+        "sql"
       ],
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=7978488",
+      "url": "https://stripe.com/jobs/search?gh_jid=5416444",
       "matchScore": 20
     },
     {
@@ -488,22 +487,6 @@
       "matchScore": 15
     },
     {
-      "title": "Baubarkeitsanalyst:in für Wärmpumpen (w/m/d) - 100% Home Office",
-      "company": "Enpal",
-      "location": "DE Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/enpal/baubarkeitsanalystin-fur-warmpumpen-100-home-office-berlin-460909",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Sr. Product Designer - Data Management",
-      "company": "Addepar1",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/remote-sr-product-designer-data-management-20132",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
       "title": "Senior Analytics Engineer, GFCO Analytics",
       "company": "Coinbase",
       "location": "Remote - USA",
@@ -536,14 +519,6 @@
       "matchScore": 10
     },
     {
-      "title": "Staff/Senior AI Engineer, AI for Code",
-      "company": "jetbrains",
-      "location": "Berlin; Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/staff-senior-ai-engineer-ai-for-code-berlin-munich-277450",
-      "source": "Arbeitnow",
-      "matchScore": 5
-    },
-    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -557,243 +532,272 @@
       "matchScore": 5
     },
     {
-      "title": "Working Student - Business Analyst Logistics (m/w/d)",
-      "company": "Teampicnic",
-      "location": "Düsseldorf, North Rhine-Westphalia",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/working-student-business-analyst-logistics-dusseldorf-north-rhine-westphalia-448045",
+      "title": "(Senior) Earth Observation Data Supplier Manager (f/m/x)",
+      "company": "LiveEO GmbH",
+      "location": "LiveEO GmbH Berlin Office (Hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/senior-earth-observation-data-supplier-manager-liveeo-gmbh-berlin-office-hybrid-457337",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Trainee Developer / Programmierer für KI-Agenten (m/w/d)",
-      "company": "DCF Verlag GmbH",
-      "location": "Koblenz, Rheinland-Pfalz, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/dcf-verlag-gmbh/trainee-developer-programmierer-fur-ki-agenten-koblenz-457641",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "(Junior) AI Go-to-Market Engineer (w/m/d)",
-      "company": "FTAPI GmbH",
+      "title": "Senior Consultant Search, Content & AI Visibility (SEO/GEO) (m/w/d), München",
+      "company": "Towa",
       "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/ftapi-gmbh/junior-ai-go-to-market-engineer-munchen-486035",
+      "url": "https://www.arbeitnow.com/jobs/companies/towa/senior-consultant-search-content-ai-visibility-seo-geo-munchen-45032",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior AI Strategist (m/f/x) – European AI Readiness Observatory",
-      "company": "Appliedai",
-      "location": "München (81671)",
-      "url": "https://www.arbeitnow.com/jobs/companies/appliedai/senior-ai-strategist-european-ai-readiness-observatory-munchen-81671-229885",
+      "title": "Senior Consultant Search, Content & AI Visibility (SEO/GEO) (m/w/d), Düsseldorf",
+      "company": "Towa",
+      "location": "Düsseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/towa/senior-consultant-search-content-ai-visibility-seo-geo-dusseldorf-137086",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior AI Consultant / Project Lead (m/f/x)",
-      "company": "Appliedai",
-      "location": "München (81671)",
-      "url": "https://www.arbeitnow.com/jobs/companies/appliedai/senior-ai-consultant-project-lead-munchen-81671-59080",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Data Protection Officer (Deputy) (F/M/D)",
-      "company": "360T",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/360t/data-protection-officer-deputy-frankfurt-am-main-146122",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Director Supply Chain Planning (f/m/d)",
-      "company": "KoRo Handels GmbH",
+      "title": "(Senior) Applied Scientist, Recommendations",
+      "company": "wolt",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/koro-handels-gmbh/director-supply-chain-planning-berlin-120206",
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt/senior-applied-scientist-recommendations-berlin-240412",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Specialist (m/w/d) GxP Training",
-      "company": "simtrabps",
-      "location": "Halle, North Rhine-Westphalia",
-      "url": "https://www.arbeitnow.com/jobs/companies/simtrabps/senior-specialist-gxp-training-halle-north-rhine-westphalia-433840",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior AI-Native Fullstack Engineer (m/w/d)",
-      "company": "Zvoove",
-      "location": "DE | München",
-      "url": "https://www.arbeitnow.com/jobs/companies/zvoove/senior-ai-native-fullstack-engineer-de-munchen-321821",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Working Student – Content and Data Management (all genders)",
-      "company": "Ctrl Qs",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/ctrl-qs/working-student-content-and-data-management-all-genders-berlin-125166",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI & Automation Werkstudent:in (m/w/d)",
-      "company": "Startup Insider",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/startup-insider/ai-automation-werkstudentin-berlin-230068",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Lead Customer Success Engineer - Data & AI Security",
-      "company": "veeamsoftware",
+      "title": "Applied AI Architect, Digital Natives Business",
+      "company": "anthropic",
       "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/lead-customer-success-engineer-data-ai-security-munich-239002",
+      "url": "https://www.arbeitnow.com/jobs/companies/anthropic/applied-ai-architect-digital-natives-business-munich-42292",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Software Engineer, Data Infrastructure & Acquisition - Munich, Germany",
-      "company": "Speechify",
-      "location": "Munich, Bavaria, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-munich-germany-227608",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Product Manager Claims (w/m/d/x)",
-      "company": "Emil Group Gmbh",
+      "title": "Senior Data Engineer, Constellation Services",
+      "company": "planetlabs",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/emil-group-gmbh/senior-product-manager-claims-x-berlin-150130",
+      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/senior-data-engineer-constellation-services-berlin-107524",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Principal Innovation Business Analyst",
-      "company": "Precisionmedicinegroup",
+      "title": "Staff Software Engineer - Databases, Tempo | Germany | Remote",
+      "company": "grafanalabs",
+      "location": "",
+      "url": "https://www.arbeitnow.com/jobs/companies/grafanalabs/staff-software-engineer-databases-tempo-germany-remote-114097",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Project Analyst – Business Performance (m/f/d)",
+      "company": "TYTAN Technologies GmbH",
+      "location": "Munich, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/senior-project-analyst-business-performance-munich-317963",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Legal Specialist Tech&Data (m/f/d)",
+      "company": "Neon",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/neon/legal-specialist-techdata-berlin-127493",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "(Senior) IT Product Owner Data Platform (m/w/d)",
+      "company": "OXG Glasfaser GmbH",
+      "location": "Düsseldorf und Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-senior-it-product-owner-data-platform-92446",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Chief Product Officer – Product, Growth Systems & AI (m/w/d)",
+      "company": "ucm.agency",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/ucmagency/chief-product-officer-product-growth-systems-ai-berlin-102785",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Deployment Strategist (EMEA)",
+      "company": "Fireworks",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/principal-innovation-business-analyst-london-356183",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fireworks/ai-deployment-strategist-emea-london-18836",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Research Engineer - Data Infrastructure",
-      "company": "Elevenlabs",
+      "title": "AI Forward Deployed Engineer EMEA",
+      "company": "Fireworks",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fireworks/ai-forward-deployed-engineer-emea-london-364965",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Human Data Program Manager",
+      "company": "Encord",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/encord/human-data-program-manager-london-381535",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "B2CP Growth Analyst",
+      "company": "Goodlord",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/b2cp-growth-analyst-london-394608",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Graduate Analyst - £50,000 + Share Options",
+      "company": "Lendable",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/graduate-analyst-ps50000-share-options-london-490630",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Credit Analyst Intern",
+      "company": "Lendable",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/credit-analyst-intern-london-370210",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Product Lead - AI Stockbroking App",
+      "company": "Bjak",
       "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/research-engineer-data-infrastructure-united-kingdom-318216",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-stockbroking-app-london-160467",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Credit Analyst",
-      "company": "Guidepoint",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/guidepoint/senior-credit-analyst-london-386040",
+      "title": "Product Lead - AI Investing App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-investing-app-london-87523",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Customer Trust Analyst, EMEA",
-      "company": "Abnormalsecurity",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/abnormalsecurity/senior-customer-trust-analyst-emea-206956",
+      "title": "Product Lead - AI Neobank App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-neobank-app-london-396388",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Retail Industry Principle",
-      "company": "Singu",
-      "location": "UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/singu/retail-industry-principle-uk-431079",
+      "title": "Product Lead - AI Finance App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-lead-ai-finance-app-london-304916",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Member Experience Training & Quality Coordinator - UK",
-      "company": "Neko Health",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/member-experience-training-quality-coordinator-uk-london-353696",
+      "title": "Product Manager - AI Stockbroking App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-manager-ai-stockbroking-app-london-372285",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Staff Software Engineer - Reference Data - AI/ML (UK)",
-      "company": "Addepar1",
-      "location": "Edinburgh",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/staff-software-engineer-reference-data-ai-ml-uk-edinburgh-459864",
+      "title": "Product Owner, Technical - AI Stockbroking",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-technical-ai-stockbroking-london-38986",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Product Manager - Reference Data",
-      "company": "Addepar1",
-      "location": "Edinburgh",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/product-manager-reference-data-edinburgh-480961",
+      "title": "Product Owner, Technical - AI Investing",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-technical-ai-investing-london-172034",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Portfolio Data Operations Analyst",
-      "company": "Addepar1",
-      "location": "Edinburgh",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/portfolio-data-operations-analyst-edinburgh-407093",
+      "title": "Product Owner, Technical - AI Neobank",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-technical-ai-neobank-london-284095",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Data Solutions Consultant",
-      "company": "Addepar1",
-      "location": "Edinburgh",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/data-solutions-consultant-edinburgh-485848",
+      "title": "Product Owner, Technical - AI Finance",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-owner-technical-ai-finance-london-294216",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Data Migration Specialist",
-      "company": "Addepar1",
-      "location": "Edinburgh",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/data-migration-specialist-edinburgh-154477",
+      "title": "Product Engineer - AI Stockbroking",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-engineer-ai-stockbroking-london-281856",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Alternatives  Data Operations Analyst",
-      "company": "Addepar1",
-      "location": "Edinburgh",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/alternatives-data-operations-analyst-edinburgh-296922",
+      "title": "Product Engineer - AI Neobank",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-engineer-ai-neobank-london-340172",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Statistical Programmer/Analyst Consultant--(Oncology) -Remote (Outside IR35)",
-      "company": "Clinchoice",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clinchoice/senior-statistical-programmer-analyst-consultant-oncology-remote-outside-ir35-50106",
+      "title": "Product Engineer - AI Investing",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-engineer-ai-investing-london-473271",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior/Principal Statistical Programmer/Analyst Consultant (Cardiovascular, Renal)-Remote -Outside IR35",
-      "company": "Clinchoice",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clinchoice/senior-principal-statistical-programmer-analyst-consultant-cardiovascular-renal-remote-outside-ir35-473146",
+      "title": "Product Engineer - AI Finance",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-engineer-ai-finance-london-277309",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Software Engineer - AI Solutions",
-      "company": "Octopus Energy Group",
-      "location": "London (GB)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/senior-software-engineer-ai-solutions-london-gb-303317",
+      "title": "Product Manager - AI Neobank App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-manager-ai-neobank-app-london-299556",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Product Data Analyst - Consumer Growth",
-      "company": "SumUp",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-product-data-analyst-consumer-growth-london-167800",
+      "title": "Product Manager - AI Investing App",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/product-manager-ai-investing-app-london-118279",
       "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101",
+      "salary": "",
+      "experience": "Not specified",
+      "fitScore": 80,
+      "category": "Remote",
+      "isNew": true,
+      "source": "Remotive",
       "matchScore": 0
     },
     {
@@ -1016,21 +1020,8 @@
       "isNew": true,
       "source": "Remotive",
       "matchScore": 0
-    },
-    {
-      "title": "Senior Graphic Designer",
-      "company": "Lemon.io",
-      "location": "Americas, Europe, Asia, Africa, Oceania",
-      "url": "https://remotive.com/remote-jobs/design/senior-graphic-designer-2091081",
-      "salary": "",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
     }
   ],
-  "totalJobs": 87,
-  "lastUpdated": "2026-08-29T07:15:42.144014+00:00"
+  "totalJobs": 86,
+  "lastUpdated": "2026-08-30T05:39:00.863573+00:00"
 }
