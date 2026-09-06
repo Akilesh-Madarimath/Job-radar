@@ -233,18 +233,42 @@
       "matchScore": 30
     },
     {
-      "title": "Machine Learning Staff Engineer – ADAS Online",
-      "company": "Tomtom",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/tomtom/machine-learning-staff-engineer-adas-online-berlin-germany-223922",
+      "title": "Python Backend Engineer (m/f/x)",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-203775",
       "source": "Arbeitnow",
       "matchScore": 25
     },
     {
-      "title": "AI Engineer",
-      "company": "9Fin",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/ai-engineer-london-389634",
+      "title": "Applied AI Engineer, Fullstack Software Engineer - EMEA",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-engineer-fullstack-software-engineer-emea-paris-440935",
+      "source": "Arbeitnow",
+      "matchScore": 25
+    },
+    {
+      "title": "AI Engineer, Product",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ai-engineer-product-paris-286958",
+      "source": "Arbeitnow",
+      "matchScore": 25
+    },
+    {
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-forward-deployed-machine-learning-engineer-internship-paris-202644",
+      "source": "Arbeitnow",
+      "matchScore": 25
+    },
+    {
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-forward-deployed-machine-learning-engineer-critical-and-sovereign-institutions-emea-paris-379162",
       "source": "Arbeitnow",
       "matchScore": 25
     },
@@ -348,7 +372,7 @@
     {
       "title": "Staff Software Engineer, Machine Learning Platform",
       "company": "Stripe",
-      "location": "Toronto",
+      "location": "San Francisco, Seattle",
       "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Stripe processes over $1.9T in payments volume per year, which is roughly 1.6% of the world&#39;s GDP, for millions of customers from startups to enterprises. The tremendous amount of data makes Stripe one of the best places to do machine learning. While being an integral part of almost every product line at Stripe (e.g., Payments, Radar, Capital, Billing, etc.), we have lots of exciting opportunities to innovate in ML Platform at Stripe.&lt;/p&gt;\n&lt;p&gt;The ML Platform team builds the platforms and services that enable ML engineers and data scientists across Stripe to take data and build features and models from prototype to production—reliably, at low latency, and at scale. Our scope spans ML training infrastructure, model serving and deployment, feature computation and online serving, observability and monitoring, and agentic AI capabilities. We work closely with product teams, data scientists, and platform infrastructure teams to build powerful, flexible, and user-friendly systems that substantially increase ML velocity across the company.&lt;/p&gt;\n&lt;h2&gt;What you&#39;ll do&lt;/h2&gt;\n&lt;p&gt;You&#39;ll serve as a technical lead across the ML Platform space and a key contributor to the evolution of the platforms that power Stripe&#39;s ML-driven products. As a Staff Engineer, you&#39;ll make decisions with a large impact on Stripe. You&#39;ll influence our investments and strategy while making our systems more reliable, secure, and a delight to use. You&#39;ll work cross-functionally with other technical staff, data science, product, and senior leadership to increase the impact of ML at Stripe.&lt;/p&gt;\n&lt;p&gt;You&#39;ll help define the long-term strategy and lead the technical direction for the next generation of ML infrastructure that powers Stripe&#39;s ML-driven products.&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Take ownership of end-to-end architecture and system design for large, complex projects across ML Platform.&lt;/li&gt;\n&lt;li&gt;Define technical direction for highly ambiguous projects, transforming complex user needs into long-lasting platform strategy.&lt;/li&gt;\n&lt;li&gt;Design system architectures for the most challenging ML Platform problems in one or more areas, including AI and ML workflow orchestration, scalable CPU and GPU compute infrastructure, model training, LLM fine-tuning, low-latency model inference, large-scale feature stores, real-time monitoring, and LLM and agent orchestration.&lt;/li&gt;\n&lt;li&gt;Turn high-leverage ideas into tangible, robust solutions that shape platform and product roadmap, combining technical excellence with creative problem-solving.&lt;/li&gt;\n&lt;li&gt;Scope and lead large projects with significant business impact, driving them from requirements through design, implementation, and production operation.&lt;/li&gt;\n&lt;li&gt;Work with ML engineers, data scientists, and product teams directly to translate their needs into functional requirements and scalable technical solutions.&lt;/li&gt;\n&lt;li&gt;Arbitrate critical decisions that balance competing priorities while meeting latency, reliability, cost, and security constraints.&lt;/li&gt;\n&lt;li&gt;Serve as a key engineering representative, engaging senior leaders across Stripe and advising the leadership team on key technical considerations related to the end-to-end ML lifecycle.&lt;/li&gt;\n&lt;li&gt;Drive cross-team technical initiatives that improve ML development velocity and MLOps maturity across the company.&lt;/li&gt;\n&lt;li&gt;Mentor and grow other engineers. Serve as a role model for designing, implementing, and operating great software systems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Who you are&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of professional software development experience, or equivalent domain expertise, with a solid background in service-oriented architecture and large-scale distributed systems.&lt;/li&gt;\n&lt;li&gt;Track record of serving as a technical lead, with the ability to provide technical direction, lead multi-team initiatives, and mentor team members.&lt;/li&gt;\n&lt;li&gt;Experience building and operating production ML platform in one or more areas such as model training, model serving, orchestration, or ML data systems, with requirements for performance, reliability, scalability, and cost efficiency.&lt;/li&gt;\n&lt;li&gt;Strong product instincts and a deep understanding of the business context in which you operate.&lt;/li&gt;\n&lt;li&gt;Strong communication skills with the ability to explain complex technical concepts to both technical and non-technical stakeholders.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to work cross-functionally, collaborating effectively with ML engineers, data scientists, software engineers, product managers, and business stakeholders.&lt;/li&gt;\n&lt;li&gt;The ability to thrive on a high level of autonomy and responsibility, and comfort operating in ambiguous environments.&lt;/li&gt;\n&lt;li&gt;Hands-on experience using AI tools to accelerate how you work.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building large-scale ML training, serving, or data infrastructure for machine learning use cases, such as distributed training, model inference, feature stores, real-time feature computation, and model registries.&lt;/li&gt;\n&lt;li&gt;Experience with distributed ML training systems, accelerator-backed compute, training data pipelines, experiment tracking, and model evaluation.&lt;/li&gt;\n&lt;li&gt;Experience rapidly developing prototypes and iterating based on user feedback.&lt;/li&gt;\n&lt;li&gt;Experience training and shipping machine learning models to production to solve critical business problems.&lt;/li&gt;\n&lt;li&gt;Familiarity with LLMs, LLM application frameworks, and agentic AI patterns (e.g., tool use, multi-agent orchestration, retrieval-augmented generation).&lt;/li&gt;\n&lt;li&gt;Familiarity with cloud services (e.g., AWS) and cloud-based AI and ML services (e.g., SageMaker, Bedrock, Databricks, OpenAI).&lt;/li&gt;\n&lt;li&gt;Ability to synthesize ideas across the organization while setting a compelling technical vision.&lt;/li&gt;\n&lt;li&gt;Comfortable working with geographically distributed teams.&lt;/li&gt;\n&lt;li&gt;Passion for side projects, open source, or self-driven technical initiatives.&lt;/li&gt;\n&lt;/ul&gt;",
       "skills": [
         "machine learning",
@@ -357,7 +381,7 @@
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=7712852",
+      "url": "https://stripe.com/jobs/search?gh_jid=7939868",
       "matchScore": 25
     },
     {
@@ -374,6 +398,38 @@
       "source": "Greenhouse",
       "url": "https://careers.datadoghq.com/detail/6960503/?gh_jid=6960503",
       "matchScore": 25
+    },
+    {
+      "title": "Data Analyst (w/m/d)",
+      "company": "Pub Tech",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/pub-tech/data-analyst-munchen-36665",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Nebius",
+      "location": "",
+      "url": "https://www.arbeitnow.com/jobs/companies/nebius/data-engineer-393721",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Data Analyst:in Fundraising (m/w/d)",
+      "company": "Albert Schweitzer Stiftung",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/albert-schweitzer-stiftung/data-analystin-fundraising-berlin-190751",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Senior Data Scientist (m/f/x)",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-143991",
+      "source": "Arbeitnow",
+      "matchScore": 20
     },
     {
       "title": "Data Analyst",
@@ -482,6 +538,14 @@
       "matchScore": 15
     },
     {
+      "title": "Senior Data Scientist (m/f/d)",
+      "company": "autoscout24",
+      "location": "",
+      "url": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-data-scientist-25583",
+      "source": "Arbeitnow",
+      "matchScore": 10
+    },
+    {
       "title": "Senior Analytics Engineer, GFCO Analytics",
       "company": "Coinbase",
       "location": "Remote - USA",
@@ -527,10 +591,26 @@
       "matchScore": 10
     },
     {
-      "title": "Senior Machine Learning Scientist",
-      "company": "intercom",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/intercom/senior-machine-learning-scientist-berlin-137725",
+      "title": "Senior Machine Learning Engineer – Video AI",
+      "company": "Snke",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-machine-learning-engineer-video-ai-munchen-98891",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
+      "title": "Senior Machine Learning Engineer",
+      "company": "Voleon",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/voleon/senior-machine-learning-engineer-london-177034",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
+      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer - EMEA",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-technical-lead-forward-deployed-ai-engineer-emea-paris-437637",
       "source": "Arbeitnow",
       "matchScore": 5
     },
@@ -548,186 +628,226 @@
       "matchScore": 5
     },
     {
-      "title": "Analyst Early Stage Team",
-      "company": "Hv",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/hv/analyst-early-stage-team-berlin-344540",
+      "title": "Senior DevOps Engineer (all genders) | Data Platform",
+      "company": "Real Digital",
+      "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-426742",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Data Analyst (m/w/d)",
-      "company": "shopware AG",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-senior-data-analyst-schoppingen-429247",
+      "title": "Senior AI-Native Fullstack Engineer (m/w/d)",
+      "company": "Zvoove",
+      "location": "DE | München",
+      "url": "https://www.arbeitnow.com/jobs/companies/zvoove/senior-ai-native-fullstack-engineer-de-munchen-265224",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Tactical Data Link Expert (all genders)",
-      "company": "Stark",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/tactical-data-link-expert-all-genders-munich-288061",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior AI Systems Engineer – Robotics/Swarming (all genders)",
-      "company": "Stark",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-ai-systems-engineer-robotics-swarming-all-genders-munich-229092",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Data Operations & Labeling Specialist (all genders)",
-      "company": "Stark",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/data-operations-labeling-specialist-all-genders-munich-286159",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Data Engineer (m/w/d) – Snowflake",
-      "company": "JobRad Loop",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/jobrad-loop/senior-data-engineer-snowflake-munchen-375493",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Studentische Hilfskraft, Team Questionnaire Design & Evaluation / Team Assessing Survey Data Quality (SHK_SDM_2026_020)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "location": "Mannheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/studentische-hilfskraft-team-questionnaire-design-evaluation-team-assessing-survey-data-quality-shk-sdm-2026-020-mannheim-39180",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Studentische Hilfskraft, Team German Microdata Lab (SHK_DRS_2026_015)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "location": "Mannheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/studentische-hilfskraft-team-german-microdata-lab-shk-drs-2026-015-mannheim-192930",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Research Data Manager (PostDoc) for mapping harvesting relationships (KTS-84)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "location": "Köln",
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/research-data-manager-postdoc-for-mapping-harvesting-relationships-kts-84-koln-449469",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Working Student AI Support & Operations",
-      "company": "Statworx",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/statworx/working-student-ai-support-operations-frankfurt-am-main-82904",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Staff Product Engineer, AI",
-      "company": "intercom",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/intercom/staff-product-engineer-ai-berlin-177245",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "(Senior) Global Product & Brand Manager (m/w/d) | Hair Professional",
-      "company": "New Flag GmbH",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/new-flag-gmbh/senior-global-product-brand-manager-hair-professional-munchen-168164",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Data Analyst (f/m/x)",
-      "company": "exmox",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/exmox/senior-data-analyst-hamburg-472812",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Director AI & Automation",
-      "company": "Onemedia Consulting",
-      "location": "Onemedia Germany, Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/onemedia-consulting/director-ai-automation-onemedia-germany-munich-384842",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Solution Architect (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-423450",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Oracle Data Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-428296",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Housing & Delegate Management, Attendee Data Manager",
-      "company": "Firstglobalmanagementservicesinc",
+      "title": "Senior Sales Analyst (f/m/d)",
+      "company": "autoscout24",
       "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/firstglobalmanagementservicesinc/housing-delegate-management-attendee-data-manager-427438",
+      "url": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-sales-analyst-460456",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "AI Architect- Senior Manager",
-      "company": "Unity Advisory",
-      "location": "London, Mayfair",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/unity-advisory/ai-architect-senior-manager-london-486695",
+      "title": "Working Student – Content and Data Management (all genders)",
+      "company": "Ctrl Qs",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/ctrl-qs/working-student-content-and-data-management-all-genders-berlin-230394",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Total Rewards Analyst",
-      "company": "Motorway",
+      "title": "AI & Automation Werkstudent:in (m/w/d)",
+      "company": "Startup Insider",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/startup-insider/ai-automation-werkstudentin-berlin-429880",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Trainee Online Marketing Manager (m/w/d)",
+      "company": "ABH24 GmbH & Co. KG",
+      "location": "Bielefeld",
+      "url": "https://www.arbeitnow.com/jobs/companies/abh24-gmbh-co-kg/trainee-online-marketing-manager-bielefeld-331071",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Digital Creative (gn) AI Focus",
+      "company": "Bikeleasing",
+      "location": "Remote Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-digital-creative-gn-ai-focus-264224",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Product Manager Claims (w/m/d/x)",
+      "company": "Emil Group Gmbh",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/emil-group-gmbh/senior-product-manager-claims-x-berlin-53873",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Product Manager – AI Product Engineering",
+      "company": "Guidepoint",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/motorway/senior-total-rewards-analyst-london-496637",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/guidepoint/product-manager-ai-product-engineering-london-227150",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Product Manager (Data APIs)",
-      "company": "9Fin",
+      "title": "Sr. Software Engineer - AI/ML - AI Platform",
+      "company": "Addepar1",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-product-manager-data-apis-london-48581",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-ai-ml-ai-platform-london-276160",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Python Engineer (Full Stack)",
-      "company": "Lendable",
+      "title": "Staff Product Manager - Physical AI/Robotics",
+      "company": "Coreweaveu",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-python-engineer-full-stack-london-132406",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-product-manager-physical-ai-robotics-london-203840",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Data Platform Engineer",
-      "company": "Lendable",
+      "title": "Staff Product Manager, Applied Physical AI",
+      "company": "Coreweaveu",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/data-platform-engineer-london-230787",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-product-manager-applied-physical-ai-london-308855",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Data Science",
-      "company": "Axle Careers",
+      "title": "Finance & Reconciliation Analyst / Safeguarding",
+      "company": "Pleo",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/axle-careers/data-science-london-169309",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/finance-reconciliation-analyst-safeguarding-london-142263",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Campaigns & Memberships Marketing Manager",
+      "company": "Elliptic",
+      "location": "London, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/campaigns-memberships-marketing-manager-london-united-kingdom-145535",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Performance Marketing Manager (Paid Search)",
+      "company": "Angi",
+      "location": "Hybrid - France - Aix-en-Provence",
+      "url": "https://www.arbeitnow.fr/jobs/companies/angi/performance-marketing-manager-paid-search-aix-en-provence-106144",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Deployment Strategist, Critical and Sovereign Institutions - Paris",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ai-deployment-strategist-critical-and-sovereign-institutions-paris-270330",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Technical Program Manager, Human Data Annotation (Code)",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/technical-program-manager-human-data-annotation-code-paris-69685",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Applied Scientist, EMEA",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-scientist-emea-paris-160632",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Software Engineer Network Automation, Data Center Fabrics",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-network-automation-data-center-fabrics-paris-469308",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Procurement Category Manager (IT and Data)",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/procurement-category-manager-it-and-data-paris-370598",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Applied Scientist  (Internship)",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-scientist-internship-paris-406860",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-fullstack-software-engineer-critical-and-sovereign-institutions-paris-435262",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Research Engineer, Data Infrastructure",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/research-engineer-data-infrastructure-paris-146354",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Datacenter Hardware Engineer, HPC",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/datacenter-hardware-engineer-hpc-paris-476505",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Deployment Strategist, Cybersecurity - EMEA",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ai-deployment-strategist-cybersecurity-emea-paris-154166",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Compute Engineer, Fleet Health & Delivery",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ai-compute-engineer-fleet-health-delivery-paris-7204",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Scientist",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ai-scientist-paris-348950",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Scientist, Robotics",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ai-scientist-robotics-paris-182857",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -927,47 +1047,8 @@
       "isNew": true,
       "source": "Remotive",
       "matchScore": 0
-    },
-    {
-      "title": "Sales Jedi",
-      "company": "Creative Force ",
-      "location": "Europe",
-      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
-      "salary": "",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
-    },
-    {
-      "title": "SaaS Product Support Jedi",
-      "company": "Creative Force",
-      "location": "Europe, EMEA, UK, Germany, France, European timezones",
-      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
-      "salary": "",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
-    },
-    {
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "salary": "$50-$75 /hour",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
     }
   ],
-  "totalJobs": 79,
-  "lastUpdated": "2026-09-05T04:48:23.423278+00:00"
+  "totalJobs": 91,
+  "lastUpdated": "2026-09-06T04:56:36.794810+00:00"
 }
