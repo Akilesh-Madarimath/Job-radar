@@ -233,42 +233,10 @@
       "matchScore": 30
     },
     {
-      "title": "Python Backend Engineer (m/f/x)",
-      "company": "Makersite GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-203775",
-      "source": "Arbeitnow",
-      "matchScore": 25
-    },
-    {
-      "title": "Applied AI Engineer, Fullstack Software Engineer - EMEA",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-engineer-fullstack-software-engineer-emea-paris-440935",
-      "source": "Arbeitnow",
-      "matchScore": 25
-    },
-    {
-      "title": "AI Engineer, Product",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ai-engineer-product-paris-286958",
-      "source": "Arbeitnow",
-      "matchScore": 25
-    },
-    {
-      "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-forward-deployed-machine-learning-engineer-internship-paris-202644",
-      "source": "Arbeitnow",
-      "matchScore": 25
-    },
-    {
-      "title": "Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-forward-deployed-machine-learning-engineer-critical-and-sovereign-institutions-emea-paris-379162",
+      "title": "AI Engineer - Dealflow (m/w/d)",
+      "company": "Flex Capital Management Gmbh",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/flex-capital-management-gmbh/ai-engineer-dealflow-berlin-483749",
       "source": "Arbeitnow",
       "matchScore": 25
     },
@@ -400,51 +368,42 @@
       "matchScore": 25
     },
     {
-      "title": "Data Analyst (w/m/d)",
-      "company": "Pub Tech",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/pub-tech/data-analyst-munchen-36665",
-      "source": "Arbeitnow",
-      "matchScore": 20
-    },
-    {
       "title": "Data Engineer",
       "company": "Nebius",
       "location": "",
-      "url": "https://www.arbeitnow.com/jobs/companies/nebius/data-engineer-393721",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/data-engineer-472202",
       "source": "Arbeitnow",
       "matchScore": 20
     },
     {
-      "title": "Data Analyst:in Fundraising (m/w/d)",
-      "company": "Albert Schweitzer Stiftung",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/albert-schweitzer-stiftung/data-analystin-fundraising-berlin-190751",
+      "title": "Consultant Data Analyst Marketing - F/H",
+      "company": "Vmlenterprisesolutions",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultant-data-analyst-marketing-f-h-paris-449933",
       "source": "Arbeitnow",
       "matchScore": 20
     },
     {
-      "title": "Senior Data Scientist (m/f/x)",
-      "company": "Makersite GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-143991",
+      "title": "Consultant Data Analyst Marketing - F/H",
+      "company": "Wundermanthompson",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/wundermanthompson/consultant-data-analyst-marketing-f-h-paris-81857",
       "source": "Arbeitnow",
       "matchScore": 20
     },
     {
       "title": "Data Analyst",
       "company": "Stripe",
-      "location": "Mexico City",
-      "description": "&lt;h3&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As Stripe’s user base and global footprint grow dramatically, we have distinctly unique support problems resulting from both our type of scale and the type of businesses we partner with. The Stripe Delivery Center (SDC) strategy will provide operational leverage and expand Stripe’s portfolio of operational capabilities to support the scaled needs of external users and internal Stripe teams.&lt;/p&gt;\n&lt;p&gt;At Stripe, our Mexico City office is a vibrant hub at the forefront of our mission to reshape the financial landscape for businesses worldwide. Our team prioritizes collaboration, innovation, and excellence. As a member of the Mexico City team, you&#39;ll be part of a mission-driven community dedicated to enhancing the global economy and increasing the GDP of the internet. We strive for excellence by creating with craft and beauty, while having fun and celebrating our successes together.&lt;/p&gt;\n&lt;p&gt;We cultivate a culture of collaboration, inclusivity, and support where every team member’s voice matters. Our commitment shines through as we handle over a million support cases each year, empowering our users not just to solve problems but to achieve their goals.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;As an analyst on the Payments Health Operations team, you will be charged with monitoring and maintaining payments performance for Stripe’s largest users. This will include triaging, investigating, and responding to detected regressions in authentication and cost rates; providing in-depth analysis of performance degradations; answering queries from our product support and technical account management teams; and engaging with users and other teams at Stripe to help ensure our users are maximizing their acceptance rates while minimizing their costs and fraud.&lt;/p&gt;\n&lt;p&gt;You will work at the core of Stripe&#39;s platform, ensuring the reliability of our payments stack and the health of the broader ecosystem. Technical Operations roles in Payments are a dynamic and key component of Stripe&#39;s success. Focused on financial partner integrations and funds-flow expansion, we sit at the intersection of product/platform engineers and financial partners, connecting them to ensure that everyone thrives and nothing is lost in translation.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Monitor authorization rates and performance for large users, responding to alerts of degradation, triaging and investigating the cause, and communicating your findings to the account team, banking partners, and card networks.&lt;/li&gt;\n&lt;li&gt;Analyze cost checkers to ensure our cost models&#39; accuracy.&lt;/li&gt;\n&lt;li&gt;Respond to performance inquiries from technical account managers, product support teams, and other internal Stripe teams.&lt;/li&gt;\n&lt;li&gt;Interface with Stripe’s financial partners across the world to communicate operational breakages and help drive resolutions.&lt;/li&gt;\n&lt;li&gt;Provide fast, accurate responses to complex support inquiries from partners.&lt;/li&gt;\n&lt;li&gt;Partner with internal and external teams to validate the accuracy of Stripe’s financial data.&lt;/li&gt;\n&lt;li&gt;Introduce data and process efficiencies to meet the scale and speed of Stripe.&lt;/li&gt;\n&lt;li&gt;Identify and automate inefficient operational processes to reduce manual workloads.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Have at least 1 year of experience in a technical role, with experience writing SQL queries to query relational databases.&lt;/li&gt;\n&lt;li&gt;Have experience navigating the nuanced complexity of financial systems and solving large-scale, technical challenges.&lt;/li&gt;\n&lt;li&gt;Have strong analytical skills to investigate, prioritize, and identify the root cause of issues.&lt;/li&gt;\n&lt;li&gt;Have experience managing communications and workflows with technical and non-technical teams across internal and external stakeholders.&lt;/li&gt;\n&lt;li&gt;Are comfortable operating independently and thrive in a fast-paced environment to deliver results, with an ability to establish priorities and reliably execute against time-sensitive deadlines.&lt;/li&gt;\n&lt;li&gt;Have experience identifying and triaging technical issues.&lt;/li&gt;\n&lt;li&gt;Possess a demonstrated track record of process improvement and proactive problem-solving.&lt;/li&gt;\n&lt;li&gt;Have excellent written and verbal communication skills in both English and Spanish.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Payments expertise (working with financial partners, optimizing processing errors, managing payment costs).&lt;/li&gt;\n&lt;li&gt;Experience operating in a high-growth technology company.&lt;/li&gt;\n&lt;li&gt;Python or Scala knowledge.&lt;/li&gt;\n&lt;/ul&gt;",
+      "location": "Canada",
+      "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Data Science at Stripe is a vibrant community where data analysts and data scientists learn and grow together. You&#39;ll work with some of the most fundamental data at Stripe, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;In this role, you&#39;ll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You&#39;ll work closely with partners to extract insights from the rich and complex data at Stripe. You&#39;ll also work with leaders to translate business needs into data problems. You&#39;ll build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You&#39;ll deliver actionable business recommendations through analyses and data storytelling.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;MS/MA + 2 years or BS/BA + 3 years of full-time experience exclusive of internships in Business Intelligence Engineering, Data Analyst, and Business Analyst roles&lt;/li&gt;\n&lt;li&gt;Proficiency in SQL&lt;/li&gt;\n&lt;li&gt;Proven ability to manage and deliver on multiple projects with great attention to detail&lt;/li&gt;\n&lt;li&gt;Ability to clearly communicate results and drive impact&lt;/li&gt;\n&lt;li&gt;Ability to design, implement, and maintain data pipelines and dashboards to generate actionable insights based on stakeholder requirements&lt;/li&gt;\n&lt;li&gt;Experience collaborating with cross-functional teams to deliver strategic insights, benchmarks, and analyses that provide recommendations&lt;/li&gt;\n&lt;li&gt;Ability to enable stakeholders and partners by building self-service tooling and providing training to empower stakeholder teams to be data literate and self-sufficient in autonomous reporting capabilities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Prior experience at a growth-stage internet or software company&lt;/li&gt;\n&lt;li&gt;Experience with distributed data frameworks like Spark to write and debug data pipelines&lt;/li&gt;\n&lt;li&gt;Good understanding of development processes and best practices like engineering standards, code reviews, and testing&lt;/li&gt;\n&lt;li&gt;Strong statistical knowledge&lt;/li&gt;\n&lt;li&gt;Working knowledge of Python&lt;/li&gt;\n&lt;li&gt;Experience creating leadership-level reporting, such as QBRs, MBRs&lt;/li&gt;\n&lt;li&gt;Proficiency with AI tools to accelerate model development, analysis, and coding&lt;/li&gt;\n&lt;/ul&gt;",
       "skills": [
         "python",
-        "sql",
-        "excel"
+        "sql"
       ],
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=7978488",
+      "url": "https://stripe.com/jobs/search?gh_jid=5416444",
       "matchScore": 20
     },
     {
@@ -506,6 +465,14 @@
       "matchScore": 20
     },
     {
+      "title": "Associate Backend Software Engineer (Python)",
+      "company": "Anaplan",
+      "location": "Manchester",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/associate-backend-software-engineer-python-manchester-430147",
+      "source": "Arbeitnow",
+      "matchScore": 15
+    },
+    {
       "title": "Senior AI Engineer – Notebooks",
       "company": "Datadog",
       "location": "Bordeaux, France; Dublin, Ireland; France, Remote; Germany, Remote; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Portugal, Remote; Sophia Antipolis, France; Spain, Remote",
@@ -536,14 +503,6 @@
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8008569?gh_jid=8008569",
       "matchScore": 15
-    },
-    {
-      "title": "Senior Data Scientist (m/f/d)",
-      "company": "autoscout24",
-      "location": "",
-      "url": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-data-scientist-25583",
-      "source": "Arbeitnow",
-      "matchScore": 10
     },
     {
       "title": "Senior Analytics Engineer, GFCO Analytics",
@@ -591,26 +550,10 @@
       "matchScore": 10
     },
     {
-      "title": "Senior Machine Learning Engineer – Video AI",
-      "company": "Snke",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-machine-learning-engineer-video-ai-munchen-98891",
-      "source": "Arbeitnow",
-      "matchScore": 5
-    },
-    {
-      "title": "Senior Machine Learning Engineer",
-      "company": "Voleon",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/voleon/senior-machine-learning-engineer-london-177034",
-      "source": "Arbeitnow",
-      "matchScore": 5
-    },
-    {
-      "title": "Applied AI, Technical Lead, Forward Deployed AI Engineer - EMEA",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-technical-lead-forward-deployed-ai-engineer-emea-paris-437637",
+      "title": "Head of AI Engineering (f/m/x)",
+      "company": "neoshare",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-frankfurt-am-main-332298",
       "source": "Arbeitnow",
       "matchScore": 5
     },
@@ -628,66 +571,138 @@
       "matchScore": 5
     },
     {
-      "title": "Senior DevOps Engineer (all genders) | Data Platform",
-      "company": "Real Digital",
-      "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-426742",
+      "title": "(Senior) Operations Specialist E-Commerce & Retail (m/w/d)",
+      "company": "Wortmann KG Internationale Schuhproduktionen",
+      "location": "Detmold, Nordrhein-Westfalen, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/wortmann-kg-internationale-schuhproduktionen/senior-operations-specialist-e-commerce-retail-detmold-163437",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior AI-Native Fullstack Engineer (m/w/d)",
-      "company": "Zvoove",
-      "location": "DE | München",
-      "url": "https://www.arbeitnow.com/jobs/companies/zvoove/senior-ai-native-fullstack-engineer-de-munchen-265224",
+      "title": "Data Protection & AI Governance Advisor (m/w/d)",
+      "company": "neoshare",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/neoshare/data-protection-ai-governance-advisor-munchen-286091",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Sales Analyst (f/m/d)",
-      "company": "autoscout24",
-      "location": "",
-      "url": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-sales-analyst-460456",
+      "title": "Senior Python Engineer, Platform Libraries (m/f/d)",
+      "company": "Unitelabs",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/unitelabs/senior-python-engineer-platform-libraries-munchen-363975",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Working Student – Content and Data Management (all genders)",
-      "company": "Ctrl Qs",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/ctrl-qs/working-student-content-and-data-management-all-genders-berlin-230394",
+      "title": "Data Architecture Consultant (m/w/d)",
+      "company": "Invensity Group",
+      "location": "Wiesbaden (Hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/invensity-group/data-architecture-consultant-wiesbaden-hybrid-371523",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "AI & Automation Werkstudent:in (m/w/d)",
-      "company": "Startup Insider",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/startup-insider/ai-automation-werkstudentin-berlin-429880",
+      "title": "Data Platform Engineer Working Student (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-56537",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Trainee Online Marketing Manager (m/w/d)",
-      "company": "ABH24 GmbH & Co. KG",
-      "location": "Bielefeld",
-      "url": "https://www.arbeitnow.com/jobs/companies/abh24-gmbh-co-kg/trainee-online-marketing-manager-bielefeld-331071",
+      "title": "AI Strategy (Senior) Consultant (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-strategy-senior-consultant-munchen-167851",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Digital Creative (gn) AI Focus",
-      "company": "Bikeleasing",
-      "location": "Remote Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-digital-creative-gn-ai-focus-264224",
+      "title": "AI Security (Senior) Consultant (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-security-senior-consultant-munchen-1027",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Product Manager Claims (w/m/d/x)",
-      "company": "Emil Group Gmbh",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/emil-group-gmbh/senior-product-manager-claims-x-berlin-53873",
+      "title": "AI Governance (Senior) Consultant (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-governance-senior-consultant-munchen-382841",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI (Senior)Consultant (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-seniorconsultant-munchen-56921",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI (Senior) Developer (m/w/d)",
+      "company": "Trusteq Gmbh",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-senior-developer-munchen-276811",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "UVC Partners: Data & AI - Master Thesis / Internship (f/m/x)",
+      "company": "UnternehmerTUM gGmbH",
+      "location": "München Kreativquartier",
+      "url": "https://www.arbeitnow.com/jobs/companies/unternehmertum-ggmbh/uvc-partners-data-ai-master-thesis-internship-munchen-kreativquartier-1648",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Head of Finance & Data (m/w/d)",
+      "company": "junglück GmbH",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/jungluck-gmbh/head-of-finance-data-munchen-293651",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Head of Data / Tech / E-COM (m/w/d)",
+      "company": "junglück GmbH",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/jungluck-gmbh/head-of-data-tech-e-com-munchen-429831",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "IT-Systemadministrator - Datacenter & Infrastructure (m/w/d)",
+      "company": "Vulcan Energie Ressourcen GmbH",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/vulcan-energie-ressourcen-gmbh/it-systemadministrator-datacenter-infrastructure-karlsruhe-347437",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Data Governance Lead (São Paulo, Brasil)",
+      "company": "Blab",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/blab/data-governance-lead-sao-paulo-brasil-london-190716",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Data Governance Lead (London, U.K.)",
+      "company": "Blab",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/blab/data-governance-lead-london-uk-214565",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Data Governance Lead (Amsterdam, NLD)",
+      "company": "Blab",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/blab/data-governance-lead-amsterdam-nld-london-49939",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -740,114 +755,82 @@
       "matchScore": 0
     },
     {
-      "title": "Performance Marketing Manager (Paid Search)",
-      "company": "Angi",
-      "location": "Hybrid - France - Aix-en-Provence",
-      "url": "https://www.arbeitnow.fr/jobs/companies/angi/performance-marketing-manager-paid-search-aix-en-provence-106144",
+      "title": "Senior Technical Advisor, Data Use and Decision Science (Remote - US, UK, France, DRC)",
+      "company": "Resolvetosavelives",
+      "location": "US, UK, DRC",
+      "url": "https://www.arbeitnow.fr/jobs/companies/resolvetosavelives/senior-technical-advisor-data-use-and-decision-science-remote-us-uk-france-drc-us-uk-drc-131243",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "AI Deployment Strategist, Critical and Sovereign Institutions - Paris",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ai-deployment-strategist-critical-and-sovereign-institutions-paris-270330",
+      "title": "Supply Chain Quality Engineer - MAIT",
+      "company": "The Exploration Company",
+      "location": "Bordeaux, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/supply-chain-quality-engineer-mait-bordeaux-313589",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Technical Program Manager, Human Data Annotation (Code)",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/technical-program-manager-human-data-annotation-code-paris-69685",
+      "title": "Business Development Manager (AI Data Solutions)",
+      "company": "TransPerfect",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/business-development-manager-ai-data-solutions-paris-117054",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Applied Scientist, EMEA",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-scientist-emea-paris-160632",
+      "title": "Business Development Manager - AI Data Solutions (Paris)",
+      "company": "TransPerfect",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/business-development-manager-ai-data-solutions-paris-311534",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Software Engineer Network Automation, Data Center Fabrics",
-      "company": "Mistral.ai",
+      "title": "Senior Manager, Retail Operations",
+      "company": "Fanaticscommerce",
       "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/software-engineer-network-automation-data-center-fabrics-paris-469308",
+      "url": "https://www.arbeitnow.fr/jobs/companies/fanaticscommerce/senior-manager-retail-operations-paris-241277",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Procurement Category Manager (IT and Data)",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/procurement-category-manager-it-and-data-paris-370598",
+      "title": "Data Manager",
+      "company": "DeepHealth",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/deephealth/data-manager-paris-478505",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Applied Scientist  (Internship)",
-      "company": "Mistral.ai",
+      "title": "Consultant Développeur Marketing Technology (CRM & Data) – 3 à 5 ans d’expérience",
+      "company": "Vmlenterprisesolutions",
       "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-scientist-internship-paris-406860",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vmlenterprisesolutions/consultant-developpeur-marketing-technology-crm-data-3-a-5-ans-dexperience-paris-295267",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris",
-      "company": "Mistral.ai",
+      "title": "Consultant Développeur Marketing Technology (CRM & Data) – 3 à 5 ans d’expérience",
+      "company": "Wundermanthompson",
       "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-fullstack-software-engineer-critical-and-sovereign-institutions-paris-435262",
+      "url": "https://www.arbeitnow.fr/jobs/companies/wundermanthompson/consultant-developpeur-marketing-technology-crm-data-3-a-5-ans-dexperience-paris-120031",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Research Engineer, Data Infrastructure",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/research-engineer-data-infrastructure-paris-146354",
+      "title": "Account Manager - Groceries & Retail",
+      "company": "Deliveroo",
+      "location": "Paris - Main Office",
+      "url": "https://www.arbeitnow.fr/jobs/companies/deliveroo/account-manager-groceries-retail-paris-31060",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Datacenter Hardware Engineer, HPC",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/datacenter-hardware-engineer-hpc-paris-476505",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Deployment Strategist, Cybersecurity - EMEA",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ai-deployment-strategist-cybersecurity-emea-paris-154166",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Compute Engineer, Fleet Health & Delivery",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ai-compute-engineer-fleet-health-delivery-paris-7204",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Scientist",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ai-scientist-paris-348950",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Scientist, Robotics",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/ai-scientist-robotics-paris-182857",
+      "title": "Local Lead, Creative Campaigns (8-Month FTC)",
+      "company": "Deliveroo",
+      "location": "Paris - Main Office",
+      "url": "https://www.arbeitnow.fr/jobs/companies/deliveroo/local-lead-creative-campaigns-8-month-ftc-paris-390979",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -864,6 +847,45 @@
       "experience": "Not specified",
       "source": "Greenhouse",
       "url": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
+      "matchScore": 0
+    },
+    {
+      "title": "Sales Jedi",
+      "company": "Creative Force ",
+      "location": "Europe",
+      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
+      "salary": "",
+      "experience": "Not specified",
+      "fitScore": 80,
+      "category": "Remote",
+      "isNew": true,
+      "source": "Remotive",
+      "matchScore": 0
+    },
+    {
+      "title": "SaaS Product Support Jedi",
+      "company": "Creative Force",
+      "location": "Europe, EMEA, UK, Germany, France, European timezones",
+      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
+      "salary": "",
+      "experience": "Not specified",
+      "fitScore": 80,
+      "category": "Remote",
+      "isNew": true,
+      "source": "Remotive",
+      "matchScore": 0
+    },
+    {
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "salary": "$50-$75 /hour",
+      "experience": "Not specified",
+      "fitScore": 80,
+      "category": "Remote",
+      "isNew": true,
+      "source": "Remotive",
       "matchScore": 0
     },
     {
@@ -1049,6 +1071,6 @@
       "matchScore": 0
     }
   ],
-  "totalJobs": 91,
-  "lastUpdated": "2026-09-06T04:56:36.794810+00:00"
+  "totalJobs": 92,
+  "lastUpdated": "2026-09-07T05:02:19.103502+00:00"
 }
