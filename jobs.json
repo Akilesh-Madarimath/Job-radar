@@ -18,6 +18,14 @@
       "matchScore": 55
     },
     {
+      "title": "Praktikant:in als LLM /RAG & Machine Learning Engineer (m/w/d)",
+      "company": "U-Glow GmbH",
+      "location": "Mülheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/u-glow-gmbh/praktikantin-als-llm-rag-machine-learning-engineer-mulheim-96338",
+      "source": "Arbeitnow",
+      "matchScore": 45
+    },
+    {
       "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
       "company": "Datadog",
       "location": "New York, New York, USA",
@@ -113,10 +121,10 @@
       "matchScore": 35
     },
     {
-      "title": "Junior Data Scientist - Sales & Marketing",
-      "company": "iwoca",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/junior-data-scientist-sales-marketing-london-52590",
+      "title": "Data Engineer (all genders)",
+      "company": "Eraneos",
+      "location": "Hamburg, München, Düsseldorf, remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-338828",
       "source": "Arbeitnow",
       "matchScore": 30
     },
@@ -257,10 +265,18 @@
       "matchScore": 30
     },
     {
-      "title": "Werkstudent AI Engineering (m/w/d)",
-      "company": "Modern Drive Technology GmbH",
-      "location": "Neumarkt in der Oberpfalz",
-      "url": "https://www.arbeitnow.com/jobs/companies/modern-drive-technology-gmbh/werkstudent-ki-automatisierung-neumarkt-in-der-oberpfalz-23563",
+      "title": "AI Engineer (m/w/d)",
+      "company": "Nerdware",
+      "location": "Nürnberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/nerdware/ai-engineer-nurnberg-315941",
+      "source": "Arbeitnow",
+      "matchScore": 25
+    },
+    {
+      "title": "Staff AI Engineer , Edinburgh",
+      "company": "Multiverse",
+      "location": "Edinburgh",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/multiverse/staff-ai-engineer-edinburgh-450928",
       "source": "Arbeitnow",
       "matchScore": 25
     },
@@ -321,17 +337,15 @@
     {
       "title": "Machine Learning Engineer",
       "company": "Stripe",
-      "location": "South San Francisco, CA",
-      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design state-of-the-art ML models and large-scale ML systems for underwriting and portfolio management for Stripe Capital based on ML principles, domain knowledge, risk, regulatory and engineering constraints.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Design systems to speed up the time from idea to deployment of new models.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experiment and iterate on ML models (using tools including PyTorch and TensorFlow) to achieve key business goals and drive efficiency.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Develop pipelines and automated processes to train and evaluate models in offline and online environments.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Integrate ML models into production systems and ensure their scalability and reliability.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Collaborate with product and strategy partners to propose, prioritize, and implement new product features.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Engage with the latest developments in ML/AI and take calculated risks in transforming innovative ML ideas into productionized solutions.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Must have a Bachelor&#39;s degree or foreign equivalent in Computer Science, Machine Learning, Mathematics, Physics, Statistics, or a related field, plus two (2) years of experience in Building and shipping ML systems in production.&lt;/p&gt;\n&lt;p&gt;Must have two (2) years of experience in each of the following:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;ML algorithms and model architectures;&lt;/li&gt;\n&lt;li&gt;Designing, training and evaluating machine learning models;&lt;/li&gt;\n&lt;li&gt;Productionizing and deploying machine learning models at scale;&lt;/li&gt;\n&lt;li&gt;Orchestrating data pipelines and leveraging large-scale datasets; and&lt;/li&gt;\n&lt;li&gt;Building and deploying ML models to solve business problems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Must have one (1) year of experience in each of the following:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;ML libraries and frameworks including PyTorch, TensorFlow, XGBoost or Spark; and&lt;/li&gt;\n&lt;li&gt;Deep learning, including transformers, test-time compute, or reinforcement learning.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Salary: $212,000 - $318,000/yr.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;This salary range represents the base salary range for the role and any sales commissions / sales bonuses targets, if applicable, would be in addition to the base salary.&lt;/p&gt;\n&lt;p&gt;40 hrs/week&lt;/p&gt;\n&lt;p&gt;50% Telecommuting Permitted.&lt;/p&gt;\n&lt;p&gt;Multiple Positions Available.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends.&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;CA29&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;#LI-DNI&lt;/strong&gt;&lt;/h3&gt;",
+      "location": "Toronto",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Our Applied ML team aims to reform how our users interact with Stripe. We are doing so by (a) automating the easy tasks, and (b) assisting our users in the difficult tasks. Some examples include helping our users resolve issues with Stripe faster or making it easier for our users to sign up and navigate Stripe. We are using the latest LLMs as well as fine-tuning our own models. We&#39;re an end-to-end team going from ideas to models to shipping in production. You can learn more about our team’s work&lt;a href=&quot;https://stripe.com/sessions/2024/a-blueprint-for-ai-acceleration&quot;&gt; from this recent talk&lt;/a&gt;.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a machine learning engineer, you will be responsible for analyzing opportunities, proposing ideas, training &amp;amp; evaluating ML models, running experiments, and deploying everything to production. You will also have the opportunity to contribute to and influence ML architecture at Stripe as well as be a part of a larger ML community.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Our team operates fluidly and here are some problems you may tackle:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;How do we evaluate a system offline &amp;amp; online?&lt;/li&gt;\n&lt;li&gt;How do we improve performance to match (and beat) humans?&lt;/li&gt;\n&lt;li&gt;How do we ensure model quality doesn’t degrade online?&lt;/li&gt;\n&lt;li&gt;Does fine-tuning an LLM give us better performance?&lt;/li&gt;\n&lt;li&gt;What are the right OSS and in-house platforms we should invest in?&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;And in the process you will:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop pipelines and automated processes to train and evaluate models in offline and online environments&lt;/li&gt;\n&lt;li&gt;Integrate ML models into production systems and ensure their scalability and reliability&lt;/li&gt;\n&lt;li&gt;Collaborate with product and strategy partners to propose, prioritize, and implement new product features&lt;/li&gt;\n&lt;li&gt;Engage with the latest developments in ML/AI and take calculated risks in transforming innovative ML ideas into productionized solutions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for ML Engineers who are passionate about using ML to improve products and delight customers. You have experience developing streaming feature pipelines, building ML models, and deploying them to production, even if it involves making substantial changes to backend code. You are comfortable with ambiguity, love to take initiative, and have a bias towards action.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Have at least 3 years of experience shipping ML systems in production&lt;/li&gt;\n&lt;li&gt;Hold yourself and others to a high bar when working with production systems&lt;/li&gt;\n&lt;li&gt;Take pride in taking ownership and driving projects to business impact&lt;/li&gt;\n&lt;li&gt;Thrive in a collaborative environment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in full time software development roles&lt;/li&gt;\n&lt;li&gt;Experience shipping LLM integrations to user products with high quality&lt;/li&gt;\n&lt;li&gt;Experience operating in highly ambiguous environments&lt;/li&gt;\n&lt;li&gt;Knowledge about driving a hypothesis from data&lt;/li&gt;\n&lt;/ul&gt;",
       "skills": [
-        "machine learning",
-        "deep learning",
-        "tensorflow"
+        "machine learning"
       ],
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=8137997",
+      "url": "https://stripe.com/jobs/search?gh_jid=8014859",
       "matchScore": 25
     },
     {
@@ -410,34 +424,35 @@
       "matchScore": 25
     },
     {
-      "title": "Data Engineer (m/f/d)",
-      "company": "Dishdigital",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/dishdigital/data-engineer-dusseldorf-159968",
+      "title": "Machine Learning Engineer Intern",
+      "company": "Coinbase",
+      "location": "Hybrid - San Francisco, CA",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;amp;utm_source=coinbase&quot;&gt;Coinbase&lt;/a&gt;, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it’s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for &quot;good enough,&quot; you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/careers&quot;&gt;learn more about working at Coinbase&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;This is a 12-week internship during summer 2027.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;You&#39;ll join Coinbase&#39;s Machine Learning team and work alongside senior engineers building ML models and pipelines that make our platform more secure, personalize user experiences, and unlock new use cases for crypto. As an MLE intern, you&#39;ll take ownership of a research-to-production project, applying cutting-edge ML techniques to real-world problems at blockchain scale.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop, deploy, and operate machine learning models and pipelines at production scale&lt;/li&gt;\n&lt;li&gt;Drive an end-to-end research project applying modern ML techniques to solve a defined business problem&lt;/li&gt;\n&lt;li&gt;Partner with senior engineers and product teams to identify new ML applications for blockchain and crypto use cases&lt;/li&gt;\n&lt;li&gt;Present findings and recommendations to cross-functional stakeholders at the conclusion of your internship&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Required Skills and Experience:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Currently pursuing a Ph.D. with published or in-progress research in machine learning, deep learning, or a closely related field&lt;/li&gt;\n&lt;li&gt;Demonstrated proficiency building and training models using ML frameworks such as PyTorch or TensorFlow&lt;/li&gt;\n&lt;li&gt;Experience applying ML techniques including supervised learning, unsupervised learning, or reinforcement learning to structured or unstructured datasets&lt;/li&gt;\n&lt;li&gt;Familiarity with software engineering fundamentals including version control, testing, and writing production-quality Python code&lt;/li&gt;\n&lt;li&gt;Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Req ID: P78143&lt;/p&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;\n&lt;div id=&quot;fortidlp-input-element-parent&quot;&gt;&lt;/div&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Pay Transparency Notice:&lt;/strong&gt;&amp;nbsp;Depending on your work location, the target hourly rate for this position can range as detailed below.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=&quot;c-message_kit__reaction_bar c-reaction_bar c-reaction_bar--collapsed&quot; data-qa=&quot;reaction_bar&quot; data-stringify-ignore=&quot;true&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div id=&quot;fortidlp-input-element-parent&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Hourly Rate:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$60&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$60 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;ul&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;strong&gt;&lt;em&gt;Application Limit: &lt;/em&gt;&lt;/strong&gt;Candidates may submit a maximum of 3 applications within a 6-month period.&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Equal Opportunity Employer: &lt;/strong&gt;Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;US Applicants: &lt;/strong&gt;View&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf&quot;&gt; Employee Rights&lt;/a&gt;,&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf&quot;&gt; Know Your Rights&lt;/a&gt;, and&lt;a href=&quot;https://static-assets.coinbase.com/e-verify.pdf&quot;&gt; E-Verify&lt;/a&gt; Notice of Participation.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Accommodations: &lt;/strong&gt;If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&amp;nbsp;Need screen reading technology?&lt;a href=&quot;https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn&quot;&gt; Click here&lt;/a&gt; to download a free compatible screen reader and view the&lt;a href=&quot;http://www.chromevox.com/tutorial/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;tutorial&lt;/a&gt;.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Data Privacy &amp;amp; Arbitration: &lt;/strong&gt;By submitting your application, you agree to our&lt;a href=&quot;https://www.coinbase.com/legal/applicant_privacy_notice&quot;&gt; Candidate Privacy Notice&lt;/a&gt;. US applicants: By submitting your application, you agree to&lt;a href=&quot;https://www.coinbase.com/legal/application-arbitration-agreement&quot;&gt; Arbitration of Disputes&lt;/a&gt;.&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div id=&quot;fortidlp-input-element-parent&quot;&gt;&lt;/div&gt;&lt;/div&gt;",
+      "skills": [
+        "python",
+        "machine learning",
+        "deep learning",
+        "tensorflow"
+      ],
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "source": "Greenhouse",
+      "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+      "matchScore": 25
+    },
+    {
+      "title": "Data Analyst (m/f/d)",
+      "company": "METYCLE",
+      "location": "Cologne (GER)",
+      "url": "https://www.arbeitnow.com/jobs/companies/metycle/data-analyst-cologne-ger-304511",
       "source": "Arbeitnow",
       "matchScore": 20
     },
     {
-      "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
-      "company": "LiveEO GmbH",
-      "location": "LiveEO GmbH Berlin Office (Hybrid)",
-      "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-8629",
-      "source": "Arbeitnow",
-      "matchScore": 20
-    },
-    {
-      "title": "Data Engineer (m/f/d)",
-      "company": "Ecoplanet Green Operations Gmbh",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecoplanet-green-operations-gmbh/data-engineer-munchen-393656",
-      "source": "Arbeitnow",
-      "matchScore": 20
-    },
-    {
-      "title": "[Job-31207] Data Analyst, UK - 6 Month FTC",
-      "company": "CI&T",
+      "title": "Junior Data Analyst",
+      "company": "veeamsoftware",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cit/job-31207-data-analyst-uk-6-month-ftc-london-418930",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/veeamsoftware/junior-data-analyst-london-408869",
       "source": "Arbeitnow",
       "matchScore": 20
     },
@@ -486,6 +501,37 @@
       "matchScore": 20
     },
     {
+      "title": "Analytics Engineer Intern",
+      "company": "Coinbase",
+      "location": "Hybrid - San Francisco, CA",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;amp;utm_source=coinbase&quot;&gt;Coinbase&lt;/a&gt;, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it’s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for &quot;good enough,&quot; you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/careers&quot;&gt;learn more about working at Coinbase&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;This is a 12-week internship during summer 2027.&lt;/p&gt;\n&lt;p&gt;You&#39;ll join the Analytics Engineering team within Platform, which builds and maintains the trusted data infrastructure that powers decision-making across Coinbase. As an Analytics Engineer Intern, you&#39;ll model complex data, build scalable pipelines, and deliver insights that help teams across the company unlock the full potential of our data. You will gain hands-on experience building production data systems at scale, mentorship from senior analytics engineers, and exposure to how data powers decision-making across a publicly traded crypto-native company.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and maintain dimensional data models that transform raw data into clean, reliable datasets used by analysts, data scientists, and product teams across the organization.&lt;/li&gt;\n&lt;li&gt;Develop data pipelines using SQL, ensuring data quality, freshness, and documentation meet production standards.&lt;/li&gt;\n&lt;li&gt;Partner with cross-functional stakeholders to understand their data needs and deliver well-structured datasets or dashboards that enable self-serve analytics.&lt;/li&gt;\n&lt;li&gt;Leverage generative AI tools to streamline data development, modeling, and documentation workflows.&lt;/li&gt;\n&lt;li&gt;Investigate and resolve data quality issues, implementing tests and monitors that catch problems before they reach downstream consumers.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Required Skills and Experience:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Currently pursuing a degree in computer science, data science, statistics, economics, or a related quantitative field, or equivalent experience&lt;/li&gt;\n&lt;li&gt;Demonstrated proficiency in SQL through coursework, projects, or prior internship experience, with the ability to write complex queries involving joins, window functions, and aggregations.&lt;/li&gt;\n&lt;li&gt;Familiarity with at least one programming language (Python preferred)&lt;/li&gt;\n&lt;li&gt;Ability to communicate technical concepts clearly to both technical and non-technical audiences, demonstrated through project presentations, dashboards, documentation, or collaborative work.&lt;/li&gt;\n&lt;li&gt;Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Req ID: P78159&lt;/p&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;\n&lt;div id=&quot;fortidlp-input-element-parent&quot;&gt;&lt;/div&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Pay Transparency Notice:&lt;/strong&gt;&amp;nbsp;Depending on your work location, the target hourly rate for this position can range as detailed below.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=&quot;c-message_kit__reaction_bar c-reaction_bar c-reaction_bar--collapsed&quot; data-qa=&quot;reaction_bar&quot; data-stringify-ignore=&quot;true&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div id=&quot;fortidlp-input-element-parent&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Hourly Rate:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$50&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$50 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;ul&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;strong&gt;&lt;em&gt;Application Limit: &lt;/em&gt;&lt;/strong&gt;Candidates may submit a maximum of 3 applications within a 6-month period.&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Equal Opportunity Employer: &lt;/strong&gt;Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;US Applicants: &lt;/strong&gt;View&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf&quot;&gt; Employee Rights&lt;/a&gt;,&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf&quot;&gt; Know Your Rights&lt;/a&gt;, and&lt;a href=&quot;https://static-assets.coinbase.com/e-verify.pdf&quot;&gt; E-Verify&lt;/a&gt; Notice of Participation.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Accommodations: &lt;/strong&gt;If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&amp;nbsp;Need screen reading technology?&lt;a href=&quot;https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn&quot;&gt; Click here&lt;/a&gt; to download a free compatible screen reader and view the&lt;a href=&quot;http://www.chromevox.com/tutorial/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;tutorial&lt;/a&gt;.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Data Privacy &amp;amp; Arbitration: &lt;/strong&gt;By submitting your application, you agree to our&lt;a href=&quot;https://www.coinbase.com/legal/applicant_privacy_notice&quot;&gt; Candidate Privacy Notice&lt;/a&gt;. US applicants: By submitting your application, you agree to&lt;a href=&quot;https://www.coinbase.com/legal/application-arbitration-agreement&quot;&gt; Arbitration of Disputes&lt;/a&gt;.&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div id=&quot;fortidlp-input-element-parent&quot;&gt;&lt;/div&gt;&lt;/div&gt;",
+      "skills": [
+        "python",
+        "sql"
+      ],
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "source": "Greenhouse",
+      "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+      "matchScore": 20
+    },
+    {
+      "title": "Data Engineer Intern",
+      "company": "Coinbase",
+      "location": "Hybrid - San Francisco, CA",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;amp;utm_source=coinbase&quot;&gt;Coinbase&lt;/a&gt;, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it’s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for &quot;good enough,&quot; you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/careers&quot;&gt;learn more about working at Coinbase&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;This is a 12-week internship during summer 2027.&lt;/p&gt;\n&lt;p&gt;As a Data Engineer Intern within the Platform product group, you&#39;ll partner with analytics engineering to build and maintain the data pipelines and infrastructure that power insights across Coinbase. You&#39;ll work alongside senior engineers and cross-functional partners in product and engineering to ensure data accuracy, scalability, and accessibility for analytical and machine learning use cases.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and maintain data pipelines that ensure data integrity and accessibility for analytics and machine learning workloads&lt;/li&gt;\n&lt;li&gt;Support the development of scalable data infrastructure using Python and cloud-based technologies&lt;/li&gt;\n&lt;li&gt;Integrate and manage data from multiple sources, including internal systems and external APIs&lt;/li&gt;\n&lt;li&gt;Contribute to analytical deep dives with senior team members, translating findings into clear documentation and recommendations&lt;/li&gt;\n&lt;li&gt;Learn and apply data engineering best practices including data governance, security, and performance optimization&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Required Skills and Experience:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Completed or in-progress coursework in Computer Science, Data Engineering, or equivalent experience with demonstrated programming proficiency in Python, including data structures and algorithms&lt;/li&gt;\n&lt;li&gt;Hands-on experience writing SQL for data analysis and working with relational database concepts&lt;/li&gt;\n&lt;li&gt;Familiarity with cloud platforms (AWS, GCP, or Azure) and a demonstrated interest in AI, LLMs, or API integrations&lt;/li&gt;\n&lt;li&gt;Exposure to software architecture concepts such as microservices, distributed systems, or cloud-native design through coursework or projects&lt;/li&gt;\n&lt;li&gt;Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Req ID: P78146&lt;/p&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Pay Transparency Notice:&lt;/strong&gt;&amp;nbsp;Depending on your work location, the target hourly rate for this position can range as detailed below.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=&quot;c-message_kit__reaction_bar c-reaction_bar c-reaction_bar--collapsed&quot; data-qa=&quot;reaction_bar&quot; data-stringify-ignore=&quot;true&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div id=&quot;fortidlp-input-element-parent&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Hourly Rate:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$50&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$50 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;ul&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;strong&gt;&lt;em&gt;Application Limit: &lt;/em&gt;&lt;/strong&gt;Candidates may submit a maximum of 3 applications within a 6-month period.&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Equal Opportunity Employer: &lt;/strong&gt;Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;US Applicants: &lt;/strong&gt;View&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf&quot;&gt; Employee Rights&lt;/a&gt;,&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf&quot;&gt; Know Your Rights&lt;/a&gt;, and&lt;a href=&quot;https://static-assets.coinbase.com/e-verify.pdf&quot;&gt; E-Verify&lt;/a&gt; Notice of Participation.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Accommodations: &lt;/strong&gt;If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&amp;nbsp;Need screen reading technology?&lt;a href=&quot;https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn&quot;&gt; Click here&lt;/a&gt; to download a free compatible screen reader and view the&lt;a href=&quot;http://www.chromevox.com/tutorial/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;tutorial&lt;/a&gt;.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Data Privacy &amp;amp; Arbitration: &lt;/strong&gt;By submitting your application, you agree to our&lt;a href=&quot;https://www.coinbase.com/legal/applicant_privacy_notice&quot;&gt; Candidate Privacy Notice&lt;/a&gt;. US applicants: By submitting your application, you agree to&lt;a href=&quot;https://www.coinbase.com/legal/application-arbitration-agreement&quot;&gt; Arbitration of Disputes&lt;/a&gt;.&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div id=&quot;fortidlp-input-element-parent&quot;&gt;&lt;/div&gt;&lt;/div&gt;",
+      "skills": [
+        "python",
+        "sql",
+        "machine learning"
+      ],
+      "salary": "Not specified",
+      "experience": "Not specified",
+      "source": "Greenhouse",
+      "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+      "matchScore": 20
+    },
+    {
       "title": "Senior Data Scientist",
       "company": "Coinbase",
       "location": "Remote - Singapore",
@@ -513,14 +559,6 @@
       "source": "Greenhouse",
       "url": "https://www.coinbase.com/careers/positions/8009392?gh_jid=8009392",
       "matchScore": 20
-    },
-    {
-      "title": "(Senior) Machine Learning Engineer – Pricing (m/f/d)",
-      "company": "Auxmoney Gmbh",
-      "location": "Remote / Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-machine-learning-engineer-pricing-476900",
-      "source": "Arbeitnow",
-      "matchScore": 15
     },
     {
       "title": "Senior AI Engineer – Notebooks",
@@ -555,10 +593,18 @@
       "matchScore": 15
     },
     {
-      "title": "Senior Data Scientist",
-      "company": "Carwow",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-data-scientist-london-183366",
+      "title": "Senior GenAI Solution Engineer (all genders)",
+      "company": "Eraneos",
+      "location": "Hamburg, München, Düsseldorf, remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-76676",
+      "source": "Arbeitnow",
+      "matchScore": 10
+    },
+    {
+      "title": "AI Benchmark Engineer | Native Language Specialist - French (France) - Remote",
+      "company": "LILT (Production)",
+      "location": "France (Remote)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-french-france-remote-paris-387805",
       "source": "Arbeitnow",
       "matchScore": 10
     },
@@ -608,6 +654,30 @@
       "matchScore": 10
     },
     {
+      "title": "Senior Cloud Consultant - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
+      "company": "Auvaria",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/auvaria/senior-cloud-consultant-data-ai-engineer-4-days-week-german-speaking-munchen-297750",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
+      "title": "Senior AI Engineer, Edinburgh",
+      "company": "Multiverse",
+      "location": "Edinburgh",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/multiverse/senior-ai-engineer-edinburgh-74490",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
+      "title": "Senior Ai Engineer",
+      "company": "typeform",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/typeform/senior-ai-engineer-218258",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
       "title": "Principal AI Engineer",
       "company": "mirakllabs",
       "location": "Bordeaux",
@@ -637,130 +707,186 @@
       "matchScore": 5
     },
     {
-      "title": "Staff Mobile Engineer - Retail",
-      "company": "wolt",
+      "title": "Head of Integrity Data and Innovations (m-f-d)",
+      "company": "Fsc",
+      "location": "Bonn, Germany (Hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/fsc/head-of-integrity-data-and-innovations-m-f-d-bonn-germany-hybrid-239204",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "(Senior) Manager Business Value Chain (all genders)",
+      "company": "Eraneos",
+      "location": "Hamburg, München, Düsseldorf, remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-manager-business-value-chain-all-genders-152579",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "(Senior) Consultant Business Value Chain (all genders)",
+      "company": "Eraneos",
+      "location": "Hamburg, München, Düsseldorf, remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-consultant-business-value-chain-all-genders-390044",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Working Student Data Collection",
+      "company": "Statista",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/statista/working-student-data-collection-hamburg-391639",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Trainee Frontend Development (m/w/d)",
+      "company": "Brandung",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt/staff-mobile-engineer-retail-berlin-341622",
+      "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-451627",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Praktikant*in - Supply Chain Strategy und Logistikplanung ab November 2026",
-      "company": "Miebach Consulting GmbH",
-      "location": "Berlin, Berlin, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/miebach-consulting-gmbh/praktikantin-supply-chain-strategy-und-logistikplanung-ab-november-2026-berlin-471768",
+      "title": "Principal Software Developer (f/m/d) - Market Data",
+      "company": "Solactive",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/solactive/principal-software-developer-market-data-frankfurt-am-main-184430",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Data Engineer (m/f/d)",
-      "company": "Dishdigital",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/dishdigital/senior-data-engineer-dusseldorf-44649",
+      "title": "Commercial Strategy Manager – Data Quality, KPI Monitoring, Processes (m/w/d)",
+      "company": "Edri",
+      "location": "Essen",
+      "url": "https://www.arbeitnow.com/jobs/companies/edri/commercial-strategy-manager-data-quality-kpi-monitoring-processes-essen-170505",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "(Senior) AI Product Engineer (m/w/d)",
-      "company": "Legalhero",
+      "title": "Senior Product Owner - Data & Analytics (m/f/d)",
+      "company": "Yepoda",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-155259",
+      "url": "https://www.arbeitnow.com/jobs/companies/yepoda/senior-product-owner-data-analytics-berlin-89181",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
-      "company": "Autarcenergy",
+      "title": "Head of Data & AI (f/m/d)",
+      "company": "Voize",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-481074",
+      "url": "https://www.arbeitnow.com/jobs/companies/voize/head-of-data-ai-berlin-164725",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Software Engineer - Data (All Genders)",
-      "company": "PREMATCH Sports GmbH",
-      "location": "Köln",
-      "url": "https://www.arbeitnow.com/jobs/companies/prematch-sports-gmbh/software-engineer-data-all-genders-koln-118079",
+      "title": "Werkstudierende:r Data Annotation Pflegebranche (m/w/d)",
+      "company": "Voize",
+      "location": "Frankfurt",
+      "url": "https://www.arbeitnow.com/jobs/companies/voize/werkstudierender-data-annotation-pflegebranche-frankfurt-440602",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Consultant Search, Content & AI Visibility (SEO/GEO) (m/w/d), München",
-      "company": "Towa",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/towa/senior-consultant-search-content-ai-visibility-seo-geo-munchen-388853",
+      "title": "KI-Consultant / AI Enthusiast in der Baubranche (m/w/d) Remote",
+      "company": "Teamsware GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/teamsware-gmbh/ki-consultant-ai-enthusiast-in-der-baubranche-remote-munich-285950",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Consultant Search, Content & AI Visibility (SEO/GEO) (m/w/d), Düsseldorf",
-      "company": "Towa",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/towa/senior-consultant-search-content-ai-visibility-seo-geo-dusseldorf-131447",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Legal Specialist Tech & Data (m/f/d)",
-      "company": "Neon",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/neon/legal-specialist-tech-data-berlin-150298",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Operations analyst - Payments",
-      "company": "Seccl",
-      "location": "Edinburgh",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/seccl/operations-analyst-payments-edinburgh-34553",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Manager, AI Architect",
-      "company": "Baringa",
+      "title": "AI Portfolio Lead",
+      "company": "Multiverse",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-manager-ai-architect-london-356626",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/multiverse/ai-portfolio-lead-london-433716",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Corporate Sustainability Manager",
-      "company": "Trainline",
+      "title": "Staff/Lead Software Developer (AI Agents & Integrations)",
+      "company": "jetbrains",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/senior-corporate-sustainability-manager-london-31179",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/staff-lead-software-developer-ai-agents-integrations-london-104403",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Product Data Analyst - Consumer Growth",
-      "company": "SumUp",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-product-data-analyst-consumer-growth-london-103485",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Software Engineer III - Data - FMX",
-      "company": "Fanaticsfbg",
+      "title": "Director, Data Strategy, UK (FTC)",
+      "company": "wppmedia",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/software-engineer-iii-data-fmx-london-366500",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/director-data-strategy-uk-ftc-london-485911",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Data Engineer - Real time analytics",
-      "company": "Aircall",
-      "location": "London Office",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-20841",
+      "title": "Software Engineer II, AI Enablement Team",
+      "company": "Swap",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/swap/software-engineer-ii-ai-enablement-team-london-321015",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Director, Product Data Analyst Team",
-      "company": "Contentsquare",
-      "location": "London area",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/contentsquare/director-product-data-analyst-team-london-area-29190",
+      "title": "Product Owner - Communications Channels & AI",
+      "company": "PHMG Careers",
+      "location": "Manchester, England, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/product-owner-communications-channels-ai-manchester-143232",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Engineering Manager - DevOps & AI Platform",
+      "company": "Elliptic",
+      "location": "London, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/engineering-manager-devops-ai-platform-london-united-kingdom-230911",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Trainee Pharmacy Dispenser",
+      "company": "Montu Uk",
+      "location": "Winnersh",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/trainee-pharmacy-dispenser-winnersh-77680",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Stagiaire Client Management",
+      "company": "Jellyfish",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/jellyfish/stagiaire-client-management-paris-282990",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Finance Data & Systems Analyst",
+      "company": "Voodoo",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/senior-finance-data-systems-analyst-paris-37170",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "PUR",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pur/senior-data-engineer-paris-291600",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Lead Data Analyst - Recouvrement & crédit H/F",
+      "company": "Octopus Energy Group",
+      "location": "Paris (FR)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/lead-data-analyst-recouvrement-credit-h-f-paris-fr-497184",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Product Owner (Lyon, France)",
+      "company": "Archimed",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/archimed/ai-product-owner-lyon-france-paris-483806",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -821,54 +947,6 @@
       "matchScore": 0
     },
     {
-      "title": "Senior Technical Advisor, Data Use and Decision Science (Remote - US, UK, France, DRC)",
-      "company": "Resolvetosavelives",
-      "location": "US, UK, DRC",
-      "url": "https://www.arbeitnow.fr/jobs/companies/resolvetosavelives/senior-technical-advisor-data-use-and-decision-science-remote-us-uk-france-drc-us-uk-drc-131243",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Supply Chain Quality Engineer - MAIT",
-      "company": "The Exploration Company",
-      "location": "Bordeaux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/supply-chain-quality-engineer-mait-bordeaux-313589",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Business Development Manager (AI Data Solutions)",
-      "company": "TransPerfect",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/business-development-manager-ai-data-solutions-paris-117054",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Business Development Manager - AI Data Solutions (Paris)",
-      "company": "TransPerfect",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/business-development-manager-ai-data-solutions-paris-311534",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Manager, Retail Operations",
-      "company": "Fanaticscommerce",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/fanaticscommerce/senior-manager-retail-operations-paris-241277",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Data Manager",
-      "company": "DeepHealth",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/deephealth/data-manager-paris-478505",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
       "title": "Senior Data Engineer - Revenue Data Platform",
       "company": "Datadog",
       "location": "Boston, Massachusetts, USA; New York, New York, USA",
@@ -881,6 +959,19 @@
       "experience": "Not specified",
       "source": "Greenhouse",
       "url": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
+      "matchScore": 0
+    },
+    {
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "salary": "",
+      "experience": "Not specified",
+      "fitScore": 80,
+      "category": "Remote",
+      "isNew": true,
+      "source": "Remotive",
       "matchScore": 0
     },
     {
@@ -1092,6 +1183,6 @@
       "matchScore": 0
     }
   ],
-  "totalJobs": 95,
-  "lastUpdated": "2026-09-08T04:59:42.578658+00:00"
+  "totalJobs": 103,
+  "lastUpdated": "2026-09-09T04:58:54.684569+00:00"
 }
