@@ -210,6 +210,22 @@
       "matchScore": 30
     },
     {
+      "title": "Staff Product Manager [Machine Learning expertise]",
+      "company": "Qonto",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/qonto/staff-product-manager-machine-learning-expertise-paris-278660",
+      "source": "Arbeitnow",
+      "matchScore": 25
+    },
+    {
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",
+      "company": "Mistral.ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/applied-ai-forward-deployed-machine-learning-engineer-internship-paris-422737",
+      "source": "Arbeitnow",
+      "matchScore": 25
+    },
+    {
       "title": "AI Engineer Data APIs",
       "company": "Benzinga",
       "location": "",
@@ -276,20 +292,6 @@
       "matchScore": 25
     },
     {
-      "title": "Software Engineer, Machine Learning Infrastructure",
-      "company": "Stripe",
-      "location": "Toronto, Canada",
-      "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Stripe processes over $1T in payments volume per year, which is roughly 1% of the world’s GDP. The tremendous amount of data makes Stripe one of the best places to do machine learning. The ML Infra team builds services and tools that power every step in the ML lifecycle, including data exploration, feature generation, experimentation, training, deploying, serving ML models, and building LLM applications. With the phenomenal developments happening in the field of AI, we are positioned to accelerate the adoption of AI/ML across all parts of the company by building highly scalable and reliable foundational infrastructure.&lt;/p&gt;\n&lt;h2&gt;What you’ll do&lt;/h2&gt;\n&lt;p&gt;You will work closely with machine learning engineers, data scientists, and product engineering teams to enable seamless end-to-end experience in building solutions across data, analytics, and AI/ML platforms. You will build the next generation of ML Infra services and major new capabilities that substantially improve ML development velocity and MLOps maturity across the company.&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Designing and building scalable, reliable, and secure services for notebooks, ML model training, experimentation, serving, and LLM applications across multiple regions.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Creating services and libraries that enable ML engineers at Stripe to seamlessly transition from experimentation to production across Stripe’s systems.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Working directly with product teams and ML engineers to improve their day-to-day productivity.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Taking ownership of and finding solutions for technical and product challenges by working with a diverse set of systems, processes, and technologies.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We’re looking for people with a strong background or interest in building successful products or systems; you’re passionate about solving business problems and making impact, you are comfortable in dealing with lots of moving pieces; and you’re comfortable learning new technologies and systems. You are comfortable working with other Stripe teams across the US and Canada.&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;2+ years of professional software development experience with a solid background on service oriented architecture and large-scale distributed systems&lt;/li&gt;\n&lt;li&gt;Experience working through the full life cycle of software development, from talking to users, to design and implementation, to testing and deployment, to operations&lt;/li&gt;\n&lt;li&gt;Experience working on production ML platforms, MLOps solutions, or building LLM applications&lt;/li&gt;\n&lt;li&gt;Experience running operations for high availability, low latency systems&lt;/li&gt;\n&lt;li&gt;Experience partnering with other teams to drive business outcomes&lt;/li&gt;\n&lt;li&gt;A sense of pragmatism: you know when to aim for the ideal solution and when to adjust course&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building and shipping production AI agents&lt;/li&gt;\n&lt;li&gt;Familiarity with the LLMs and LLM Frameworks&lt;/li&gt;\n&lt;li&gt;Experience training and shipping machine learning models to production to solve critical business problems&lt;/li&gt;\n&lt;/ul&gt;",
-      "skills": [
-        "machine learning"
-      ],
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=8084476",
-      "matchScore": 25
-    },
-    {
       "title": "Staff Machine Learning Engineer, Financial Connections",
       "company": "Stripe",
       "location": "New York",
@@ -309,7 +311,7 @@
     {
       "title": "Staff Software Engineer, Machine Learning Platform",
       "company": "Stripe",
-      "location": "San Francisco, Seattle",
+      "location": "Toronto",
       "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Stripe processes over $1.9T in payments volume per year, which is roughly 1.6% of the world&#39;s GDP, for millions of customers from startups to enterprises. The tremendous amount of data makes Stripe one of the best places to do machine learning. While being an integral part of almost every product line at Stripe (e.g., Payments, Radar, Capital, Billing, etc.), we have lots of exciting opportunities to innovate in ML Platform at Stripe.&lt;/p&gt;\n&lt;p&gt;The ML Platform team builds the platforms and services that enable ML engineers and data scientists across Stripe to take data and build features and models from prototype to production—reliably, at low latency, and at scale. Our scope spans ML training infrastructure, model serving and deployment, feature computation and online serving, observability and monitoring, and agentic AI capabilities. We work closely with product teams, data scientists, and platform infrastructure teams to build powerful, flexible, and user-friendly systems that substantially increase ML velocity across the company.&lt;/p&gt;\n&lt;h2&gt;What you&#39;ll do&lt;/h2&gt;\n&lt;p&gt;You&#39;ll serve as a technical lead across the ML Platform space and a key contributor to the evolution of the platforms that power Stripe&#39;s ML-driven products. As a Staff Engineer, you&#39;ll make decisions with a large impact on Stripe. You&#39;ll influence our investments and strategy while making our systems more reliable, secure, and a delight to use. You&#39;ll work cross-functionally with other technical staff, data science, product, and senior leadership to increase the impact of ML at Stripe.&lt;/p&gt;\n&lt;p&gt;You&#39;ll help define the long-term strategy and lead the technical direction for the next generation of ML infrastructure that powers Stripe&#39;s ML-driven products.&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Take ownership of end-to-end architecture and system design for large, complex projects across ML Platform.&lt;/li&gt;\n&lt;li&gt;Define technical direction for highly ambiguous projects, transforming complex user needs into long-lasting platform strategy.&lt;/li&gt;\n&lt;li&gt;Design system architectures for the most challenging ML Platform problems in one or more areas, including AI and ML workflow orchestration, scalable CPU and GPU compute infrastructure, model training, LLM fine-tuning, low-latency model inference, large-scale feature stores, real-time monitoring, and LLM and agent orchestration.&lt;/li&gt;\n&lt;li&gt;Turn high-leverage ideas into tangible, robust solutions that shape platform and product roadmap, combining technical excellence with creative problem-solving.&lt;/li&gt;\n&lt;li&gt;Scope and lead large projects with significant business impact, driving them from requirements through design, implementation, and production operation.&lt;/li&gt;\n&lt;li&gt;Work with ML engineers, data scientists, and product teams directly to translate their needs into functional requirements and scalable technical solutions.&lt;/li&gt;\n&lt;li&gt;Arbitrate critical decisions that balance competing priorities while meeting latency, reliability, cost, and security constraints.&lt;/li&gt;\n&lt;li&gt;Serve as a key engineering representative, engaging senior leaders across Stripe and advising the leadership team on key technical considerations related to the end-to-end ML lifecycle.&lt;/li&gt;\n&lt;li&gt;Drive cross-team technical initiatives that improve ML development velocity and MLOps maturity across the company.&lt;/li&gt;\n&lt;li&gt;Mentor and grow other engineers. Serve as a role model for designing, implementing, and operating great software systems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Who you are&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of professional software development experience, or equivalent domain expertise, with a solid background in service-oriented architecture and large-scale distributed systems.&lt;/li&gt;\n&lt;li&gt;Track record of serving as a technical lead, with the ability to provide technical direction, lead multi-team initiatives, and mentor team members.&lt;/li&gt;\n&lt;li&gt;Experience building and operating production ML platform in one or more areas such as model training, model serving, orchestration, or ML data systems, with requirements for performance, reliability, scalability, and cost efficiency.&lt;/li&gt;\n&lt;li&gt;Strong product instincts and a deep understanding of the business context in which you operate.&lt;/li&gt;\n&lt;li&gt;Strong communication skills with the ability to explain complex technical concepts to both technical and non-technical stakeholders.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to work cross-functionally, collaborating effectively with ML engineers, data scientists, software engineers, product managers, and business stakeholders.&lt;/li&gt;\n&lt;li&gt;The ability to thrive on a high level of autonomy and responsibility, and comfort operating in ambiguous environments.&lt;/li&gt;\n&lt;li&gt;Hands-on experience using AI tools to accelerate how you work.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building large-scale ML training, serving, or data infrastructure for machine learning use cases, such as distributed training, model inference, feature stores, real-time feature computation, and model registries.&lt;/li&gt;\n&lt;li&gt;Experience with distributed ML training systems, accelerator-backed compute, training data pipelines, experiment tracking, and model evaluation.&lt;/li&gt;\n&lt;li&gt;Experience rapidly developing prototypes and iterating based on user feedback.&lt;/li&gt;\n&lt;li&gt;Experience training and shipping machine learning models to production to solve critical business problems.&lt;/li&gt;\n&lt;li&gt;Familiarity with LLMs, LLM application frameworks, and agentic AI patterns (e.g., tool use, multi-agent orchestration, retrieval-augmented generation).&lt;/li&gt;\n&lt;li&gt;Familiarity with cloud services (e.g., AWS) and cloud-based AI and ML services (e.g., SageMaker, Bedrock, Databricks, OpenAI).&lt;/li&gt;\n&lt;li&gt;Ability to synthesize ideas across the organization while setting a compelling technical vision.&lt;/li&gt;\n&lt;li&gt;Comfortable working with geographically distributed teams.&lt;/li&gt;\n&lt;li&gt;Passion for side projects, open source, or self-driven technical initiatives.&lt;/li&gt;\n&lt;/ul&gt;",
       "skills": [
         "machine learning",
@@ -318,7 +320,7 @@
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=7939868",
+      "url": "https://stripe.com/jobs/search?gh_jid=7712852",
       "matchScore": 25
     },
     {
@@ -354,18 +356,18 @@
       "matchScore": 25
     },
     {
-      "title": "Data Analytics Engineering Manager",
-      "company": "Hipagesgroup",
-      "location": "Sydney, Australia",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hipagesgroup/data-analytics-engineering-manager-sydney-australia-88892",
+      "title": "Data Analyst:in Fundraising (m/w/d)",
+      "company": "Albert Schweitzer Stiftung",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/albert-schweitzer-stiftung/data-analystin-fundraising-berlin-243536",
       "source": "Arbeitnow",
       "matchScore": 20
     },
     {
-      "title": "Data Engineer - Cloud & SaaS Integrations",
-      "company": "Doitintl",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/doitintl/data-engineer-cloud-saas-integrations-140820",
+      "title": "Data Analyst",
+      "company": "Avepoint",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/avepoint/data-analyst-london-12891",
       "source": "Arbeitnow",
       "matchScore": 20
     },
@@ -460,22 +462,6 @@
       "matchScore": 20
     },
     {
-      "title": "Financial Data Analyst ",
-      "company": "Stripe",
-      "location": "LOCATION",
-      "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;As Stripe’s user base and global footprint grows dramatically, we have distinctly unique support problems resulting from both our type of scale and the type of businesses we partner with. The Stripe Delivery Center (SDC) strategy will provide operational leverage and expand Stripe’s portfolio of operational capabilities to support the scaled needs for external users and internal Stripe teams. Our support experience leverages deep understanding of our products, the financial industry and money movement, and our customers’ products and users, and requires us to invest significant resources into building this experience ourselves with talented teams of Stripes.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Streamline Workstreams:&lt;/strong&gt; With specialized knowledge, Financial Data Analysts are relied on to pilot and streamline large, impactful workflows that come with high risks/Low standardisation, to the SDC.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Improve Observability:&lt;/strong&gt; Create and maintain data pipelines and metrics to ensure accuracy and reliability, helping SDC leadership team detect issues, track process health, forecast demand and capacity, and drive continuous improvement.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Incident Support:&lt;/strong&gt; Serve as primary contact for internal and external stakeholders for incident support: perform root-cause analysis, communicate findings, drive resolution, and help establish guardrails to prevent recurrence.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Translate Insights into process/product enhancements:&lt;/strong&gt; Work with stakeholders and cross-functional teams to drive insights provided by the team, to closure.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Training &amp;amp; Documentation:&lt;/strong&gt;&amp;nbsp;\n&lt;ul&gt;\n&lt;li&gt;Provide Technical trainings - on SQL, Python &amp;amp; other tooling&lt;/li&gt;\n&lt;li&gt;Create and maintain documentation—including trailheads, runbooks, and other process guides to improve team effectiveness and productivity&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Process Automation: &lt;/strong&gt;\n&lt;ul&gt;\n&lt;li&gt;Work with the SDC team members to analyze process data to identify automation opportunities&lt;/li&gt;\n&lt;li&gt;Help build and maintain automated solutions by providing technical expertise and support, collaborate with reviewers and business teams for performance and load testing to ensure reliability, and resolve defects, if any before rollout.&lt;/li&gt;\n&lt;li&gt;Help in timely closure of projects by assisting associates with deployment on Prod &amp;amp; providing guidance on ship&lt;/li&gt;\n&lt;li&gt;Maintain/Update automations as per changes in upstream processes&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Process Improvements &amp;amp; Redesign:&lt;/strong&gt; Streamline complex workflows through TMA and redesign, identify and integrate required tooling, and update documentation to reflect reporting, process changes, and improvements&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Escalation Point: &lt;/strong&gt;&amp;nbsp;Serve as the point of contact for stakeholders for technical issues that the SDC needs to address.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Have at least 4 years experience in a technical role with experience writing SQL to query relational databases&lt;/li&gt;\n&lt;li&gt;Have experience navigating the nuanced complexity of financial systems and solving large scale, technical challenges.&lt;/li&gt;\n&lt;li&gt;Have strong analytical skills to investigate, prioritize, and identify the root cause of issues.&lt;/li&gt;\n&lt;li&gt;Have experience managing communications and workflows with technical and non-technical teams across internal and external stakeholders.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Are comfortable operating independently and thrive in a fast-paced environment to deliver results, with an ability to establish priorities and reliably execute against time-sensitive deadlines.&lt;/li&gt;\n&lt;li&gt;Have experience identifying and triaging technical issues to relevant teams for resolution.&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Demonstrated track record of process improvement and proactive problem solving.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Have an investigative mindset and operations experience&lt;/li&gt;\n&lt;li&gt;Excellent written and verbal communication skills in English&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Payments expertise (working with financial partners, optimizing processing errors, managing payment costs).&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experience operating in a high growth technology company&lt;/li&gt;\n&lt;/ul&gt;",
-      "skills": [
-        "python",
-        "sql",
-        "excel"
-      ],
-      "salary": "Not specified",
-      "experience": "Not specified",
-      "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=8185294",
-      "matchScore": 20
-    },
-    {
       "title": "Staff Data Analyst",
       "company": "Stripe",
       "location": "US",
@@ -551,14 +537,6 @@
       "matchScore": 20
     },
     {
-      "title": "Senior Machine Learning Engineer - Embedded AI",
-      "company": "Pennylane SAS",
-      "location": "All France (remote)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/senior-machine-learning-engineer-embedded-ai-paris-309751",
-      "source": "Arbeitnow",
-      "matchScore": 15
-    },
-    {
       "title": "Senior AI Engineer – Notebooks",
       "company": "Datadog",
       "location": "France, Remote; Germany, Remote; Spain, Remote",
@@ -591,42 +569,10 @@
       "matchScore": 15
     },
     {
-      "title": "Claims Handler – Property",
-      "company": "ClaimSorted",
-      "location": "UK (Remote)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/claimsorted/remote-claims-handler-property-267499",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Claims Handler - Pet - with APA/CIP Qualification (UK/IRL)",
-      "company": "ClaimSorted",
-      "location": "UK (Remote)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/claimsorted/remote-claims-handler-pet-with-apa-cip-qualification-uk-irl-460765",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Claims Handler – Travel",
-      "company": "ClaimSorted",
-      "location": "UK (Remote)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/claimsorted/remote-claims-handler-travel-333467",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Claims Handler - Gadget - with APA/CIP Qualification (UK/IRL)",
-      "company": "ClaimSorted",
-      "location": "UK (Remote)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/claimsorted/remote-claims-handler-gadget-with-apa-cip-qualification-uk-irl-339536",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Claims Handler - Travel - with APA/CIP Qualification (UK/IRL)",
-      "company": "ClaimSorted",
-      "location": "UK (Remote)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/claimsorted/remote-claims-handler-travel-with-apa-cip-qualification-uk-irl-236960",
+      "title": "Senior Data Scientist",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-data-scientist-456207",
       "source": "Arbeitnow",
       "matchScore": 10
     },
@@ -684,6 +630,22 @@
       "matchScore": 10
     },
     {
+      "title": "Senior AI Engineer",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-ai-engineer-117891",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
+      "title": "Lead AI Engineer",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/lead-ai-engineer-326447",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
       "title": "Senior Independent AI Engineer / Architect",
       "company": "A.Team",
       "location": "Americas, Europe, Israel",
@@ -697,210 +659,298 @@
       "matchScore": 5
     },
     {
-      "title": "Head of Data & Business Intelligence (m/w/d)",
-      "company": "Pammys™ (dieseo GmbH)",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/head-of-data-business-intelligence-hamburg-440136",
+      "title": "Working Student – Content and Data Management (all genders)",
+      "company": "Ctrl Qs",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/ctrl-qs/working-student-content-and-data-management-all-genders-berlin-125602",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Tactical Data Link Expert (all genders)",
-      "company": "Stark",
+      "title": "AI Strategist",
+      "company": "Supermodular.ai",
       "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/tactical-data-link-expert-all-genders-munich-108610",
+      "url": "https://www.arbeitnow.com/jobs/companies/supermodularai/ai-strategist-munich-456568",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior AI Systems Engineer – Robotics/Swarming (all genders)",
-      "company": "Stark",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-ai-systems-engineer-robotics-swarming-all-genders-munich-359429",
+      "title": "Praktikant/Werkstudent „Automatisiertes Infotainment Testing“ (m/w/d)",
+      "company": "IPG Automotive - Personio",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-automatisiertes-infotainment-testing-stuttgart-182847",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Studentische Hilfskraft, Team Questionnaire Design & Evaluation / Team Assessing Survey Data Quality (SHK_SDM_2026_020)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "location": "Mannheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/studentische-hilfskraft-team-questionnaire-design-evaluation-team-assessing-survey-data-quality-shk-sdm-2026-020-mannheim-20517",
+      "title": "Praktikant/Werkstudent „AI based passenger simulation“ (m/w/d)",
+      "company": "IPG Automotive - Personio",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-ai-based-passenger-simulation-stuttgart-280277",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Studentische Hilfskraft, Team Data Aquisition and Access (SHK-DSS-11)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "location": "Köln",
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/studentische-hilfskraft-team-data-aquisition-and-access-shk-dss-11-koln-459540",
+      "title": "Senior Digital Creative (gn) AI Focus",
+      "company": "Bikeleasing",
+      "location": "Remote Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing/remote-senior-digital-creative-gn-ai-focus-45543",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Research Data Manager (PostDoc) for mapping harvesting relationships (KTS-84)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "location": "Köln",
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/research-data-manager-postdoc-for-mapping-harvesting-relationships-kts-84-koln-385269",
+      "title": "Senior Product Manager Claims (w/m/d/x)",
+      "company": "Emil Group Gmbh",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/emil-group-gmbh/senior-product-manager-claims-x-berlin-68890",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Graduate Student Research Assistant, Team Assessing Survey Data Quality (DE/EN) (SHK_SDM_2026_024)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "location": "Mannheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-380976",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Working Student AI Support & Operations",
-      "company": "Statworx",
+      "title": "SAP Data & Analytics Consultant (m/w/d)",
+      "company": "Pertemps ERP",
       "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/statworx/working-student-ai-support-operations-frankfurt-am-main-436929",
+      "url": "https://www.arbeitnow.com/jobs/companies/pertemps-erp/sap-data-analytics-consultant-frankfurt-am-main-474683",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "AI Research Engineer (f/m/d)",
-      "company": "Sonarsource",
-      "location": "Bochum",
-      "url": "https://www.arbeitnow.com/jobs/companies/sonarsource/ai-research-engineer-bochum-139653",
+      "title": "Trainee (m/w/d) Arabic Financial Consulting & Entrepreneurship",
+      "company": "Horbach Beratungen Berlin",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/horbach-beratungen-berlin/trainee-arabic-financial-consulting-entrepreneurship-berlin-261249",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Product Performance Analyst (m/f/d)",
-      "company": "Trusted Shops SE (DE)",
+      "title": "Trainee (m/w/d) Persian Financial Consulting & Entrepreneurship",
+      "company": "Horbach Beratungen Berlin",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/horbach-beratungen-berlin/trainee-persian-financial-consulting-entrepreneurship-berlin-289068",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Trainee (m/w/d) Spanish Financial Consulting & Entrepreneurship",
+      "company": "Horbach Beratungen Berlin",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/horbach-beratungen-berlin/trainee-spanish-financial-consulting-entrepreneurship-berlin-192524",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "System Engineer Cloud & Datacenter Services (m/w/d)",
+      "company": "Manß & Partner GmbH",
+      "location": "Mönchengladbach",
+      "url": "https://www.arbeitnow.com/jobs/companies/manss-partner-gmbh/system-engineer-cloud-datacenter-services-monchengladbach-449684",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Software Engineer - AI Product (London, United Kingdom)",
+      "company": "figma",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/figma/software-engineer-ai-product-london-united-kingdom-322632",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Data Engineer - AWS",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-data-engineer-aws-263834",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Data Architect",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-data-architect-276775",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Data Analytics Consultant",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-data-analytics-consultant-383482",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Azure Data Engineer (Databricks)",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-azure-data-engineer-databricks-433577",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior AI Product Manager - Product & Experience",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/senior-ai-product-manager-product-experience-15015",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Principal Data Engineer - AWS",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/principal-data-engineer-aws-49775",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Principal Azure Data Engineer (Databricks)",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/principal-azure-data-engineer-databricks-207864",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Management Consultant: Data Analytics Lead – Managing Principal (Director)",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/management-consultant-data-analytics-lead-managing-principal-director-348328",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Lead Data Analytics Consultant",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/lead-data-analytics-consultant-20214",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Data Science Manager",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/data-science-manager-151656",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Data Management Consultant",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/data-management-consultant-386796",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Data & AI Strategy Consultant - Manager/Senior Manager",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/data-ai-strategy-consultant-manager-senior-manager-483133",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Applied AI & Analytics - Principal Consultant",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/applied-ai-analytics-principal-consultant-40377",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Strategy & Transformation – Managing Principal",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/ai-strategy-transformation-managing-principal-487559",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Business Consultant / Senior Consultant -Wealth & Asset Management",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/capco/ai-business-consultant-senior-consultant-wealth-asset-management-382932",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Manager of Data - Finance",
+      "company": "mewssystems",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mewssystems/senior-manager-of-data-finance-188933",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Engineering Manager – Data Engineering - Bristol, UK (Hybrid)",
+      "company": "Immersivelabs",
+      "location": "Bristol, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/immersivelabs/senior-engineering-manager-data-engineering-bristol-uk-hybrid-17275",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Data Engineer - Bristol, UK (Hybrid)",
+      "company": "Immersivelabs",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/immersivelabs/senior-data-engineer-bristol-uk-hybrid-united-kingdom-323469",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Business Analyst Mining (100% remote)",
+      "company": "Tether Operations Limited",
       "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/remote-senior-product-performance-analyst-cologne-163841",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-business-analyst-mining-100-remote-london-378154",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "(Senior) Global Product & Brand Manager (m/w/d) | Hair Professional",
-      "company": "New Flag GmbH",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/new-flag-gmbh/senior-global-product-brand-manager-hair-professional-munchen-371785",
+      "title": "Innovative Project Planner (Data Centres / Buildings / High-tech / Infrastructure) - UK (Hybrid)",
+      "company": "Laminar Projects",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/laminar-projects/innovative-project-planner-data-centres-buildings-high-tech-infrastructure-uk-hybrid-london-158362",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Fraud & Risk Analyst (f/m/x)",
-      "company": "exmox",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/exmox/senior-fraud-risk-analyst-hamburg-472710",
+      "title": "Innovative Project Controls Manager (Data Centres/Buildings/High-tech/Infrastructure) - UK (Hybrid)",
+      "company": "Laminar Projects",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/laminar-projects/innovative-project-controls-manager-data-centres-buildings-high-tech-infrastructure-uk-hybrid-london-480996",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior AI-Native Data Engineer (f/m/x)",
-      "company": "exmox",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/exmox/senior-ai-native-data-engineer-hamburg-424655",
+      "title": "Innovative Planning Manager (Data Centres/Buildings/High-tech/Infrastructure) - UK (Hybrid)",
+      "company": "Laminar Projects",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/laminar-projects/innovative-planning-manager-data-centres-buildings-high-tech-infrastructure-uk-hybrid-london-330878",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior AI Data Expert (f/m/x)",
-      "company": "exmox",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/exmox/senior-ai-data-expert-hamburg-332905",
+      "title": "AI Product Engineer",
+      "company": "Magentic",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/magentic/ai-product-engineer-london-105802",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Director AI & Automation",
-      "company": "Onemedia Consulting",
-      "location": "Onemedia Germany, Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/onemedia-consulting/director-ai-automation-onemedia-germany-munich-249102",
+      "title": "STAGE  Backend - Pilotage des flux de paiement (H/F)",
+      "company": "WINAMAX",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-backend-pilotage-des-flux-de-paiement-h-f-france-60590",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Associate, Paid Social",
-      "company": "Angi",
-      "location": "Hybrid - Germany - Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/angi/associate-paid-social-berlin-414277",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Solution Architect (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-236690",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Oracle Data Engineer (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-193489",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Backend Engineer (Python) - Remote",
-      "company": "Breathment",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/breathment/senior-backend-engineer-python-remote-munich-2605",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Team Leader - Technical Claims",
-      "company": "ClaimSorted",
-      "location": "UK (Remote)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/claimsorted/remote-team-leader-technical-claims-491929",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Operations Engineer",
-      "company": "Conduct",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/conduct/ai-operations-engineer-london-254034",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Quality Engineer, Chassis and Powertrain",
-      "company": "Czinger",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/czinger/senior-quality-engineer-chassis-and-powertrain-404858",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Data Integrations Specialist",
-      "company": "nCino, Inc.",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ncino-inc/data-integrations-specialist-346052",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Software Engineer (AI Tooling & Enablement)",
-      "company": "Hipagesgroup",
-      "location": "Sydney, Australia",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hipagesgroup/software-engineer-ai-tooling-enablement-sydney-australia-272616",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Data Analyst (12-month contract)",
-      "company": "Hipagesgroup",
-      "location": "Sydney, Australia",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hipagesgroup/senior-data-analyst-12-month-contract-sydney-australia-37623",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Full-Stack Engineer - AI Cost Visibility",
-      "company": "Doitintl",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/doitintl/senior-full-stack-engineer-ai-cost-visibility-56277",
+      "title": "Senior/Staff Product Designer | JetBrains",
+      "company": "Hirehire",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hirehire/remote-senior-staff-product-designer-jetbrains-430614",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -997,54 +1047,6 @@
       "company": "Arago",
       "location": "Paris Offices",
       "url": "https://www.arbeitnow.fr/jobs/companies/arago/ai-ml-scientist-quantization-numerical-robustness-paris-490438",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Native - Project Delivery Lead",
-      "company": "PALO IT",
-      "location": "PALO IT France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/palo-it/ai-native-project-delivery-lead-paris-190876",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Growth & Strategic Partnership Manager",
-      "company": "PALO IT",
-      "location": "PALO IT France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/palo-it/ai-growth-strategic-partnership-manager-paris-335886",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Native - Software Engineer Senior",
-      "company": "PALO IT",
-      "location": "PALO IT France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/palo-it/ai-native-software-engineer-senior-paris-434205",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Native - Lead Architect",
-      "company": "PALO IT",
-      "location": "PALO IT France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/palo-it/ai-native-lead-architect-paris-280549",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Head of Data",
-      "company": "Luo",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/luo/head-of-data-paris-485027",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Brand Designer, AI + Ops",
-      "company": "Gladia",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/gladia/brand-designer-ai-ops-paris-409728",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -1269,6 +1271,6 @@
       "matchScore": 0
     }
   ],
-  "totalJobs": 114,
-  "lastUpdated": "2026-09-14T05:16:57.962920+00:00"
+  "totalJobs": 116,
+  "lastUpdated": "2026-09-15T05:08:12.164539+00:00"
 }
