@@ -84,7 +84,7 @@
       "title": "Staff Machine Learning Engineer(Platform - Identity)",
       "company": "Coinbase",
       "location": "Remote - USA",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;amp;utm_source=coinbase&quot;&gt;Coinbase&lt;/a&gt;, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it’s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for &quot;good enough,&quot; you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/careers&quot;&gt;learn more about working at Coinbase&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;Staff Machine Learning Engineer, Identity Verification&lt;/h1&gt;\n&lt;p class=&quot;mb-2 whitespace-pre-wrap&quot;&gt;As a Staff Machine Learning Engineer on the Identity Verification team within the &lt;a href=&quot;https://www.coinbase.com/careers/product-groups&quot; target=&quot;_blank&quot;&gt;Platform&lt;/a&gt; group, you&#39;ll own the ML systems that determine whether a person, document, and capture session are legitimate. Every signup, account recovery, and high-risk action at Coinbase depends on these models. You&#39;ll lead the technical strategy for IDV ML end-to-end, from architecture through production enforcement, protecting the integrity of millions of accounts.&lt;/p&gt;\n&lt;p class=&quot;mb-2 whitespace-pre-wrap&quot;&gt;&lt;strong&gt;What you&#39;ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the full IDV ML stack, including document authenticity models, 1:1 and 1:N&amp;nbsp;face-match, liveness detection, presentation-attack detection, and deepfake/injection detection from feature pipeline through threshold tuning and production enforcement.&lt;/li&gt;\n&lt;li&gt;Build identity-graph systems using GNNs that cluster accounts sharing biometric, device, and document signals to detect synthetic-identity rings and coordinated fraud at onboarding.&lt;/li&gt;\n&lt;li&gt;Develop behavioral and device-intelligence models for capture-session anomaly detection, bot-vs-human classification, and device-fingerprint-based risk scoring at real-time latency.&lt;/li&gt;\n&lt;li&gt;Drive vendor ML strategy by benchmarking external models against a Coinbase-owned evaluation set, designing dynamic routing logic across providers and geographies, and building the in-house evaluation layer that catches regressions before they reach users.&lt;/li&gt;\n&lt;li&gt;Lead and mentor senior and mid-level engineers in the pod while partnering with ML Platform and Risk ML teams to align cross-company ML system design.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;mb-2 whitespace-pre-wrap&quot;&gt;&lt;strong&gt;Required Skills and Experience:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years deploying production ML systems at scale, with proven technical leadership owning cross-team ML architecture from design through production.&lt;/li&gt;\n&lt;li&gt;Domain experience in identity verification, biometrics, or account integrity with deep applied ML in at least two of: computer vision/biometrics, GNNs, sequence models, or NLP/LLMs.&lt;/li&gt;\n&lt;li&gt;Expert-level Python with production experience in TensorFlow or PyTorch, including model training, evaluation, and serving infrastructure.&lt;/li&gt;\n&lt;li&gt;Track record translating KYC/AML requirements and fraud trends into ML roadmaps and communicating trade-offs to Product, Compliance, Risk, and Security stakeholders.&lt;/li&gt;\n&lt;li&gt;Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency Notice:&lt;/strong&gt;&lt;strong&gt;&lt;em&gt; &lt;/em&gt;&lt;/strong&gt;Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)).&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual base salary range (excluding equity and bonus):&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$218,025&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$256,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;ul&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;strong&gt;&lt;em&gt;Application Limit: &lt;/em&gt;&lt;/strong&gt;Candidates may submit a maximum of 3 applications within a 6-month period.&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Equal Opportunity Employer: &lt;/strong&gt;Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;US Applicants: &lt;/strong&gt;View&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf&quot;&gt; Employee Rights&lt;/a&gt;,&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf&quot;&gt; Know Your Rights&lt;/a&gt;, and&lt;a href=&quot;https://static-assets.coinbase.com/e-verify.pdf&quot;&gt; E-Verify&lt;/a&gt; Notice of Participation.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Accommodations: &lt;/strong&gt;If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&amp;nbsp;Need screen reading technology?&lt;a href=&quot;https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn&quot;&gt; Click here&lt;/a&gt; to download a free compatible screen reader and view the&lt;a href=&quot;http://www.chromevox.com/tutorial/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;tutorial&lt;/a&gt;.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Data Privacy &amp;amp; Arbitration: &lt;/strong&gt;By submitting your application, you agree to our&lt;a href=&quot;https://www.coinbase.com/legal/applicant_privacy_notice&quot;&gt; Candidate Privacy Notice&lt;/a&gt;. US applicants: By submitting your application, you agree to&lt;a href=&quot;https://www.coinbase.com/legal/application-arbitration-agreement&quot;&gt; Arbitration of Disputes&lt;/a&gt;.&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div id=&quot;fortidlp-input-element-parent&quot;&gt;&lt;/div&gt;&lt;/div&gt;",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;amp;utm_source=coinbase&quot;&gt;Coinbase&lt;/a&gt;, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it’s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for &quot;good enough,&quot; you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/careers&quot;&gt;learn more about working at Coinbase&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;Staff Machine Learning Engineer, Identity Verification&lt;/h1&gt;\n&lt;p class=&quot;mb-2 whitespace-pre-wrap&quot;&gt;As a Staff Machine Learning Engineer on the Identity Verification team within the&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/careers/product-groups&quot;&gt;Platform&lt;/a&gt;&amp;nbsp;group, you&#39;ll own the ML systems that determine whether a person, document, and capture session are legitimate. Every signup, account recovery, and high-risk action at Coinbase depends on these models. You&#39;ll lead the technical strategy for IDV ML end-to-end, from architecture through production enforcement, protecting the integrity of millions of accounts.&lt;/p&gt;\n&lt;p class=&quot;mb-2 whitespace-pre-wrap&quot;&gt;&lt;strong&gt;What you&#39;ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the full IDV ML stack, including document authenticity models, 1:1 and 1:N&amp;nbsp;face-match, liveness detection, presentation-attack detection, and deepfake/injection detection from feature pipeline through threshold tuning and production enforcement.&lt;/li&gt;\n&lt;li&gt;Build identity-graph systems using GNNs that cluster accounts sharing biometric, device, and document signals to detect synthetic-identity rings and coordinated fraud at onboarding.&lt;/li&gt;\n&lt;li&gt;Develop behavioral and device-intelligence models for capture-session anomaly detection, bot-vs-human classification, and device-fingerprint-based risk scoring at real-time latency.&lt;/li&gt;\n&lt;li&gt;Drive vendor ML strategy by benchmarking external models against a Coinbase-owned evaluation set, designing dynamic routing logic across providers and geographies, and building the in-house evaluation layer that catches regressions before they reach users.&lt;/li&gt;\n&lt;li&gt;Lead and mentor senior and mid-level engineers in the pod while partnering with ML Platform and Risk ML teams to align cross-company ML system design.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;mb-2 whitespace-pre-wrap&quot;&gt;&lt;strong&gt;Required Skills and Experience:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years deploying production ML systems at scale, with proven technical leadership owning cross-team ML architecture from design through production.&lt;/li&gt;\n&lt;li&gt;Domain experience in identity verification, biometrics, or account integrity with deep applied ML in at least two of: computer vision/biometrics, GNNs, sequence models, or NLP/LLMs.&lt;/li&gt;\n&lt;li&gt;Expert-level Python with production experience in TensorFlow or PyTorch, including model training, evaluation, and serving infrastructure.&lt;/li&gt;\n&lt;li&gt;Track record translating KYC/AML requirements and fraud trends into ML roadmaps and communicating trade-offs to Product, Compliance, Risk, and Security stakeholders.&lt;/li&gt;\n&lt;li&gt;Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency Notice:&lt;/strong&gt;&lt;strong&gt;&lt;em&gt; &lt;/em&gt;&lt;/strong&gt;Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)).&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual base salary range (excluding equity and bonus):&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$218,025&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$256,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;ul&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;strong&gt;&lt;em&gt;Application Limit: &lt;/em&gt;&lt;/strong&gt;Candidates may submit a maximum of 3 applications within a 6-month period.&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Equal Opportunity Employer: &lt;/strong&gt;Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;US Applicants: &lt;/strong&gt;View&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf&quot;&gt; Employee Rights&lt;/a&gt;,&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf&quot;&gt; Know Your Rights&lt;/a&gt;, and&lt;a href=&quot;https://static-assets.coinbase.com/e-verify.pdf&quot;&gt; E-Verify&lt;/a&gt; Notice of Participation.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Accommodations: &lt;/strong&gt;If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&amp;nbsp;Need screen reading technology?&lt;a href=&quot;https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn&quot;&gt; Click here&lt;/a&gt; to download a free compatible screen reader and view the&lt;a href=&quot;http://www.chromevox.com/tutorial/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;tutorial&lt;/a&gt;.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Data Privacy &amp;amp; Arbitration: &lt;/strong&gt;By submitting your application, you agree to our&lt;a href=&quot;https://www.coinbase.com/legal/applicant_privacy_notice&quot;&gt; Candidate Privacy Notice&lt;/a&gt;. US applicants: By submitting your application, you agree to&lt;a href=&quot;https://www.coinbase.com/legal/application-arbitration-agreement&quot;&gt; Arbitration of Disputes&lt;/a&gt;.&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div id=&quot;fortidlp-input-element-parent&quot;&gt;&lt;/div&gt;&lt;/div&gt;",
       "skills": [
         "python",
         "machine learning",
@@ -94,8 +94,16 @@
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://www.coinbase.com/careers/positions/7891045?gh_jid=7891045",
+      "url": "https://www.coinbase.com/careers/positions/8211486?gh_jid=8211486",
       "matchScore": 35
+    },
+    {
+      "title": "Data Scientist (f/m/d)",
+      "company": "Think Cell",
+      "location": "",
+      "url": "https://www.arbeitnow.com/jobs/companies/think-cell/data-scientist-168277",
+      "source": "Arbeitnow",
+      "matchScore": 30
     },
     {
       "title": "Data Scientist, Core Infrastructure",
@@ -256,17 +264,15 @@
     {
       "title": "Machine Learning Engineer",
       "company": "Stripe",
-      "location": "South San Francisco, CA",
-      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design state-of-the-art ML models and large-scale ML systems for underwriting and portfolio management for Stripe Capital based on ML principles, domain knowledge, risk, regulatory and engineering constraints.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Design systems to speed up the time from idea to deployment of new models.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experiment and iterate on ML models (using tools including PyTorch and TensorFlow) to achieve key business goals and drive efficiency.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Develop pipelines and automated processes to train and evaluate models in offline and online environments.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Integrate ML models into production systems and ensure their scalability and reliability.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Collaborate with product and strategy partners to propose, prioritize, and implement new product features.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Engage with the latest developments in ML/AI and take calculated risks in transforming innovative ML ideas into productionized solutions.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Must have a Bachelor&#39;s degree or foreign equivalent in Computer Science, Machine Learning, Mathematics, Physics, Statistics, or a related field, plus two (2) years of experience in Building and shipping ML systems in production.&lt;/p&gt;\n&lt;p&gt;Must have two (2) years of experience in each of the following:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;ML algorithms and model architectures;&lt;/li&gt;\n&lt;li&gt;Designing, training and evaluating machine learning models;&lt;/li&gt;\n&lt;li&gt;Productionizing and deploying machine learning models at scale;&lt;/li&gt;\n&lt;li&gt;Orchestrating data pipelines and leveraging large-scale datasets; and&lt;/li&gt;\n&lt;li&gt;Building and deploying ML models to solve business problems.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Must have one (1) year of experience in each of the following:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;ML libraries and frameworks including PyTorch, TensorFlow, XGBoost or Spark; and&lt;/li&gt;\n&lt;li&gt;Deep learning, including transformers, test-time compute, or reinforcement learning.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Salary: $212,000 - $318,000/yr.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;This salary range represents the base salary range for the role and any sales commissions / sales bonuses targets, if applicable, would be in addition to the base salary.&lt;/p&gt;\n&lt;p&gt;40 hrs/week&lt;/p&gt;\n&lt;p&gt;50% Telecommuting Permitted.&lt;/p&gt;\n&lt;p&gt;Multiple Positions Available.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends.&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;CA29&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;#LI-DNI&lt;/strong&gt;&lt;/h3&gt;",
+      "location": "Toronto",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Our Applied ML team aims to reform how our users interact with Stripe. We are doing so by (a) automating the easy tasks, and (b) assisting our users in the difficult tasks. Some examples include helping our users resolve issues with Stripe faster or making it easier for our users to sign up and navigate Stripe. We are using the latest LLMs as well as fine-tuning our own models. We&#39;re an end-to-end team going from ideas to models to shipping in production. You can learn more about our team’s work&lt;a href=&quot;https://stripe.com/sessions/2024/a-blueprint-for-ai-acceleration&quot;&gt; from this recent talk&lt;/a&gt;.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a machine learning engineer, you will be responsible for analyzing opportunities, proposing ideas, training &amp;amp; evaluating ML models, running experiments, and deploying everything to production. You will also have the opportunity to contribute to and influence ML architecture at Stripe as well as be a part of a larger ML community.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Our team operates fluidly and here are some problems you may tackle:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;How do we evaluate a system offline &amp;amp; online?&lt;/li&gt;\n&lt;li&gt;How do we improve performance to match (and beat) humans?&lt;/li&gt;\n&lt;li&gt;How do we ensure model quality doesn’t degrade online?&lt;/li&gt;\n&lt;li&gt;Does fine-tuning an LLM give us better performance?&lt;/li&gt;\n&lt;li&gt;What are the right OSS and in-house platforms we should invest in?&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;And in the process you will:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop pipelines and automated processes to train and evaluate models in offline and online environments&lt;/li&gt;\n&lt;li&gt;Integrate ML models into production systems and ensure their scalability and reliability&lt;/li&gt;\n&lt;li&gt;Collaborate with product and strategy partners to propose, prioritize, and implement new product features&lt;/li&gt;\n&lt;li&gt;Engage with the latest developments in ML/AI and take calculated risks in transforming innovative ML ideas into productionized solutions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for ML Engineers who are passionate about using ML to improve products and delight customers. You have experience developing streaming feature pipelines, building ML models, and deploying them to production, even if it involves making substantial changes to backend code. You are comfortable with ambiguity, love to take initiative, and have a bias towards action.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Have at least 3 years of experience shipping ML systems in production&lt;/li&gt;\n&lt;li&gt;Hold yourself and others to a high bar when working with production systems&lt;/li&gt;\n&lt;li&gt;Take pride in taking ownership and driving projects to business impact&lt;/li&gt;\n&lt;li&gt;Thrive in a collaborative environment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in full time software development roles&lt;/li&gt;\n&lt;li&gt;Experience shipping LLM integrations to user products with high quality&lt;/li&gt;\n&lt;li&gt;Experience operating in highly ambiguous environments&lt;/li&gt;\n&lt;li&gt;Knowledge about driving a hypothesis from data&lt;/li&gt;\n&lt;/ul&gt;",
       "skills": [
-        "machine learning",
-        "deep learning",
-        "tensorflow"
+        "machine learning"
       ],
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=8137997",
+      "url": "https://stripe.com/jobs/search?gh_jid=8014859",
       "matchScore": 25
     },
     {
@@ -348,10 +354,50 @@
       "matchScore": 25
     },
     {
-      "title": "Data Analyst - Marketing (w/m/d)",
-      "company": "Enpal",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/enpal/data-analyst-marketing-berlin-458775",
+      "title": "Business Data Analyst Finance & Requirements Management (m/w/d)",
+      "company": "Aer Group",
+      "location": "Berlin Boppstr.",
+      "url": "https://www.arbeitnow.com/jobs/companies/aer-group/business-data-analyst-finance-requirements-management-berlin-boppstr-117321",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "AI Application Engineer – AI Products (LLM & RAG) (m/f/d)",
+      "company": "Machine Learning Reply",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/ai-application-engineer-ai-products-llm-rag-berlin-232153",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Junior AI Application Engineer – AI Products (LLM & RAG) (m/f/d)",
+      "company": "Machine Learning Reply",
+      "location": "Munich, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/junior-ai-application-engineer-ai-products-llm-rag-munich-412158",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Junior Data Engineer",
+      "company": "Reeeliance",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-63055",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "AI Researcher, LLMs",
+      "company": "Wehrtyou",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/ai-researcher-llms-london-187579",
+      "source": "Arbeitnow",
+      "matchScore": 20
+    },
+    {
+      "title": "Stage - Business Data Analyst (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "location": "Paris, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-business-data-analyst-janvier-2027-paris-paris-34860",
       "source": "Arbeitnow",
       "matchScore": 20
     },
@@ -557,58 +603,26 @@
       "matchScore": 15
     },
     {
-      "title": "AI Transformation Owner, Product & Design",
-      "company": "gitlab",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-ai-transformation-owner-product-design-16935",
+      "title": "AI Compiler Engineer",
+      "company": "Enchargeai36",
+      "location": "Remote-US, Canada",
+      "url": "https://www.arbeitnow.com/jobs/companies/enchargeai36/remote-ai-compiler-engineer-152964",
       "source": "Arbeitnow",
       "matchScore": 10
     },
     {
-      "title": "Slovenian language trainer",
-      "company": "TransPerfect",
+      "title": "Paid Social & Analytics Manager (m/f/d)",
+      "company": "everdrop GmbH",
       "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-slovenian-language-trainer-anywhere-in-emea-region-275703",
+      "url": "https://www.arbeitnow.com/jobs/companies/everdrop-gmbh/remote-paid-social-analytics-manager-munchen-383519",
       "source": "Arbeitnow",
       "matchScore": 10
     },
     {
-      "title": "Croatian language trainer",
-      "company": "TransPerfect",
+      "title": "Freelancer for Airbyte 2.0 Expert Level (Remote)",
+      "company": "PixelMechanics",
       "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/remote-croatian-language-trainer-anywhere-in-emea-region-374340",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Blockchain Expansion  Manager (100% remote)",
-      "company": "Tether Operations Limited",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/blockchain-expansion-manager-100-remote-london-233994",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Engagement Manager, AI Implementations",
-      "company": "Tether Operations Limited",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-engagement-manager-ai-implementations-london-472691",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Technicien de maintenance Itinérant (F/H)",
-      "company": "Signode",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.fr/jobs/companies/signode/remote-technicien-de-maintenance-itinerant-f-h-evreux-116825",
-      "source": "Arbeitnow",
-      "matchScore": 10
-    },
-    {
-      "title": "Trainer EMEA (German Speaker)",
-      "company": "360Learning",
-      "location": "Paris, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-trainer-emea-german-speaker-324713",
+      "url": "https://www.arbeitnow.com/jobs/companies/pixelmechanics/freelancer-for-airbyte-20-expert-level-remote-nurnberg-31521",
       "source": "Arbeitnow",
       "matchScore": 10
     },
@@ -671,18 +685,10 @@
       "matchScore": 10
     },
     {
-      "title": "Staff/Senior AI Engineer, AI for Code",
-      "company": "jetbrains",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/staff-senior-ai-engineer-ai-for-code-london-227434",
-      "source": "Arbeitnow",
-      "matchScore": 5
-    },
-    {
-      "title": "Senior AI Engineer (GTM)",
-      "company": "Paddle",
-      "location": "UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/paddle/senior-ai-engineer-gtm-uk-460480",
+      "title": "Senior Machine Learning Engineer – Video AI",
+      "company": "Snke",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-machine-learning-engineer-video-ai-munchen-389356",
       "source": "Arbeitnow",
       "matchScore": 5
     },
@@ -700,698 +706,970 @@
       "matchScore": 5
     },
     {
-      "title": "(Junior-) Digital Campaign Manager (m/w/d)",
-      "company": "Ritter von Gral GmbH",
-      "location": "Cottbus, Brandenburg, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/ritter-von-gral-gmbh/junior-digital-campaign-manager-cottbus-311084",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Sales Trainee (m/w/d)",
-      "company": "Ritter von Gral GmbH",
-      "location": "Cottbus, Brandenburg, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/ritter-von-gral-gmbh/sales-trainee-cottbus-186611",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Verkäufer – Trainer (m/w/d)",
-      "company": "Bäckerei Exner",
+      "title": "Freiberufliche/r TrainerIn/ AusbilderIn (w/m/d) Fachinformatik für Anwendungsentwicklung - vor Ort",
+      "company": "Comhard Gesellschaft für Bildung und Personalentwicklung mbH",
       "location": "Berlin, Berlin, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/backerei-exner/verkaufer-trainer-berlin-363661",
+      "url": "https://www.arbeitnow.com/jobs/companies/comhard-gesellschaft-fur-bildung-und-personalentwicklung-mbh/freiberufliche-r-trainerin-ausbilderin-fachinformatik-fur-anwendungsentwicklung-vor-ort-berlin-2736",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Junior AI-Automation Specialist (m/w/d) – vor Ort in Dortmund",
-      "company": "ATZ AG",
-      "location": "Dortmund, Nordrhein-Westfalen, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/atz-ag/junior-ai-automation-specialist-vor-ort-in-dortmund-258748",
+      "title": "Freiberufliche(r) Trainer/-In (m/w/d) für Microsoft Office Anwendungen (vor Ort)",
+      "company": "Comhard Gesellschaft für Bildung und Personalentwicklung mbH",
+      "location": "Berlin, Berlin, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/comhard-gesellschaft-fur-bildung-und-personalentwicklung-mbh/freiberuflicher-trainer-in-fur-microsoft-office-anwendungen-vor-ort-berlin-323827",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Pforten- und Sicherheitsmitarbeiter (m/w/d) in Landshut und Niederaichbach auf Mini-Job-Basis (603,00 €/Monat)",
-      "company": "Nürnberger Wach- und Schließgesellschaft mbH",
-      "location": "Landshut, Bayern, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/nurnberger-wach-und-schliessgesellschaft-mbh/pforten-und-sicherheitsmitarbeiter-in-landshut-und-niederaichbach-auf-mini-job-basis-60300-eur-monat-391997",
+      "title": "Dozent / Trainer Verwaltungsfachangestellte (m/w/d)",
+      "company": "Comhard Gesellschaft für Bildung und Personalentwicklung mbH",
+      "location": "Berlin, Berlin, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/comhard-gesellschaft-fur-bildung-und-personalentwicklung-mbh/dozent-trainer-verwaltungsfachangestellte-berlin-347427",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Empfangsmitarbeiter (m/w/d) für eine Bank in Mainz",
-      "company": "Nürnberger Wach- und Schließgesellschaft mbH",
-      "location": "Mainz, Rheinland-Pfalz, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/nurnberger-wach-und-schliessgesellschaft-mbh/empfangsmitarbeiter-fur-eine-bank-in-mainz-390730",
+      "title": "Trainer / Pädagogische Fachkraft (m/w/d) für berufliche Orientierung und Kompetenzentwicklung",
+      "company": "Comhard Gesellschaft für Bildung und Personalentwicklung mbH",
+      "location": "Berlin, Berlin, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/comhard-gesellschaft-fur-bildung-und-personalentwicklung-mbh/trainer-padagogische-fachkraft-fur-berufliche-orientierung-und-kompetenzentwicklung-berlin-180683",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Stellvertretender Einsatzleiter (m/w/d) für den Raum Frankfurt/Main",
-      "company": "Nürnberger Wach- und Schließgesellschaft mbH",
-      "location": "Offenbach a. Main, Hessen, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/nurnberger-wach-und-schliessgesellschaft-mbh/stellvertretender-einsatzleiter-fur-den-raum-frankfurt-main-offenbach-a-main-219336",
+      "title": "Product Owner (m/w/d) - Customer Domain",
+      "company": "doctari GmbH",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctari-gmbh/product-owner-customer-domain-munchen-169055",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Mitarbeiter Personalentwicklung (m/w/d) | Training, Lernkonzepte & digitale Lernwelten",
-      "company": "Bäcker Görtz GmbH",
-      "location": "Ludwigshafen, Rheinland-Pfalz, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/backer-gortz-gmbh/mitarbeiter-personalentwicklung-training-lernkonzepte-digitale-lernwelten-ludwigshafen-424958",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Mitarbeiter im Verkauf (m/w/d) - Kaiserslautern",
-      "company": "Bäcker Görtz GmbH",
-      "location": "Kaiserslautern, Rheinland-Pfalz, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/backer-gortz-gmbh/mitarbeiter-im-verkauf-kaiserslautern-227852",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Filialleitung (m/w/d) - Kaiserslautern",
-      "company": "Bäcker Görtz GmbH",
-      "location": "Kaiserslautern, Rheinland-Pfalz, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/backer-gortz-gmbh/filialleitung-kaiserslautern-93325",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Saisonkraft Produktion / Studentenjob (m/w/d)",
-      "company": "Bäcker Görtz GmbH",
-      "location": "Ludwigshafen, Rheinland-Pfalz, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/backer-gortz-gmbh/saisonkraft-produktion-studentenjob-ludwigshafen-38669",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Lead (m/w/d) | GenAI, Presales & AI Leadership",
-      "company": "Krila Consultancy",
-      "location": "Anywhere in Germany, Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/krila-consultancy/ai-lead-genai-presales-ai-leadership-anywhere-in-germany-197856",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Holzofen-Pizzaioli (m/w/d) für unsere Standorte",
-      "company": "BOB’S Gastronomie- und Veranstaltungs-GmbH",
-      "location": "Augsburg, Bayern, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/bobs-gastronomie-und-veranstaltungs-gmbh/holzofen-pizzaioli-fur-unsere-standorte-augsburg-231805",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Holzofen-Pizzaioli (m/w/d) Ingolstadt",
-      "company": "BOB’S Gastronomie- und Veranstaltungs-GmbH",
-      "location": "Ingolstadt, Bayern, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/bobs-gastronomie-und-veranstaltungs-gmbh/holzofen-pizzaioli-ingolstadt-354638",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Verkäufer (m/w/d) - in Mainzlar/Lollar/Londorf",
-      "company": "Bäcker Müller GmbH & Co KG",
-      "location": "Staufenberg, Hessen, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/backer-muller-gmbh-co-kg/verkaufer-in-mainzlar-lollar-londorf-staufenberg-174597",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Head of Supply Chain",
-      "company": "Hypersonica",
-      "location": "Munich or London",
-      "url": "https://www.arbeitnow.com/jobs/companies/hypersonica/head-of-supply-chain-munich-or-london-230",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Avionics AIT Manager",
-      "company": "Hypersonica",
+      "title": "Supply Chain Specialist",
+      "company": "Auterion",
       "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/hypersonica/avionics-ait-manager-munich-2670",
+      "url": "https://www.arbeitnow.com/jobs/companies/auterion/supply-chain-specialist-munich-436343",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "AI Trainers Network - German",
-      "company": "Welo Global",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/welo-global/ai-trainers-network-german-germany-171911",
+      "title": "Supply Chain Lead",
+      "company": "Auterion",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/auterion/supply-chain-lead-munich-306766",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Finance & AI Automation Intern (Remote Part-time)",
-      "company": "Soda Data Nv",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-part-time-germany-30155",
+      "title": "Praktikum im Bereich Online Marketing - Schwerpunkt E-Mail Marketing (m/w/d)",
+      "company": "everdrop GmbH",
+      "location": "München, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/everdrop-gmbh/praktikum-im-bereich-online-marketing-schwerpunkt-e-mail-marketing-munchen-202639",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Finance & AI Automation Intern (Remote Full-time)",
-      "company": "Soda Data Nv",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/finance-ai-automation-intern-remote-full-time-germany-308319",
+      "title": "UAV Repair and Maintenance Technician (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/uav-repair-and-maintenance-technician-gilching-97310",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "AI Content Engineer",
-      "company": "Soda Data Nv",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-ai-content-engineer-berlin-195260",
+      "title": "Team Lead - MOSAIC Demonstrations & Integrations (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/team-lead-mosaic-demonstrations-integrations-gilching-452787",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Meet & Connect // Brasilianische Lymphdrainage Event // 29.09.26 in Düsseldorf",
-      "company": "Soulhouse",
-      "location": "Düsseldorf, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/soulhouse/meet-connect-brasilianische-lymphdrainage-event-290926-in-dusseldorf-494034",
+      "title": "Training Manager (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/training-manager-gilching-104756",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Werkstudent:in Retail Expansion / Retail Growth (m/w/d) in Berlin Mitte",
-      "company": "JUIT GmbH",
+      "title": "UXS Training & Demo Manager (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/uxs-training-demo-manager-gilching-395300",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Product Marketing Manager Multi-Domain (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/product-marketing-manager-multi-domain-gilching-298768",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "No-Code & AI Specialist (m/w/d)",
+      "company": "Yoursquares",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/juit-gmbh/werkstudentin-retail-expansion-retail-growth-in-berlin-mitte-298112",
+      "url": "https://www.arbeitnow.com/jobs/companies/yoursquares/no-code-ai-specialist-berlin-340160",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Contract & Operations Coordinator (m/w/d) im Bereich Supply Chain Management",
-      "company": "ECO STOR GmbH",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/eco-stor-gmbh/contract-operations-coordinator-im-bereich-supply-chain-management-munchen-87175",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Contract & Claim Manager (m/w/d)",
-      "company": "ILF Consulting Engineers Germany GmbH",
-      "location": "München, Bayern, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/ilf-consulting-engineers-germany-gmbh/contract-claim-manager-munchen-457942",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Medical Science Liaison Manager (m/w/d) Onkologie & Hämatologie",
-      "company": "qinX",
-      "location": "Berlin, Berlin, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/qinx/medical-science-liaison-manager-onkologie-hamatologie-berlin-196515",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Trainee (m/w/d) - Mode und Einzelhandel",
-      "company": "KULT | OLYMP & HADES",
-      "location": "Magdeburg, Sachsen-Anhalt, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/kult-olymp-hades/trainee-mode-und-einzelhandel-magdeburg-161879",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Retail Graphic Designer (all genders)",
-      "company": "Maniko Nails GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/maniko-nails-gmbh/remote-retail-graphic-designer-all-genders-berlin-426966",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Retail Sales Coordinator (all genders)",
-      "company": "Maniko Nails GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/maniko-nails-gmbh/remote-retail-sales-coordinator-all-genders-berlin-9916",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Sales Advisor - Munich Airport",
-      "company": "Boggi Milano",
-      "location": "Munchen, Bayern, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/boggi-milano/sales-advisor-munich-airport-munchen-102258",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Trainee Online-Marketing-Manager/in (m/w/d)",
-      "company": "MONE Consulting GmbH (Pflegekraft.de)",
-      "location": "Bielefeld, Nordrhein-Westfalen, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/mone-consulting-gmbh-pflegekraftde/trainee-online-marketing-manager-in-bielefeld-357964",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Growth Intelligence & AI Analyst",
-      "company": "Lovebetter Gesellschaft für männliche Sexualität mbH",
-      "location": "Berlin, Berlin, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/lovebetter-gesellschaft-fur-mannliche-sexualitat-mbh/growth-intelligence-ai-analyst-berlin-157437",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Kampfsporttrainer (M/W/D) in Voll/Teilzeit/Minijob in Schöneiche bei Berlin",
-      "company": "Sportschule DMA Schöneiche UG",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/sportschule-dma-schoneiche-ug/remote-kampfsporttrainer-in-voll-teilzeit-minijob-in-schoneiche-bei-berlin-125465",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Kampfsporttrainer (M/W/D) in Voll/Teilzeit/Minijob in Stralsund",
-      "company": "Sportschule DMA Schöneiche UG",
-      "location": "Berlin, Berlin, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/sportschule-dma-schoneiche-ug/kampfsporttrainer-in-voll-teilzeit-minijob-in-stralsund-berlin-59982",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Kampfsporttrainer (M/W/D) in Voll/Teilzeit/Minijob in Berlin Pankow",
-      "company": "Sportschule DMA Schöneiche UG",
-      "location": "Berlin, Berlin, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/sportschule-dma-schoneiche-ug/kampfsporttrainer-in-voll-teilzeit-minijob-in-berlin-pankow-409449",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Video Creator & Editor",
-      "company": "Jobgether",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-video-creator-editor-germany-354108",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Analytics Account Executive",
-      "company": "Jobgether",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-analytics-account-executive-germany-369061",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Speech AI Evaluation Specialist - German (Germany)",
-      "company": "RWS TrainAI",
+      "title": "AI Creative Strategist (m/w/d)",
+      "company": "Yoursquares",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/rws-trainai/speech-ai-evaluation-specialist-german-germany-berlin-430003",
+      "url": "https://www.arbeitnow.com/jobs/companies/yoursquares/ai-creative-strategist-berlin-181647",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "AI Solutions Engineer (m/w/d)",
-      "company": "Tmh",
+      "title": "Trainee Vertrieb / Sales (m/w/d)",
+      "company": "Shyftplan",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/shyftplan/trainee-vertrieb-sales-berlin-95259",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Decision Scientist, Trust & Safety",
+      "company": "Vinteden",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/vinteden/senior-decision-scientist-trust-safety-berlin-349233",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Trainer",
+      "company": "Wayve",
+      "location": "",
+      "url": "https://www.arbeitnow.com/jobs/companies/wayve/trainer-321622",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Emergency Services Liaison, Germany",
+      "company": "Waymo",
+      "location": "Munich, Bavaria",
+      "url": "https://www.arbeitnow.com/jobs/companies/waymo/emergency-services-liaison-germany-munich-bavaria-340889",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Sales & Customer Growth Trainee (all genders) DE",
+      "company": "BSI Software",
+      "location": "Darmstadt, Hessen, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/bsi-software/sales-customer-growth-trainee-all-genders-de-darmstadt-114679",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Salesforce Traineeprogramm (m/w/d)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "location": "Heidelberg, Baden-Württemberg, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/salesforce-traineeprogramm-heidelberg-355585",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Manager Supply Chain Planning (m/w/d)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "location": "Heidelberg, Baden-Württemberg, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/manager-supply-chain-planning-heidelberg-105693",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Manager Supply Chain Performance Improvement (m/w/d)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "location": "Heidelberg, Baden-Württemberg, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/manager-supply-chain-performance-improvement-heidelberg-207670",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Performance Marketing Manager/ Digital Campaign Manager (m/w/d)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "location": "Heidelberg, Baden-Württemberg, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/performance-marketing-manager-digital-campaign-manager-heidelberg-10344",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "SAP Sales Manager (m/w/d) Sustainable Supply Chain & Manufacturing (SSCM)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "location": "Heidelberg, Baden-Württemberg, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/sap-sales-manager-sustainable-supply-chain-manufacturing-sscm-heidelberg-396423",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "SAP Sales Manager (m/w/d) Supply Chain & Manufacturing – Win Big Deals. Shape Global Supply Chains. Own your Pipeline",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "location": "Heidelberg, Baden-Württemberg, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/sap-sales-manager-supply-chain-manufacturing-win-big-deals-shape-global-supply-chains-own-your-pipeline-heidelberg-420051",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Developer (m/f/d)",
+      "company": "Partspace",
+      "location": "Nürnberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-177325",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Campaign Manager (m|w|d) - Elternzeitvertretung",
+      "company": "idealo internet GmbH",
+      "location": "Berlin, Berlin, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/campaign-manager-mwd-elternzeitvertretung-berlin-299796",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Software Engineer - Data",
+      "company": "Snke",
       "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/tmh/ai-solutions-engineer-munchen-324708",
+      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-data-munchen-78819",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Supply Chain Management Specialist / Transport Logistics (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Ottobrunn, Bavaria",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/supply-chain-management-specialist-transport-logistics-ottobrunn-bavaria-250599",
+      "title": "Senior DevOps Engineer (all genders) | Data Platform",
+      "company": "Real Digital",
+      "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-devops-engineer-all-genders-data-platform-16527",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Supply Chain Leader (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Parsdorf, Bavaria",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/supply-chain-leader-parsdorf-bavaria-484296",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AIT Operations Engineer - Launch Vehicle (m/f/d)",
-      "company": "isaraerospace",
-      "location": "Ottobrunn, Bavaria",
-      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/ait-operations-engineer-launch-vehicle-ottobrunn-bavaria-125764",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Growth manager (JetBrains AI)",
-      "company": "jetbrains",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/growth-manager-jetbrains-ai-london-245944",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Entrepreneur in Residence/Product Lead (Project Thinkrail)",
-      "company": "jetbrains",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jetbrains/entrepreneur-in-residence-product-lead-project-thinkrail-london-263241",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Solutions Architect (Data & AI)",
-      "company": "databricks",
+      "title": "Head of AI Governance",
+      "company": "Dotmatics",
       "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-solutions-architect-data-ai-467428",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/head-of-ai-governance-300674",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Finance Analyst",
-      "company": "tem",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/finance-analyst-united-kingdom-95225",
+      "title": "AI Researcher",
+      "company": "Wehrtyou",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/ai-researcher-london-469345",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Maintenance Technician",
-      "company": "ocadogroup",
-      "location": "Erith",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/maintenance-technician-erith-17052",
+      "title": "Marketing campaign intern (Danish Speaker)",
+      "company": "Unitedmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/marketing-campaign-intern-danish-speaker-london-170311",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Paid Search Manager",
-      "company": "dept",
+      "title": "Head of Email Marketing at United Media",
+      "company": "Unitedmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/head-of-email-marketing-at-united-media-london-295781",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Event marketing internship (paid) at United Media",
+      "company": "Unitedmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/event-marketing-internship-paid-at-united-media-london-276544",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Email Marketing Associate at United Media",
+      "company": "Unitedmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-marketing-associate-at-united-media-london-411947",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Email Marketing Analyst at United Media",
+      "company": "Unitedmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-marketing-analyst-at-united-media-london-462857",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Email Content Manager at United Media",
+      "company": "Unitedmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-content-manager-at-united-media-london-100233",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Email Channel Manager at United Media",
+      "company": "Unitedmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-channel-manager-at-united-media-london-217404",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Email Campaign Specialist at United Media",
+      "company": "Unitedmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-campaign-specialist-at-united-media-london-208219",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Email campaign Manager at United Media",
+      "company": "Unitedmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-campaign-manager-at-united-media-london-308843",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Email Campaign Associate at United Media",
+      "company": "Unitedmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-campaign-associate-at-united-media-london-86225",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Danish Speaker email marketing internship",
+      "company": "Unitedmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/danish-speaker-email-marketing-internship-london-20527",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "CRM Email Strategist at United Media",
+      "company": "Unitedmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/crm-email-strategist-at-united-media-london-279653",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "CEO-In-Training",
+      "company": "Unitedmedia",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/ceo-in-training-london-403842",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "xxWebpage Lead at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/xxwebpage-lead-at-retail-insights-london-462851",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Website lead - wordpress at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/website-lead-wordpress-at-retail-insights-london-28820",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Website Lead at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/website-lead-at-retail-insights-london-279140",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Webpage Lead - Wordpress at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/webpage-lead-wordpress-at-retail-insights-london-136312",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Webinar Associate at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/webinar-associate-at-retail-insights-london-205984",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "VP Marketing at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/vp-marketing-at-retail-insights-london-373693",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "University Recruiter at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/university-recruiter-at-retail-insights-london-1903",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Talent Recruiter at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/talent-recruiter-at-retail-insights-london-141992",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Sponsorship Sales Manager at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sponsorship-sales-manager-at-retail-insights-london-387837",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Sponsorship Analyst at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sponsorship-analyst-at-retail-insights-london-487360",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Speaker Associate at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/speaker-associate-at-retail-insights-london-240231",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Social Media Growth Associate at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/social-media-growth-associate-at-retail-insights-london-197820",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Social Media Coordinator at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/social-media-coordinator-at-retail-insights-london-157110",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Social Media Associate at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/social-media-associate-at-retail-insights-london-85645",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "SDR at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sdr-at-retail-insights-london-126388",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Sales Internship at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sales-internship-at-retail-insights-london-139171",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Sales Executive at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sales-executive-at-retail-insights-london-148280",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Sales Development Representative at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/sales-development-representative-at-retail-insights-london-315045",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Recruiter Coordinator at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/recruiter-coordinator-at-retail-insights-london-306451",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Recruiter consultant at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/recruiter-consultant-at-retail-insights-london-431000",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Recruiter at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/recruiter-at-retail-insights-london-458881",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Recruiter Associate at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/recruiter-associate-at-retail-insights-london-93734",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Project Management Internship at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/project-management-internship-at-retail-insights-london-42234",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Project Management - Conference Producer at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/project-management-conference-producer-at-retail-insights-london-123153",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "New Business Executive at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/new-business-executive-at-retail-insights-london-99573",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Multimedia designer at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/multimedia-designer-at-retail-insights-london-136407",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Marketing Internship at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/marketing-internship-at-retail-insights-london-360670",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Marketing campaign intern (Danish Speaker)",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/marketing-campaign-intern-danish-speaker-london-324764",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Marketing Associate at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/marketing-associate-at-retail-insights-london-2992",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Management Consulting Internship at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/management-consulting-internship-at-retail-insights-london-145540",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Management Associate at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/management-associate-at-retail-insights-london-442312",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "LinkedIn Copywriting Executive at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/linkedin-copywriting-executive-at-retail-insights-london-208407",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "LinkedIn Copywriting Associate at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/linkedin-copywriting-associate-at-retail-insights-london-114310",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "LinkedIn Content Associate at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/linkedin-content-associate-at-retail-insights-london-100725",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Head of Talent at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/head-of-talent-at-retail-insights-london-375194",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Head of Recruitment at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/head-of-recruitment-at-retail-insights-london-351782",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Head of marketing at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/head-of-marketing-at-retail-insights-london-397125",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Head of Learning and Development at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/head-of-learning-and-development-at-retail-insights-london-276467",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Head of Graphics at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/head-of-graphics-at-retail-insights-london-236996",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Head of Finance at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/head-of-finance-at-retail-insights-london-177869",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Head of Email Marketing at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/head-of-email-marketing-at-retail-insights-london-281762",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Head of Digital Marketing at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/head-of-digital-marketing-at-retail-insights-london-432358",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Head of Client Success at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/head-of-client-success-at-retail-insights-london-391790",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Graphic Designer at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/graphic-designer-at-retail-insights-london-299581",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Global Partnerships Manager at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-partnerships-manager-at-retail-insights-london-430632",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Global Internship Program (Spanish speaker) Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-spanish-speaker-retail-insights-london-400909",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Global Internship Program (Scandinavian speaker) Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-scandinavian-speaker-retail-insights-london-368695",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Global Internship Program (Italian speaker) Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-italian-speaker-retail-insights-london-298363",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Global Internship Program (German speaker) Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-german-speaker-retail-insights-london-343574",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Global Internship Program (French speaker) Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-french-speaker-retail-insights-london-364924",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Global Internship Program (Danish speaker) Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-danish-speaker-retail-insights-london-329283",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Global Internship Program at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-internship-program-at-retail-insights-london-442215",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Global Consulting Internship at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-consulting-internship-at-retail-insights-london-157668",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Global Business Operations Internship at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/global-business-operations-internship-at-retail-insights-london-110214",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Founder Associate at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/founder-associate-at-retail-insights-london-361450",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Financial accountant at Retail Insights",
+      "company": "Retailinsights",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/financial-accountant-at-retail-insights-london-183063",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Stage Communication – Stratégie événementielle & coordination (Adopt AI)",
+      "company": "Artefactjobs",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-communication-strategie-evenementielle-coordination-adopt-ai-9th-arrondissement-of-paris-75009-paris-26661",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Stage Communication – Stratégie & création de contenus (Adopt AI)",
+      "company": "Artefactjobs",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-communication-strategie-creation-de-contenus-adopt-ai-9th-arrondissement-of-paris-75009-paris-312880",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Stage – Assistant(e) Communication & Événementiel (Hackathons Adopt AI)",
+      "company": "Artefactjobs",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/stage-assistante-communication-evenementiel-hackathons-adopt-ai-9th-arrondissement-of-paris-75009-paris-49627",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Designer— Motion & Génératif (H/F) - CDI - Paris",
+      "company": "Artefactjobs",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/ai-designer-motion-generatif-h-f-cdi-paris-9th-arrondissement-of-paris-75009-paris-183726",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Sr. Medical Scientific Liaison - France",
+      "company": "Acadia Job Listings",
       "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/paid-search-manager-89677",
+      "url": "https://www.arbeitnow.fr/jobs/companies/acadia-job-listings/sr-medical-scientific-liaison-france-483286",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Design Director (AI & Tech)",
-      "company": "dept",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/design-director-ai-tech-250033",
+      "title": "Une Gestionnaire Administrative ou un Gestionnaire Administratif au Pôle International – CDD 12 mois – Temps Incomplet",
+      "company": "Institut Mines-Télécom",
+      "location": "GARDANNE, Provence-Alpes-Côte d'Azur, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/une-gestionnaire-administrative-ou-un-gestionnaire-administratif-au-pole-international-cdd-12-mois-temps-incomplet-gardanne-209594",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "CRM Campaign Managers (Talent Pool)",
-      "company": "dept",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/crm-campaign-managers-talent-pool-352543",
+      "title": "Chargée ou Chargé d'affaires Incubateur Télécom Paris - CDD 36 mois",
+      "company": "Institut Mines-Télécom",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/chargee-ou-charge-daffaires-incubateur-telecom-paris-cdd-36-mois-220117",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "SVP, Data Solutions, UK",
-      "company": "wppmedia",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/svp-data-solutions-uk-london-456164",
+      "title": "Gestionnaire de recettes -CDD 6 mois",
+      "company": "Institut Mines-Télécom",
+      "location": "Palaiseau, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/gestionnaire-de-recettes-cdd-6-mois-palaiseau-157101",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Paid Social Manager",
-      "company": "wppmedia",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/paid-social-manager-london-494499",
+      "title": "Ingénieur∙e de développement — Systèmes interactifs temps réel humain-IA",
+      "company": "Institut Mines-Télécom",
+      "location": "Brest, Bretagne, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/ingenieure-de-developpement-systemes-interactifs-temps-reel-humain-ia-brest-349880",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Paid Social Account Manager",
-      "company": "wppmedia",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/paid-social-account-manager-london-450866",
+      "title": "Gestionnaire Comptabilité Générale - Recettes (CDI de droit public)",
+      "company": "Institut Mines-Télécom",
+      "location": "PALAISEAU, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/gestionnaire-comptabilite-generale-recettes-cdi-de-droit-public-palaiseau-184425",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Manager, Paid Social",
-      "company": "wppmedia",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/manager-paid-social-london-474106",
+      "title": "Technicienne ou technicien de maintenance tout corps d'état (TCE) - CDD 12 mois",
+      "company": "Institut Mines-Télécom",
+      "location": "Palaiseau, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/technicienne-ou-technicien-de-maintenance-tout-corps-detat-tce-cdd-12-mois-palaiseau-162278",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Manager, Paid Search",
-      "company": "wppmedia",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/manager-paid-search-london-103018",
+      "title": "Stage M2 : Recherche en optique non linéaire appliquée à la caractérisation de dispositifs électroniques neuromorphiques - 6 mois",
+      "company": "Institut Mines-Télécom",
+      "location": "GARDANNE, Provence-Alpes-Côte d'Azur, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/stage-m2-recherche-en-optique-non-lineaire-appliquee-a-la-caracterisation-de-dispositifs-electroniques-neuromorphiques-6-mois-gardanne-322308",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Creative Producer & Videographer (Influencer Campaign Production)",
-      "company": "wppmedia",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/creative-producer-videographer-influencer-campaign-production-london-45335",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Campaign Manager",
-      "company": "wppmedia",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/campaign-manager-london-406111",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Campaign Executive",
-      "company": "wppmedia",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/campaign-executive-london-251009",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Associate, Paid Social, Global Client Solutions",
-      "company": "wppmedia",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-paid-social-global-client-solutions-london-217731",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Account Manager, Paid Search",
-      "company": "wppmedia",
-      "location": "Manchester",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/account-manager-paid-search-manchester-374074",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Product Operations Lead",
-      "company": "typeform",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/typeform/ai-product-operations-lead-438782",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "FP&A Analyst",
-      "company": "Kraken",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/fpa-analyst-london-176859",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior AI Product Engineer",
-      "company": "Elliptic",
-      "location": "London, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/senior-ai-product-engineer-london-united-kingdom-45038",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior FP&A Analyst",
-      "company": "Paddle",
-      "location": "UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/paddle/senior-fpa-analyst-uk-476429",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Head of Data Science",
-      "company": "Paddle",
-      "location": "UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/paddle/head-of-data-science-uk-461967",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Enterprise AI Solutions Consultant (London)",
-      "company": "TransPerfect",
-      "location": "London, Greater London, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/enterprise-ai-solutions-consultant-london-402465",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Head of Regulatory Affairs - AI and P2P (100% remote)",
-      "company": "Tether Operations Limited",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/head-of-regulatory-affairs-ai-and-p2p-100-remote-london-123640",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Technology Cost Analyst",
-      "company": "Intelance",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/technology-cost-analyst-london-302",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Solution Innovation Analyst",
-      "company": "Pigment",
+      "title": "Intern AI & Management Consulting (Value Engineering)",
+      "company": "celonis",
       "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pigment/solution-innovation-analyst-paris-303864",
+      "url": "https://www.arbeitnow.fr/jobs/companies/celonis/intern-ai-management-consulting-value-engineering-paris-461432",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Solution Consultant, Supply Chain - Paris",
-      "company": "Pigment",
+      "title": "AI Producer (H/F)",
+      "company": "OLIVER",
       "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pigment/solution-consultant-supply-chain-paris-200328",
+      "url": "https://www.arbeitnow.fr/jobs/companies/oliver/ai-producer-h-f-paris-208659",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Optimisation AI Scientist",
-      "company": "Pigment",
-      "location": "London or Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pigment/optimisation-ai-scientist-london-or-paris-122776",
+      "title": "Stage - Sales Strategy Analyst (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "location": "Paris, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-sales-strategy-analyst-janvier-2027-paris-paris-89388",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Aircraft Painter",
-      "company": "Tsmg",
-      "location": "Toulouse",
-      "url": "https://www.arbeitnow.fr/jobs/companies/tsmg/aircraft-painter-toulouse-304447",
+      "title": "Stage - Partenaire Performance Client (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "location": "Paris, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-partenaire-performance-client-janvier-2027-paris-paris-450953",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Stage - Assistant(E) Operations Retail  & Showroom Wholesale (H/F)",
-      "company": "JACQUEMUS",
-      "location": "Paris HQ, Île de France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/stage-assistante-operations-retail-showroom-wholesale-h-f-paris-hq-ile-de-france-131411",
+      "title": "Stage - Opérations et Stratégie analyste (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "location": "Paris, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-operations-et-strategie-analyste-janvier-2027-paris-paris-262931",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Cdi - 7H – Conseiller De Vente (H/F) – Montaigne",
-      "company": "JACQUEMUS",
-      "location": "Boutique Montaigne, Paris, Île de France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-7h-conseiller-de-vente-h-f-montaigne-boutique-montaigne-paris-ile-de-france-484096",
+      "title": "Stage - FP&A  Analyst (x/f/m) - mars 2027",
+      "company": "Doctolib",
+      "location": "Paris, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-fpa-analyst-mars-2027-paris-paris-309990",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Cdd - Coordinateur Adv Wholesale & Retail (H/F)",
-      "company": "JACQUEMUS",
-      "location": "Paris HQ, Île de France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdd-coordinateur-adv-wholesale-retail-h-f-paris-hq-ile-de-france-243885",
+      "title": "Stage - Corporate Development Analyst (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "location": "Paris, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-corporate-development-analyst-janvier-2027-paris-paris-330322",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Maintenance Technician",
-      "company": "Ircagroup",
-      "location": "Anneyron, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ircagroup/maintenance-technician-anneyron-france-1271",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Customer Success Manager (Gestionnaire de compte)",
-      "company": "Vivenu",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vivenu/customer-success-manager-gestionnaire-de-compte-paris-227387",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Technical Advisor – Airframe & Engine",
-      "company": "Jetsupport",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/jetsupport/technical-advisor-airframe-engine-france-378057",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Commercial Sédentaire B2B (English/French)",
-      "company": "Ajax Systems",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ajax-systems/commercial-sedentaire-b2b-english-french-paris-158794",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Pullup Entertainment - Cdi - Responsable Comptable Generale (H/F/Nb)",
-      "company": "Pullup Entertainment",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pullup-entertainment/pullup-entertainment-cdi-responsable-comptable-generale-b-paris-427551",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Pullup Entertainment - Cdi - Comptable Fournisseur Junior (H/F/Nb)",
-      "company": "Pullup Entertainment",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pullup-entertainment/pullup-entertainment-cdi-comptable-fournisseur-junior-b-paris-452878",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Pullup Entertainment - Cdi -  Technicien Support It (H/F/Nb)",
-      "company": "Pullup Entertainment",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pullup-entertainment/pullup-entertainment-cdi-technicien-support-it-b-paris-208668",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Pullup Entertainment - Stage - (M2 / Iej /Efb) Juriste Droit De La Pl Et Des Contrats - Janvier 2027( H/F/Nb)",
-      "company": "Pullup Entertainment",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pullup-entertainment/pullup-entertainment-stage-m2-iej-efb-juriste-droit-de-la-pl-et-des-contrats-janvier-2027-b-paris-177694",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Focus Entertainment Publishing - Stage - Assistant Relation Presse Et Influence - Janvier 2027 (F/H/Nb)",
-      "company": "Pullup Entertainment",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pullup-entertainment/focus-entertainment-publishing-stage-assistant-relation-presse-et-influence-janvier-2027-b-paris-382808",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Focus Entertainment Publishing - Stage - Assistant Brand & Creative Management ( H/F/Nb) - Janvier",
-      "company": "Pullup Entertainment",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pullup-entertainment/focus-entertainment-publishing-stage-assistant-brand-creative-management-b-janvier-paris-448251",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Head of GTM Systems & AI",
-      "company": "360Learning",
-      "location": "Paris, Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-head-of-gtm-systems-ai-240013",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Retail Area Manager",
-      "company": "Emma – The Sleep Company",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/emma-the-sleep-company/retail-area-manager-paris-112941",
+      "title": "Stage - Chargé d'Affaires Publiques (x/f/m) - janvier 2027",
+      "company": "Doctolib",
+      "location": "Paris, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-charge-daffaires-publiques-janvier-2027-paris-paris-135772",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -1408,6 +1686,19 @@
       "experience": "Not specified",
       "source": "Greenhouse",
       "url": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior .NET Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
+      "salary": "",
+      "experience": "Not specified",
+      "fitScore": 80,
+      "category": "Remote",
+      "isNew": true,
+      "source": "Remotive",
       "matchScore": 0
     },
     {
@@ -1593,6 +1884,6 @@
       "matchScore": 0
     }
   ],
-  "totalJobs": 154,
-  "lastUpdated": "2026-09-19T04:52:04.187323+00:00"
+  "totalJobs": 190,
+  "lastUpdated": "2026-09-20T05:11:31.713637+00:00"
 }
