@@ -83,18 +83,18 @@
       "matchScore": 35
     },
     {
-      "title": "Data Scientist - iwocaPay Risk Squad",
-      "company": "iwoca",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/data-scientist-iwocapay-risk-squad-london-383254",
+      "title": "Data Scientist, Product Analytics",
+      "company": "Sonarsource",
+      "location": "Geneva",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/data-scientist-product-analytics-geneva-116661",
       "source": "Arbeitnow",
       "matchScore": 30
     },
     {
-      "title": "Stage 2027  Business Data Scientist - Marketing effectivness",
-      "company": "Ekimetrics",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/stage-2027-business-data-scientist-marketing-effectivness-paris-229554",
+      "title": "Data Scientist, Marketing Analytics",
+      "company": "Sonarsource",
+      "location": "Geneva",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/data-scientist-marketing-analytics-geneva-297245",
       "source": "Arbeitnow",
       "matchScore": 30
     },
@@ -203,34 +203,50 @@
       "matchScore": 30
     },
     {
-      "title": "Applied AI Engineer (m/w/d)",
-      "company": "INSTATIQ",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/instatiq/applied-ai-engineer-stuttgart-463743",
+      "title": "(Senior) GenAI Engineer",
+      "company": "capco",
+      "location": "",
+      "url": "https://www.arbeitnow.com/jobs/companies/capco/senior-genai-engineer-10097",
+      "source": "Arbeitnow",
+      "matchScore": 25
+    },
+    {
+      "title": "AI Engineer (m/w/d)",
+      "company": "Nerdware",
+      "location": "Nürnberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/nerdware/ai-engineer-nurnberg-56096",
+      "source": "Arbeitnow",
+      "matchScore": 25
+    },
+    {
+      "title": "Forward Deployed AI Engineer",
+      "company": "Agilerobotsse",
+      "location": "Munich, Bavaria",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/forward-deployed-ai-engineer-munich-bavaria-383839",
+      "source": "Arbeitnow",
+      "matchScore": 25
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Grahamcapitalmanagement",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grahamcapitalmanagement/machine-learning-engineer-london-412766",
       "source": "Arbeitnow",
       "matchScore": 25
     },
     {
       "title": "Applied AI Engineer, Startups (Codex)",
-      "company": "Openai",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/applied-ai-engineer-startups-codex-london-101613",
+      "company": "OpenAI",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/openai/applied-ai-engineer-startups-codex-paris-43121",
       "source": "Arbeitnow",
       "matchScore": 25
     },
     {
-      "title": "Manager, Applied AI Engineering (Large Enterprise)",
-      "company": "Openai",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/manager-applied-ai-engineering-large-enterprise-london-195313",
-      "source": "Arbeitnow",
-      "matchScore": 25
-    },
-    {
-      "title": "Stage 2027 - AI/ML Engineer - 50% Client 50% R&D",
-      "company": "Ekimetrics",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/stage-2027-ai-ml-engineer-50-client-50-rd-paris-242613",
+      "title": "Marketing AI Engineer",
+      "company": "Sonarsource",
+      "location": "Geneva",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/marketing-ai-engineer-geneva-191237",
       "source": "Arbeitnow",
       "matchScore": 25
     },
@@ -395,10 +411,10 @@
       "matchScore": 25
     },
     {
-      "title": "Data Analyst, Regulatory Analytics and Reporting",
-      "company": "Kraken",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/data-analyst-regulatory-analytics-and-reporting-london-426920",
+      "title": "Staff Data Engineer",
+      "company": "Sonarsource",
+      "location": "Geneva",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sonarsource/staff-data-engineer-geneva-374411",
       "source": "Arbeitnow",
       "matchScore": 20
     },
@@ -634,26 +650,34 @@
       "matchScore": 15
     },
     {
-      "title": "Senior Data Scientist",
-      "company": "Omaze",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/senior-data-scientist-london-89487",
+      "title": "Senior GenAI Solution Engineer (all genders)",
+      "company": "Eraneos",
+      "location": "Hamburg, München, Düsseldorf, remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-senior-genai-solution-engineer-all-genders-297775",
       "source": "Arbeitnow",
       "matchScore": 10
     },
     {
-      "title": "Senior Data Scientist - Business Operations",
-      "company": "Deliveroo ",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-data-scientist-business-operations-london-156385",
+      "title": "Manager SAP EWM – Logistics / Supply Chain (m/w/d)",
+      "company": "Eraneos",
+      "location": "Hamburg, München, Düsseldorf, remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-manager-sap-ewm-logistics-supply-chain-191713",
       "source": "Arbeitnow",
       "matchScore": 10
     },
     {
       "title": "Senior Data Scientist (Economist)",
-      "company": "Deliveroo ",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-data-scientist-economist-london-200411",
+      "company": "Deliveroo",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-data-scientist-economist-london-338243",
+      "source": "Arbeitnow",
+      "matchScore": 10
+    },
+    {
+      "title": "Senior Data Scientist - Demand Forecast (f/m/d)",
+      "company": "Junior Data Scientist - Downstream Demand Forecast - Value Chain ...",
+      "location": "Lille, Upline, Nord",
+      "url": "https://www.arbeitnow.fr/jobs/companies/junior-data-scientist-downstream-demand-forecast-value-chain/senior-data-scientist-demand-forecast-lille-upline-nord-303323",
       "source": "Arbeitnow",
       "matchScore": 10
     },
@@ -662,6 +686,22 @@
       "company": "Decathlontechnology",
       "location": "Lille, Upline, Nord; Paris, Paris",
       "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-data-scientist-demand-forecast-lille-upline-nord-paris-paris-488740",
+      "source": "Arbeitnow",
+      "matchScore": 10
+    },
+    {
+      "title": "Software Engineer, Backend - Data Layer",
+      "company": "Camunda",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-software-engineer-backend-data-layer-495182",
+      "source": "Arbeitnow",
+      "matchScore": 10
+    },
+    {
+      "title": "Staff Product Designer | JetBrains",
+      "company": "Hirehire",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/hirehire/remote-staff-product-designer-jetbrains-442939",
       "source": "Arbeitnow",
       "matchScore": 10
     },
@@ -724,6 +764,30 @@
       "matchScore": 10
     },
     {
+      "title": "Senior Solutions Architect - Data & AI Engineer (f/m/d, 4-Days-Week), German Speaking",
+      "company": "Auvaria",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/auvaria/senior-solutions-architect-data-ai-engineer-4-days-week-german-speaking-munchen-414296",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
+      "title": "Team Lead AI Engineering (f/m/d)",
+      "company": "Vestigas",
+      "location": "München (Hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/vestigas/team-lead-ai-engineering-munchen-hybrid-41987",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
+      "title": "Senior AI Engineer (f/m/d)",
+      "company": "Vestigas",
+      "location": "München (Hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/vestigas/senior-ai-engineer-munchen-hybrid-131529",
+      "source": "Arbeitnow",
+      "matchScore": 5
+    },
+    {
       "title": "Senior AI Engineer",
       "company": "Lemon.io",
       "location": "Northern America, LATAM, Europe, APAC",
@@ -750,234 +814,210 @@
       "matchScore": 5
     },
     {
-      "title": "Senior AI Product Manager",
-      "company": "1Global",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/1global/senior-ai-product-manager-berlin-189704",
+      "title": "Go-to-Market Champion (GPU & AI)",
+      "company": "Impossiblecloud",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/impossiblecloud/go-to-market-champion-gpu-ai-hamburg-247037",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Trainee -  Buchhaltung & Office Management (m/w/d)",
-      "company": "Reisetopia",
+      "title": "E-Commerce Campaign Manager (All Genders)",
+      "company": "Ahead Gmbh",
+      "location": "Hamburg Office",
+      "url": "https://www.arbeitnow.com/jobs/companies/ahead-gmbh/e-commerce-campaign-manager-all-genders-hamburg-office-270528",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Applied AI Scientist(m/f/d)",
+      "company": "Nc Group",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/reisetopia/trainee-buchhaltung-office-management-berlin-84281",
+      "url": "https://www.arbeitnow.com/jobs/companies/nc-group/applied-ai-scientist-berlin-383064",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "(Senior) AI Product Engineer (m/w/d)",
-      "company": "Legalhero",
+      "title": "Senior Analyst - CX Automation Intelligence & Insights",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-analyst-cx-automation-intelligence-insights-berlin-berlin-89080",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Solution Architect (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-72576",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Oracle Data Engineer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-oracle-data-engineer-karlsruhe-75190",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Karlsruhe, Baden-Württemberg, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-oracle-data-warehouse-bi-developer-karlsruhe-388750",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Transformation Manager (f/m/d)",
+      "company": "Merantix Momentum",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-286735",
+      "url": "https://www.arbeitnow.com/jobs/companies/merantix-momentum/ai-transformation-manager-berlin-342529",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Team Lead Sales Development (AI x Renewables)",
-      "company": "Autarcenergy",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/team-lead-sales-development-ai-x-renewables-berlin-409375",
+      "title": "Working Student AI Enablement (m/f/d)",
+      "company": "Edri",
+      "location": "Essen",
+      "url": "https://www.arbeitnow.com/jobs/companies/edri/working-student-ai-enablement-essen-348094",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
-      "company": "Autarcenergy",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-271758",
+      "title": "AI Consultant [m/w/d]",
+      "company": "GBC Group",
+      "location": "Frankfurt",
+      "url": "https://www.arbeitnow.com/jobs/companies/gbc-group/ai-consultant-frankfurt-334914",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Growth Manager (AI x Renewables)",
-      "company": "Autarcenergy",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/growth-manager-ai-x-renewables-berlin-342548",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Scientific Assistant to Vice Presidium International Affairs & University Development (m, f, d)- 30 hours",
-      "company": "Global University Systems GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/global-university-systems-gmbh/scientific-assistant-to-vice-presidium-international-affairs-university-development-m-f-d-30-hours-berlin-472182",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Operations Management Intern – Germany (AI x Greentech) (m/f/d)",
-      "company": "Reonic",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/reonic/operations-management-intern-germany-ai-x-greentech-berlin-440566",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Team Lead SAP ABAP Development – Data Migration (m/w/d)",
-      "company": "Natuvion GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-team-lead-sap-abap-development-data-migration-berlin-368024",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Advisor Project Excellence & AI (m/w/d)",
-      "company": "Natuvion GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/natuvion-gmbh/remote-senior-advisor-project-excellence-ai-berlin-335684",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Data Platform Engineer (f/m/d)  for the European AI Factory HammerHAI",
-      "company": "Lrz",
-      "location": "Garching bei München",
-      "url": "https://www.arbeitnow.com/jobs/companies/lrz/data-platform-engineer-for-the-european-ai-factory-hammerhai-garching-bei-munchen-91148",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Customer Success Expert (m/f/d) for the European AI Factory HammerHAI",
-      "company": "Lrz",
-      "location": "Garching bei München",
-      "url": "https://www.arbeitnow.com/jobs/companies/lrz/customer-success-expert-for-the-european-ai-factory-hammerhai-garching-bei-munchen-10158",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "AI Education Expert (m/f/d) for the European AI Factory HammerHAI",
-      "company": "Lrz",
-      "location": "Garching bei München",
-      "url": "https://www.arbeitnow.com/jobs/companies/lrz/ai-education-expert-for-the-european-ai-factory-hammerhai-garching-bei-munchen-289248",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Training Specialist (m/f/d)",
-      "company": "DocuWare",
-      "location": "Germering / Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/docuware/training-specialist-germering-germany-344080",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Team Lead AI Process Automation (m/f/d)",
-      "company": "DocuWare",
-      "location": "Germering / Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/docuware/team-lead-ai-process-automation-germering-germany-159182",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Industrial Data & Solutions Engineer (gn) @ Stealth AI Venture, Berlin",
-      "company": "atlantic.vc",
-      "location": "Berlin, Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/industrial-data-solutions-engineer-gn-at-stealth-ai-venture-berlin-405497",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Energy Analyst",
-      "company": "Gridcog",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/gridcog/senior-energy-analyst-berlin-80696",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Paid Social & Influencer Marketing Manager [*] - deutschlandweit",
-      "company": "Notebooksbilliger",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/notebooksbilliger/paid-social-influencer-marketing-manager-deutschlandweit-berlin-58811",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Legal Specialist Tech & Data (m/f/d)",
-      "company": "Neon",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/neon/legal-specialist-tech-data-berlin-364583",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Global Director of Social Data",
-      "company": "oliver",
+      "title": "Senior Financial Analyst - Licensing Consumer Products",
+      "company": "Hasbro",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/global-director-of-social-data-london-120277",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hasbro/senior-financial-analyst-licensing-consumer-products-london-377295",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Research Scientist (Architectures Research)",
-      "company": "Nebius",
+      "title": "Technical Trainer",
+      "company": "hyperexponential",
+      "location": "London (hybrid)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hyperexponential/technical-trainer-london-475680",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Product Manager, Performance AI",
+      "company": "Wpp",
       "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-research-scientist-architectures-research-335775",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wpp/product-manager-performance-ai-496159",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Sustainability advisor",
-      "company": "Watershed",
+      "title": "Campaign Manager",
+      "company": "tem",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/campaign-manager-united-kingdom-215660",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Engineering Maintenance Lead",
+      "company": "Thgingenuity",
+      "location": "Manchester",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/engineering-maintenance-lead-manchester-389",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Researcher — Distillation",
+      "company": "Jobgether",
+      "location": "UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/ai-researcher-distillation-uk-63519",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Analyst Client Success- EMEA",
+      "company": "Guidepoint",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/watershed/sustainability-advisor-london-481303",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/guidepoint/senior-analyst-client-success-emea-london-297948",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Sustainability data advisor",
-      "company": "Watershed",
+      "title": "Software Engineer - Applied AI",
+      "company": "Wehrtyou",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/watershed/sustainability-data-advisor-london-369886",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/software-engineer-applied-ai-london-135817",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Performance Marketing Manager (Paid Social)",
-      "company": "iwoca",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-performance-marketing-manager-paid-social-london-324396",
+      "title": "KYC and Admin Analyst",
+      "company": "Volta",
+      "location": "London, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/volta/kyc-and-admin-analyst-london-237873",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Analyst, Business Partnership - Merchant Ops",
-      "company": "Checkout.com",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-analyst-business-partnership-merchant-ops-london-304518",
+      "title": "Analyst, Strategic Finance",
+      "company": "Volta",
+      "location": "London, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/volta/analyst-strategic-finance-london-313041",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Data Analyst, People Analytics",
-      "company": "Checkout.com",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-data-analyst-people-analytics-london-258871",
+      "title": "AI Product Owner",
+      "company": "Legal 500",
+      "location": "Leeds",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-500/ai-product-owner-leeds-57726",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "AI Quality Lead",
-      "company": "tripadvisor",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/ai-quality-lead-london-468294",
+      "title": "E-retail Executive H/F - CDI",
+      "company": "wppmedia",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/wppmedia/e-retail-executive-h-f-cdi-paris-167371",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Product Manager, Retail",
-      "company": "Deliveroo ",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-product-manager-retail-london-111739",
+      "title": "Senior data collection operator (FR)",
+      "company": "Genesis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/genesis/senior-data-collection-operator-fr-paris-52700",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Complaints Specialist, EMEA",
-      "company": "Airwallex",
-      "location": "UK - London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/senior-complaints-specialist-emea-london-389118",
+      "title": "Gestionnaire d'Images H/F",
+      "company": "Median Technologies",
+      "location": "Valbonne, Provence-Alpes-Côte d'Azur, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/median-technologies/gestionnaire-dimages-h-f-valbonne-15974",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Chef de Projet Paid Media Senior (H/F)",
+      "company": "Sezane 3",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/chef-de-projet-paid-media-senior-h-f-paris-179218",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Data Engineer - Analytics (x/f/m)",
+      "company": "Doctolib",
+      "location": "Paris, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-data-engineer-analytics-paris-paris-9674",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -1094,82 +1134,82 @@
       "matchScore": 0
     },
     {
-      "title": "CENTRALE LYON - Post-doctoral researcher (12 months) Mathematics of energy-efficient AI: diffusion models on emerging hardware",
-      "company": "CENTRALE LYON",
-      "location": "Ecully, Auvergne-Rhône-Alpes, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-post-doctoral-researcher-12-months-mathematics-of-energy-efficient-ai-diffusion-models-on-emerging-hardware-ecully-308009",
+      "title": "Senior GTM Systems AI and Automation Engineer",
+      "company": "Camunda",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-gtm-systems-ai-and-automation-engineer-98803",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Business Development Manager (AI Data Solutions)",
-      "company": "TransPerfect",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/business-development-manager-ai-data-solutions-paris-183168",
+      "title": "Senior Software Engineer, Backend - Data Streaming",
+      "company": "Camunda",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-backend-data-streaming-195842",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Business Development Manager - AI Data Solutions (Paris)",
-      "company": "TransPerfect",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/business-development-manager-ai-data-solutions-paris-47425",
+      "title": "Senior Software Engineer, Backend - Data Layer",
+      "company": "Camunda",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-senior-software-engineer-backend-data-layer-216001",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Stockiste (H/F) - La Samaritaine - CDI",
-      "company": "Sezane 3",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/stockiste-h-f-la-samaritaine-cdi-paris-191947",
+      "title": "Regulatory Affairs Manager Schweiz (m/w/d) in Teilzeit 50%-60%",
+      "company": "Otsuka Pharma GmbH",
+      "location": "Glattbrugg, Zürich, Schweiz",
+      "url": "https://www.arbeitnow.ch/jobs/companies/otsuka-pharma-gmbh/regulatory-affairs-manager-schweiz-in-teilzeit-50-60-glattbrugg-163911",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "VC Analyst - Internship",
-      "company": "Hexa",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/hexa/vc-analyst-internship-paris-195723",
+      "title": "(Senior) Customer Success Manager Kultur/Sport/Entertainment (d/f/m)",
+      "company": "Vivenu",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/vivenu/senior-customer-success-manager-kultur-sport-entertainment-zurich-263149",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Chargé d'action des aides agricoles et développement rural - 1618 H/F",
-      "company": "Agence de services et de paiement",
-      "location": "Limoges, Nouvelle-Aquitaine, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/charge-daction-des-aides-agricoles-et-developpement-rural-1618-h-f-limoges-229382",
+      "title": "AI Tester with French",
+      "company": "Tsmg",
+      "location": "Lausanne",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-tester-with-french-lausanne-172109",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Account Associate - Retail & Grocery (H/F)",
-      "company": "Deliveroo",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/deliveroo/account-associate-retail-grocery-h-f-paris-476954",
+      "title": "AI Speech Tester (Italian native speaker - Switzerland regional variant)",
+      "company": "Tsmg",
+      "location": "Lugano",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-italian-native-speaker-switzerland-regional-variant-lugano-84957",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Technicien.ne de maintenance (Evreux)",
-      "company": "Exotec",
-      "location": "Évreux, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/technicienne-de-maintenance-evreux-evreux-348814",
+      "title": "AI Speech Tester (German native speaker - Switzerland regional variant)",
+      "company": "Tsmg",
+      "location": "Basel",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-german-native-speaker-switzerland-regional-variant-basel-126550",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Commercial(e) Terrain Rennes",
-      "company": "sumup",
-      "location": "Rennes, Ille-et-Vilaine",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sumup/commerciale-terrain-rennes-rennes-ille-et-vilaine-191168",
+      "title": "AI Speech Tester (French native speaker - Switzerland regional variant)",
+      "company": "Tsmg",
+      "location": "Lausanne",
+      "url": "https://www.arbeitnow.ch/jobs/companies/tsmg/ai-speech-tester-french-native-speaker-switzerland-regional-variant-lausanne-251279",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Commercial(e) Terrain Nantes",
-      "company": "sumup",
-      "location": "Nantes, Loire-Atlantique",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sumup/commerciale-terrain-nantes-nantes-loire-atlantique-13172",
+      "title": "AI Scientist",
+      "company": "Mistral.ai",
+      "location": "Zurich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/mistralai/ai-scientist-zurich-180737",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -1367,21 +1407,8 @@
       "isNew": true,
       "source": "Remotive",
       "matchScore": 0
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "Lemon.io",
-      "location": "LATAM, Europe, USA, Canada, APAC",
-      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091099",
-      "salary": "",
-      "experience": "Not specified",
-      "fitScore": 80,
-      "category": "Remote",
-      "isNew": true,
-      "source": "Remotive",
-      "matchScore": 0
     }
   ],
-  "totalJobs": 125,
-  "lastUpdated": "2026-09-26T05:17:10.081674+00:00"
+  "totalJobs": 129,
+  "lastUpdated": "2026-09-27T05:34:07.914763+00:00"
 }
