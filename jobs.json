@@ -18,6 +18,22 @@
       "matchScore": 55
     },
     {
+      "title": "GenAI Engineer (F/H/NB)",
+      "company": "SFEIR",
+      "location": "Bordeaux",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/genai-engineer-b-bordeaux-117004",
+      "source": "Arbeitnow",
+      "matchScore": 45
+    },
+    {
+      "title": "GenAI Engineer (F/H) - Rennes",
+      "company": "SFEIR",
+      "location": "Rennes",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/genai-engineer-f-h-rennes-402357",
+      "source": "Arbeitnow",
+      "matchScore": 45
+    },
+    {
       "title": "Staff GenAI Engineer - Application Performance Monitoring (APM)",
       "company": "Datadog",
       "location": "New York, New York, USA",
@@ -51,9 +67,9 @@
     },
     {
       "title": "Applied AI Engineer",
-      "company": "Elevenlabs",
+      "company": "ElevenLabs",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-applied-ai-engineer-467829",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-applied-ai-engineer-404690",
       "source": "Arbeitnow",
       "matchScore": 35
     },
@@ -93,7 +109,7 @@
       "title": "Staff Machine Learning Engineer(Platform - Identity)",
       "company": "Coinbase",
       "location": "Remote - USA",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;amp;utm_source=coinbase&quot;&gt;Coinbase&lt;/a&gt;, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it’s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for &quot;good enough,&quot; you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/careers&quot;&gt;learn more about working at Coinbase&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;Staff Machine Learning Engineer, Identity Verification&lt;/h1&gt;\n&lt;p class=&quot;mb-2 whitespace-pre-wrap&quot;&gt;As a Staff Machine Learning Engineer on the Identity Verification team within the&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/careers/product-groups&quot;&gt;Platform&lt;/a&gt;&amp;nbsp;group, you&#39;ll own the ML systems that determine whether a person, document, and capture session are legitimate. Every signup, account recovery, and high-risk action at Coinbase depends on these models. You&#39;ll lead the technical strategy for IDV ML end-to-end, from architecture through production enforcement, protecting the integrity of millions of accounts.&lt;/p&gt;\n&lt;p class=&quot;mb-2 whitespace-pre-wrap&quot;&gt;&lt;strong&gt;What you&#39;ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the full IDV ML stack, including document authenticity models, 1:1 and 1:N&amp;nbsp;face-match, liveness detection, presentation-attack detection, and deepfake/injection detection from feature pipeline through threshold tuning and production enforcement.&lt;/li&gt;\n&lt;li&gt;Build identity-graph systems using GNNs that cluster accounts sharing biometric, device, and document signals to detect synthetic-identity rings and coordinated fraud at onboarding.&lt;/li&gt;\n&lt;li&gt;Develop behavioral and device-intelligence models for capture-session anomaly detection, bot-vs-human classification, and device-fingerprint-based risk scoring at real-time latency.&lt;/li&gt;\n&lt;li&gt;Drive vendor ML strategy by benchmarking external models against a Coinbase-owned evaluation set, designing dynamic routing logic across providers and geographies, and building the in-house evaluation layer that catches regressions before they reach users.&lt;/li&gt;\n&lt;li&gt;Lead and mentor senior and mid-level engineers in the pod while partnering with ML Platform and Risk ML teams to align cross-company ML system design.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;mb-2 whitespace-pre-wrap&quot;&gt;&lt;strong&gt;Required Skills and Experience:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years deploying production ML systems at scale, with proven technical leadership owning cross-team ML architecture from design through production.&lt;/li&gt;\n&lt;li&gt;Domain experience in identity verification, biometrics, or account integrity with deep applied ML in at least two of: computer vision/biometrics, GNNs, sequence models, or NLP/LLMs.&lt;/li&gt;\n&lt;li&gt;Expert-level Python with production experience in TensorFlow or PyTorch, including model training, evaluation, and serving infrastructure.&lt;/li&gt;\n&lt;li&gt;Track record translating KYC/AML requirements and fraud trends into ML roadmaps and communicating trade-offs to Product, Compliance, Risk, and Security stakeholders.&lt;/li&gt;\n&lt;li&gt;Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency Notice:&lt;/strong&gt;&lt;strong&gt;&lt;em&gt; &lt;/em&gt;&lt;/strong&gt;Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)).&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual base salary range (excluding equity and bonus):&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$218,025&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$256,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;ul&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;strong&gt;&lt;em&gt;Application Limit: &lt;/em&gt;&lt;/strong&gt;Candidates may submit a maximum of 3 applications within a 6-month period.&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Equal Opportunity Employer: &lt;/strong&gt;Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;US Applicants: &lt;/strong&gt;View&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf&quot;&gt; Employee Rights&lt;/a&gt;,&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf&quot;&gt; Know Your Rights&lt;/a&gt;, and&lt;a href=&quot;https://static-assets.coinbase.com/e-verify.pdf&quot;&gt; E-Verify&lt;/a&gt; Notice of Participation.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Accommodations: &lt;/strong&gt;If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&amp;nbsp;Need screen reading technology?&lt;a href=&quot;https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn&quot;&gt; Click here&lt;/a&gt; to download a free compatible screen reader and view the&lt;a href=&quot;http://www.chromevox.com/tutorial/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;tutorial&lt;/a&gt;.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Data Privacy &amp;amp; Arbitration: &lt;/strong&gt;By submitting your application, you agree to our&lt;a href=&quot;https://www.coinbase.com/legal/applicant_privacy_notice&quot;&gt; Candidate Privacy Notice&lt;/a&gt;. US applicants: By submitting your application, you agree to&lt;a href=&quot;https://www.coinbase.com/legal/application-arbitration-agreement&quot;&gt; Arbitration of Disputes&lt;/a&gt;.&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div id=&quot;fortidlp-input-element-parent&quot;&gt;&lt;/div&gt;&lt;/div&gt;",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;amp;utm_source=coinbase&quot;&gt;Coinbase&lt;/a&gt;, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn&#39;t a place for complacency, it’s a place to be pushed past your perceived limits. If you&#39;re ready to build the future of finance alongside people who refuse to settle for &quot;good enough,&quot; you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&amp;nbsp;&lt;a href=&quot;https://www.coinbase.com/careers&quot;&gt;learn more about working at Coinbase&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;Staff Machine Learning Engineer, Identity Verification&lt;/h1&gt;\n&lt;p class=&quot;mb-2 whitespace-pre-wrap&quot;&gt;As a Staff Machine Learning Engineer on the Identity Verification team within the &lt;a href=&quot;https://www.coinbase.com/careers/product-groups&quot; target=&quot;_blank&quot;&gt;Platform&lt;/a&gt; group, you&#39;ll own the ML systems that determine whether a person, document, and capture session are legitimate. Every signup, account recovery, and high-risk action at Coinbase depends on these models. You&#39;ll lead the technical strategy for IDV ML end-to-end, from architecture through production enforcement, protecting the integrity of millions of accounts.&lt;/p&gt;\n&lt;p class=&quot;mb-2 whitespace-pre-wrap&quot;&gt;&lt;strong&gt;What you&#39;ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the full IDV ML stack, including document authenticity models, 1:1 and 1:N&amp;nbsp;face-match, liveness detection, presentation-attack detection, and deepfake/injection detection from feature pipeline through threshold tuning and production enforcement.&lt;/li&gt;\n&lt;li&gt;Build identity-graph systems using GNNs that cluster accounts sharing biometric, device, and document signals to detect synthetic-identity rings and coordinated fraud at onboarding.&lt;/li&gt;\n&lt;li&gt;Develop behavioral and device-intelligence models for capture-session anomaly detection, bot-vs-human classification, and device-fingerprint-based risk scoring at real-time latency.&lt;/li&gt;\n&lt;li&gt;Drive vendor ML strategy by benchmarking external models against a Coinbase-owned evaluation set, designing dynamic routing logic across providers and geographies, and building the in-house evaluation layer that catches regressions before they reach users.&lt;/li&gt;\n&lt;li&gt;Lead and mentor senior and mid-level engineers in the pod while partnering with ML Platform and Risk ML teams to align cross-company ML system design.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;mb-2 whitespace-pre-wrap&quot;&gt;&lt;strong&gt;Required Skills and Experience:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years deploying production ML systems at scale, with proven technical leadership owning cross-team ML architecture from design through production.&lt;/li&gt;\n&lt;li&gt;Domain experience in identity verification, biometrics, or account integrity with deep applied ML in at least two of: computer vision/biometrics, GNNs, sequence models, or NLP/LLMs.&lt;/li&gt;\n&lt;li&gt;Expert-level Python with production experience in TensorFlow or PyTorch, including model training, evaluation, and serving infrastructure.&lt;/li&gt;\n&lt;li&gt;Track record translating KYC/AML requirements and fraud trends into ML roadmaps and communicating trade-offs to Product, Compliance, Risk, and Security stakeholders.&lt;/li&gt;\n&lt;li&gt;Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency Notice:&lt;/strong&gt;&lt;strong&gt;&lt;em&gt; &lt;/em&gt;&lt;/strong&gt;Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)).&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual base salary range (excluding equity and bonus):&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$218,025&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$256,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;ul&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;strong&gt;&lt;em&gt;Application Limit: &lt;/em&gt;&lt;/strong&gt;Candidates may submit a maximum of 3 applications within a 6-month period.&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Equal Opportunity Employer: &lt;/strong&gt;Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;US Applicants: &lt;/strong&gt;View&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf&quot;&gt; Employee Rights&lt;/a&gt;,&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf&quot;&gt; Know Your Rights&lt;/a&gt;, and&lt;a href=&quot;https://static-assets.coinbase.com/e-verify.pdf&quot;&gt; E-Verify&lt;/a&gt; Notice of Participation.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Accommodations: &lt;/strong&gt;If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&amp;nbsp;Need screen reading technology?&lt;a href=&quot;https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn&quot;&gt; Click here&lt;/a&gt; to download a free compatible screen reader and view the&lt;a href=&quot;http://www.chromevox.com/tutorial/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;tutorial&lt;/a&gt;.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-style: italic; font-size: 8pt;&quot;&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;em&gt;&lt;strong&gt;Data Privacy &amp;amp; Arbitration: &lt;/strong&gt;By submitting your application, you agree to our&lt;a href=&quot;https://www.coinbase.com/legal/applicant_privacy_notice&quot;&gt; Candidate Privacy Notice&lt;/a&gt;. US applicants: By submitting your application, you agree to&lt;a href=&quot;https://www.coinbase.com/legal/application-arbitration-agreement&quot;&gt; Arbitration of Disputes&lt;/a&gt;.&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div id=&quot;fortidlp-input-element-parent&quot;&gt;&lt;/div&gt;&lt;/div&gt;",
       "skills": [
         "python",
         "machine learning",
@@ -103,7 +119,7 @@
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://www.coinbase.com/careers/positions/8211486?gh_jid=8211486",
+      "url": "https://www.coinbase.com/careers/positions/7891045?gh_jid=7891045",
       "matchScore": 35
     },
     {
@@ -118,14 +134,6 @@
       "isNew": true,
       "source": "Remotive",
       "matchScore": 35
-    },
-    {
-      "title": "Data Scientist Intern - 2027",
-      "company": "Wehrtyou",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/data-scientist-intern-2027-london-106355",
-      "source": "Arbeitnow",
-      "matchScore": 30
     },
     {
       "title": "Data Scientist",
@@ -178,7 +186,7 @@
     {
       "title": "PhD Data Scientist, Intern",
       "company": "Stripe",
-      "location": "Toronto",
+      "location": "New York, Seattle, South San Francisco HQ",
       "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million &lt;a href=&quot;https://stripe.com/customers&quot;&gt;businesses&lt;/a&gt; build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make &lt;a href=&quot;https://stripe.com/roadmap&quot;&gt;upgrades to our products&lt;/a&gt; every single day to deliver compounding gains to our customers. We maintain some of the most &lt;a href=&quot;https://status.stripe.com/&quot;&gt;reliable APIs&lt;/a&gt; on the internet. We build entirely new &lt;a href=&quot;https://tempo.xyz/&quot;&gt;pieces&lt;/a&gt; of &lt;a href=&quot;https://mpp.dev/&quot;&gt;financial&lt;/a&gt; &lt;a href=&quot;https://joinopenstandard.com/&quot;&gt;infrastructure&lt;/a&gt; to enable new ideas. And our significant advances in &lt;a href=&quot;https://stripe.com/radar&quot;&gt;risk and fraud&lt;/a&gt; infrastructure over many years are making the internet economy safer and more accessible.&lt;/p&gt;\n&lt;p&gt;Though people at Stripe don’t tend to take themselves seriously, Stripe is a fairly serious place: our customers are depending on us for their livelihoods. We admire ambition, intensity, curiosity, humility, and rigor. The most effective people become knowledgeable about many domains besides their own. Any company is an applied exercise in understanding some aspect of society or the market. In working with so many (especially the new and innovative ones), we think that Stripe is one of the very best places to learn about how the world works.&lt;/p&gt;\n&lt;h3&gt;&amp;nbsp;&lt;/h3&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Our Data Science team partners deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. We&#39;re looking for data scientists with a passion for analyzing data, building machine learning and statistical models, and running experiments to drive impact. Our Fraud, Losses, and Financial Crime Data Science team builds the models and data products that protect Stripe and its users from fraud, account takeover, and financial crime. We own the full fraud and loss modeling stack - from account takeover detection and card fraud classification to merchant-level loss estimation, unsupervised anomaly detection, and financial crime risk modeling. We partner with Fraud Engineering, Financial Crimes Engineering, and Risk Operations to bring these systems into production and ensure they have measurable impact on Stripe&#39;s financial integrity and user trust.&lt;/p&gt;\n&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h2&gt;What you’ll do&lt;/h2&gt;\n&lt;p&gt;As an intern at Stripe you’ll work on projects across our stack that directly impact the way millions of businesses operate. You’ll own problems end to end with the support of your manager and teammates. It’s an opportunity to work alongside some of the most creative and technically rigorous data analysts and scientists in the industry. You&#39;ll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You&#39;ll work closely with partners to extract insights from the rich and complex data at Stripe. You&#39;ll build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You&#39;ll deliver actionable business recommendations through analyses and data storytelling.&lt;/p&gt;\n&lt;p&gt;Our internship program is competitive and the expectations are high.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Applying probability distributions, statistical inference, and hypothesis testing to quantify uncertainty and evaluate business outcomes&lt;/li&gt;\n&lt;li&gt;Using Python or R for data analysis, data processing, visualizations, statistical modeling, machine learning, predictive analytics, automation, and implementing causal inference and experimental analyses&lt;/li&gt;\n&lt;li&gt;Building, training, and evaluating predictive models across regression and classification tasks for bias-variance trade-offs and model selection&lt;/li&gt;\n&lt;li&gt;Modeling temporal dependencies, seasonality, and trend decomposition to generate and evaluate time-series predictions&lt;/li&gt;\n&lt;li&gt;Identifying structural patterns, clusters, and outliers in unlabeled data&lt;/li&gt;\n&lt;li&gt;Deploying models in production and adjusting model thresholds to improve performance&lt;/li&gt;\n&lt;li&gt;Designing, running, and analyzing complex experiments and leveraging causal inference designs&lt;/li&gt;\n&lt;li&gt;Using SQL and Spark to create, transform, and analyze large datasets&lt;/li&gt;\n&lt;li&gt;Learn quickly by asking great questions, finding how to work with your mentor and teammates effectively, and communicating the status of your work clearly&lt;/li&gt;\n&lt;li&gt;Present your work to the Data Science team, partner teams, and fellow interns.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;Who you are&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Ambitious builder: You’re energized by building solutions without clear precedent and solving problems with far-reaching consequences. Successful Stripes are deeply curious, and prefer the joy of discovery to the comfort of certainty.&lt;/li&gt;\n&lt;li&gt;Rigorous thinker: You appreciate that things worth doing are rarely simple. You enjoy working on problems that have never been tackled before.&lt;/li&gt;\n&lt;li&gt;Adaptable problem solver: You adapt quickly and treat obstacles as opportunities. At Stripe we embrace kindness while encouraging Stripes to take measured risks and act boldly, even in the absence of consensus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&amp;nbsp;&lt;/h3&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Enrolled in a quantitative &lt;strong&gt;&lt;em&gt;PhD program&lt;/em&gt;&lt;/strong&gt; (e.g. Data Science, Statistics, Economics, Mathematics, etc.) with the expectation of graduating in December 2027 or spring/summer 2028&lt;/li&gt;\n&lt;li&gt;Experience with SQL and a scientific computing language (such as Python, R, etc.)&lt;/li&gt;\n&lt;li&gt;Proficiency with AI tools to accelerate model development, analysis, and coding&lt;/li&gt;\n&lt;li&gt;Experience communicating and collaborating with multidisciplinary stakeholders in a team environment&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&amp;nbsp;&lt;/h3&gt;\n&lt;h3&gt;Preferred qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience writing and debugging data pipelines&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to evaluate and receive feedback from mentors, peers, and stakeholders via experience from previous internships or other multi-person projects&lt;/li&gt;\n&lt;li&gt;Ability to learn new systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts&lt;/li&gt;\n&lt;/ul&gt;",
       "skills": [
         "python",
@@ -188,7 +196,7 @@
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194285",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194283",
       "matchScore": 30
     },
     {
@@ -204,26 +212,10 @@
       "matchScore": 30
     },
     {
-      "title": "Machine Learning Researcher",
-      "company": "Janestreet",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/janestreet/machine-learning-researcher-london-183750",
-      "source": "Arbeitnow",
-      "matchScore": 25
-    },
-    {
       "title": "Artificial Intelligence (AI) Technician",
       "company": "Jobgether",
-      "location": "UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/artificial-intelligence-ai-technician-uk-456473",
-      "source": "Arbeitnow",
-      "matchScore": 25
-    },
-    {
-      "title": "Legal AI Engineer (Zurich)",
-      "company": "Legartis",
-      "location": "Zurich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/legartis/legal-ai-engineer-zurich-309794",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/artificial-intelligence-ai-technician-switzerland-260682",
       "source": "Arbeitnow",
       "matchScore": 25
     },
@@ -424,34 +416,18 @@
       "matchScore": 25
     },
     {
-      "title": "Intern AI & Data Engineering (m/f/d)",
-      "company": "Ommax",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/ommax/intern-ai-data-engineering-munchen-298557",
+      "title": "Data Engineer",
+      "company": "Ivcevidensia",
+      "location": "Keynsham, Bristol, England",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/data-engineer-keynsham-bristol-england-437639",
       "source": "Arbeitnow",
       "matchScore": 20
     },
     {
-      "title": "Business Data Analyst Finance & Requirements Management (m/w/d)",
-      "company": "Aer Group",
-      "location": "Berlin Boppstr.",
-      "url": "https://www.arbeitnow.com/jobs/companies/aer-group/business-data-analyst-finance-requirements-management-berlin-boppstr-28055",
-      "source": "Arbeitnow",
-      "matchScore": 20
-    },
-    {
-      "title": "LLM Scientist, AI for Science",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/llm-scientist-ai-for-science-paris-92367",
-      "source": "Arbeitnow",
-      "matchScore": 20
-    },
-    {
-      "title": "AI First Data Engineer",
-      "company": "isolutions",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/ai-first-data-engineer-zurich-402283",
+      "title": "Graduate Data Engineer",
+      "company": "Quantum",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/graduate-data-engineer-london-224719",
       "source": "Arbeitnow",
       "matchScore": 20
     },
@@ -494,11 +470,10 @@
       "title": "Data Analyst, Global Growth",
       "company": "Stripe",
       "location": "Singapore",
-      "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt;\n&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Our Data Science team partners deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. We&#39;re looking for data scientists with a passion for analyzing data, building machine learning and statistical models, and running experiments to drive impact. Our work is broad and varied, influencing how our products work (e.g., understanding user needs, preventing fraud, or optimizing charge flows), how our business works (forecasting key outcomes, managing liquidity, and quantifying risk exposure), how our go-to-market motions operate (designing growth experiments, optimizing marketing investments, refining sales processes, and estimating causal effects), and everything in between. We have a variety of Data Science roles and teams across Stripe and will seek to align you to the most relevant team based on your background.&lt;/p&gt;\n&lt;h2&gt;What you’ll do&lt;/h2&gt;\n&lt;p&gt;We’re looking for a Data Analyst to partner with our Global organization to drive international expansion and growth. You’ll play a key role in designing and shipping experiments, owning data pipelines, and collaborating with product and engineering teams to establish the right success metrics. You will help track our progress in helping new users to go live on Stripe and empowering existing users to sell globally. Working closely with cross-functional partners, you&#39;ll extract actionable insights from Stripe&#39;s rich, complex datasets. You will also translate complex business goals into clear analytical frameworks. From building scalable dashboards to crafting compelling data narratives, your insights will directly shape how we run and grow the business.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelors + 8 years or Masters + 6 years or Phd + 3 years&lt;/li&gt;\n&lt;li&gt;Proficiency in Scala or Python for data pipeline development, not just scripting and SQL&lt;/li&gt;\n&lt;li&gt;Proven ability to manage and deliver on multiple projects with great attention to detail&lt;/li&gt;\n&lt;li&gt;Ability to clearly communicate results and drive impact&lt;/li&gt;\n&lt;li&gt;Experience with workflow orchestration tools (e.g. Airflow, Flyte, or equivalent)&lt;/li&gt;\n&lt;li&gt;Experience with distributed data frameworks such as Spark to write and debug data pipelines&lt;/li&gt;\n&lt;li&gt;Proficiency with AI tools to accelerate model development, analysis, and coding&lt;/li&gt;\n&lt;li&gt;Ability to design, implement, and maintain data pipelines and dashboards to generate actionable insights based on stakeholder requirements&lt;/li&gt;\n&lt;li&gt;Experience collaborating with cross-functional teams to deliver strategic insights, benchmarks, and analyses that provide recommendations&lt;/li&gt;\n&lt;li&gt;Ability to enable stakeholders and partners by building self-service tooling and providing training to empower stakeholder teams to be data literate and self-sufficient in autonomous reporting capabilities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;&amp;nbsp;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Prior experience at a growth-stage internet or software company&lt;/li&gt;\n&lt;li&gt;Good understanding of development processes and best practices like engineering standards, code reviews, and testing&lt;/li&gt;\n&lt;li&gt;Strong statistical knowledge&lt;/li&gt;\n&lt;li&gt;Working knowledge of Python&lt;/li&gt;\n&lt;li&gt;Experience creating leadership-level reporting, such as QBRs, MBRs&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;",
+      "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt;\n&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Our Data Science team partners deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. We&#39;re looking for a data analyst with a passion for analyzing data, statistical models, and running experiments to drive impact. Our work is broad and varied, influencing how our products work (e.g., understanding user needs, preventing fraud, or optimizing charge flows), how our business works (forecasting key outcomes, managing liquidity, and quantifying risk exposure), how our go-to-market motions operate (designing growth experiments, optimizing marketing investments, refining sales processes, and estimating causal effects), and everything in between.&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;What you’ll do&lt;/h2&gt;\n&lt;p&gt;We’re looking for a Data Analyst to partner with our Global organization to drive international expansion and growth. You’ll play a key role in designing and shipping experiments, owning data pipelines, and collaborating with product and engineering teams to establish the right success metrics. You will help track our progress in helping new users to go live on Stripe and empowering existing users to sell globally. Working closely with cross-functional partners, you&#39;ll extract actionable insights from Stripe&#39;s rich, complex datasets. You will also translate complex business goals into clear analytical frameworks. From building scalable dashboards to crafting compelling data narratives, your insights will directly shape how we run and grow the business.&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and build scalable data models and infrastructure to power product analytics and metrics reporting as we launch and grow new products&lt;/li&gt;\n&lt;li&gt;Own business-critical data products, including datasets and production pipelines, ensuring reliability through rigorous testing, monitoring, and documentation&lt;/li&gt;\n&lt;li&gt;Build and maintain the metric definitions, metadata, and business context that enable AI agents to help stakeholders explore trusted data and answer business questions independently&lt;/li&gt;\n&lt;li&gt;Develop dashboards, automated reporting, and thoughtful analyses to surface actionable insights and proactively identify business opportunities&lt;/li&gt;\n&lt;li&gt;Partner closely with senior business leaders to translate business needs into analytical questions and deliver clear recommendations through deep-dive analyses&lt;/li&gt;\n&lt;li&gt;Shape product and business strategy across global markets by distilling complex findings into compelling data narratives for senior stakeholders&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor’s degree and 8 years of experience, master’s degree and 6 years of experience, or PhD and 3 years of experience&lt;/li&gt;\n&lt;li&gt;Proficiency in Scala or Python for data pipeline development, not just scripting and SQL&lt;/li&gt;\n&lt;li&gt;Proven ability to manage and deliver on multiple projects with great attention to detail&lt;/li&gt;\n&lt;li&gt;Ability to clearly communicate results and drive impact&lt;/li&gt;\n&lt;li&gt;Experience with workflow orchestration tools (e.g. Airflow, Flyte, or equivalent)&lt;/li&gt;\n&lt;li&gt;Experience with distributed data frameworks such as Spark to write and debug data pipelines&lt;/li&gt;\n&lt;li&gt;Proficiency with AI tools to accelerate model development, analysis, and coding&lt;/li&gt;\n&lt;li&gt;Ability to design, implement, and maintain data pipelines and dashboards to generate actionable insights based on stakeholder requirements&lt;/li&gt;\n&lt;li&gt;Experience collaborating with cross-functional teams to deliver strategic insights, benchmarks, and analyses that provide recommendations&lt;/li&gt;\n&lt;li&gt;Ability to enable stakeholders and partners by building self-service tooling and providing training to empower stakeholder teams to be data literate and self-sufficient in autonomous reporting capabilities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;&amp;nbsp;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Prior experience at a growth-stage internet or software company&lt;/li&gt;\n&lt;li&gt;Good understanding of development processes and best practices like engineering standards, code reviews, and testing&lt;/li&gt;\n&lt;li&gt;Working knowledge of Python&lt;/li&gt;\n&lt;li&gt;Experience creating leadership-level reporting, such as quarterly business reviews and monthly business reviews&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;",
       "skills": [
         "python",
-        "sql",
-        "machine learning"
+        "sql"
       ],
       "salary": "Not specified",
       "experience": "Not specified",
@@ -509,7 +484,7 @@
     {
       "title": "Data Analyst, Intern",
       "company": "Stripe",
-      "location": "New York, Seattle, South San Francisco HQ",
+      "location": "Toronto",
       "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale. More than 10 million &lt;a href=&quot;https://stripe.com/customers&quot;&gt;businesses&lt;/a&gt; build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.6% of global GDP. While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches. Our own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make &lt;a href=&quot;https://stripe.com/roadmap&quot;&gt;upgrades to our products&lt;/a&gt; every single day to deliver compounding gains to our customers. We maintain some of the most &lt;a href=&quot;https://status.stripe.com/&quot;&gt;reliable APIs&lt;/a&gt; on the internet. We build entirely new &lt;a href=&quot;https://tempo.xyz/&quot;&gt;pieces&lt;/a&gt; of &lt;a href=&quot;https://mpp.dev/&quot;&gt;financial&lt;/a&gt; &lt;a href=&quot;https://joinopenstandard.com/&quot;&gt;infrastructure&lt;/a&gt; to enable new ideas. And our significant advances in &lt;a href=&quot;https://stripe.com/radar&quot;&gt;risk and fraud&lt;/a&gt; infrastructure over many years are making the internet economy safer and more accessible.&lt;/p&gt;\n&lt;p&gt;Though people at Stripe don’t tend to take themselves seriously, Stripe is a fairly serious place: our customers are depending on us for their livelihoods. We admire ambition, intensity, curiosity, humility, and rigor. The most effective people become knowledgeable about many domains besides their own. Any company is an applied exercise in understanding some aspect of society or the market. In working with so many (especially the new and innovative ones), we think that Stripe is one of the very best places to learn about how the world works.&lt;/p&gt;\n&lt;h3&gt;&amp;nbsp;&lt;/h3&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Data Science at Stripe is a vibrant community where data analysts and data scientists learn and grow together. You&#39;ll work with some of the most fundamental data at Stripe, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background.&lt;/p&gt;\n&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h2&gt;What you’ll do&lt;/h2&gt;\n&lt;p&gt;As an intern at Stripe you’ll work on projects across our stack that directly impact the way millions of businesses operate. You’ll own problems end to end with the support of your manager and teammates. It’s an opportunity to work alongside some of the most creative and technically rigorous data analysts and scientists in the industry. You&#39;ll partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You&#39;ll work closely with partners to extract insights from the rich and complex data at Stripe. You&#39;ll build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You&#39;ll deliver actionable business recommendations through analyses and data storytelling.&lt;/p&gt;\n&lt;p&gt;Our internship program is competitive and the expectations are high.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Analyze data and running experiments to drive impact&lt;/li&gt;\n&lt;li&gt;Ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly&lt;/li&gt;\n&lt;li&gt;Create metrics, reports, and dashboards to inform and run the business&lt;/li&gt;\n&lt;li&gt;Extend Stripe’s metrics semantic layer&lt;/li&gt;\n&lt;li&gt;Build new data assets and improve existing data assets to support decision-making, products, and business processes&lt;/li&gt;\n&lt;li&gt;Assess the impact of decisions, product launches, and product improvements using business analytics and A/B testing&lt;/li&gt;\n&lt;li&gt;Learn quickly by asking great questions, finding how to work with your mentor and teammates effectively, and communicating the status of your work clearly&lt;/li&gt;\n&lt;li&gt;Present your work to the Data Science team, partner teams, and fellow interns&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;Who you are&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Ambitious builder: You’re energized by building solutions without clear precedent and solving problems with far-reaching consequences. Successful Stripes are deeply curious, and prefer the joy of discovery to the comfort of certainty.&lt;/li&gt;\n&lt;li&gt;Rigorous thinker: You appreciate that things worth doing are rarely simple. You enjoy working on problems that have never been tackled before.&lt;/li&gt;\n&lt;li&gt;Adaptable problem solver: You adapt quickly and treat obstacles as opportunities. At Stripe we embrace kindness while encouraging Stripes to take measured risks and act boldly, even in the absence of consensus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&amp;nbsp;&lt;/h3&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Enrolled in a quantitative &lt;strong&gt;&lt;em&gt;Bachelor’s or Master&#39;s degree program&lt;/em&gt;&lt;/strong&gt; (e.g. Data Analytics, Statistics, Economics, Mathematics, etc.) with the expectation of graduating in December 2027 or spring/summer 2028&lt;/li&gt;\n&lt;li&gt;Experience with SQL&lt;/li&gt;\n&lt;li&gt;Proficiency with AI tools to accelerate model development, analysis, and coding&lt;/li&gt;\n&lt;li&gt;Experience communicating and collaborating with multidisciplinary stakeholders in a team environment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&amp;nbsp;&lt;/h3&gt;\n&lt;h3&gt;Preferred qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience writing and debugging data pipelines&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to evaluate and receive feedback from mentors, peers, and stakeholders via experience from previous internships or other multi-person projects&lt;/li&gt;\n&lt;li&gt;Ability to learn new systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts&lt;/li&gt;\n&lt;/ul&gt;",
       "skills": [
         "sql"
@@ -517,7 +492,7 @@
       "salary": "Not specified",
       "experience": "Not specified",
       "source": "Greenhouse",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194287",
       "matchScore": 20
     },
     {
@@ -656,6 +631,14 @@
       "matchScore": 20
     },
     {
+      "title": "Software Engineer Python / FastAPI",
+      "company": "SFEIR",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/software-engineer-python-fastapi-paris-469240",
+      "source": "Arbeitnow",
+      "matchScore": 15
+    },
+    {
       "title": "Senior Machine Learning Engineer, CX Intelligence ",
       "company": "Coinbase",
       "location": "Remote - Brazil",
@@ -687,10 +670,18 @@
       "matchScore": 15
     },
     {
-      "title": "Clinical Pharmacist (Independent Prescriber) at AIOS Medical- Remote, £45/hr inc equity",
-      "company": "AIOS (YC W20/S21)",
-      "location": "Remote (UK hours)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/clinical-pharmacist-independent-prescriber-at-aios-medical-remote-ps45-hr-inc-equity-blackburn-183040",
+      "title": "Senior Data Scientist, Growth (f/m/x)",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-data-scientist-growth-berlin-berlin-308972",
+      "source": "Arbeitnow",
+      "matchScore": 10
+    },
+    {
+      "title": "Software Engineer, Clinical AI Devices",
+      "company": "DeepHealth",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.fr/jobs/companies/deephealth/remote-software-engineer-clinical-ai-devices-paris-321935",
       "source": "Arbeitnow",
       "matchScore": 10
     },
@@ -753,10 +744,10 @@
       "matchScore": 10
     },
     {
-      "title": "Principal AI Engineer (m/f/x) - Industrial AI Engineering",
-      "company": "Appliedai",
-      "location": "München (81671)",
-      "url": "https://www.arbeitnow.com/jobs/companies/appliedai/principal-ai-engineer-industrial-ai-engineering-munchen-81671-146089",
+      "title": "Technical Delivery Lead - Machine Learning",
+      "company": "Wearebeyondsports",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wearebeyondsports/technical-delivery-lead-machine-learning-london-53163",
       "source": "Arbeitnow",
       "matchScore": 5
     },
@@ -787,410 +778,498 @@
       "matchScore": 5
     },
     {
-      "title": "Director Global Regulatory Affairs (m/f/d)",
-      "company": "Otsuka Pharma GmbH",
-      "location": "Frankfurt am Main, Hessen, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/otsuka-pharma-gmbh/director-global-regulatory-affairs-frankfurt-am-main-208992",
+      "title": "Head of Data - GSA (m/w/d)",
+      "company": "sonymusicentertainment",
+      "location": "Europe, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/sonymusicentertainment/head-of-data-gsa-europe-berlin-499709",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Principal AI/ML Scientist & Engineer",
-      "company": "Pipedrive",
-      "location": "Germany, Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/pipedrive/principal-ai-ml-scientist-engineer-germany-berlin-461100",
+      "title": "Associate Director, Paid Strategy (all genders)",
+      "company": "hellofresh",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/associate-director-paid-strategy-all-genders-berlin-berlin-110808",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Working Student Designer (Design System) – Heartbeat AI (m/f/d)",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/working-student-designer-design-system-heartbeat-ai-berlin-383802",
+      "title": "Kundendiensttechniker / Monteur - Frankfurt am Main / Offenbach / Hanau (w/m/d)",
+      "company": "Kalo Vor Ort",
+      "location": "Region Frankfurt am Main / Offenbach / Hanau",
+      "url": "https://www.arbeitnow.com/jobs/companies/kalo-vor-ort/kundendiensttechniker-monteur-frankfurt-am-main-offenbach-hanau-region-frankfurt-am-main-offenbach-hanau-59011",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Werkstudent:in Technische Aufnahme für Photovoltaik & Energiesysteme (m/w/d) - 1KOMMA5° Berlin",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-technische-aufnahme-fur-photovoltaik-energiesysteme-1komma5-berlin-192743",
+      "title": "Werkstudent:in AI & Automation (m/w/d)",
+      "company": "Smartvillage",
+      "location": "München Headquarter",
+      "url": "https://www.arbeitnow.com/jobs/companies/smartvillage/werkstudentin-ai-automation-munchen-headquarter-489232",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Werkstudent:in Policy & Regulatory Affairs (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-policy-regulatory-affairs-berlin-284557",
+      "title": "Trainee [*] Produktmanagement",
+      "company": "Notebooksbilliger",
+      "location": "Potsdam",
+      "url": "https://www.arbeitnow.com/jobs/companies/notebooksbilliger/trainee-produktmanagement-potsdam-437360",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Werkstudent:in Data Analytics (Controlling Focus) (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/remote-werkstudentin-data-analytics-controlling-focus-hamburg-349359",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Sales Manager Photovoltaik & Wärmepumpen (m/w/d) – Digital Sales",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/sales-manager-photovoltaik-warmepumpen-digital-sales-berlin-341081",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Sales Manager (m/w/d) – Photovoltaik, Wärmepumpe & intelligente Energiesysteme - 1KOMMA5° Region Plön / Bad Segeberg / Ratzeburg / Rendsburg / Schleswig / Flensburg",
-      "company": "1Komma5Grad",
-      "location": "Kiel",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/sales-manager-photovoltaik-warmepumpe-intelligente-energiesysteme-1komma5-region-plon-bad-segeberg-ratzeburg-rendsburg-schlesw-59204",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Sales Manager (m/w/d) – Photovoltaik, Wärmepumpe & intelligente Energiesysteme - 1KOMMA5° Kiel / Lübeck / Flensburg",
-      "company": "1Komma5Grad",
-      "location": "Kiel",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/sales-manager-photovoltaik-warmepumpe-intelligente-energiesysteme-1komma5-kiel-lubeck-flensburg-471549",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Praktikant:in Policy & Regulatory Affairs (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/praktikantin-policy-regulatory-affairs-berlin-143710",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Internship AI & Automation - Energy (m/f/d)",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/internship-ai-automation-energy-berlin-315606",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Bauleiter (m/w/d) SHK für Wärmepumpenprojekte - 1KOMMA5° Handwerk - Frankfurt am Main",
-      "company": "1Komma5Grad",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/bauleiter-shk-fur-warmepumpenprojekte-1komma5-handwerk-frankfurt-am-main-184325",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "(Junior) SEO & AI Marketing Manager (m/w/d)",
-      "company": "1Komma5Grad",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/1komma5grad/junior-seo-ai-marketing-manager-berlin-330487",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "TSA_Vice President Technology & AI Value Creation (m/f/d)",
-      "company": "Ommax",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/ommax/tsa-vice-president-technology-ai-value-creation-munchen-334971",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Intern Data Governance, Strategy & Analytics (m/f/d)",
-      "company": "Ommax",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/ommax/intern-data-governance-strategy-analytics-munchen-140111",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Werkstudent*in Data Analytics (m/w/d)",
-      "company": "ZDF Digital Medienproduktion GmbH",
-      "location": "Mainz oder Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/zdf-digital-medienproduktion-gmbh/werkstudentin-data-analytics-mainz-oder-berlin-484250",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Bauleiter (m/w/d) Ingenieurbau in Frankfurt (Main)",
-      "company": "Skalbach GmbH",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-in-frankfurt-main-254627",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Bauleiter (m/w/d) Ingenieurbau - Frankfurt (Main)",
-      "company": "Skalbach GmbH",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-ingenieurbau-frankfurt-main-413067",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Bauleiter (m/w/d) Hochbau in Frankfurt (Main)",
-      "company": "Skalbach GmbH",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/senior-bauleiter-hochbau-in-frankfurt-main-36515",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Projektmanager (m/w/d) Revitalisierung/Hochbau in Frankfurt am Main",
-      "company": "Skalbach GmbH",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/projektmanager-revitalisierung-hochbau-in-frankfurt-am-main-218463",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Einkäufer (m/w/d) Ingenieurbau – Frankfurt am Main",
-      "company": "Skalbach GmbH",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/einkaufer-ingenieurbau-frankfurt-am-main-44187",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Bauleiter (m/w/d) Hochbau in Frankfurt am Main",
-      "company": "Skalbach GmbH",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/skalbach-gmbh/bauleiter-hochbau-in-frankfurt-am-main-475791",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Growth & Paid Media Manager (w/m/d)",
-      "company": "FTAPI GmbH",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/ftapi-gmbh/growth-paid-media-manager-munchen-230107",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Principal UX Designer (m/f/x) – AI Design",
-      "company": "Appliedai",
-      "location": "München (81671)",
-      "url": "https://www.arbeitnow.com/jobs/companies/appliedai/principal-ux-designer-ai-design-munchen-81671-438640",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Mobile Device Data Collection - German (Germany)",
-      "company": "CrowdGen by Appen",
+      "title": "Independent Consultant - Sustainable Bio-Materials & Regulatory Compliance",
+      "company": "Roundtable On Sustainable Biomaterials",
       "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/crowdgen-by-appen/mobile-device-data-collection-german-germany-455640",
+      "url": "https://www.arbeitnow.com/jobs/companies/roundtable-on-sustainable-biomaterials/remote-independent-consultant-sustainable-bio-materials-regulatory-compliance-germany-434303",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Product Owner (m/w/d) - Customer Domain",
-      "company": "doctari GmbH",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctari-gmbh/product-owner-customer-domain-munchen-197130",
+      "title": "Data Platform Engineer (f/m/d)",
+      "company": "Ruhrdot Gmbh",
+      "location": "Headoffice Onsite/Hybrid Essen",
+      "url": "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/data-platform-engineer-headoffice-onsite-hybrid-essen-91985",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "(Junior) AI Visual Creator:in - E-Commerce (m/w/d)",
-      "company": "Snocks GmbH",
-      "location": "Mannheim Büro",
-      "url": "https://www.arbeitnow.com/jobs/companies/snocks-gmbh/junior-ai-visual-creatorin-e-commerce-mannheim-buro-315337",
+      "title": "(Senior) Consultant Data & AI (f/m/d)",
+      "company": "Ruhrdot Gmbh",
+      "location": "Headoffice Onsite/Hybrid Essen",
+      "url": "https://www.arbeitnow.com/jobs/companies/ruhrdot-gmbh/senior-consultant-data-ai-headoffice-onsite-hybrid-essen-385387",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Partnerships Lead - AI Startup",
-      "company": "Logicc",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/logicc/partnerships-lead-ai-startup-hamburg-275989",
+      "title": "Sales Consultant Sustainability Real Estate (m/w/d)",
+      "company": "Westbridge Gruppe",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/westbridge-gruppe/sales-consultant-sustainability-real-estate-frankfurt-am-main-51550",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Engineering Manager - Data Intelligence",
-      "company": "trawa",
-      "location": "Berlin HQ",
-      "url": "https://www.arbeitnow.com/jobs/companies/trawa/engineering-manager-data-intelligence-berlin-445105",
+      "title": "Associate Director Sustainability Sales (m/w/d)",
+      "company": "Westbridge Gruppe",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/westbridge-gruppe/associate-director-sustainability-sales-berlin-62080",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Research Data Expert",
-      "company": "Wehrtyou",
+      "title": "AI Full-Stack Developer (m/w/d)",
+      "company": "Homeserve",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/homeserve/ai-full-stack-developer-frankfurt-am-main-272082",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Head of Product & Technology (AI) (m/w/d)",
+      "company": "Piabo",
+      "location": "Berlin (B)",
+      "url": "https://www.arbeitnow.com/jobs/companies/piabo/head-of-product-technology-ai-berlin-b-359435",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior AI/ML Consultant",
+      "company": "Netlight",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/netlight/senior-ai-ml-consultant-berlin-223465",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Data Platform & Data Architecture Consultant",
+      "company": "Netlight",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/netlight/data-platform-data-architecture-consultant-berlin-103519",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Paid Marketing Strategist",
+      "company": "typeform",
+      "location": "",
+      "url": "https://www.arbeitnow.com/jobs/companies/typeform/senior-paid-marketing-strategist-77810",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Value Engineer - CPG/Retail",
+      "company": "celonis",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-value-engineer-cpg-retail-munich-214888",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail",
+      "company": "celonis",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-process-intelligence-supply-chain-transformation-consultant-cpg-retail-munich-73983",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Process Intelligence & Supply Chain Transformation Consultant - Aviation/Logistics",
+      "company": "celonis",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-process-intelligence-supply-chain-transformation-consultant-aviation-logistics-munich-344197",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Management & Technology Consultant - CPG/Retail - CPG/Retail",
+      "company": "celonis",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-management-technology-consultant-cpg-retail-cpg-retail-munich-165994",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Digital Transformation & Process Optimisation Consultant - CPG/Retail",
+      "company": "celonis",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-digital-transformation-process-optimisation-consultant-cpg-retail-munich-211875",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Director, Management & Technology (DACH) - CPG/Retail",
+      "company": "celonis",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/celonis/director-management-technology-dach-cpg-retail-munich-121906",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "C-UAS Training & Demo Expert (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/c-uas-training-demo-expert-gilching-204225",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "UxS Training Equipment & Fleet Coordinator (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/uxs-training-equipment-fleet-coordinator-gilching-88219",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Werkstudent Sustainability/Nachhaltigkeit/ESG (m/w/d)",
+      "company": "Lindalgroup",
+      "location": "Germany (Hamburg)",
+      "url": "https://www.arbeitnow.com/jobs/companies/lindalgroup/werkstudent-sustainability-nachhaltigkeit-esg-germany-hamburg-67017",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Working Student CRM & Data Operations (all gender)",
+      "company": "Kranus Health Gmbh",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/kranus-health-gmbh/working-student-crm-data-operations-all-gender-berlin-429515",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Remote Maintenance Engineer",
+      "company": "Personal data collected as part of the application process",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/personal-data-collected-as-part-of-the-application-process/remote-maintenance-engineer-munich-42965",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Data Science Lead",
+      "company": "Elliptic",
+      "location": "London, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/data-science-lead-london-united-kingdom-238961",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Crypto Threat Analyst - Terrorism",
+      "company": "Elliptic",
+      "location": "London, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/senior-crypto-threat-analyst-terrorism-london-united-kingdom-294904",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "AI Enablement Engineer",
+      "company": "Skin Analytics",
+      "location": "London office based",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/ai-enablement-engineer-london-307489",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Full Stack Developer - AI Team",
+      "company": "Thinkcellsoftware",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thinkcellsoftware/senior-full-stack-developer-ai-team-38265",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Neuroscientist",
+      "company": "Netholabs",
+      "location": "Brighton",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/neuroscientist-brighton-188522",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Clinical Training and Education Lead",
+      "company": "Montu Uk",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/research-data-expert-london-381457",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/clinical-training-and-education-lead-london-301182",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "AI Platform Support Engineer (EMEA)",
-      "company": "Lightningai",
+      "title": "Performance Marketer, Paid Social",
+      "company": "Lovable",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/ai-platform-support-engineer-emea-london-63117",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/performance-marketer-paid-social-london-314134",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Infrastructure Automation Engineer, AI Cluster Commissioning",
-      "company": "Firmus",
-      "location": "Sydney, Australia",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/firmus/infrastructure-automation-engineer-ai-cluster-commissioning-sydney-australia-135943",
+      "title": "Senior AI Software Engineer",
+      "company": "Aveni",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/aveni/senior-ai-software-engineer-united-kingdom-351690",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Technical Project Manager, Applied AI (Contract)",
-      "company": "Lilt Corporate",
+      "title": "AI transformation lead (UK)",
+      "company": "Writer",
       "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lilt-corporate/technical-project-manager-applied-ai-contract-london-209791",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/ai-transformation-lead-uk-london-366907",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Manager, Paid Media",
-      "company": "Airwallex",
-      "location": "UK - London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/manager-paid-media-london-320051",
+      "title": "Senior AI transformation lead (UK)",
+      "company": "Writer",
+      "location": "London, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/senior-ai-transformation-lead-uk-london-272550",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Data Center Hardware Engineer",
-      "company": "Mistral.ai",
+      "title": "Fire Alarm Service and Maintenance Engineer - Brighton & Hove",
+      "company": "Helix International Group",
+      "location": "Brighton and Hove, England, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/helix-international-group/fire-alarm-service-and-maintenance-engineer-brighton-hove-brighton-and-hove-451251",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Applied AI - Member of Technical Staff",
+      "company": "Callosum",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/callosum/applied-ai-member-of-technical-staff-london-327845",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Global Head of AI Deployment & Partner Delivery",
+      "company": "Dust",
       "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/senior-data-center-hardware-engineer-paris-42975",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dust/global-head-of-ai-deployment-partner-delivery-paris-349782",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Senior Software Engineer - Python (x/f/m)",
-      "company": "Doctolib",
-      "location": "Paris, Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-software-engineer-python-paris-paris-159858",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Data Center Facilities Operations Technician (all genders)",
-      "company": "Contabo",
-      "location": "Lauterbourg",
-      "url": "https://www.arbeitnow.fr/jobs/companies/contabo/data-center-facilities-operations-technician-all-genders-lauterbourg-5281",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Japanese Language Trainer",
-      "company": "TransPerfect",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/japanese-language-trainer-paris-360995",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Gestionnaire juridique et/ou financier des contrats de recherche",
-      "company": "ECOLE NATIONALE SUPERIEURE DE TECHNIQUES AVANCEES",
-      "location": "Palaiseau, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ecole-nationale-superieure-de-techniques-avancees/gestionnaire-juridique-et-ou-financier-des-contrats-de-recherche-palaiseau-171745",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Gestionnaire comptable",
-      "company": "ECOLE NATIONALE SUPERIEURE DE TECHNIQUES AVANCEES",
-      "location": "Palaiseau, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/ecole-nationale-superieure-de-techniques-avancees/gestionnaire-comptable-palaiseau-253277",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Chargé(e) d'affaires réglementaires",
-      "company": "ALARA GROUP",
-      "location": "Entzheim, Grand Est, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alara-group/chargee-daffaires-reglementaires-entzheim-95966",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Technicien.ne de maintenance senior itinérant",
-      "company": "Exotec",
-      "location": "Lille, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exotec/technicienne-de-maintenance-senior-itinerant-lille-94962",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Associate Director, Regulatory & Pharmaceutical Affairs (Chief Pharmaceutical Officer Deputy)",
-      "company": "Alnylampharmaceuticals",
+      "title": "Clinical Data & Quality Manager",
+      "company": "Resilience Care",
       "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alnylampharmaceuticals/associate-director-regulatory-pharmaceutical-affairs-chief-pharmaceutical-officer-deputy-paris-170122",
+      "url": "https://www.arbeitnow.fr/jobs/companies/resilience-care/clinical-data-quality-manager-paris-318769",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Superviseur de Chantier CVC – Solaire Thermique (H/F)",
-      "company": "EXOCETH CONSULTING",
-      "location": "Fort-de-France, Martinique, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exoceth-consulting/superviseur-de-chantier-cvc-solaire-thermique-h-f-fort-de-france-176172",
+      "title": "Master Trainer OpenAI (AI & Cloud Partners) (H/F), Paris",
+      "company": "Nonplusultra",
+      "location": "Paris (FR)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/nonplusultra/master-trainer-openai-ai-cloud-partners-h-f-paris-paris-fr-483467",
       "source": "Arbeitnow",
       "matchScore": 0
     },
     {
-      "title": "Préparateur Méthodes Tuyauterie Nucléaire (H/F)",
-      "company": "EXOCETH CONSULTING",
-      "location": "Marseille, Provence-Alpes-Côte d'Azur, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exoceth-consulting/preparateur-methodes-tuyauterie-nucleaire-h-f-marseille-124290",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Chargé d’essais Nucléaire – CVC / Électromécanique (H/F)",
-      "company": "EXOCETH CONSULTING",
-      "location": "Dampierre-en-Burly, Centre-Val de Loire, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exoceth-consulting/charge-dessais-nucleaire-cvc-electromecanique-h-f-dampierre-en-burly-407530",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Ingénieur études HVAC nucléaire (H/F)",
-      "company": "EXOCETH CONSULTING",
-      "location": "Villeurbanne, Auvergne-Rhône-Alpes, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exoceth-consulting/ingenieur-etudes-hvac-nucleaire-h-f-villeurbanne-329356",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Ingénieur Méthodes & Fiabilisation Maintenance (H/F)",
-      "company": "EXOCETH CONSULTING",
-      "location": "Lyon, Auvergne-Rhône-Alpes, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exoceth-consulting/ingenieur-methodes-fiabilisation-maintenance-h-f-lyon-447988",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Gestion de Projet Site - Nucléaire (H/F)",
-      "company": "EXOCETH CONSULTING",
-      "location": "Penly, Normandie, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exoceth-consulting/gestion-de-projet-site-nucleaire-h-f-penly-279995",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Renfort Qualité RFF Nucléaire (H/F)",
-      "company": "EXOCETH CONSULTING",
-      "location": "Migennes , Bourgogne-Franche-Comté, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/exoceth-consulting/renfort-qualite-rff-nucleaire-h-f-migennes-353810",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Technicien de maintenance (H/F)",
+      "title": "Techniciens de Maintenance F/H",
       "company": "RH Partners",
-      "location": "Lyon, Auvergne-Rhône-Alpes, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/rh-partners/technicien-de-maintenance-h-f-lyon-391917",
+      "location": "TULLE, Nouvelle-Aquitaine, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/rh-partners/techniciens-de-maintenance-f-h-tulle-103906",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Chargé d'action Affaires Générales - 3948 H/F",
+      "company": "Agence de services et de paiement",
+      "location": "Montreuil, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/charge-daction-affaires-generales-3948-h-f-montreuil-412858",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Gestionnaire référent budget / logistique - 0846 - H/F",
+      "company": "Agence de services et de paiement",
+      "location": "Dijon, Bourgogne-Franche-Comté, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/gestionnaire-referent-budget-logistique-0846-h-f-dijon-464732",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Assistant de formation temporaire F/H",
+      "company": "Université de Technologie de Compiègne",
+      "location": "Compiègne, Hauts-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/universite-de-technologie-de-compiegne/assistant-de-formation-temporaire-f-h-compiegne-63236",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Full time paid Internship DSU/ Stage DSU Paris",
+      "company": "Technopolis Group",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/technopolis-group/full-time-paid-internship-dsu-stage-dsu-paris-310496",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Stagiaire Campagnes d'Influence",
+      "company": "Teampicnic",
+      "location": "Paris, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/teampicnic/stagiaire-campagnes-dinfluence-paris-paris-261402",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Stock Manager (Seasonal Fixed-Term) - Saint-Tropez",
+      "company": "Aloyoga",
+      "location": "Saint-Tropez, Var",
+      "url": "https://www.arbeitnow.fr/jobs/companies/aloyoga/stock-manager-seasonal-fixed-term-saint-tropez-saint-tropez-var-173536",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "R&D Intern - Fairness in Deep Learning - Paris",
+      "company": "Artefact",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/rd-intern-fairness-in-deep-learning-paris-9th-arrondissement-of-paris-75009-paris-82356",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Stage Project Manager Social Retail H/F/X - Janvier 2027",
+      "company": "Veepee",
+      "location": "Saint-Denis",
+      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/stage-project-manager-social-retail-janvier-2027-saint-denis-444325",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Lead Analyste Data Marketing - CRM - CDI (H/F/X)",
+      "company": "Veepee",
+      "location": "Saint-Denis",
+      "url": "https://www.arbeitnow.fr/jobs/companies/veepee/lead-analyste-data-marketing-crm-cdi-saint-denis-466278",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Technicien Maintenance & Métrologie",
+      "company": "Excelya",
+      "location": "Castres, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/excelya/technicien-maintenance-metrologie-castres-250328",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Conseiller(ère) commercial(e) terrain expérimenté(e) ",
+      "company": "sumup",
+      "location": "Limoges, Haute-Vienne",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sumup/conseillerere-commerciale-terrain-experimentee-limoges-haute-vienne-103320",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Commercial Terrain - Indépendant (Freelance)",
+      "company": "sumup",
+      "location": "Landes",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sumup/commercial-terrain-independant-freelance-landes-187355",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "Aqemia",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/aqemia/senior-data-engineer-paris-96158",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Applied AI Research Scientist",
+      "company": "Aqemia",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/aqemia/applied-ai-research-scientist-paris-1980",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Data Engineer (F/H) - Rennes",
+      "company": "SFEIR",
+      "location": "Rennes",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/senior-data-engineer-f-h-rennes-49167",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Data Engineer (F/H) - Niort",
+      "company": "SFEIR",
+      "location": "Niort",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/senior-data-engineer-f-h-niort-287138",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Data Engineer (F/H) - Nantes",
+      "company": "SFEIR",
+      "location": "Nantes",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/senior-data-engineer-f-h-nantes-365382",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Lead Data Engineer GCP",
+      "company": "SFEIR",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/lead-data-engineer-gcp-paris-176242",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Senior Consultant, Data & AI",
+      "company": "Xebiadach",
+      "location": "",
+      "url": "https://www.arbeitnow.ch/jobs/companies/xebiadach/senior-consultant-data-ai-189809",
+      "source": "Arbeitnow",
+      "matchScore": 0
+    },
+    {
+      "title": "Auxiliaire (h/f/d)",
+      "company": "PureGym AG",
+      "location": "Cornavin, Genf, Schweiz",
+      "url": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/auxiliaire-cornavin-54872",
       "source": "Arbeitnow",
       "matchScore": 0
     },
@@ -1203,51 +1282,29 @@
       "matchScore": 0
     },
     {
-      "title": "Daimler Buses – Teamleiter Ersatzteile (m/w) – Granges-Paccot (Fribourg)",
-      "company": "Edl Consulting",
-      "location": "Fribourg",
-      "url": "https://www.arbeitnow.ch/jobs/companies/edl-consulting/daimler-buses-teamleiter-ersatzteile-m-w-granges-paccot-fribourg-458037",
-      "source": "Arbeitnow",
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "salary": "",
+      "experience": "Not specified",
+      "fitScore": 80,
+      "category": "Remote",
+      "isNew": true,
+      "source": "Remotive",
       "matchScore": 0
     },
     {
-      "title": "Daimler Buses – Automobil-Mechatroniker / Automobil-Fachmann (m/w) für Nutzfahrzeuge – Domdidier (Fribourg)",
-      "company": "Edl Consulting",
-      "location": "Domdidier",
-      "url": "https://www.arbeitnow.ch/jobs/companies/edl-consulting/daimler-buses-automobil-mechatroniker-automobil-fachmann-m-w-fur-nutzfahrzeuge-domdidier-fribourg-67712",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Solution Unit Lead - AI & Data",
-      "company": "isolutions",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/solution-unit-lead-ai-data-zurich-363727",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Data & AI Pre-Sales Consultant",
-      "company": "isolutions",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/data-ai-pre-sales-consultant-zurich-62384",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Senior Planning Manager - Data Centre Infrastructure",
-      "company": "Stack Infrastructure Emea",
-      "location": "Gland, Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/stack-infrastructure-emea/senior-planning-manager-data-centre-infrastructure-geneva-280975",
-      "source": "Arbeitnow",
-      "matchScore": 0
-    },
-    {
-      "title": "Legal AI Counsel (Zurich)",
-      "company": "Legartis",
-      "location": "Zurich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/legartis/legal-ai-counsel-zurich-155884",
-      "source": "Arbeitnow",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "salary": "$50-$75 /hour",
+      "experience": "Not specified",
+      "fitScore": 80,
+      "category": "Remote",
+      "isNew": true,
+      "source": "Remotive",
       "matchScore": 0
     },
     {
@@ -1420,6 +1477,6 @@
       "matchScore": 0
     }
   ],
-  "totalJobs": 130,
-  "lastUpdated": "2026-10-08T06:27:24.559205+00:00"
+  "totalJobs": 136,
+  "lastUpdated": "2026-10-09T06:28:39.038823+00:00"
 }
